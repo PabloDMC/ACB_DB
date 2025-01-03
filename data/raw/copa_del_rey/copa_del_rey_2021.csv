@@ -1,0 +1,830 @@
+nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
+B. Paul,142.61338694418163,73.76666666666668,1C,09:48,Joventut Badalona,0,0,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+B. Paul,35.446121097445605,207.68333333333334,1C,08:17,Joventut Badalona,0,3,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+B. Paul,32.87980132450331,125.85000000000002,1C,07:49,Joventut Badalona,0,5,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+B. Paul,37.90004730368969,139.86666666666667,3C,02:20,Joventut Badalona,34,46,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+J. Parra,30.8379848628193,165.9333333333333,1C,09:24,Joventut Badalona,0,0,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+J. Parra,130.1189687795648,218.11666666666667,1C,06:37,Joventut Badalona,2,10,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+J. Parra,153.51556291390727,92.86666666666666,1C,03:36,Joventut Badalona,6,13,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+J. Parra,67.55321665089878,27.150000000000002,2C,05:59,Joventut Badalona,13,24,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+J. Parra,41.02833491012299,170.8,3C,09:43,Joventut Badalona,25,36,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+J. Parra,101.27128666035952,40.349999999999994,3C,08:46,Joventut Badalona,25,36,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+J. Parra,35.03401135288553,122.46666666666667,3C,05:42,Joventut Badalona,27,43,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+J. Parra,32.76740775780511,24.916666666666668,4C,07:59,Joventut Badalona,41,53,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+J. Parra,36.62625354777673,153.60000000000002,4C,07:53,Joventut Badalona,43,53,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+J. Parra,32.56135288552507,123.85000000000001,4C,07:00,Joventut Badalona,45,53,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,60.86579943235573,139.0,1C,07:19,Joventut Badalona,2,7,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,31.86825922421949,156.26666666666665,1C,06:33,Joventut Badalona,4,10,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,86.45406811731316,164.4333333333333,1C,05:53,Joventut Badalona,4,10,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,28.440255439924314,157.51666666666668,1C,04:14,Joventut Badalona,6,13,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,27.37251655629139,175.31666666666666,1C,03:44,Joventut Badalona,6,13,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,32.52388836329234,120.56666666666666,2C,03:15,Joventut Badalona,17,31,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,66.42928098391674,84.81666666666666,2C,00:53,Joventut Badalona,21,36,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,54.740350047303686,149.79999999999998,3C,03:47,Joventut Badalona,32,45,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,93.85331125827814,85.35,3C,01:49,Joventut Badalona,34,47,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,30.107426679280984,120.45,3C,00:02,Joventut Badalona,39,51,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Tomic,44.36267738883633,151.63333333333335,4C,08:57,Joventut Badalona,41,51,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+D. Willis,85.57365184484391,193.73333333333332,1C,04:58,Joventut Badalona,4,13,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+D. Willis,88.85179754020814,98.53333333333333,1C,04:39,Joventut Badalona,4,13,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+D. Willis,24.75,141.25,2C,02:53,Joventut Badalona,19,31,Lenovo Tenerife,Mate,True,103073,1,2021-2022,Copa del Rey,False
+D. Willis,31.718401135288556,161.05000000000004,2C,00:35,Joventut Badalona,23,36,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+D. Willis,134.4461210974456,68.43333333333334,3C,04:24,Joventut Badalona,30,45,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+D. Willis,73.7348628192999,28.55,3C,00:33,Joventut Badalona,37,51,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+D. Willis,150.9867076631977,189.35000000000002,4C,07:09,Joventut Badalona,43,53,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+D. Willis,29.208278145695363,111.08333333333334,4C,03:35,Joventut Badalona,52,57,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+D. Willis,35.03401135288553,150.28333333333333,4C,01:35,Joventut Badalona,56,57,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+D. Willis,106.6287133396405,43.78333333333333,4C,00:01,Joventut Badalona,62,64,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,123.37535477767267,56.2,1C,04:18,Joventut Badalona,4,13,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,44.006764427625356,131.35,1C,00:11,Joventut Badalona,10,18,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,151.30515610217597,94.08333333333334,2C,09:20,Joventut Badalona,10,21,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,35.16513718070009,128.33333333333331,2C,05:41,Joventut Badalona,15,26,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,75.70175023651845,147.15,2C,02:17,Joventut Badalona,21,31,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,29.90137180700095,155.23333333333335,2C,00:46,Joventut Badalona,21,36,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+P. Ribas,72.23628192999055,141.21666666666667,4C,04:16,Joventut Badalona,52,57,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+S. Birgander,34.09739829706717,130.16666666666666,1C,02:56,Joventut Badalona,8,13,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+S. Birgander,68.17138126773888,111.98333333333333,1C,02:17,Joventut Badalona,8,15,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+A. Ventura,140.12199621570483,71.86666666666666,1C,01:40,Joventut Badalona,8,15,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+A. Ventura,39.84820245979187,79.78333333333333,2C,07:15,Joventut Badalona,10,24,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,66.31688741721854,205.34999999999997,1C,00:56,Joventut Badalona,10,15,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,30.763055818353834,187.48333333333335,3C,07:56,Joventut Badalona,25,38,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,136.63779564806055,214.98333333333335,3C,06:41,Joventut Badalona,27,41,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,27.391248817407757,119.85,4C,05:56,Joventut Badalona,49,53,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,161.57043519394512,149.10000000000002,4C,05:27,Joventut Badalona,52,54,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,24.75,95.31666666666666,4C,02:48,Joventut Badalona,52,57,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+V. Brodziansky,24.75,256.2833333333333,4C,00:18,Joventut Badalona,59,62,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+F. Bassas,129.66939451277202,220.23333333333335,2C,08:33,Joventut Badalona,10,24,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+F. Bassas,24.75,259.48333333333335,2C,07:49,Joventut Badalona,10,24,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+F. Bassas,158.89172185430462,175.93333333333334,3C,03:10,Joventut Badalona,32,46,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+F. Bassas,160.12805108798486,162.41666666666666,4C,09:37,Joventut Badalona,39,51,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+F. Bassas,159.56608325449383,162.88333333333333,4C,03:24,Joventut Badalona,52,57,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+F. Bassas,162.73183538315988,136.96666666666667,4C,00:34,Joventut Badalona,59,60,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,39.904399243140965,132.58333333333334,2C,03:30,Joventut Badalona,15,31,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,24.75,260.05,2C,01:40,Joventut Badalona,21,33,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,79.97270577105016,120.1,2C,01:02,Joventut Badalona,21,36,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,155.48245033112585,179.1,3C,09:51,Joventut Badalona,23,36,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,156.13807947019868,182.93333333333334,3C,06:21,Joventut Badalona,27,41,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,24.75,258.2,4C,04:44,Joventut Badalona,52,56,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+G. Vives,111.5178334910123,233.15000000000003,4C,00:04,Joventut Badalona,59,63,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+D. Todorovic,480.15,243.45,1C,09:34,Joventut Badalona,0,0,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+D. Todorovic,480.15,259.5833333333333,1C,06:16,Joventut Badalona,4,10,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+D. Todorovic,341.40014191106906,140.95000000000002,1C,00:01,Joventut Badalona,10,21,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+D. Todorovic,327.3322138126774,104.71666666666667,3C,07:29,Joventut Badalona,25,41,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+D. Todorovic,459.0387417218543,114.15,3C,05:57,Joventut Badalona,27,41,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,440.88718070009463,256.4166666666667,1C,09:14,Joventut Badalona,0,3,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,361.0690160832545,79.48333333333333,1C,07:03,Joventut Badalona,2,10,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,386.4324976348155,53.68333333333333,2C,07:24,Joventut Badalona,10,24,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,479.04479659413437,159.95,2C,05:53,Joventut Badalona,13,26,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,415.4300378429517,248.9,3C,09:07,Joventut Badalona,25,36,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,480.15,24.833333333333332,4C,07:28,Joventut Badalona,43,53,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,384.3906811731315,50.63333333333333,4C,05:01,Joventut Badalona,52,54,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+A. Doornekamp,480.15,23.0,4C,02:04,Joventut Badalona,54,57,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,439.6695837275307,92.11666666666666,1C,08:06,Joventut Badalona,0,5,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,457.97100283822135,196.0,2C,06:17,Joventut Badalona,10,24,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,417.94016083254496,212.65,2C,05:11,Joventut Badalona,15,26,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,400.63155156102175,110.8,2C,04:10,Joventut Badalona,15,29,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,443.6782876064333,211.15,2C,02:06,Joventut Badalona,21,33,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,401.19351939451275,242.1,2C,00:01,Joventut Badalona,23,36,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,444.22152317880796,81.51666666666667,3C,08:25,Joventut Badalona,25,36,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,462.20449385052035,109.68333333333332,3C,07:42,Joventut Badalona,25,38,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,432.4763954588458,80.51666666666667,4C,09:21,Joventut Badalona,39,51,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,443.32237464522234,162.60000000000002,4C,08:20,Joventut Badalona,41,53,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+M. Huertas,406.0826395458846,153.23333333333332,4C,03:43,Joventut Badalona,52,57,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+G. Shermadini,449.0357142857143,141.56666666666666,1C,07:39,Joventut Badalona,0,7,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+G. Shermadini,478.9698675496689,157.71666666666667,2C,09:43,Joventut Badalona,10,21,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+G. Shermadini,478.23930936613056,171.09999999999997,2C,06:50,Joventut Badalona,10,24,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+G. Shermadini,445.5140491958373,142.53333333333333,2C,03:38,Joventut Badalona,15,31,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,425.75151371807,32.833333333333336,1C,05:20,Joventut Badalona,4,13,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,467.0186849574267,126.26666666666667,2C,02:32,Joventut Badalona,19,31,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,480.15,257.1,2C,01:22,Joventut Badalona,21,36,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,480.15,23.03333333333333,3C,04:59,Joventut Badalona,29,43,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,468.2175496688742,111.60000000000001,3C,04:38,Joventut Badalona,30,45,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,422.7168874172186,252.86666666666667,3C,02:49,Joventut Badalona,32,46,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,439.50099337748344,255.83333333333337,4C,06:39,Joventut Badalona,45,53,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+K. Wiltjer,398.2712866603595,239.11666666666665,4C,01:14,Joventut Badalona,56,57,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+S. Salin,477.9770577105014,256.05,1C,04:31,Joventut Badalona,4,13,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+S. Salin,420.8623935666982,249.83333333333334,3C,01:10,Joventut Badalona,34,49,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+S. Salin,353.950756859035,188.45000000000002,4C,09:47,Joventut Badalona,39,51,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+S. Salin,374.98708609271523,54.983333333333334,4C,03:52,Joventut Badalona,52,57,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+S. Salin,382.68604541154207,232.35,4C,00:42,Joventut Badalona,59,60,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+F. Guerra,480.15,141.25,1C,02:34,Joventut Badalona,8,15,Lenovo Tenerife,Mate,True,103073,1,2021-2022,Copa del Rey,False
+F. Guerra,391.508940397351,138.66666666666666,1C,01:55,Joventut Badalona,8,15,Lenovo Tenerife,Tiro de 2,False,103073,1,2021-2022,Copa del Rey,False
+J. Sastre,480.15,259.56666666666666,1C,01:22,Joventut Badalona,8,15,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+T. Borg,338.94621570482497,136.83333333333334,1C,00:38,Joventut Badalona,10,18,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+T. Borg,441.6364711447493,257.29999999999995,2C,08:55,Joventut Badalona,10,24,Lenovo Tenerife,Triple,True,103073,1,2021-2022,Copa del Rey,False
+E. Sulejmanovic,480.15,256.33333333333337,3C,06:56,Joventut Badalona,27,41,Lenovo Tenerife,Triple,False,103073,1,2021-2022,Copa del Rey,False
+E. Sulejmanovic,469.8472563859981,130.85,3C,05:53,Joventut Badalona,27,43,Lenovo Tenerife,Tiro de 2,True,103073,1,2021-2022,Copa del Rey,False
+G. Yabusele,122.34508041627248,230.06666666666663,1C,09:41,Real Madrid,3,0,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+G. Yabusele,147.03420056764426,72.7,1C,04:19,Real Madrid,16,3,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+G. Yabusele,24.75,255.88333333333335,1C,01:48,Real Madrid,21,12,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+G. Yabusele,112.92275307473982,43.9,1C,01:27,Real Madrid,24,14,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+G. Yabusele,29.507994323557238,134.26666666666668,2C,00:12,Real Madrid,41,31,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+G. Yabusele,152.9348628192999,202.68333333333334,3C,07:53,Real Madrid,46,34,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+G. Yabusele,94.92105014191105,101.76666666666667,4C,03:48,Real Madrid,62,60,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+F. Causeur,111.66769157994324,244.58333333333331,1C,07:49,Real Madrid,6,3,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+F. Causeur,106.7973036896878,246.51666666666665,1C,07:34,Real Madrid,6,3,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+F. Causeur,34.30345316934721,152.53333333333336,1C,04:49,Real Madrid,13,3,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+F. Causeur,34.97781456953643,255.91666666666669,2C,02:08,Real Madrid,36,26,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+F. Causeur,26.173651844843896,24.7,3C,05:44,Real Madrid,48,39,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+F. Causeur,29.976300851466416,155.83333333333331,4C,03:21,Real Madrid,62,60,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,63.488315988647116,198.65,1C,07:13,Real Madrid,8,3,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,168.44517502365184,137.01666666666668,1C,05:28,Real Madrid,11,3,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,37.150756859035006,71.08333333333333,1C,05:01,Real Madrid,11,3,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,75.90780510879848,81.75,2C,02:27,Real Madrid,36,24,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,127.12180700094608,238.5,2C,00:40,Real Madrid,39,29,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,69.78235572374645,117.33333333333333,3C,07:13,Real Madrid,48,36,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,125.17365184484389,191.46666666666667,4C,00:59,Real Madrid,71,62,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+T. Heurtel,125.3422421948912,136.45000000000002,4C,00:24,Real Madrid,73,66,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,44.493803216650896,137.53333333333333,1C,06:08,Real Madrid,10,3,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,158.10496688741722,187.91666666666669,2C,03:22,Real Madrid,35,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,24.75,256.4666666666667,2C,01:29,Real Madrid,39,28,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,34.97781456953643,151.13333333333335,3C,09:38,Real Madrid,43,31,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,106.38519394512771,161.98333333333332,3C,08:52,Real Madrid,43,33,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,58.13088930936613,74.28333333333335,3C,08:00,Real Madrid,43,34,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+A. Abalde,156.55018921475875,184.36666666666667,3C,05:33,Real Madrid,51,39,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+A. Hanga,34.60316934720908,124.41666666666666,1C,02:52,Real Madrid,19,7,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+A. Hanga,84.69323557237463,28.133333333333333,2C,09:18,Real Madrid,30,18,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+A. Hanga,24.75,24.033333333333335,2C,06:17,Real Madrid,33,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+A. Hanga,45.99238410596026,257.35,4C,09:12,Real Madrid,57,52,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+V. Poirier,24.75,141.25,1C,02:26,Real Madrid,21,10,Río Breogán,Mate,True,103074,1,2021-2022,Copa del Rey,False
+S. Llull,30.91291390728477,25.35,1C,00:41,Real Madrid,27,16,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+S. Llull,73.0605014191107,26.166666666666668,1C,00:01,Real Madrid,27,16,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+S. Llull,89.30137180700096,200.43333333333337,2C,08:02,Real Madrid,30,23,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+S. Llull,168.2391201513718,163.96666666666664,2C,05:03,Real Madrid,33,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+S. Llull,69.93221381267739,97.48333333333333,3C,02:14,Real Madrid,56,41,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+S. Llull,245.22871333964048,43.333333333333336,3C,00:01,Real Madrid,57,50,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+S. Llull,149.5817880794702,70.98333333333335,4C,07:11,Real Madrid,62,55,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+S. Llull,176.7810312204352,196.23333333333332,4C,05:29,Real Madrid,62,56,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Thompkins,33.048391674550615,37.21666666666667,2C,08:37,Real Madrid,30,20,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Thompkins,129.55700094607377,229.60000000000002,2C,05:53,Real Madrid,33,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Thompkins,41.12199621570483,49.95,4C,09:23,Real Madrid,57,52,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Thompkins,151.54867549668873,84.18333333333334,4C,04:22,Real Madrid,62,58,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+W. Tavares,58.35567644276254,153.60000000000002,2C,06:59,Real Madrid,31,23,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+W. Tavares,24.75,141.25,2C,04:25,Real Madrid,35,24,Río Breogán,Mate,True,103074,1,2021-2022,Copa del Rey,False
+W. Tavares,24.75,141.25,3C,04:25,Real Madrid,53,39,Río Breogán,Mate,True,103074,1,2021-2022,Copa del Rey,False
+W. Tavares,60.9969252601703,121.56666666666668,3C,02:56,Real Madrid,54,41,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+W. Tavares,24.75,141.25,4C,03:17,Real Madrid,64,60,Río Breogán,Mate,True,103074,1,2021-2022,Copa del Rey,False
+N.Williams-Goss,151.54867549668873,187.1833333333333,4C,07:53,Real Madrid,62,55,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+D. Musa,351.19711447492904,91.91666666666666,1C,08:52,Real Madrid,5,3,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+D. Musa,334.3942762535478,125.13333333333333,1C,08:15,Real Madrid,6,3,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,474.38046357615895,122.95,1C,07:22,Real Madrid,6,3,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,349.3613528855251,89.78333333333335,2C,06:07,Real Madrid,33,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,435.08017975402083,138.73333333333332,2C,03:02,Real Madrid,35,24,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,373.2262535477767,228.46666666666664,3C,06:08,Real Madrid,48,39,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+D. Musa,451.0213339640492,145.6,3C,04:16,Real Madrid,53,41,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+D. Musa,436.18538315988644,145.78333333333333,3C,01:55,Real Madrid,56,41,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,346.60771050141915,194.23333333333332,3C,00:35,Real Madrid,56,48,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,473.01300851466414,128.06666666666666,4C,04:04,Real Madrid,62,58,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+D. Musa,353.08907284768213,198.56666666666666,4C,03:35,Real Madrid,62,60,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,446.20714285714286,165.9333333333333,1C,06:56,Real Madrid,8,3,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,462.1670293282876,177.1333333333333,1C,04:53,Real Madrid,11,3,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,469.60373699148533,132.5,1C,03:28,Real Madrid,16,7,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,474.0432828760643,165.3,3C,09:11,Real Madrid,43,31,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,473.38765373699147,158.86666666666665,3C,08:37,Real Madrid,43,33,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,472.2449858088931,98.5,3C,04:56,Real Madrid,51,39,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,474.7551087984863,25.516666666666666,3C,03:46,Real Madrid,53,41,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,334.01963103122046,127.73333333333333,3C,02:40,Real Madrid,54,41,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,361.03155156102173,80.3,3C,01:43,Real Madrid,56,44,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,465.913481551561,164.85,4C,08:18,Real Madrid,57,55,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,357.37876064333017,73.43333333333334,4C,07:23,Real Madrid,62,55,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Bell-Haynes,465.2391201513718,150.18333333333334,4C,06:36,Real Madrid,62,55,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,364.9840586565752,60.1,1C,06:17,Real Madrid,8,3,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,442.1047776726585,150.00000000000003,1C,05:49,Real Madrid,11,3,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,459.1324030274361,142.05,1C,04:01,Real Madrid,16,5,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,467.0186849574267,134.2,1C,02:05,Real Madrid,21,12,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,475.44820245979184,153.33333333333331,1C,01:00,Real Madrid,24,16,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,467.48699148533586,164.20000000000002,2C,03:41,Real Madrid,35,24,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,472.43230842005676,149.4333333333333,2C,01:42,Real Madrid,36,28,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,364.75927152317877,215.95,2C,01:03,Real Madrid,39,28,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,451.4334437086093,134.86666666666667,2C,00:01,Real Madrid,41,31,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,441.5615421002838,209.43333333333337,3C,09:01,Real Madrid,43,33,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,474.77384105960266,100.68333333333334,3C,08:28,Real Madrid,43,33,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,456.28509933774836,139.81666666666666,3C,07:38,Real Madrid,46,36,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,470.01584673604543,155.85,4C,04:43,Real Madrid,62,58,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,468.40487228003786,137.63333333333333,4C,04:04,Real Madrid,62,60,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+R. Mahalbasic,477.4525543992431,153.96666666666664,4C,02:27,Real Madrid,66,62,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+S. Quintela,454.39314096499527,110.10000000000001,1C,05:38,Real Madrid,11,3,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+S. Quintela,479.66296121097446,27.150000000000002,3C,06:49,Real Madrid,48,36,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+I. Cruz,345.783491012299,69.98333333333335,1C,05:18,Real Madrid,11,3,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+I. Cruz,388.6616367076632,238.46666666666667,1C,02:41,Real Madrid,19,10,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,440.9433774834437,146.79999999999998,2C,09:39,Real Madrid,27,18,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,480.15,151.98333333333335,3C,05:13,Real Madrid,51,39,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,475.710454115421,107.39999999999999,3C,04:45,Real Madrid,51,39,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,475.4294701986755,156.01666666666668,3C,01:15,Real Madrid,56,46,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,469.88472090823086,159.51666666666665,3C,00:08,Real Madrid,57,50,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,459.80676442762535,126.14999999999998,4C,09:42,Real Madrid,57,52,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+J. Sakho,456.1914380321665,109.33333333333334,4C,06:50,Real Madrid,62,55,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Kalinoski,465.9884105960265,132.25,2C,09:01,Real Madrid,30,20,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+T. Kalinoski,368.14981078524124,219.25,2C,08:27,Real Madrid,30,23,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+T. Kalinoski,415.67355723746454,204.08333333333334,2C,07:18,Real Madrid,31,23,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+T. Kalinoski,358.93353831598864,204.95000000000002,2C,05:41,Real Madrid,33,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+T. Kalinoski,416.9473509933775,62.516666666666666,3C,06:13,Real Madrid,48,36,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,425.0584200567644,126.85000000000002,2C,06:35,Real Madrid,33,23,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,365.8457426679281,55.06666666666667,2C,04:46,Real Madrid,33,24,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,462.87885525070953,134.4,2C,00:33,Real Madrid,39,31,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,396.77270577105014,236.01666666666665,2C,00:01,Real Madrid,41,31,Río Breogán,Triple,False,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,389.3547303689688,41.300000000000004,4C,09:02,Real Madrid,57,55,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,465.1829233680227,157.48333333333332,4C,02:57,Real Madrid,64,62,Río Breogán,Tiro de 2,True,103074,1,2021-2022,Copa del Rey,False
+M. Lukovic,360.60070955534536,215.28333333333333,4C,00:48,Real Madrid,71,65,Río Breogán,Triple,True,103074,1,2021-2022,Copa del Rey,False
+M. Kacinas,468.311210974456,150.13333333333335,4C,06:26,Real Madrid,62,55,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+M. Kacinas,475.22341532639547,154.03333333333336,4C,06:24,Real Madrid,62,55,Río Breogán,Tiro de 2,False,103074,1,2021-2022,Copa del Rey,False
+B. Dubljevic,48.68982970671713,141.79999999999998,1C,09:31,Valencia Basket,2,0,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,29.976300851466416,158.18333333333334,1C,08:49,Valencia Basket,2,0,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,110.07544938505204,234.13333333333335,1C,08:08,Valencia Basket,2,2,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,137.01244087038788,68.76666666666667,1C,07:18,Valencia Basket,2,5,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,35.427388836329236,126.9,1C,05:32,Valencia Basket,4,9,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,64.98689687795648,151.58333333333334,1C,03:03,Valencia Basket,10,18,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,163.25633869441816,135.1,3C,08:59,Valencia Basket,40,52,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,137.630605487228,215.83333333333331,4C,02:24,Valencia Basket,80,79,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+B. Dubljevic,190.17459791863763,199.8666666666667,4C,00:01,Valencia Basket,83,86,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,156.68131504257332,112.9,1C,08:57,Valencia Basket,2,0,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,92.12994323557237,96.83333333333334,1C,05:58,Valencia Basket,2,8,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,25.124645222327345,217.31666666666666,2C,01:25,Valencia Basket,31,46,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,32.99219489120152,124.16666666666666,3C,09:23,Valencia Basket,35,52,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,120.73410596026491,228.26666666666668,3C,08:22,Valencia Basket,43,52,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,121.01508987701042,228.78333333333333,3C,06:42,Valencia Basket,52,52,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,124.34943235572376,57.983333333333334,3C,06:08,Valencia Basket,52,52,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,28.290397350993377,106.6,4C,05:26,Valencia Basket,76,74,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+M. Hermannsson,132.83514664143803,66.41666666666667,4C,04:26,Valencia Basket,76,74,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,24.75,22.816666666666666,1C,07:48,Valencia Basket,2,2,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,169.8875591296121,132.3,2C,04:04,Valencia Basket,25,39,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,122.7384578997162,50.78333333333333,2C,00:28,Valencia Basket,33,51,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,24.75,78.03333333333335,4C,09:16,Valencia Basket,66,64,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,191.48585619678335,183.11666666666665,4C,08:04,Valencia Basket,72,67,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,91.92388836329233,245.73333333333335,4C,06:45,Valencia Basket,74,71,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,25.630416272469255,127.85000000000002,4C,03:20,Valencia Basket,80,77,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,164.17421948912013,145.4666666666667,4C,01:01,Valencia Basket,83,81,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+K. Prepelic,176.98708609271523,139.58333333333334,4C,00:06,Valencia Basket,83,86,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Pradilla,49.0457426679281,142.7,1C,06:36,Valencia Basket,2,5,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Pradilla,29.976300851466416,124.75,3C,00:29,Valencia Basket,64,61,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,24.75,141.25,1C,04:44,Valencia Basket,8,11,UCAM Murcia,Mate,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,101.58973509933774,122.30000000000001,1C,04:06,Valencia Basket,10,13,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,82.7825449385052,129.25,1C,03:36,Valencia Basket,10,15,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,58.262015137180704,243.54999999999998,1C,02:32,Valencia Basket,12,21,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,31.624739829706723,156.10000000000002,2C,01:58,Valencia Basket,29,43,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,62.94508041627247,141.11666666666667,3C,09:48,Valencia Basket,35,52,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,43.78197729422895,139.31666666666666,3C,09:22,Valencia Basket,37,52,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,25.311967833491014,111.33333333333334,3C,07:24,Valencia Basket,47,52,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,37.20695364238411,152.25,3C,06:50,Valencia Basket,49,52,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,68.92067171239358,177.08333333333331,3C,05:10,Valencia Basket,56,54,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,110.95586565752129,145.05,3C,04:42,Valencia Basket,56,54,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Rivero,51.64952696310313,172.38333333333333,3C,04:38,Valencia Basket,56,54,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+López-Arostegui,77.57497634815516,147.83333333333331,1C,03:07,Valencia Basket,10,18,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+López-Arostegui,32.13051087984863,132.01666666666668,1C,02:00,Valencia Basket,14,23,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+López-Arostegui,123.11310312204353,55.68333333333334,2C,09:03,Valencia Basket,19,30,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+López-Arostegui,316.3738410596026,130.66666666666666,2C,00:02,Valencia Basket,33,52,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+López-Arostegui,113.76570482497635,46.46666666666667,4C,07:31,Valencia Basket,72,67,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,101.12142857142858,153.21666666666667,1C,02:04,Valencia Basket,12,23,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,107.02209082308421,134.6,1C,01:30,Valencia Basket,14,23,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,128.00222327341532,222.03333333333336,1C,00:52,Valencia Basket,14,25,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,163.42492904446547,105.41666666666667,2C,09:15,Valencia Basket,16,30,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,61.46523178807948,96.3,2C,08:08,Valencia Basket,19,30,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,46.72294228949858,200.1,3C,02:26,Valencia Basket,59,57,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,75.58935666982025,88.25,3C,01:12,Valencia Basket,62,59,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,81.5274834437086,30.35,4C,08:41,Valencia Basket,69,67,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,72.96684011352885,153.88333333333333,4C,07:11,Valencia Basket,74,69,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,24.75,102.58333333333333,4C,06:15,Valencia Basket,76,74,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+N. Dimitrijevic,75.15851466414381,88.1,4C,03:56,Valencia Basket,78,77,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+S. Van Rossom,84.37478713339641,248.95000000000002,1C,00:27,Valencia Basket,14,28,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+S. Van Rossom,354.1193472090823,217.78333333333333,1C,00:01,Valencia Basket,14,28,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+S. Van Rossom,128.26447492904447,61.05,4C,00:20,Valencia Basket,83,84,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+S. Van Rossom,123.45028382213812,228.28333333333333,4C,00:04,Valencia Basket,83,86,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+M. Tobey,24.75,141.25,2C,09:46,Valencia Basket,16,28,UCAM Murcia,Mate,True,103075,1,2021-2022,Copa del Rey,False
+M. Tobey,67.89039735099338,126.11666666666666,3C,00:34,Valencia Basket,62,61,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+L. Labeyrie,130.21263008514666,63.36666666666667,2C,07:12,Valencia Basket,19,33,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+L. Labeyrie,138.0801797540208,217.35,2C,06:12,Valencia Basket,19,36,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+L. Labeyrie,127.10307473982971,52.05,2C,03:23,Valencia Basket,25,41,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+V. Claver,27.20392620624409,122.45,3C,07:54,Valencia Basket,45,52,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+V. Claver,24.75,257.90000000000003,3C,00:02,Valencia Basket,64,61,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Webb,457.80241248817407,127.83333333333336,1C,09:50,Valencia Basket,0,0,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Webb,449.11064333017976,257.4166666666667,1C,04:50,Valencia Basket,6,11,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Webb,350.18557237464523,96.58333333333334,1C,02:49,Valencia Basket,12,21,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+J. Webb,480.15,257.95,1C,00:41,Valencia Basket,14,28,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+J. Webb,431.876963103122,252.71666666666664,2C,02:09,Valencia Basket,27,43,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Webb,342.46788079470195,170.75,3C,07:02,Valencia Basket,47,52,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Webb,355.2620151371807,199.98333333333335,4C,00:46,Valencia Basket,83,84,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,480.15,226.08333333333337,1C,09:07,Valencia Basket,2,0,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,362.45520340586563,81.56666666666666,1C,07:36,Valencia Basket,2,5,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,403.77857142857147,240.11666666666665,1C,06:27,Valencia Basket,2,8,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,362.73618732261116,77.83333333333334,1C,06:11,Valencia Basket,2,8,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,345.82095553453166,115.9,2C,02:57,Valencia Basket,25,41,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,387.53770104068116,230.10000000000002,2C,01:11,Valencia Basket,31,49,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,418.61452223273415,89.65,3C,09:29,Valencia Basket,35,52,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,333.8885052034059,149.7,3C,07:32,Valencia Basket,45,52,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,394.33751182592243,47.83333333333333,4C,09:34,Valencia Basket,64,64,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,343.27336802270577,192.45000000000002,4C,08:24,Valencia Basket,69,67,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,439.05141911069063,28.583333333333336,4C,06:32,Valencia Basket,74,74,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,480.15,257.43333333333334,4C,05:05,Valencia Basket,76,74,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. McFadden,320.3076158940397,156.46666666666664,4C,02:06,Valencia Basket,80,79,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,478.12691579943237,166.63333333333335,1C,08:53,Valencia Basket,2,0,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,458.5329706717124,136.86666666666667,1C,08:37,Valencia Basket,2,2,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,477.5087511825922,167.45,1C,04:16,Valencia Basket,8,13,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,362.9797067171239,78.28333333333335,1C,03:24,Valencia Basket,10,18,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,345.52123935666987,183.8,2C,04:51,Valencia Basket,21,39,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,367.9062913907285,64.95,2C,04:31,Valencia Basket,21,39,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,461.0618259224219,131.43333333333334,2C,04:22,Valencia Basket,22,39,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,471.0461210974456,160.5666666666667,2C,02:45,Valencia Basket,25,41,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,360.13240302743617,204.6,2C,01:37,Valencia Basket,29,46,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,412.15189214758755,172.70000000000002,3C,09:07,Valencia Basket,37,52,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,358.46523178807945,201.2,3C,08:02,Valencia Basket,43,52,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,472.8069536423841,120.66666666666667,3C,06:22,Valencia Basket,52,52,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,470.2968306527909,116.5,3C,04:26,Valencia Basket,56,56,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,469.3227530747398,183.28333333333336,3C,03:49,Valencia Basket,56,56,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+I. Taylor,474.86750236518446,126.26666666666667,4C,01:21,Valencia Basket,80,81,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+S. Rojas,477.20903500473037,160.60000000000002,1C,08:51,Valencia Basket,2,0,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+S. Rojas,480.15,256.2,1C,06:48,Valencia Basket,2,5,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+A. Lima,407.43136234626303,143.01666666666668,1C,05:13,Valencia Basket,4,11,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+A. Lima,455.6107379375591,147.08333333333334,1C,02:21,Valencia Basket,12,23,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+A. Lima,477.190302743614,157.5666666666667,1C,01:10,Valencia Basket,14,25,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+A. Lima,474.9236991485336,165.83333333333334,2C,04:49,Valencia Basket,21,39,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+A. Lima,465.66996215704825,142.84999999999997,2C,02:37,Valencia Basket,25,43,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+A. Lima,408.89247871333964,149.81666666666666,3C,08:42,Valencia Basket,40,52,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Davis,480.15,25.566666666666666,1C,01:49,Valencia Basket,14,23,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Davis,342.33675496688744,114.28333333333333,1C,00:02,Valencia Basket,14,28,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+J. Davis,474.6239829706717,113.96666666666665,3C,05:28,Valencia Basket,54,54,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+J. Davis,463.79673604541154,39.51666666666667,3C,03:08,Valencia Basket,57,56,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Davis,462.4854777672658,139.91666666666666,3C,01:37,Valencia Basket,61,59,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+J. Davis,463.0661778618732,142.83333333333331,4C,07:26,Valencia Basket,72,69,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+E. Cate,474.2868022705771,127.88333333333335,2C,09:36,Valencia Basket,16,30,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+E. Cate,458.5517029328288,149.65,4C,03:36,Valencia Basket,78,77,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+T. Bellas,342.0183065279092,143.83333333333331,2C,08:43,Valencia Basket,19,30,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. Bellas,473.96835383159885,202.51666666666668,3C,00:53,Valencia Basket,62,61,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+T. Bellas,352.7893566698202,95.36666666666667,4C,04:40,Valencia Basket,76,74,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. Bellas,375.7363765373699,56.36666666666667,4C,04:13,Valencia Basket,76,77,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+T. Bellas,344.0601229895932,122.23333333333333,4C,02:54,Valencia Basket,80,77,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+T. Bellas,472.50723746452223,126.05,4C,02:40,Valencia Basket,80,79,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,405.44574266792813,242.6833333333333,2C,07:27,Valencia Basket,19,33,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,372.8890728476821,214.05,2C,06:57,Valencia Basket,19,36,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,468.10515610217595,106.64999999999999,2C,03:42,Valencia Basket,25,41,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,475.44820245979184,187.33333333333334,3C,00:13,Valencia Basket,64,61,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,401.9240775780511,240.0,4C,07:49,Valencia Basket,72,67,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,433.93751182592246,158.86666666666665,4C,06:52,Valencia Basket,74,71,UCAM Murcia,Tiro de 2,True,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,477.0779091769158,123.95,4C,05:50,Valencia Basket,76,74,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,471.8516083254494,166.48333333333332,4C,05:43,Valencia Basket,76,74,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Radovic,462.9163197729423,116.51666666666667,4C,02:58,Valencia Basket,80,77,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+C. Czerapowicz,377.9467833491012,54.86666666666667,2C,07:03,Valencia Basket,19,33,UCAM Murcia,Triple,False,103075,1,2021-2022,Copa del Rey,False
+C. Czerapowicz,422.6794228949858,249.91666666666669,2C,05:55,Valencia Basket,19,39,UCAM Murcia,Triple,True,103075,1,2021-2022,Copa del Rey,False
+C. Czerapowicz,460.33126773888364,154.10000000000002,2C,05:26,Valencia Basket,19,39,UCAM Murcia,Tiro de 2,False,103075,1,2021-2022,Copa del Rey,False
+N. Laprovittola,111.48036896877956,240.06666666666666,1C,09:43,Barça,0,0,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Laprovittola,156.77497634815515,194.16666666666666,2C,08:55,Barça,24,26,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Laprovittola,51.48093661305582,137.3,2C,03:50,Barça,42,35,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Laprovittola,24.75,256.43333333333334,2C,00:09,Barça,50,40,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Laprovittola,158.7231315042573,195.8166666666667,3C,07:00,Barça,64,44,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+N. Laprovittola,167.4898297067171,139.21666666666667,3C,06:15,Barça,67,46,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Laprovittola,140.34678334910123,213.31666666666666,3C,03:57,Barça,75,46,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+S. Sanli,152.91613055818354,82.23333333333333,1C,09:01,Barça,3,2,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+S. Sanli,42.245931882686854,135.63333333333333,3C,02:50,Barça,79,51,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+S. Sanli,30.59446546830653,153.63333333333335,4C,04:52,Barça,96,60,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+S. Sanli,43.91310312204352,24.55,4C,02:05,Barça,101,67,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+D. Exum,25.199574266792812,259.53333333333336,1C,08:39,Barça,6,2,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+D. Exum,29.37686849574267,200.26666666666665,1C,06:08,Barça,6,14,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+D. Exum,30.59446546830653,154.08333333333334,1C,04:18,Barça,11,18,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+D. Exum,41.740160832544944,141.66666666666666,2C,05:54,Barça,33,30,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+D. Exum,59.06750236518449,137.7833333333333,2C,03:08,Barça,44,35,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+D. Exum,24.75,141.25,3C,07:43,Barça,61,42,BAXI Manresa,Mate,True,103076,1,2021-2022,Copa del Rey,False
+K. Kuric,170.89910122989593,166.45,1C,05:33,Barça,6,16,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+K. Kuric,167.35870387890253,165.83333333333334,1C,00:01,Barça,22,26,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+K. Kuric,63.919157994323555,253.91666666666669,3C,02:23,Barça,82,51,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+K. Kuric,154.43344370860925,88.36666666666666,3C,00:42,Barça,86,53,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+K. Kuric,74.59654683065278,107.13333333333333,4C,08:57,Barça,90,55,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,141.52691579943237,72.98333333333333,1C,04:48,Barça,6,18,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,39.286234626300846,135.28333333333333,2C,07:14,Barça,29,28,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,41.59030274361401,120.78333333333335,2C,06:18,Barça,31,28,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,39.979328287606435,137.73333333333332,2C,04:34,Barça,40,33,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,30.294749290444656,130.36666666666667,3C,08:59,Barça,54,42,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,126.70969725638601,237.33333333333334,3C,07:59,Barça,59,42,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+N. Mirotic,93.42246925260172,29.183333333333334,3C,06:57,Barça,67,44,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+B. Davies,34.90288552507096,168.75,1C,04:41,Barça,8,18,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+B. Davies,35.20260170293283,154.33333333333331,1C,02:29,Barça,16,24,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+B. Davies,32.973462630085145,175.70000000000002,1C,01:07,Barça,20,24,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+B. Davies,34.827956480605486,163.0333333333333,3C,07:12,Barça,61,44,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+B. Davies,42.69550614947966,127.91666666666669,3C,05:32,Barça,69,46,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+B. Davies,31.53107852412488,127.78333333333333,3C,05:02,Barça,71,46,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+R. Jokubaitis,38.70553453169347,160.15,1C,03:51,Barça,11,20,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+R. Jokubaitis,28.121807000946077,25.35,2C,05:21,Barça,36,33,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+R. Jokubaitis,30.931646168401137,153.26666666666665,2C,04:56,Barça,38,33,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+R. Jokubaitis,32.3178334910123,158.41666666666666,3C,01:30,Barça,84,51,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+R. Jokubaitis,77.03174077578052,183.75000000000003,4C,05:51,Barça,94,58,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+R. Jokubaitis,158.64820245979186,89.13333333333333,4C,00:33,Barça,105,70,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+S. Martínez,24.75,141.25,1C,01:45,Barça,18,24,BAXI Manresa,Mate,True,103076,1,2021-2022,Copa del Rey,False
+S. Martínez,99.0046830652791,254.23333333333332,2C,00:52,Barça,50,38,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+S. Martínez,28.196736045411544,129.36666666666667,4C,02:53,Barça,101,67,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Calathes,68.02152317880795,128.63333333333333,1C,00:34,Barça,22,26,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Calathes,35.389924314096504,156.51666666666668,3C,08:33,Barça,56,42,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+R. Smits,34.47204351939451,136.21666666666664,2C,09:47,Barça,24,26,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+R. Smits,162.6194418164617,126.38333333333335,2C,08:36,Barça,27,26,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+R. Smits,106.04801324503312,244.93333333333334,2C,06:35,Barça,29,28,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+R. Smits,32.13051087984863,146.93333333333337,4C,07:17,Barça,92,57,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,25.59295175023652,256.1333333333333,2C,07:53,Barça,27,28,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,30.25728476821192,119.55,3C,03:26,Barça,77,48,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,64.89323557237465,134.58333333333334,3C,00:06,Barça,88,53,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,73.62246925260169,146.18333333333334,4C,09:49,Barça,88,53,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,35.333727530747396,23.183333333333334,4C,09:10,Barça,88,55,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,83.85028382213812,135.35,4C,08:12,Barça,90,55,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,99.97876064333019,167.28333333333333,4C,06:17,Barça,92,58,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+N. Hayes,139.61622516556292,140.56666666666666,4C,05:07,Barça,94,60,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+A. Abrines,95.12710501419112,245.75000000000003,4C,06:54,Barça,92,57,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+A. Abrines,114.85217596972565,240.8,4C,03:23,Barça,99,65,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+A. Abrines,125.54829706717125,37.85,4C,02:22,Barça,101,67,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+A. Abrines,37.30061494796594,127.73333333333333,4C,02:01,Barça,103,67,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+A. Abrines,32.95473036896878,149.83333333333331,4C,00:17,Barça,107,70,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,433.8813150425733,139.36666666666667,1C,09:21,Barça,0,2,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,336.56721854304635,131.33333333333334,1C,08:01,Barça,6,7,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,448.62360454115424,131.0,1C,06:59,Barça,6,9,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,465.8198202459792,113.68333333333334,1C,05:15,Barça,6,16,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,441.1868968779565,255.53333333333333,2C,05:42,Barça,33,33,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,449.57894985808895,166.45,2C,01:55,Barça,46,37,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,435.192573320719,139.9666666666667,3C,06:54,Barça,67,46,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,420.93732261116367,250.66666666666666,3C,04:28,Barça,71,46,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,438.3770577105014,168.71666666666667,4C,07:38,Barça,90,55,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+J. Thomasson,425.5267265846736,186.3,4C,01:36,Barça,103,67,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+Y. Sima,480.15,141.25,1C,07:41,Barça,6,9,BAXI Manresa,Mate,True,103076,1,2021-2022,Copa del Rey,False
+Y. Sima,384.99011352885526,134.48333333333335,3C,00:26,Barça,86,53,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+Y. Sima,460.1064806054872,152.55,4C,03:14,Barça,99,67,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+Y. Sima,463.79673604541154,116.36666666666667,4C,02:30,Barça,101,67,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+D. Pérez,449.20430463576156,80.5,1C,06:50,Barça,6,11,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+D. Pérez,394.5622989593188,240.35,2C,09:19,Barça,24,26,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+E. Valtonen,378.9208609271523,49.96666666666667,1C,06:30,Barça,6,14,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+E. Valtonen,460.1814096499527,70.81666666666666,2C,06:52,Barça,29,28,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+E. Valtonen,389.673178807947,36.65,3C,08:46,Barça,54,42,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+E. Valtonen,417.3032639545885,153.95,3C,05:49,Barça,69,46,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+I. Bako,467.3371333964049,149.18333333333334,1C,05:56,Barça,6,16,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+I. Bako,480.15,141.25,1C,05:09,Barça,6,18,BAXI Manresa,Mate,True,103076,1,2021-2022,Copa del Rey,False
+I. Bako,429.21698202459794,212.88333333333333,1C,02:17,Barça,16,24,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+I. Bako,466.02587511825925,155.39999999999998,3C,08:13,Barça,56,42,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+I. Bako,480.15,141.25,4C,09:26,Barça,88,55,BAXI Manresa,Mate,True,103076,1,2021-2022,Copa del Rey,False
+I. Bako,456.39749290444655,159.88333333333333,4C,07:38,Barça,90,55,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+L. Maye,441.2430936613056,256.3166666666667,1C,04:30,Barça,9,18,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+L. Maye,443.35983916745505,90.2,3C,06:57,Barça,64,44,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,463.57194891201516,147.98333333333335,1C,04:06,Barça,11,20,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,475.24214758751185,40.099999999999994,1C,03:37,Barça,12,22,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,478.0894512771996,178.56666666666666,2C,02:50,Barça,44,37,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,457.82114474929045,148.29999999999998,2C,01:58,Barça,46,37,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,401.7367549668874,199.18333333333334,3C,03:48,Barça,75,48,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,341.0067644276254,97.53333333333333,3C,03:10,Barça,77,51,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,339.50818353831596,89.83333333333333,3C,02:23,Barça,82,51,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,324.6160359508042,150.35,4C,04:31,Barça,96,63,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+S. Francisco,357.84706717123936,69.06666666666666,4C,01:01,Barça,105,67,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+D. García,462.6353358561968,137.48333333333335,1C,02:51,Barça,14,24,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+D. García,463.7592715231788,127.78333333333333,3C,01:15,Barça,84,51,BAXI Manresa,Tiro de 2,False,103076,1,2021-2022,Copa del Rey,False
+D. García,436.7286187322611,153.9333333333333,3C,01:01,Barça,86,53,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+D. García,331.24725638599807,130.53333333333333,4C,07:01,Barça,92,57,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+D. García,355.6553926206244,208.23333333333332,4C,00:56,Barça,105,70,BAXI Manresa,Triple,True,103076,1,2021-2022,Copa del Rey,False
+R. Martínez,383.753784295175,234.5,2C,08:50,Barça,24,26,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+C. Moneke,471.0461210974456,144.79999999999998,2C,06:07,Barça,31,30,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+C. Moneke,343.235903500473,130.64999999999998,2C,05:06,Barça,36,33,BAXI Manresa,Triple,False,103076,1,2021-2022,Copa del Rey,False
+C. Moneke,480.15,141.25,2C,04:08,Barça,40,35,BAXI Manresa,Mate,True,103076,1,2021-2022,Copa del Rey,False
+J. Vaulet,476.83438978240304,154.38333333333333,2C,00:31,Barça,50,40,BAXI Manresa,Tiro de 2,True,103076,1,2021-2022,Copa del Rey,False
+W. Tavares,53.635146641438034,137.53333333333333,1C,09:46,Real Madrid,2,0,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+W. Tavares,28.34659413434248,126.03333333333333,1C,08:28,Real Madrid,7,2,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+W. Tavares,24.75,96.31666666666666,2C,00:04,Real Madrid,50,38,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+W. Tavares,24.75,141.25,3C,06:47,Real Madrid,54,42,Lenovo Tenerife,Mate,True,103077,2,2021-2022,Copa del Rey,False
+W. Tavares,41.196925260170296,140.91666666666666,3C,04:07,Real Madrid,62,48,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+W. Tavares,49.49531693472091,148.00000000000003,3C,01:45,Real Madrid,68,51,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+W. Tavares,64.94943235572374,126.64999999999999,3C,01:00,Real Madrid,70,53,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+J. Taylor,24.75,257.18333333333334,1C,08:58,Real Madrid,5,2,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+J. Taylor,151.58614001892147,187.36666666666667,1C,06:47,Real Madrid,10,6,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+J. Taylor,144.89872280037844,207.05,1C,05:09,Real Madrid,13,8,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+J. Taylor,123.65633869441817,229.45,3C,07:32,Real Madrid,52,40,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+J. Taylor,111.2930463576159,45.75,3C,05:31,Real Madrid,60,42,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+A. Abalde,34.95908230842006,164.76666666666668,1C,08:33,Real Madrid,5,2,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+A. Abalde,125.81054872280039,57.166666666666664,3C,06:12,Real Madrid,57,42,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+A. Abalde,73.00430463576159,136.98333333333335,3C,02:31,Real Madrid,66,51,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+F. Causeur,93.87204351939451,168.51666666666665,1C,07:50,Real Madrid,7,2,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+F. Causeur,25.59295175023652,257.98333333333335,1C,01:30,Real Madrid,26,16,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+F. Causeur,35.408656575212866,154.25,2C,02:05,Real Madrid,45,33,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+F. Causeur,131.74867549668875,62.03333333333334,3C,04:49,Real Madrid,60,45,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+F. Causeur,32.67374645222328,151.7,3C,03:43,Real Madrid,64,48,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+G. Yabusele,128.1333491012299,225.55000000000004,1C,06:16,Real Madrid,10,6,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+G. Yabusele,153.94640491958373,183.23333333333335,2C,02:31,Real Madrid,45,33,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+G. Yabusele,68.22757805108799,27.28333333333333,2C,01:50,Real Madrid,45,33,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+G. Yabusele,30.16362346263009,155.39999999999998,3C,08:13,Real Madrid,52,38,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+A. Hanga,24.75,257.21666666666664,1C,04:37,Real Madrid,18,8,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+A. Hanga,86.64139072847684,249.2,1C,00:47,Real Madrid,26,18,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+A. Hanga,123.6376064333018,228.28333333333333,3C,03:06,Real Madrid,64,48,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,130.1189687795648,219.48333333333332,1C,03:23,Real Madrid,21,10,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,115.82625354777674,153.15,1C,00:10,Real Madrid,26,18,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,33.83514664143803,192.63333333333333,4C,08:17,Real Madrid,79,60,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,161.27071901608323,123.0,4C,07:33,Real Madrid,82,60,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,145.7791390728477,201.2833333333333,4C,06:54,Real Madrid,82,60,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,75.70175023651845,70.6,4C,03:11,Real Madrid,90,70,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,91.15586565752129,138.88333333333333,4C,01:39,Real Madrid,92,72,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Heurtel,53.14810785241249,109.21666666666667,4C,00:57,Real Madrid,94,74,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,49.120671712393566,137.05,1C,02:50,Real Madrid,23,12,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,36.83230842005676,150.03333333333336,2C,02:57,Real Madrid,42,30,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,34.97781456953643,130.71666666666664,4C,09:35,Real Madrid,75,55,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,68.54602649006623,133.01666666666668,4C,08:56,Real Madrid,77,58,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,24.75,141.25,4C,03:55,Real Madrid,88,68,Lenovo Tenerife,Mate,True,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,75.15851466414381,127.81666666666666,4C,02:05,Real Madrid,90,70,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+V. Poirier,24.75,141.25,4C,01:27,Real Madrid,94,72,Lenovo Tenerife,Mate,True,103077,2,2021-2022,Copa del Rey,False
+T. Thompkins,30.107426679280984,210.5666666666667,2C,09:30,Real Madrid,28,20,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Thompkins,24.75,257.66666666666663,2C,08:39,Real Madrid,31,22,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+T. Thompkins,64.9681646168401,139.68333333333334,2C,07:44,Real Madrid,33,24,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Thompkins,24.75,73.75000000000001,2C,06:09,Real Madrid,34,24,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+T. Thompkins,71.93656575212867,255.85000000000002,3C,00:15,Real Madrid,73,55,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+G. Deck,53.541485335856194,255.96666666666667,2C,05:47,Real Madrid,34,24,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+G. Deck,34.247256385998114,130.86666666666667,4C,05:10,Real Madrid,86,66,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+G. Deck,24.75,258.2,4C,04:23,Real Madrid,86,68,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,98.72369914853358,39.73333333333333,2C,05:05,Real Madrid,34,26,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,146.99673604541155,84.23333333333333,2C,04:58,Real Madrid,37,26,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,27.466177861873227,119.26666666666668,2C,04:16,Real Madrid,39,26,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,158.0487701040681,94.7,2C,03:40,Real Madrid,42,28,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,129.40714285714287,56.2,2C,03:02,Real Madrid,42,30,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,106.49758751182594,42.333333333333336,2C,01:14,Real Madrid,46,36,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+R. Fernández,71.187275307474,179.4,4C,05:38,Real Madrid,84,63,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+S. Llull,64.0690160832545,135.7,2C,00:44,Real Madrid,48,36,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,458.85141911069064,177.3,1C,09:24,Real Madrid,2,2,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,349.4737464522233,185.9,1C,06:25,Real Madrid,10,6,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,343.38576158940396,164.13333333333335,1C,04:21,Real Madrid,18,8,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,351.4968306527909,90.61666666666666,3C,04:27,Real Madrid,60,48,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,372.45823084200566,64.9,3C,02:58,Real Madrid,64,51,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,437.45917691579945,117.68333333333334,4C,04:49,Real Madrid,86,68,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,470.7651371807001,128.8,4C,01:51,Real Madrid,90,72,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+D. Todorovic,359.870151371807,215.58333333333334,4C,00:28,Real Madrid,94,74,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+A. Doornekamp,355.8427152317881,77.94999999999999,1C,08:08,Real Madrid,7,2,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+A. Doornekamp,475.22341532639547,257.33333333333337,2C,06:04,Real Madrid,34,24,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+A. Doornekamp,354.0444181646169,195.9,4C,07:06,Real Madrid,82,60,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+A. Doornekamp,480.15,25.36666666666667,4C,03:38,Real Madrid,88,68,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+A. Doornekamp,425.1520813623463,128.13333333333333,4C,02:45,Real Madrid,90,70,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,402.86069063386947,145.48333333333335,1C,07:32,Real Madrid,7,4,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,454.99257332071903,177.48333333333332,1C,06:30,Real Madrid,10,6,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,456.36002838221384,109.89999999999999,2C,09:08,Real Madrid,28,22,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,433.69399243140964,181.01666666666665,2C,04:32,Real Madrid,37,26,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,453.4190633869442,92.26666666666667,2C,03:20,Real Madrid,42,30,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,420.1692999053926,112.36666666666667,3C,07:51,Real Madrid,52,38,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,452.98822138126775,189.88333333333335,3C,01:19,Real Madrid,68,53,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,407.33770104068117,143.23333333333332,3C,00:40,Real Madrid,70,55,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,478.9885998107852,123.64999999999999,3C,00:03,Real Madrid,73,55,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+M. Huertas,349.15529801324504,102.65,4C,09:39,Real Madrid,73,55,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+G. Shermadini,470.98992431409647,150.48333333333335,1C,07:05,Real Madrid,7,6,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+G. Shermadini,480.15,141.25,2C,02:45,Real Madrid,42,32,Lenovo Tenerife,Mate,True,103077,2,2021-2022,Copa del Rey,False
+G. Shermadini,400.72521286660356,142.61666666666667,3C,08:38,Real Madrid,50,38,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+G. Shermadini,479.4194418164617,154.78333333333333,3C,07:47,Real Madrid,52,40,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+G. Shermadini,480.15,141.25,4C,08:38,Real Madrid,77,60,Lenovo Tenerife,Mate,True,103077,2,2021-2022,Copa del Rey,False
+G. Shermadini,470.52161778618733,133.01666666666668,4C,05:28,Real Madrid,84,65,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+F. Guerra,428.74867549668875,138.48333333333335,1C,05:37,Real Madrid,10,8,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+F. Guerra,475.4669347209082,127.13333333333333,1C,03:06,Real Madrid,21,12,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+F. Guerra,472.1325922421949,126.28333333333333,1C,01:01,Real Madrid,26,18,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+F. Guerra,475.41073793755913,118.16666666666667,1C,00:31,Real Madrid,26,18,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+T. Borg,473.312724692526,153.45,1C,01:47,Real Madrid,23,16,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Borg,475.82284768211923,126.71666666666667,2C,08:25,Real Madrid,31,24,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+T. Borg,470.4279564806055,171.66666666666669,2C,06:40,Real Madrid,34,24,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+T. Borg,359.8326868495743,195.7833333333333,4C,06:41,Real Madrid,82,63,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+J. Sastre,462.8975875118259,158.66666666666669,1C,01:06,Real Madrid,26,16,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+J. Sastre,469.229091769158,154.00000000000003,1C,00:02,Real Madrid,26,18,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+J. Sastre,469.64120151371804,110.16666666666666,2C,05:34,Real Madrid,34,26,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+J. Sastre,404.3780037842952,244.38333333333335,4C,05:48,Real Madrid,84,63,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+K. Wiltjer,467.6930463576159,146.0666666666667,1C,00:01,Real Madrid,26,20,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+K. Wiltjer,469.47261116367076,208.23333333333332,2C,07:22,Real Madrid,34,24,Lenovo Tenerife,Tiro de 2,False,103077,2,2021-2022,Copa del Rey,False
+K. Wiltjer,343.1422421948912,147.98333333333335,2C,01:35,Real Madrid,46,36,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+K. Wiltjer,353.388789025544,199.76666666666665,2C,01:06,Real Madrid,46,36,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+K. Wiltjer,477.80846736045413,159.86666666666665,4C,03:34,Real Madrid,88,70,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+K. Wiltjer,449.05444654683066,147.5666666666667,4C,01:11,Real Madrid,94,74,Lenovo Tenerife,Tiro de 2,True,103077,2,2021-2022,Copa del Rey,False
+S. Salin,430.397114474929,29.766666666666666,3C,05:11,Real Madrid,60,45,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+S. Salin,404.99616840113526,244.6833333333333,3C,03:46,Real Madrid,62,48,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+S. Salin,405.8953169347209,242.8,4C,09:16,Real Madrid,75,58,Lenovo Tenerife,Triple,True,103077,2,2021-2022,Copa del Rey,False
+S. Salin,360.69437086092717,77.18333333333332,4C,07:39,Real Madrid,79,60,Lenovo Tenerife,Triple,False,103077,2,2021-2022,Copa del Rey,False
+N. Mirotic,37.113292336802274,157.86666666666665,1C,09:20,Barça,2,0,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Mirotic,48.989545884578995,137.48333333333335,2C,00:53,Barça,55,47,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Mirotic,119.59143803216651,136.8,3C,01:27,Barça,69,72,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Mirotic,29.45179754020814,130.64999999999998,3C,00:26,Barça,73,72,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Mirotic,161.04593188268686,111.94999999999999,4C,08:34,Barça,78,75,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,164.13675496688742,162.9333333333333,1C,07:37,Barça,6,2,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,158.87298959318827,179.83333333333334,1C,05:57,Barça,8,2,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,48.7085619678335,140.7833333333333,1C,05:38,Barça,10,4,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,161.51423841059602,173.75000000000003,1C,04:52,Barça,13,6,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,51.911778618732264,154.53333333333336,2C,05:44,Barça,37,28,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,46.25463576158941,143.28333333333333,2C,05:03,Barça,41,35,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,146.22871333964048,203.48333333333335,2C,04:08,Barça,41,37,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,111.0120624408704,46.28333333333333,2C,02:27,Barça,49,43,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,135.30780510879848,62.63333333333333,2C,01:38,Barça,52,45,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,159.47242194891203,138.3,3C,06:33,Barça,60,59,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Laprovittola,37.075827814569536,162.61666666666667,3C,01:01,Barça,69,72,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,178.48566698202458,110.88333333333334,1C,07:18,Barça,6,2,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,40.33524124881741,148.21666666666667,1C,04:28,Barça,15,6,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,48.12786187322612,143.83333333333331,2C,07:01,Barça,34,24,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,36.88850520340586,153.68333333333334,2C,05:28,Barça,39,32,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,103.63155156102177,242.45,4C,09:46,Barça,76,72,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,167.39616840113527,107.36666666666666,4C,04:01,Barça,93,80,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+S. Sanli,24.75,141.25,4C,02:51,Barça,98,84,UCAM Murcia,Mate,True,103078,2,2021-2022,Copa del Rey,False
+D. Exum,24.75,141.25,1C,07:18,Barça,8,2,UCAM Murcia,Mate,True,103078,2,2021-2022,Copa del Rey,False
+D. Exum,32.18670766319773,125.81666666666669,3C,04:28,Barça,64,61,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+B. Davies,49.28926206244087,135.61666666666667,1C,04:00,Barça,18,9,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+B. Davies,68.43363292336801,138.48333333333335,1C,03:41,Barça,18,9,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,116.20089877010408,46.31666666666666,3C,09:07,Barça,55,52,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,57.006953642384104,144.9666666666667,3C,06:48,Barça,59,59,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,106.02928098391675,152.05,3C,05:04,Barça,62,61,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,100.72805108798487,70.7,3C,02:26,Barça,65,68,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,32.71121097445601,129.05,4C,02:06,Barça,100,84,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+B. Davies,60.52861873226112,160.41666666666666,4C,01:37,Barça,100,86,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,63.60070955534532,143.28333333333333,4C,01:14,Barça,100,88,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+B. Davies,120.65917691579942,228.71666666666667,4C,00:15,Barça,103,88,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+K. Kuric,163.25633869441816,126.55,1C,02:17,Barça,23,12,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+K. Kuric,30.875449385052036,155.35,4C,07:04,Barça,82,78,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+K. Kuric,128.20827814569537,60.86666666666667,4C,06:35,Barça,85,78,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+K. Kuric,34.99654683065279,155.26666666666665,4C,06:06,Barça,87,80,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+K. Kuric,150.59333017975402,89.85,4C,04:47,Barça,92,80,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+K. Kuric,114.85217596972565,234.96666666666667,4C,03:11,Barça,96,82,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+R. Smits,158.76059602649005,179.4,1C,01:49,Barça,26,12,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+R. Smits,161.28945127719962,172.26666666666668,1C,01:18,Barça,29,14,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+S. Martínez,33.104588457899716,27.03333333333333,1C,00:38,Barça,32,16,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+S. Martínez,82.42663197729422,255.03333333333333,2C,08:40,Barça,32,19,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+S. Martínez,168.4639072847682,106.51666666666667,2C,08:05,Barça,32,21,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+S. Martínez,83.08226111636706,252.78333333333336,2C,02:47,Barça,46,43,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+R. Jokubaitis,46.029848628193,152.13333333333335,2C,09:46,Barça,32,16,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+R. Jokubaitis,162.6007095553453,141.84999999999997,4C,08:03,Barça,78,78,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+R. Jokubaitis,31.793330179754026,149.33333333333331,4C,07:22,Barça,80,78,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,66.31688741721854,139.3,2C,09:17,Barça,32,16,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,168.16419110690632,150.25,2C,07:50,Barça,32,21,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,158.53580889309367,86.25000000000001,2C,00:01,Barça,55,49,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,24.75,255.45000000000002,3C,08:17,Barça,58,55,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,91.56797540208137,246.98333333333332,3C,06:06,Barça,60,59,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,30.46333964049196,123.75,3C,05:45,Barça,62,59,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,167.37743614001892,167.48333333333332,3C,03:30,Barça,65,63,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,34.49077578051088,168.65000000000003,4C,05:25,Barça,89,80,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Calathes,160.59635761589402,117.88333333333334,4C,03:48,Barça,96,80,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+N. Hayes,86.62265846736047,177.61666666666665,2C,03:41,Barça,41,40,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+A. Abrines,110.97459791863766,43.916666666666664,4C,00:41,Barça,100,88,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+A. Lima,417.7341059602649,149.89999999999998,1C,09:48,Barça,0,0,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+A. Lima,458.9263481551561,144.65,1C,08:30,Barça,2,0,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+A. Lima,480.15,141.25,3C,02:13,Barça,65,70,UCAM Murcia,Mate,True,103078,2,2021-2022,Copa del Rey,False
+A. Lima,440.06296121097444,143.98333333333335,4C,08:49,Barça,78,73,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,432.8510406811731,111.23333333333333,1C,09:05,Barça,2,0,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,454.1496215704825,115.43333333333334,1C,08:34,Barça,2,0,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,339.41452223273416,122.53333333333333,2C,05:09,Barça,39,35,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,344.0788552507096,112.96666666666667,2C,04:00,Barça,41,40,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,339.92029328287606,145.45000000000002,2C,03:03,Barça,43,43,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,371.8213339640492,223.9333333333333,2C,02:07,Barça,49,43,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,455.8542573320719,158.79999999999998,2C,00:25,Barça,55,49,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,365.8457426679281,68.36666666666666,3C,08:46,Barça,55,55,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,360.7318353831599,59.18333333333333,3C,06:00,Barça,60,59,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,394.84328287606434,41.18333333333334,3C,05:56,Barça,60,59,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,337.0355250709555,136.41666666666669,4C,08:25,Barça,78,78,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,325.4964522232734,142.73333333333332,4C,06:50,Barça,82,78,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+T. McFadden,467.59938505203405,133.05,4C,05:36,Barça,87,80,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,459.9378902554399,127.25,1C,09:01,Barça,2,0,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,468.68585619678333,156.25,1C,08:02,Barça,3,0,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,393.32596972563863,117.7,1C,06:46,Barça,8,2,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,472.188789025544,175.43333333333334,1C,05:48,Barça,8,4,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,436.6162251655629,149.61666666666667,1C,04:41,Barça,13,6,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,474.86750236518446,158.66666666666669,1C,04:37,Barça,13,6,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,343.6292809839168,167.06666666666663,1C,03:23,Barça,18,9,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,453.3441343424787,165.31666666666666,2C,08:24,Barça,32,21,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,458.4767738883633,142.75,2C,06:08,Barça,37,28,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,467.187275307474,157.48333333333332,2C,05:41,Barça,37,30,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,455.2735572374645,171.35,2C,02:30,Barça,46,43,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,455.1236991485336,143.81666666666663,2C,01:25,Barça,52,45,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,460.6497161778619,144.86666666666665,2C,01:08,Barça,53,47,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,365.5085619678335,217.71666666666667,3C,09:42,Barça,55,52,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,403.2166035950804,141.86666666666665,3C,04:46,Barça,62,61,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,403.6287133396405,158.25,4C,07:10,Barça,80,78,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,470.44668874172186,151.4666666666667,4C,06:18,Barça,85,80,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,467.61811731315044,131.48333333333335,4C,03:37,Barça,96,82,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+I. Taylor,467.8616367076632,150.41666666666663,4C,00:08,Barça,103,90,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+J. Webb,384.65293282876064,242.93333333333334,1C,08:46,Barça,2,0,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+J. Webb,476.81565752128665,158.10000000000002,1C,07:57,Barça,3,2,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+J. Webb,358.27790917691584,81.55,1C,04:14,Barça,16,9,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+J. Webb,454.39314096499527,99.56666666666666,1C,02:56,Barça,18,9,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+J. Webb,458.2332544938505,257.51666666666665,1C,02:35,Barça,20,12,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+J. Webb,420.37535477767267,26.000000000000004,3C,07:08,Barça,59,59,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+J. Webb,469.9034531693472,154.33333333333331,3C,05:18,Barça,62,61,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+J. Webb,463.4220908230842,170.13333333333335,3C,04:08,Barça,64,61,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+J. Webb,430.37838221381264,130.25,4C,01:01,Barça,100,88,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+S. Rojas,461.34280983916744,258.53333333333336,1C,06:35,Barça,8,2,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+S. Rojas,470.8775307473983,158.39999999999998,1C,06:17,Barça,8,2,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+J. Davis,400.12578051087985,107.89999999999999,1C,05:09,Barça,10,6,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+J. Davis,458.40184484389783,120.55000000000001,1C,03:08,Barça,18,9,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+J. Davis,470.7464049195837,151.89999999999998,2C,09:07,Barça,32,18,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+J. Davis,379.65141911069065,145.53333333333336,3C,01:14,Barça,69,72,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+J. Davis,338.51537369914854,91.75,3C,00:01,Barça,73,72,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+E. Cate,474.9611636707663,157.66666666666669,1C,01:40,Barça,26,14,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+E. Cate,343.47942289498576,157.38333333333333,2C,07:30,Barça,32,24,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+E. Cate,475.710454115421,153.96666666666664,2C,06:44,Barça,34,26,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+E. Cate,460.61225165562917,118.36666666666666,2C,04:25,Barça,41,37,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+E. Cate,468.51726584673605,157.36666666666665,2C,01:55,Barça,49,45,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+E. Cate,455.03003784295174,141.38333333333335,3C,05:51,Barça,60,59,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+E. Cate,426.31348155156104,134.36666666666667,3C,05:22,Barça,62,59,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+E. Cate,336.54848628192997,108.73333333333333,4C,04:25,Barça,92,80,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+E. Cate,460.4998580889309,152.29999999999998,4C,02:24,Barça,98,84,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+E. Cate,480.15,141.25,4C,01:57,Barça,100,86,UCAM Murcia,Mate,True,103078,2,2021-2022,Copa del Rey,False
+E. Cate,480.15,141.25,4C,01:33,Barça,100,88,UCAM Murcia,Mate,True,103078,2,2021-2022,Copa del Rey,False
+C. Czerapowicz,460.31253547776726,124.25,1C,01:02,Barça,29,16,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+C. Czerapowicz,358.2029801324503,48.766666666666666,1C,00:02,Barça,32,16,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+C. Czerapowicz,468.06769157994324,230.33333333333334,3C,03:44,Barça,65,63,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+C. Czerapowicz,453.0631504257332,135.46666666666667,3C,02:41,Barça,65,68,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Radovic,464.6209555345317,178.54999999999998,2C,03:26,Barça,41,40,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+N. Radovic,470.5403500473037,130.91666666666669,4C,08:46,Barça,78,75,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+N. Radovic,437.60903500473034,164.13333333333335,4C,07:46,Barça,78,78,UCAM Murcia,Tiro de 2,False,103078,2,2021-2022,Copa del Rey,False
+T. Bellas,360.0949385052034,68.71666666666668,3C,03:12,Barça,65,66,UCAM Murcia,Triple,True,103078,2,2021-2022,Copa del Rey,False
+T. Bellas,409.67923368022707,155.29999999999998,3C,01:51,Barça,67,72,UCAM Murcia,Tiro de 2,True,103078,2,2021-2022,Copa del Rey,False
+T. Bellas,371.57781456953643,218.31666666666666,3C,00:41,Barça,71,72,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+K. Vasileiadis,345.4088457899716,73.6,4C,00:30,Barça,100,88,UCAM Murcia,Triple,False,103078,2,2021-2022,Copa del Rey,False
+G. Yabusele,24.75,73.6,1C,09:42,Real Madrid,0,0,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+G. Yabusele,137.16229895931883,67.43333333333334,1C,02:54,Real Madrid,11,2,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,54.68415326395459,139.08333333333334,1C,09:35,Real Madrid,2,0,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,24.974787133396404,111.75,1C,07:20,Real Madrid,4,0,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,39.41736045411542,153.79999999999998,1C,05:08,Real Madrid,8,2,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,101.60846736045411,62.85,2C,02:39,Real Madrid,27,14,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,24.75,77.51666666666667,2C,00:15,Real Madrid,29,18,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,213.60865657521285,140.43333333333337,2C,00:01,Real Madrid,29,18,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,32.67374645222328,128.01666666666668,3C,09:32,Real Madrid,29,20,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,38.761731315042574,162.95,3C,07:55,Real Madrid,31,22,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,137.98651844843897,72.95,4C,06:36,Real Madrid,46,48,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+A. Abalde,151.38008514664142,82.5,4C,04:54,Real Madrid,49,51,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,32.67374645222328,128.41666666666669,1C,07:57,Real Madrid,2,0,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,78.56778618732261,252.86666666666667,1C,07:41,Real Madrid,2,0,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,101.88945127719961,43.083333333333336,2C,01:01,Real Madrid,29,16,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,41.12199621570483,164.0333333333333,3C,06:55,Real Madrid,33,25,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+G. Deck,34.35964995269631,127.03333333333333,3C,05:05,Real Madrid,37,27,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+G. Deck,48.29645222327342,217.35,4C,09:08,Real Madrid,46,41,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,32.24290444654683,158.66666666666669,4C,05:24,Real Madrid,49,48,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,30.201087984862824,155.68333333333334,4C,03:25,Real Madrid,51,54,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+G. Deck,33.085856196783354,153.25,4C,03:22,Real Madrid,53,54,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+G. Deck,32.29910122989593,130.61666666666665,4C,00:22,Real Madrid,59,61,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+J. Taylor,30.613197729422897,257.25,1C,06:30,Real Madrid,4,2,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+J. Taylor,49.38292336802271,140.65,2C,04:30,Real Madrid,27,12,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+J. Taylor,31.86825922421949,257.83333333333337,2C,02:01,Real Madrid,27,16,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+J. Taylor,155.80089877010406,183.13333333333333,4C,04:49,Real Madrid,49,51,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+V. Poirier,49.32672658467361,137.4,1C,05:46,Real Madrid,6,2,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+V. Poirier,48.83968779564807,232.59999999999997,1C,04:31,Real Madrid,8,2,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+V. Poirier,55.82682119205298,143.90000000000003,2C,01:32,Real Madrid,29,16,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+V. Poirier,35.446121097445605,126.55,3C,02:59,Real Madrid,39,35,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+W. Tavares,25.91140018921476,113.19999999999999,1C,03:35,Real Madrid,8,2,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+W. Tavares,45.711400189214764,147.08333333333334,1C,02:18,Real Madrid,13,2,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+W. Tavares,27.147729422894987,112.96666666666667,2C,09:17,Real Madrid,19,7,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+W. Tavares,32.56135288552507,121.66666666666667,2C,09:15,Real Madrid,21,7,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+W. Tavares,95.14583727530749,172.66666666666669,2C,05:31,Real Madrid,25,12,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+W. Tavares,39.06144749290445,128.08333333333331,4C,01:19,Real Madrid,55,59,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+R. Fernández,56.632308420056766,135.36666666666667,1C,01:23,Real Madrid,15,3,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+R. Fernández,152.9348628192999,197.7833333333333,1C,00:05,Real Madrid,19,5,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+R. Fernández,113.48472090823084,237.91666666666666,3C,02:54,Real Madrid,42,35,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+R. Fernández,173.8213339640492,120.23333333333333,3C,02:20,Real Madrid,42,37,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+R. Fernández,110.59995269631032,240.36666666666667,3C,01:04,Real Madrid,44,40,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+R. Fernández,101.85198675496687,247.46666666666667,4C,00:11,Real Madrid,59,63,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+T. Thompkins,161.36438032166507,122.93333333333334,1C,00:39,Real Madrid,19,3,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,109.00771050141913,183.96666666666667,2C,07:41,Real Madrid,23,7,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,108.97024597918637,154.70000000000002,3C,04:38,Real Madrid,37,27,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,80.51594134342479,185.56666666666666,3C,04:09,Real Madrid,39,30,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,41.27185430463577,217.68333333333334,3C,01:48,Real Madrid,44,37,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,65.47393566698203,181.63333333333333,4C,04:09,Real Madrid,51,51,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,134.59597918637655,215.4333333333333,4C,03:31,Real Madrid,51,54,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,38.817928098391675,64.73333333333333,4C,02:13,Real Madrid,55,59,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+T. Heurtel,55.67696310312204,191.38333333333335,4C,01:23,Real Madrid,55,59,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,49.701371807000946,147.91666666666663,2C,07:02,Real Madrid,25,10,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+S. Llull,39.69834437086093,87.48333333333333,2C,06:20,Real Madrid,25,12,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,163.1064806054872,126.13333333333333,2C,03:48,Real Madrid,27,14,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,71.1123462630085,161.61666666666667,4C,08:22,Real Madrid,46,43,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,110.50629139072846,243.56666666666666,4C,07:37,Real Madrid,46,46,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,141.41452223273413,206.95000000000002,4C,06:42,Real Madrid,46,48,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,34.322185430463584,151.65,4C,00:45,Real Madrid,59,59,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+S. Llull,186.54053926206242,139.61666666666667,4C,00:04,Real Madrid,59,64,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+S. Llull,115.11442762535478,238.31666666666666,4C,00:01,Real Madrid,59,64,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+A. Hanga,77.48131504257333,110.0,3C,03:34,Real Madrid,39,32,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+A. Hanga,137.5369441816462,216.9333333333333,4C,05:59,Real Madrid,49,48,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+A. Hanga,30.91291390728477,258.4166666666667,4C,02:46,Real Madrid,53,57,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,474.0058183538316,73.63333333333333,1C,09:15,Real Madrid,2,0,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,463.3471617786187,143.18333333333334,1C,06:54,Real Madrid,4,2,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,472.50723746452223,150.2,1C,06:09,Real Madrid,4,2,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,362.84858088930935,60.53333333333333,1C,03:56,Real Madrid,8,2,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,477.8833964049196,160.48333333333332,3C,07:40,Real Madrid,31,24,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,341.1378902554399,144.18333333333334,3C,04:28,Real Madrid,37,30,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,343.47942289498576,133.46666666666667,3C,03:11,Real Madrid,39,35,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,233.53978240302746,45.63333333333333,3C,00:03,Real Madrid,46,41,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,369.7607852412488,224.5333333333333,4C,05:38,Real Madrid,49,48,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,348.031362346263,77.69999999999999,4C,01:48,Real Madrid,55,59,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Mirotic,467.4495269631031,132.6,4C,00:56,Real Madrid,57,59,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,472.6945600756859,112.33333333333334,1C,08:45,Real Madrid,2,0,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,388.9988174077578,142.1,1C,08:06,Real Madrid,2,0,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,425.22701040681176,185.95000000000002,1C,03:12,Real Madrid,8,2,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,468.55473036896876,159.96666666666664,2C,08:02,Real Madrid,21,7,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,406.7382686849574,98.43333333333334,2C,05:54,Real Madrid,25,12,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,406.53221381267736,181.26666666666668,2C,00:45,Real Madrid,29,18,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,476.87185430463575,161.8,4C,06:59,Real Madrid,46,48,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+N. Calathes,362.1367549668874,201.93333333333337,4C,06:21,Real Madrid,46,48,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+S. Sanli,362.3053453169347,203.25,1C,07:27,Real Madrid,2,0,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+S. Sanli,480.15,141.25,2C,06:42,Real Madrid,25,12,Barça,Mate,True,103079,3,2021-2022,Copa del Rey,False
+S. Sanli,472.2824503311258,126.18333333333331,2C,04:08,Real Madrid,27,14,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+S. Sanli,432.77611163670764,127.13333333333333,4C,08:48,Real Madrid,46,43,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,412.8449858088931,149.38333333333333,1C,07:02,Real Madrid,4,0,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,342.3180227057711,156.61666666666667,1C,01:37,Real Madrid,13,3,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,465.20165562913905,159.48333333333332,3C,08:17,Real Madrid,29,22,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,355.7490539262062,53.766666666666666,3C,05:11,Real Madrid,35,27,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,476.47847682119203,167.18333333333334,3C,00:26,Real Madrid,45,41,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,343.0673131504258,134.26666666666668,4C,08:03,Real Madrid,46,46,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+N. Laprovittola,460.79957426679283,120.05,4C,07:13,Real Madrid,46,46,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+D. Exum,459.0387417218543,166.68333333333334,1C,05:23,Real Madrid,6,2,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+D. Exum,470.3717596972564,128.06666666666666,2C,03:41,Real Madrid,27,14,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+D. Exum,410.40979186376535,144.21666666666667,3C,06:13,Real Madrid,34,27,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+D. Exum,464.65842005676444,194.16666666666666,3C,05:42,Real Madrid,34,27,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+B. Davies,480.15,141.25,2C,09:44,Real Madrid,19,7,Barça,Mate,True,103079,3,2021-2022,Copa del Rey,False
+B. Davies,471.98273415326395,130.83333333333334,3C,09:51,Real Madrid,29,20,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+B. Davies,467.8429044465468,132.6,3C,09:19,Real Madrid,29,20,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+B. Davies,408.81754966887416,93.10000000000001,3C,07:13,Real Madrid,31,25,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+K. Kuric,360.7692999053926,206.13333333333333,2C,09:01,Real Madrid,21,7,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+K. Kuric,480.15,24.7,2C,07:17,Real Madrid,23,10,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+K. Kuric,340.988032166509,136.63333333333333,3C,08:35,Real Madrid,29,20,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+K. Kuric,446.8815042573321,148.9333333333333,3C,03:15,Real Madrid,39,32,Barça,Tiro de 2,False,103079,3,2021-2022,Copa del Rey,False
+R. Jokubaitis,437.44044465468306,255.30000000000004,2C,01:21,Real Madrid,29,16,Barça,Triple,False,103079,3,2021-2022,Copa del Rey,False
+R. Jokubaitis,427.3999526963103,252.88333333333335,3C,01:34,Real Madrid,44,40,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+R. Jokubaitis,480.15,258.55,4C,05:13,Real Madrid,49,51,Barça,Triple,True,103079,3,2021-2022,Copa del Rey,False
+R. Jokubaitis,437.51537369914854,145.31666666666666,4C,03:53,Real Madrid,51,53,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False
+R. Jokubaitis,461.5488647114475,132.76666666666668,4C,03:12,Real Madrid,53,56,Barça,Tiro de 2,True,103079,3,2021-2022,Copa del Rey,False

@@ -1,0 +1,393 @@
+nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
+R. Kurucs,47.13505203405866,157.78333333333333,1C,09:46,Coosur Real Betis,0,0,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,119.06693472090822,52.68333333333333,1C,08:24,Coosur Real Betis,7,5,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,141.47071901608325,78.96666666666667,1C,05:22,Coosur Real Betis,13,11,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,136.69399243140967,62.016666666666666,1C,04:06,Coosur Real Betis,13,13,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,26.660690633869443,72.6,2C,03:21,Coosur Real Betis,25,32,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,139.5600283822138,134.90000000000003,2C,03:01,Coosur Real Betis,27,34,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,137.64933774834438,61.583333333333336,4C,04:25,Coosur Real Betis,59,84,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Kurucs,80.01017029328288,135.31666666666666,4C,00:48,Coosur Real Betis,67,95,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,35.221333964049194,125.56666666666666,1C,09:33,Coosur Real Betis,2,0,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,72.38614001892148,80.23333333333333,1C,09:05,Coosur Real Betis,4,2,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,24.75,22.6,1C,00:03,Coosur Real Betis,21,25,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,103.35056764427625,156.50000000000003,2C,04:25,Coosur Real Betis,25,30,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,130.9806527909177,51.00000000000001,2C,04:06,Coosur Real Betis,25,30,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,55.24612109744561,198.88333333333335,2C,03:50,Coosur Real Betis,25,30,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,38.087369914853355,156.08333333333334,3C,07:30,Coosur Real Betis,37,44,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,40.95340586565752,152.26666666666665,3C,07:25,Coosur Real Betis,37,44,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,24.75,141.25,4C,08:01,Coosur Real Betis,55,77,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,163.85577105014193,186.58333333333331,4C,05:58,Coosur Real Betis,57,82,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,24.75,132.35,4C,05:15,Coosur Real Betis,59,82,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,109.55094607379377,31.083333333333336,4C,04:47,Coosur Real Betis,59,84,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,71.43079470198676,28.533333333333335,4C,02:45,Coosur Real Betis,65,88,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+BJ Johnson,166.23476821192054,159.05,4C,01:42,Coosur Real Betis,67,91,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Bertans,150.51840113528854,187.43333333333334,1C,07:50,Coosur Real Betis,10,7,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Bertans,39.04271523178808,112.01666666666667,3C,09:24,Coosur Real Betis,35,42,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Bertans,160.98973509933774,123.45,3C,09:20,Coosur Real Betis,35,42,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Bertans,126.22265846736045,216.66666666666669,3C,07:37,Coosur Real Betis,37,44,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Bertans,130.02530747398296,67.95000000000002,3C,05:04,Coosur Real Betis,42,51,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Bertans,150.03136234626302,191.66666666666666,4C,03:27,Coosur Real Betis,62,88,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,33.7976821192053,143.79999999999998,1C,05:55,Coosur Real Betis,10,11,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,34.75302743614002,23.45,1C,05:50,Coosur Real Betis,13,11,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,64.76210974456008,151.85,1C,02:12,Coosur Real Betis,16,23,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,103.83760643330181,239.1333333333333,2C,05:38,Coosur Real Betis,25,28,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,157.65539262062438,172.59999999999997,2C,02:21,Coosur Real Betis,30,36,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,36.17667928098392,161.16666666666669,2C,01:46,Coosur Real Betis,30,36,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,152.429091769158,67.51666666666667,2C,00:35,Coosur Real Betis,33,40,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,34.75302743614002,136.58333333333334,3C,08:58,Coosur Real Betis,35,42,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,148.13940397350993,90.83333333333333,3C,06:27,Coosur Real Betis,42,46,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Evans,149.09474929044467,89.55000000000001,3C,02:27,Coosur Real Betis,44,59,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+V. Gerun,26.660690633869443,198.45000000000002,1C,04:48,Coosur Real Betis,13,13,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+V. Gerun,26.660690633869443,145.91666666666669,2C,07:30,Coosur Real Betis,23,27,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Gerun,27.616035950804164,138.7,2C,06:58,Coosur Real Betis,25,27,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Gerun,78.09947965941345,137.01666666666668,2C,05:09,Coosur Real Betis,25,28,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+V. Gerun,50.95643330179754,145.48333333333335,3C,08:55,Coosur Real Betis,37,42,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Gerun,29.03968779564806,135.73333333333332,4C,00:01,Coosur Real Betis,69,100,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,122.88831598864714,235.73333333333335,1C,03:27,Coosur Real Betis,13,16,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,117.64328287606433,45.06666666666667,1C,03:04,Coosur Real Betis,16,18,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,40.95340586565752,134.90000000000003,1C,01:49,Coosur Real Betis,18,23,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,129.55700094607377,58.61666666666667,2C,09:45,Coosur Real Betis,21,25,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,33.32937559129613,171.76666666666668,2C,09:07,Coosur Real Betis,21,25,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,53.80373699148533,141.66666666666666,2C,09:03,Coosur Real Betis,21,25,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,149.56305581835383,220.48333333333332,3C,03:11,Coosur Real Betis,44,56,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,47.13505203405866,108.2,3C,01:31,Coosur Real Betis,46,64,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,109.0639072847682,44.63333333333333,3C,00:07,Coosur Real Betis,48,68,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,167.6584200567644,124.3,4C,09:35,Coosur Real Betis,51,71,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Tsalmpouris,148.6077105014191,212.01666666666668,4C,08:06,Coosur Real Betis,53,77,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+J. Hill,34.284720908230845,112.01666666666667,1C,01:02,Coosur Real Betis,18,23,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+J. Hill,103.83760643330181,29.383333333333333,2C,08:31,Coosur Real Betis,21,25,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+J. Hill,84.76816461684012,255.64999999999998,2C,06:23,Coosur Real Betis,25,28,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+J. Hill,38.087369914853355,145.91666666666669,2C,00:19,Coosur Real Betis,35,40,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+J. Hill,137.1810312204352,222.60000000000002,3C,00:51,Coosur Real Betis,46,66,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+J. Hill,57.62511825922422,43.800000000000004,4C,08:43,Coosur Real Betis,53,74,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+A. Sylla,24.75,141.25,3C,03:35,Coosur Real Betis,44,56,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+A. Sylla,45.243093661305586,141.66666666666666,3C,00:48,Coosur Real Betis,48,66,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+A. Sylla,32.3740302743614,140.83333333333334,4C,07:02,Coosur Real Betis,57,80,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+P. Almazán,104.77421948912017,28.533333333333335,3C,01:55,Coosur Real Betis,44,62,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+P. Pozas,24.75,128.96666666666667,4C,02:25,Coosur Real Betis,67,88,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,476.81565752128665,135.31666666666666,1C,09:19,Coosur Real Betis,2,2,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,480.15,140.4,1C,08:04,Coosur Real Betis,7,7,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,474.90496688741723,260.7333333333333,1C,04:25,Coosur Real Betis,13,13,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,476.81565752128665,145.48333333333335,2C,00:50,Coosur Real Betis,30,40,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,480.15,141.25,2C,00:01,Coosur Real Betis,35,42,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,464.433632923368,149.29999999999998,3C,06:35,Coosur Real Betis,39,46,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Deck,429.1795175023652,28.533333333333335,3C,05:55,Coosur Real Betis,42,49,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,367.71896877956476,59.46666666666667,1C,08:51,Coosur Real Betis,4,5,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,478.7263481551561,140.83333333333334,1C,07:08,Coosur Real Betis,10,9,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,480.15,24.71666666666667,2C,06:07,Coosur Real Betis,25,28,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,476.34735099337746,143.79999999999998,2C,02:42,Coosur Real Betis,27,36,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,480.15,148.45000000000002,2C,00:56,Coosur Real Betis,30,38,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,471.1023178807947,136.58333333333334,3C,08:01,Coosur Real Betis,37,44,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,464.433632923368,152.26666666666665,3C,07:02,Coosur Real Betis,37,44,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,479.19465468306527,136.16666666666666,3C,04:14,Coosur Real Betis,42,53,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+G. Yabusele,474.43666035950804,131.08333333333334,3C,04:09,Coosur Real Betis,42,53,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+F. Causeur,431.09020813623465,253.11666666666665,1C,07:30,Coosur Real Betis,10,7,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+F. Causeur,480.15,147.60000000000002,1C,06:39,Coosur Real Betis,10,9,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+F. Causeur,382.0116840113529,238.70000000000002,2C,03:59,Coosur Real Betis,25,30,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+F. Causeur,380.10099337748346,229.38333333333333,2C,01:59,Coosur Real Betis,30,36,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+W. Tavares,473.9496215704825,142.95000000000002,1C,03:58,Coosur Real Betis,13,13,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+W. Tavares,480.15,138.7,1C,03:20,Coosur Real Betis,13,18,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+W. Tavares,480.15,148.03333333333336,2C,03:12,Coosur Real Betis,25,34,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+W. Tavares,480.15,141.25,3C,05:27,Coosur Real Betis,42,51,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+W. Tavares,480.15,141.25,3C,04:55,Coosur Real Betis,42,53,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,439.1825449385052,150.5666666666667,1C,03:43,Coosur Real Betis,13,13,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,466.3255912961211,141.25,1C,03:40,Coosur Real Betis,13,15,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,380.588032166509,56.93333333333334,1C,02:40,Coosur Real Betis,16,21,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,476.81565752128665,147.60000000000002,1C,01:17,Coosur Real Betis,18,23,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,337.2415799432356,146.33333333333331,3C,06:09,Coosur Real Betis,42,46,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,423.46617786187323,256.5,3C,04:01,Coosur Real Betis,42,56,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,444.427578051088,257.7833333333333,4C,09:52,Coosur Real Betis,48,71,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,365.3399716177862,62.86666666666667,4C,07:51,Coosur Real Betis,55,80,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,453.47526017029327,140.4,4C,05:00,Coosur Real Betis,59,84,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+D. Musa,476.81565752128665,144.21666666666667,4C,01:22,Coosur Real Betis,67,93,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+M. Hezonja,473.9496215704825,138.7,1C,02:23,Coosur Real Betis,16,23,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+M. Hezonja,367.71896877956476,125.14999999999998,2C,09:27,Coosur Real Betis,21,25,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+M. Hezonja,445.8512298959319,31.083333333333336,4C,06:09,Coosur Real Betis,57,82,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+M. Hezonja,471.1023178807947,147.60000000000002,4C,00:42,Coosur Real Betis,67,97,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,470.61527909176914,150.15,1C,00:46,Coosur Real Betis,18,25,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,463.4782876064333,143.36666666666665,2C,08:42,Coosur Real Betis,21,25,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,480.15,141.25,3C,01:18,Coosur Real Betis,46,66,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,454.430605487228,140.4,3C,00:27,Coosur Real Betis,48,68,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,480.15,141.25,4C,08:24,Coosur Real Betis,53,76,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,438.2271996215705,202.26666666666665,4C,06:44,Coosur Real Betis,57,82,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+V. Poirier,446.31953642384104,153.11666666666667,4C,00:15,Coosur Real Betis,67,100,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+R. Fernández,330.57289498580894,187.01666666666665,1C,00:12,Coosur Real Betis,18,25,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Fernández,359.1395931882687,64.98333333333333,2C,07:11,Coosur Real Betis,23,27,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+R. Fernández,339.6205771050142,168.8,4C,09:15,Coosur Real Betis,51,74,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,362.96097445600753,195.06666666666666,2C,08:47,Coosur Real Betis,21,25,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,473.4813150425733,141.25,2C,08:13,Coosur Real Betis,21,27,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,349.13656575212866,91.25,2C,05:23,Coosur Real Betis,25,28,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,480.15,153.53333333333336,2C,02:44,Coosur Real Betis,27,34,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,468.2362819299905,154.38333333333333,3C,04:16,Coosur Real Betis,42,53,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,469.6786660359508,259.05,3C,02:37,Coosur Real Betis,44,59,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,389.1674077578051,34.46666666666667,3C,02:22,Coosur Real Betis,44,62,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Llull,155.7259697256386,230.23333333333335,3C,00:00,Coosur Real Betis,48,68,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Rodríguez,476.81565752128665,146.33333333333331,2C,01:30,Coosur Real Betis,30,38,Real Madrid,Tiro de 2,True,103448,1,2022-2023,Supercopa Endesa,False
+S. Rodríguez,403.92842951750237,36.166666666666664,2C,01:03,Coosur Real Betis,30,38,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Rodríguez,377.25368968779566,57.35,3C,09:47,Coosur Real Betis,35,42,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Rodríguez,474.43666035950804,140.4,3C,08:26,Coosur Real Betis,37,42,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Rodríguez,402.50477767265846,190.83333333333334,4C,07:11,Coosur Real Betis,55,80,Real Madrid,Tiro de 2,False,103448,1,2022-2023,Supercopa Endesa,False
+S. Rodríguez,361.0502838221381,219.21666666666667,4C,02:10,Coosur Real Betis,67,91,Real Madrid,Triple,True,103448,1,2022-2023,Supercopa Endesa,False
+P. Cornelie,387.7250236518448,45.91666666666667,4C,05:27,Coosur Real Betis,57,82,Real Madrid,Triple,False,103448,1,2022-2023,Supercopa Endesa,False
+P. Cornelie,480.15,141.25,4C,03:59,Coosur Real Betis,59,86,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+P. Cornelie,480.15,141.25,4C,03:40,Coosur Real Betis,59,88,Real Madrid,Mate,True,103448,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,173.85879848628193,139.98333333333335,1C,09:40,Barça,3,0,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,52.38008514664144,143.36666666666665,1C,05:29,Barça,12,13,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,126.22265846736045,46.766666666666666,2C,07:18,Barça,26,27,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,111.46163670766319,45.483333333333334,2C,02:48,Barça,37,39,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,144.31802270577106,213.7,3C,09:48,Barça,42,46,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,149.09474929044467,205.23333333333332,3C,08:38,Barça,45,46,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,131.9359981078524,232.78333333333333,3C,07:50,Barça,50,46,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,144.8050614947966,216.25,3C,07:09,Barça,50,46,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,132.42303689687796,59.05,3C,05:09,Barça,54,51,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,46.66674550614948,17.516666666666666,3C,03:43,Barça,57,54,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,134.80203405865657,215.83333333333331,3C,03:37,Barça,60,54,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Laprovittola,46.17970671712394,154.81666666666666,4C,06:31,Barça,80,63,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,37.13202459791864,20.916666666666668,1C,08:28,Barça,6,0,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,116.68793755912961,50.56666666666667,1C,07:16,Barça,12,5,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,32.3740302743614,23.03333333333333,1C,06:39,Barça,12,7,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,35.70837275307474,167.95,2C,04:19,Barça,30,36,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,136.69399243140967,69.63333333333333,2C,01:32,Barça,37,41,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,111.92994323557238,235.73333333333335,2C,00:00,Barça,39,46,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Abrines,29.03968779564806,23.883333333333333,3C,09:03,Barça,42,46,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+T. Satoransky,164.3240775780511,162.4333333333333,1C,07:39,Barça,9,2,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+T. Satoransky,125.73561967833491,228.1166666666667,2C,01:21,Barça,37,41,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+T. Satoransky,24.75,141.25,3C,08:18,Barça,47,46,Joventut Badalona,Mate,True,103449,1,2022-2023,Supercopa Endesa,False
+T. Satoransky,29.507994323557238,146.76666666666665,3C,06:33,Barça,52,48,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,59.5170766319773,141.66666666666666,1C,05:04,Barça,12,16,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,24.75,258.6166666666667,1C,03:30,Barça,12,17,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,34.284720908230845,135.73333333333332,1C,02:36,Barça,12,17,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,44.75605487228004,134.90000000000003,1C,02:30,Barça,14,17,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,25.218306527909178,136.58333333333334,1C,00:56,Barça,18,20,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,118.13032166508987,48.03333333333333,4C,09:09,Barça,70,60,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,36.66371807000946,149.71666666666667,4C,08:58,Barça,70,60,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,34.284720908230845,137.43333333333337,4C,07:55,Barça,72,60,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Martínez,157.18708609271522,210.73333333333332,4C,01:06,Barça,91,72,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+M. Tobey,25.218306527909178,169.21666666666667,1C,04:13,Barça,12,16,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+M. Tobey,24.75,258.6166666666667,2C,03:29,Barça,31,39,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+M. Tobey,24.75,259.90000000000003,2C,03:17,Barça,34,39,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+M. Tobey,24.75,258.2,2C,00:56,Barça,37,43,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+M. Tobey,140.98368022705773,59.9,4C,06:56,Barça,78,63,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+M. Tobey,24.75,23.883333333333333,4C,05:41,Barça,81,63,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Kalinic,149.09474929044467,79.81666666666666,1C,02:42,Barça,12,17,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Kalinic,24.75,123.45,1C,01:59,Barça,16,17,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+N. Kalinic,173.85879848628193,204.38333333333335,1C,00:01,Barça,18,22,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Kalinic,24.75,258.2,2C,07:28,Barça,23,27,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+N. Kalinic,24.75,24.71666666666667,3C,02:33,Barça,63,54,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+C. Higgins,24.75,89.98333333333333,2C,08:40,Barça,22,25,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+C. Higgins,163.85577105014193,107.35,2C,07:39,Barça,23,27,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+C. Higgins,32.3740302743614,143.79999999999998,2C,00:35,Barça,39,43,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,29.507994323557238,168.36666666666667,2C,06:39,Barça,28,29,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,73.3414853358562,31.083333333333336,2C,05:31,Barça,28,34,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,48.577436140018925,113.69999999999999,2C,04:57,Barça,30,34,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,29.99503311258278,108.2,3C,01:44,Barça,65,56,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,55.24612109744561,152.68333333333334,4C,09:44,Barça,70,60,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,24.75,24.71666666666667,4C,04:57,Barça,84,65,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Sanli,62.870151371807,142.51666666666668,2C,02:01,Barça,37,41,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Sanli,100.50326395458848,81.08333333333334,3C,04:36,Barça,57,51,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Sanli,146.22871333964048,68.36666666666666,3C,00:38,Barça,68,57,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Sanli,41.4217123935667,136.58333333333334,4C,08:44,Barça,72,60,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Sanli,130.9806527909177,64.55,4C,07:31,Barça,75,61,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Vesely,159.56608325449383,101.41666666666667,3C,00:01,Barça,68,60,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+O. Paulí,110.50629139072846,239.1333333333333,4C,04:34,Barça,87,65,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+O. Paulí,36.17667928098392,123.45,4C,03:23,Barça,87,68,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+O. Paulí,51.911778618732264,128.53333333333333,4C,02:27,Barça,91,70,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Nnaji,39.51102175969726,153.53333333333336,4C,02:43,Barça,89,70,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+H. Ellenson,451.56456953642385,137.01666666666668,1C,09:21,Barça,3,0,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+H. Ellenson,372.96400189214756,62.43333333333334,1C,06:32,Barça,12,10,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+H. Ellenson,475.86031220435194,145.48333333333335,2C,03:42,Barça,31,38,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+H. Ellenson,347.71291390728476,178.96666666666667,2C,02:56,Barça,34,39,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+H. Ellenson,432.51385998107855,215.39999999999998,3C,02:42,Barça,60,54,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+H. Ellenson,480.15,80.23333333333333,4C,00:51,Barça,91,74,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,474.90496688741723,134.90000000000003,1C,08:53,Barça,3,0,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,464.9019394512772,144.21666666666667,1C,05:24,Barça,12,15,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,376.29834437086095,224.71666666666667,1C,00:50,Barça,18,20,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,452.51991485335856,129.81666666666666,2C,08:50,Barça,20,25,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,480.15,24.71666666666667,3C,09:24,Barça,42,46,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,479.68169347209084,103.11666666666666,3C,06:42,Barça,50,48,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,480.15,24.3,3C,06:07,Barça,52,51,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,467.7679754020814,164.98333333333332,3C,04:02,Barça,57,54,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+J. Parra,471.1023178807947,154.38333333333333,4C,05:23,Barça,81,65,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,477.28396404919584,209.4666666666667,1C,08:20,Barça,6,2,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,438.2271996215705,143.79999999999998,1C,06:57,Barça,12,7,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,463.4782876064333,145.91666666666669,2C,06:57,Barça,26,29,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,451.56456953642385,118.8,2C,04:42,Barça,30,36,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,480.15,98.03333333333333,3C,07:52,Barça,47,46,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,459.6569063386944,142.1,3C,07:32,Barça,50,46,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,446.8065752128666,140.4,3C,05:36,Barça,54,51,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,471.1023178807947,126.0,3C,02:13,Barça,63,54,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Tomic,404.8837748344371,116.25,4C,03:46,Barça,87,68,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,372.00865657521285,67.51666666666667,1C,07:56,Barça,6,2,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,406.307426679281,33.2,1C,04:45,Barça,12,16,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,420.1318353831599,170.48333333333332,2C,02:22,Barça,37,41,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,351.53429517502366,76.85000000000001,2C,01:41,Barça,37,41,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,355.3369441816462,78.53333333333335,3C,07:36,Barça,50,46,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,287.2077105014191,148.88333333333333,4C,08:16,Barça,72,60,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,353.4262535477767,209.89999999999998,4C,04:44,Barça,84,65,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,456.3225638599811,135.73333333333332,4C,02:27,Barça,89,70,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Vives,428.69247871333965,121.76666666666667,4C,01:47,Barça,91,70,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,372.00865657521285,220.0666666666667,1C,07:27,Barça,9,5,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,360.581977294229,78.53333333333335,1C,05:59,Barça,12,13,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,480.15,258.6166666666667,1C,04:37,Barça,12,16,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,428.22417218543046,138.2833333333333,1C,03:48,Barça,12,16,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,474.90496688741723,158.61666666666667,2C,06:15,Barça,28,31,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,367.2506622516556,60.31666666666666,4C,09:30,Barça,70,60,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,333.9072374645222,156.9333333333333,4C,08:33,Barça,72,60,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+K. Guy,445.3829233680227,69.63333333333333,4C,06:08,Barça,80,63,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,353.4262535477767,77.68333333333332,1C,03:17,Barça,12,17,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,462.0546357615894,146.76666666666665,1C,00:38,Barça,18,22,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,358.6712866603595,202.68333333333334,2C,09:38,Barça,18,22,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,374.87469252601704,233.20000000000002,2C,09:28,Barça,18,25,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,477.28396404919584,145.48333333333335,2C,08:02,Barça,23,27,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,480.15,116.66666666666667,3C,03:23,Barça,60,54,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,31.399952696310265,22.6,3C,00:06,Barça,68,59,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+A. Feliz,480.15,259.90000000000003,4C,08:38,Barça,72,60,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Birgander,464.433632923368,134.05,1C,02:15,Barça,14,17,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Birgander,480.15,141.25,2C,08:25,Barça,23,27,Joventut Badalona,Mate,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Birgander,469.19162724692524,136.16666666666666,2C,00:15,Barça,39,43,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+S. Birgander,480.15,141.25,4C,07:11,Barça,75,63,Joventut Badalona,Mate,True,103449,1,2022-2023,Supercopa Endesa,False
+S. Birgander,463.4782876064333,196.33333333333337,4C,00:14,Barça,91,74,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+P. Ribas,365.80827814569534,213.7,1C,01:45,Barça,16,20,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+P. Ribas,478.23930936613056,135.31666666666666,2C,04:03,Barça,30,36,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+P. Ribas,334.3755439924314,112.01666666666667,2C,00:11,Barça,39,46,Joventut Badalona,Triple,True,103449,1,2022-2023,Supercopa Endesa,False
+P. Ribas,454.89891201513717,143.79999999999998,3C,05:09,Barça,54,51,Joventut Badalona,Tiro de 2,False,103449,1,2022-2023,Supercopa Endesa,False
+P. Ribas,341.9995742667928,159.05,3C,04:45,Barça,55,51,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+P. Ribas,432.9821665089877,142.51666666666668,3C,02:04,Barça,63,56,Joventut Badalona,Tiro de 2,True,103449,1,2022-2023,Supercopa Endesa,False
+A. Ventura,480.15,20.916666666666668,2C,05:13,Barça,28,34,Joventut Badalona,Triple,False,103449,1,2022-2023,Supercopa Endesa,False
+G. Deck,61.91480605487227,112.43333333333332,1C,09:45,Real Madrid,2,0,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+G. Deck,34.75302743614002,141.25,1C,04:28,Real Madrid,13,11,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Deck,27.616035950804164,143.36666666666665,3C,02:55,Real Madrid,44,49,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+G. Deck,42.8453642384106,123.88333333333333,4C,06:55,Real Madrid,58,57,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Deck,174.3271050141911,120.48333333333333,4C,00:01,Real Madrid,71,71,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Deck,38.087369914853355,135.73333333333332,PR1,01:11,Real Madrid,83,81,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,59.5170766319773,138.7,1C,08:51,Real Madrid,2,2,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,164.81111636707664,140.4,1C,08:04,Real Madrid,2,4,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,24.75,141.25,1C,07:24,Real Madrid,4,4,Barça,Mate,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,45.711400189214764,113.69999999999999,1C,06:54,Real Madrid,6,4,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,37.13202459791864,156.08333333333334,2C,07:37,Real Madrid,17,17,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,60.00411542100284,134.90000000000003,2C,03:39,Real Madrid,23,28,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,53.80373699148533,134.05,2C,00:57,Real Madrid,27,35,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,49.0457426679281,138.7,2C,00:01,Real Madrid,29,37,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,40.466367076631975,141.25,3C,08:31,Real Madrid,31,41,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,29.99503311258278,137.86666666666667,3C,04:38,Real Madrid,38,47,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,28.084342478713342,133.61666666666667,3C,04:11,Real Madrid,40,47,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+D. Musa,162.9004257332072,226.85,PR1,04:32,Real Madrid,73,71,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,30.950378429517507,136.58333333333334,1C,08:45,Real Madrid,2,2,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,84.76816461684012,138.7,1C,06:16,Real Madrid,8,6,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,24.75,117.1,1C,03:47,Real Madrid,13,11,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,24.75,141.25,2C,02:45,Real Madrid,25,31,Barça,Mate,True,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,42.8453642384106,148.03333333333336,3C,05:30,Real Madrid,36,45,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,68.09645222327342,137.86666666666667,3C,01:09,Real Madrid,50,49,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,31.41868495742668,145.48333333333335,3C,01:04,Real Madrid,52,49,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,66.20449385052034,141.25,4C,05:59,Real Madrid,61,59,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,132.89134342478712,137.43333333333337,4C,02:45,Real Madrid,67,65,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,34.284720908230845,137.43333333333337,PR1,03:52,Real Madrid,75,74,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+W. Tavares,36.17667928098392,141.66666666666666,PR1,02:12,Real Madrid,81,78,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+F. Causeur,33.32937559129613,27.683333333333334,1C,08:10,Real Madrid,2,4,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+F. Causeur,137.64933774834438,58.61666666666667,1C,05:43,Real Madrid,12,8,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+F. Causeur,38.5744087038789,133.2,1C,04:08,Real Madrid,13,11,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+F. Causeur,160.52142857142857,77.68333333333332,1C,02:38,Real Madrid,13,11,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,27.12899716177862,136.16666666666666,1C,07:47,Real Madrid,2,4,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,94.77119205298014,248.45000000000002,1C,04:33,Real Madrid,13,11,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,33.32937559129613,146.76666666666665,1C,00:50,Real Madrid,17,15,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,26.173651844843896,110.73333333333333,2C,01:58,Real Madrid,25,31,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,34.284720908230845,181.5,3C,09:44,Real Madrid,29,37,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,35.70837275307474,136.58333333333334,3C,07:50,Real Madrid,33,43,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+G. Yabusele,24.75,136.58333333333334,4C,02:03,Real Madrid,69,67,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Rodríguez,128.1333491012299,234.46666666666667,1C,03:10,Real Madrid,13,11,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Rodríguez,86.67885525070955,147.60000000000002,1C,01:56,Real Madrid,13,13,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Rodríguez,68.58349101229895,169.63333333333335,3C,09:07,Real Madrid,29,39,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Rodríguez,130.9806527909177,48.45,4C,05:16,Real Madrid,61,62,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Rodríguez,163.38746452223273,161.16666666666669,4C,04:09,Real Madrid,63,65,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+V. Poirier,24.75,141.25,1C,01:30,Real Madrid,15,13,Barça,Mate,True,103450,2,2022-2023,Supercopa Endesa,False
+V. Poirier,27.12899716177862,146.33333333333331,2C,06:31,Real Madrid,17,19,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Fernández,149.56305581835383,67.1,1C,00:33,Real Madrid,17,15,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Fernández,45.243093661305586,141.25,2C,09:25,Real Madrid,17,15,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Fernández,122.40127719962156,34.05,2C,07:42,Real Madrid,17,15,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Fernández,171.47980132450328,220.91666666666666,4C,08:44,Real Madrid,58,51,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,61.91480605487227,127.68333333333331,2C,06:34,Real Madrid,17,19,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,53.33543046357616,141.66666666666666,2C,05:57,Real Madrid,17,21,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,25.218306527909178,144.63333333333333,2C,05:17,Real Madrid,19,21,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,39.51102175969726,125.56666666666666,2C,04:10,Real Madrid,21,26,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,33.7976821192053,173.88333333333333,2C,02:01,Real Madrid,25,31,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,25.705345316934725,125.14999999999998,2C,01:50,Real Madrid,25,31,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,148.13940397350993,215.39999999999998,2C,00:21,Real Madrid,27,37,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,140.51537369914854,222.18333333333334,3C,02:26,Real Madrid,47,49,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,157.18708609271522,153.11666666666667,3C,01:50,Real Madrid,50,49,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,144.31802270577106,66.66666666666667,3C,00:22,Real Madrid,55,49,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,41.4217123935667,123.88333333333333,4C,08:56,Real Madrid,55,51,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,162.9004257332072,198.03333333333333,4C,08:06,Real Madrid,58,53,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,143.36267738883635,70.48333333333335,4C,01:33,Real Madrid,69,69,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,130.5123462630085,229.38333333333333,PR1,04:41,Real Madrid,73,71,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,90.50023651844845,181.08333333333331,PR1,03:04,Real Madrid,77,76,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Llull,64.76210974456008,137.43333333333337,PR1,01:35,Real Madrid,81,80,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+T. Satoransky,426.80052034058656,101.41666666666667,1C,09:29,Real Madrid,2,0,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+T. Satoransky,447.76192052980133,136.58333333333334,3C,06:25,Real Madrid,35,45,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,477.28396404919584,201.41666666666669,1C,09:15,Real Madrid,2,2,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,480.15,145.06666666666666,1C,08:25,Real Madrid,2,4,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,412.9761116367077,136.16666666666666,1C,06:40,Real Madrid,6,6,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,476.81565752128665,159.46666666666664,1C,06:01,Real Madrid,9,8,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,394.88074739829705,44.63333333333333,1C,04:53,Real Madrid,13,11,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,423.93448438978237,131.5,1C,02:53,Real Madrid,13,11,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,472.0576631977294,138.7,3C,09:29,Real Madrid,29,39,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,392.0147114474929,231.93333333333334,3C,08:16,Real Madrid,31,41,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,473.9496215704825,181.5,3C,08:07,Real Madrid,31,43,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,480.15,194.63333333333333,3C,07:20,Real Madrid,33,45,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,480.15,154.81666666666666,3C,00:04,Real Madrid,55,49,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,379.63268684957427,233.20000000000002,3C,00:02,Real Madrid,55,49,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,471.5706244087039,213.28333333333333,4C,09:37,Real Madrid,55,49,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,471.1023178807947,142.95000000000002,4C,08:26,Real Madrid,58,53,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,473.9496215704825,134.46666666666667,PR1,00:31,Real Madrid,85,83,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Sanli,463.4782876064333,189.13333333333333,PR1,00:05,Real Madrid,87,83,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+M. Tobey,377.72199621570485,213.7,1C,05:22,Real Madrid,12,8,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+M. Tobey,380.588032166509,228.96666666666664,3C,05:53,Real Madrid,36,45,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+M. Tobey,341.04422894985805,145.91666666666669,4C,04:34,Real Madrid,63,65,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+M. Tobey,354.38159886471146,111.16666666666666,4C,03:17,Real Madrid,65,65,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+M. Tobey,480.15,141.25,4C,00:15,Real Madrid,71,71,Barça,Mate,True,103450,2,2022-2023,Supercopa Endesa,False
+M. Tobey,478.23930936613056,146.76666666666665,PR1,02:28,Real Madrid,79,78,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,450.60922421948914,134.46666666666667,1C,05:03,Real Madrid,13,8,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,462.0546357615894,133.61666666666667,1C,03:23,Real Madrid,13,11,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,437.2718543046358,154.38333333333333,3C,08:53,Real Madrid,29,41,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,480.15,169.63333333333335,3C,07:33,Real Madrid,33,43,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,379.1643803216651,220.0666666666667,3C,06:54,Real Madrid,33,45,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,473.01300851466414,127.26666666666667,3C,03:57,Real Madrid,40,49,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,329.13051087984866,172.59999999999997,4C,06:20,Real Madrid,59,59,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,468.7233207190161,125.56666666666666,4C,01:10,Real Madrid,69,69,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,480.15,131.93333333333334,4C,00:27,Real Madrid,71,69,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,365.3399716177862,217.51666666666668,PR1,04:11,Real Madrid,73,74,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,480.15,150.5666666666667,PR1,03:28,Real Madrid,75,76,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Laprovittola,352.0026017029328,56.93333333333334,PR1,00:26,Real Madrid,85,83,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Martínez,474.90496688741723,139.13333333333333,1C,04:23,Real Madrid,13,11,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Martínez,471.1023178807947,23.883333333333333,3C,04:44,Real Madrid,36,47,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+S. Martínez,480.15,165.83333333333334,3C,04:17,Real Madrid,38,47,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,423.46617786187323,202.26666666666665,1C,02:21,Real Madrid,13,13,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,388.6803689687796,238.70000000000002,1C,00:00,Real Madrid,17,15,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,463.9465941343425,135.31666666666666,2C,08:49,Real Madrid,17,15,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,452.05160832544937,198.03333333333333,2C,06:18,Real Madrid,17,21,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,355.3369441816462,59.46666666666667,4C,06:11,Real Madrid,59,59,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,475.39200567644275,25.15,4C,05:37,Real Madrid,61,62,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,480.15,146.76666666666665,PR1,02:32,Real Madrid,79,76,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,472.0576631977294,135.31666666666666,PR1,01:58,Real Madrid,81,80,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+R. Jokubaitis,438.6955061494797,164.13333333333335,PR1,00:50,Real Madrid,83,83,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+J. Vesely,480.15,141.25,1C,01:18,Real Madrid,15,15,Barça,Mate,True,103450,2,2022-2023,Supercopa Endesa,False
+J. Vesely,475.39200567644275,142.95000000000002,2C,07:37,Real Madrid,17,17,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+J. Vesely,475.39200567644275,143.36666666666665,2C,07:04,Real Madrid,17,17,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+J. Vesely,466.8126300851466,220.0666666666667,2C,03:55,Real Madrid,21,28,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+J. Vesely,471.1023178807947,149.71666666666667,3C,05:15,Real Madrid,36,47,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,439.6508514664144,66.66666666666667,1C,00:04,Real Madrid,17,15,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,464.9019394512772,145.48333333333335,2C,07:02,Real Madrid,17,19,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,372.96400189214756,58.61666666666667,2C,05:49,Real Madrid,17,21,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,465.8572847682119,139.13333333333333,2C,00:46,Real Madrid,27,37,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,439.1825449385052,23.883333333333333,3C,02:01,Real Madrid,47,49,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,375.3429990539262,230.65000000000003,3C,00:36,Real Madrid,52,49,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,458.72029328287607,188.7,4C,07:40,Real Madrid,58,57,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,342.46788079470195,78.53333333333335,4C,02:59,Real Madrid,65,65,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+N. Kalinic,465.8572847682119,145.06666666666666,PR1,02:44,Real Madrid,77,76,Barça,Tiro de 2,False,103450,2,2022-2023,Supercopa Endesa,False
+A. Abrines,469.19162724692524,29.383333333333333,2C,08:14,Real Madrid,17,15,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+A. Abrines,406.7944654683065,247.1833333333333,2C,03:01,Real Madrid,23,31,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+K. Kuric,347.71291390728476,92.1,2C,08:07,Real Madrid,17,15,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+K. Kuric,360.581977294229,66.66666666666667,2C,04:56,Real Madrid,19,24,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+K. Kuric,372.47696310312205,225.15,2C,03:27,Real Madrid,23,31,Barça,Triple,True,103450,2,2022-2023,Supercopa Endesa,False
+K. Kuric,431.5585146641438,115.83333333333333,2C,01:11,Real Madrid,27,35,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False
+K. Kuric,378.67734153263956,228.5333333333333,3C,02:35,Real Madrid,44,49,Barça,Triple,False,103450,2,2022-2023,Supercopa Endesa,False
+K. Kuric,458.2332544938505,137.01666666666668,4C,06:50,Real Madrid,58,59,Barça,Tiro de 2,True,103450,2,2022-2023,Supercopa Endesa,False

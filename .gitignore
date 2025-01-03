@@ -1,0 +1,8 @@
+.venv/
+chromedriver.exe
+__pycache__/
+pruebas
+docs/
+src/__pycache__/
+src/acb_shot_scraper.egg-info
+.env

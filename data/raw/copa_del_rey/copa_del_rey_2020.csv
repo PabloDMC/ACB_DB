@@ -1,0 +1,871 @@
+nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
+S. Salin,46.17970671712394,22.183333333333334,1C,09:20,Lenovo Tenerife,3,3,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+S. Salin,110.50629139072846,236.58333333333331,1C,07:31,Lenovo Tenerife,5,7,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,77.63117313150426,28.96666666666667,1C,03:29,Lenovo Tenerife,12,13,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+S. Salin,155.27639545884577,145.48333333333335,1C,02:26,Lenovo Tenerife,15,15,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+S. Salin,101.92691579943236,235.73333333333335,2C,06:11,Lenovo Tenerife,32,24,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,110.97459791863766,238.70000000000002,2C,06:07,Lenovo Tenerife,35,24,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+S. Salin,135.27034058656577,45.06666666666667,2C,01:41,Lenovo Tenerife,49,37,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+S. Salin,157.18708609271522,193.36666666666667,3C,06:47,Lenovo Tenerife,53,49,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,144.31802270577106,71.76666666666668,3C,06:30,Lenovo Tenerife,53,49,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,162.432119205298,136.58333333333334,4C,08:27,Lenovo Tenerife,74,62,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,24.75,126.0,4C,08:04,Lenovo Tenerife,74,62,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,130.9806527909177,215.83333333333331,4C,04:55,Lenovo Tenerife,79,67,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Salin,30.950378429517507,172.59999999999997,4C,01:37,Lenovo Tenerife,85,70,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,25.705345316934725,133.61666666666667,1C,08:40,Lenovo Tenerife,3,5,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,24.75,122.6,1C,00:47,Lenovo Tenerife,23,17,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,61.91480605487227,135.31666666666666,1C,00:08,Lenovo Tenerife,23,17,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,25.705345316934725,101.41666666666667,2C,08:02,Lenovo Tenerife,28,24,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,136.22568590350048,213.28333333333333,2C,05:33,Lenovo Tenerife,38,26,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,110.50629139072846,236.16666666666669,2C,05:05,Lenovo Tenerife,41,26,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,123.84366130558183,224.3,2C,04:03,Lenovo Tenerife,41,31,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,118.13032166508987,137.01666666666668,3C,05:41,Lenovo Tenerife,53,51,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,24.75,114.13333333333334,3C,03:30,Lenovo Tenerife,63,51,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,122.88831598864714,226.85,4C,09:38,Lenovo Tenerife,71,59,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,53.33543046357616,138.2833333333333,4C,07:17,Lenovo Tenerife,79,62,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,34.75302743614002,114.55,4C,02:46,Lenovo Tenerife,83,68,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+B. Fitipaldo,28.55264900662252,160.73333333333335,4C,02:12,Lenovo Tenerife,85,70,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,24.75,128.53333333333333,1C,08:15,Lenovo Tenerife,5,7,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,30.46333964049196,166.25,1C,06:57,Lenovo Tenerife,5,7,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,30.46333964049196,117.51666666666667,1C,04:32,Lenovo Tenerife,9,9,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,46.17970671712394,169.21666666666667,2C,06:38,Lenovo Tenerife,30,24,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,40.466367076631975,159.05,3C,05:02,Lenovo Tenerife,58,51,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,40.466367076631975,159.05,4C,09:53,Lenovo Tenerife,71,59,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,39.51102175969726,139.55,4C,08:04,Lenovo Tenerife,76,62,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+G. Shermadini,39.51102175969726,125.56666666666666,4C,07:34,Lenovo Tenerife,77,62,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+T. Cavanaugh,24.75,139.13333333333333,1C,06:16,Lenovo Tenerife,7,7,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+T. Cavanaugh,24.75,259.4666666666667,1C,01:52,Lenovo Tenerife,18,15,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,59.04877010406812,135.31666666666666,1C,02:57,Lenovo Tenerife,12,13,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,63.338457899716175,75.14999999999999,2C,07:32,Lenovo Tenerife,30,24,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,71.9178334910123,145.48333333333335,2C,01:11,Lenovo Tenerife,49,39,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,170.99276253547777,145.91666666666669,3C,09:22,Lenovo Tenerife,51,42,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,27.12899716177862,260.7333333333333,3C,08:39,Lenovo Tenerife,51,44,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,91.92388836329233,195.48333333333335,3C,07:55,Lenovo Tenerife,53,46,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,28.084342478713342,62.86666666666667,3C,02:42,Lenovo Tenerife,63,51,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,155.76343424787132,136.16666666666666,4C,06:09,Lenovo Tenerife,79,64,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,51.424739829706716,178.11666666666665,4C,05:26,Lenovo Tenerife,79,67,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+M. Huertas,24.75,103.53333333333333,4C,04:05,Lenovo Tenerife,80,68,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+E. Sulejmanovic,97.6372280037843,33.61666666666667,1C,01:22,Lenovo Tenerife,21,15,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+E. Sulejmanovic,32.84233680227058,138.7,2C,06:35,Lenovo Tenerife,32,24,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+E. Sulejmanovic,24.75,141.25,3C,02:28,Lenovo Tenerife,65,51,Hereda SPB,Mate,True,101424,1,2020-2021,Copa del Rey,False
+E. Sulejmanovic,28.55264900662252,135.31666666666666,3C,00:33,Lenovo Tenerife,69,56,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+E. Sulejmanovic,131.46769157994322,62.016666666666666,4C,03:25,Lenovo Tenerife,83,68,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+F. Guerra,42.8453642384106,138.7,1C,00:04,Lenovo Tenerife,25,17,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+F. Guerra,24.75,141.25,3C,04:15,Lenovo Tenerife,61,51,Hereda SPB,Mate,True,101424,1,2020-2021,Copa del Rey,False
+S. Rodríguez,162.9004257332072,103.11666666666666,2C,09:40,Lenovo Tenerife,28,17,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+S. Rodríguez,118.13032166508987,228.5333333333333,3C,00:57,Lenovo Tenerife,69,53,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+A. Doornekamp,121.46466414380322,57.78333333333333,3C,05:38,Lenovo Tenerife,56,51,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+A. Doornekamp,138.13637653736993,69.63333333333333,4C,08:57,Lenovo Tenerife,74,59,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+A. Doornekamp,109.55094607379377,38.699999999999996,4C,02:49,Lenovo Tenerife,83,68,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+S. Butterfield,36.66371807000946,159.05,4C,00:20,Lenovo Tenerife,87,73,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+M. Salvó,450.14091769157994,27.26666666666667,1C,09:47,Lenovo Tenerife,0,3,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+M. Salvó,399.17043519394514,246.76666666666668,1C,07:57,Lenovo Tenerife,5,7,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+M. Salvó,437.7588930936613,28.533333333333335,1C,03:09,Lenovo Tenerife,12,13,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+M. Salvó,472.5259697256386,259.90000000000003,2C,02:00,Lenovo Tenerife,46,37,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+M. Salvó,477.28396404919584,159.05,3C,08:16,Lenovo Tenerife,51,46,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+M. Salvó,458.2332544938505,125.56666666666666,4C,01:05,Lenovo Tenerife,85,73,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,473.01300851466414,128.11666666666665,1C,09:07,Lenovo Tenerife,3,3,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,476.81565752128665,131.93333333333334,1C,09:04,Lenovo Tenerife,3,5,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,413.9314569536424,247.1833333333333,1C,07:15,Lenovo Tenerife,5,7,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,472.0576631977294,132.35,1C,06:28,Lenovo Tenerife,5,7,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,479.19465468306527,123.03333333333333,1C,06:25,Lenovo Tenerife,5,7,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,480.15,141.25,1C,03:50,Lenovo Tenerife,9,13,Hereda SPB,Mate,True,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,478.23930936613056,129.81666666666666,2C,00:01,Lenovo Tenerife,51,42,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,464.433632923368,114.13333333333334,3C,04:39,Lenovo Tenerife,59,51,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+J. Rivero,463.9465941343425,126.0,4C,05:41,Lenovo Tenerife,79,66,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+V. Benite,476.34735099337746,101.41666666666667,1C,08:33,Lenovo Tenerife,3,7,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+V. Benite,451.56456953642385,134.05,1C,05:58,Lenovo Tenerife,7,7,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+V. Benite,477.28396404919584,133.61666666666667,1C,02:37,Lenovo Tenerife,12,15,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+V. Benite,362.473935666982,223.88333333333333,2C,06:29,Lenovo Tenerife,32,24,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+V. Benite,418.6894512771996,143.79999999999998,3C,03:51,Lenovo Tenerife,61,51,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+V. Benite,338.1781929990539,148.88333333333333,3C,00:33,Lenovo Tenerife,69,56,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+V. Benite,402.50477767265846,91.25,4C,07:53,Lenovo Tenerife,77,62,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+V. Benite,367.71896877956476,181.93333333333334,4C,06:33,Lenovo Tenerife,79,64,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+O. Cook,392.0147114474929,235.73333333333335,1C,05:20,Lenovo Tenerife,7,7,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+O. Cook,411.0654210028382,78.11666666666667,1C,04:15,Lenovo Tenerife,9,11,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+O. Cook,399.17043519394514,201.84999999999997,1C,01:05,Lenovo Tenerife,21,17,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+O. Cook,341.9995742667928,102.68333333333334,4C,03:13,Lenovo Tenerife,83,68,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,478.23930936613056,125.14999999999998,1C,04:51,Lenovo Tenerife,7,9,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,480.15,123.45,2C,09:14,Lenovo Tenerife,28,19,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,477.77100283822136,123.03333333333333,2C,08:45,Lenovo Tenerife,28,21,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,471.5706244087039,178.53333333333333,2C,07:03,Lenovo Tenerife,30,24,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,477.28396404919584,125.56666666666666,3C,09:40,Lenovo Tenerife,51,42,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,434.424550614948,138.2833333333333,3C,08:57,Lenovo Tenerife,51,44,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,458.2332544938505,142.51666666666668,3C,07:40,Lenovo Tenerife,53,48,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+D. Kravic,465.8572847682119,133.2,3C,03:13,Lenovo Tenerife,63,51,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,386.7696783349101,102.26666666666667,1C,02:11,Lenovo Tenerife,15,15,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,348.66825922421947,206.08333333333334,2C,07:21,Lenovo Tenerife,30,24,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,459.6569063386944,124.3,2C,03:45,Lenovo Tenerife,41,31,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,413.9314569536424,88.28333333333335,2C,00:03,Lenovo Tenerife,51,40,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,341.04422894985805,138.2833333333333,3C,08:23,Lenovo Tenerife,51,44,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,431.09020813623465,165.83333333333334,3C,01:12,Lenovo Tenerife,69,53,Hereda SPB,Tiro de 2,True,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,376.7666508987701,54.38333333333333,3C,00:47,Lenovo Tenerife,69,56,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,341.9995742667928,119.63333333333333,3C,00:04,Lenovo Tenerife,71,59,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,341.9995742667928,129.81666666666666,4C,09:32,Lenovo Tenerife,71,59,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+T. McFadden,376.29834437086095,47.18333333333334,4C,03:50,Lenovo Tenerife,80,68,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+X. Rabaseda,463.4782876064333,259.05,2C,08:19,Lenovo Tenerife,28,24,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+X. Rabaseda,480.15,23.03333333333333,4C,07:00,Lenovo Tenerife,79,62,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+K. Horton,480.15,262.43333333333334,2C,07:46,Lenovo Tenerife,28,24,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+K. Horton,359.6266319772942,200.15,2C,02:29,Lenovo Tenerife,43,34,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+K. Horton,361.0502838221381,68.8,2C,00:28,Lenovo Tenerife,49,39,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+K. Horton,362.96097445600753,57.35,3C,02:21,Lenovo Tenerife,65,51,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+K. Horton,362.473935666982,203.9666666666667,4C,08:48,Lenovo Tenerife,74,62,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+K. Horton,368.67431409649953,64.13333333333334,4C,03:08,Lenovo Tenerife,83,68,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+K. Horton,368.67431409649953,68.36666666666666,4C,00:10,Lenovo Tenerife,87,73,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+M. Salash,347.24460737937557,111.58333333333334,2C,04:22,Lenovo Tenerife,41,31,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+M. Salash,347.71291390728476,92.1,2C,03:15,Lenovo Tenerife,43,31,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+J. Sakho,445.3829233680227,140.83333333333334,3C,01:42,Lenovo Tenerife,67,51,Hereda SPB,Tiro de 2,False,101424,1,2020-2021,Copa del Rey,False
+Á. Infante,375.3429990539262,51.416666666666664,4C,00:37,Lenovo Tenerife,87,73,Hereda SPB,Triple,False,101424,1,2020-2021,Copa del Rey,False
+Á. Infante,354.868637653737,192.51666666666668,4C,00:04,Lenovo Tenerife,87,76,Hereda SPB,Triple,True,101424,1,2020-2021,Copa del Rey,False
+T. Thompkins,144.8050614947966,66.25,1C,09:53,Real Madrid,0,0,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,27.616035950804164,23.883333333333333,1C,08:29,Real Madrid,3,3,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,48.577436140018925,158.61666666666667,1C,07:31,Real Madrid,5,5,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,131.46769157994322,52.68333333333333,1C,06:28,Real Madrid,10,7,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,24.75,70.06666666666666,1C,02:06,Real Madrid,21,13,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,43.33240302743614,159.46666666666664,2C,09:31,Real Madrid,31,17,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,26.660690633869443,126.41666666666667,2C,03:44,Real Madrid,40,29,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,157.65539262062438,92.1,2C,02:45,Real Madrid,40,33,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,24.75,141.25,3C,07:07,Real Madrid,55,38,Valencia Basket,Mate,True,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,46.17970671712394,109.05,4C,05:19,Real Madrid,74,62,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,24.75,256.93333333333334,4C,01:44,Real Madrid,83,69,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,85.25520340586566,252.6833333333333,4C,01:02,Real Madrid,83,71,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+T. Thompkins,24.75,141.25,4C,00:14,Real Madrid,85,74,Valencia Basket,Mate,True,101423,1,2020-2021,Copa del Rey,False
+F. Reyes,130.02530747398296,147.18333333333334,1C,07:53,Real Madrid,5,5,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+F. Reyes,27.616035950804164,170.91666666666666,1C,07:15,Real Madrid,5,5,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+F. Reyes,24.75,131.5,1C,02:51,Real Madrid,21,11,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,26.660690633869443,160.73333333333335,1C,07:10,Real Madrid,7,5,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,27.616035950804164,125.56666666666666,1C,03:25,Real Madrid,19,9,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,28.084342478713342,159.46666666666664,1C,01:33,Real Madrid,25,15,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,24.75,160.31666666666666,1C,01:04,Real Madrid,27,15,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,27.12899716177862,148.88333333333333,1C,00:01,Real Madrid,29,17,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,42.377057710501425,136.58333333333334,2C,07:00,Real Madrid,37,22,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,118.59862819299906,46.766666666666666,2C,03:01,Real Madrid,40,31,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+G. Deck,33.32937559129613,123.45,3C,06:11,Real Madrid,59,38,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,43.80070955534532,132.78333333333333,3C,05:55,Real Madrid,59,41,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+G. Deck,128.6016556291391,233.6166666666667,3C,03:00,Real Madrid,59,49,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+G. Deck,40.466367076631975,144.21666666666667,3C,00:48,Real Madrid,63,53,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,59.04877010406812,258.6166666666667,3C,00:13,Real Madrid,63,53,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+G. Deck,24.75,163.28333333333333,4C,09:20,Real Madrid,66,57,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+G. Deck,32.3740302743614,167.10000000000002,4C,08:43,Real Madrid,68,58,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,157.18708609271522,91.25,1C,06:32,Real Madrid,7,7,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,130.5123462630085,220.91666666666666,1C,05:27,Real Madrid,13,9,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,158.61073793755912,148.45000000000002,1C,04:45,Real Madrid,17,9,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,118.59862819299906,38.699999999999996,1C,04:06,Real Madrid,17,9,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,138.60468306527912,65.83333333333333,3C,09:25,Real Madrid,49,34,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,77.63117313150426,135.73333333333332,3C,08:42,Real Madrid,51,36,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,51.424739829706716,78.11666666666667,3C,07:58,Real Madrid,53,36,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+J. Carroll,147.6523651844844,45.91666666666667,3C,04:19,Real Madrid,59,47,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+C. Alocén,126.69096499526964,48.03333333333333,1C,05:51,Real Madrid,10,9,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+C. Alocén,100.01622516556291,93.8,3C,08:05,Real Madrid,51,36,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+C. Alocén,136.22568590350048,213.28333333333333,3C,04:53,Real Madrid,59,44,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+F. Causeur,66.67280037842951,149.29999999999998,1C,01:58,Real Madrid,23,13,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+F. Causeur,27.12899716177862,126.85000000000002,2C,03:51,Real Madrid,38,29,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+F. Causeur,24.75,159.89999999999998,2C,02:02,Real Madrid,42,33,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+F. Causeur,122.88831598864714,231.49999999999997,3C,01:31,Real Madrid,59,53,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+F. Causeur,60.472421948912014,145.91666666666669,4C,09:51,Real Madrid,63,55,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+F. Causeur,163.85577105014193,147.18333333333334,4C,04:24,Real Madrid,76,64,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+A. Tyus,35.70837275307474,152.26666666666665,2C,08:06,Real Madrid,32,19,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+A. Abalde,39.9980605487228,260.31666666666666,2C,07:33,Real Madrid,35,20,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+A. Abalde,132.89134342478712,222.60000000000002,2C,05:04,Real Madrid,38,24,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+A. Abalde,134.31499526963103,64.55,2C,04:28,Real Madrid,38,27,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+R. Fernández,187.1961684011353,190.83333333333334,2C,06:19,Real Madrid,38,22,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+R. Fernández,119.06693472090822,48.45,2C,00:50,Real Madrid,45,34,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+R. Fernández,131.9359981078524,57.78333333333333,2C,00:06,Real Madrid,48,34,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+R. Fernández,151.94205298013244,191.24999999999997,4C,07:52,Real Madrid,68,60,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+R. Fernández,125.73561967833491,234.04999999999998,4C,02:29,Real Madrid,80,66,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+S. Llull,142.89437086092715,75.56666666666668,2C,01:26,Real Madrid,45,34,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+S. Llull,150.03136234626302,65.83333333333333,4C,03:47,Real Madrid,77,64,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+S. Llull,137.1810312204352,223.88333333333333,4C,03:17,Real Madrid,80,64,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+S. Llull,149.56305581835383,66.66666666666667,4C,00:34,Real Madrid,83,74,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+W. Tavares,67.62814569536422,141.66666666666666,3C,06:25,Real Madrid,57,38,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+W. Tavares,60.95946073793756,136.58333333333334,3C,03:47,Real Madrid,59,47,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,3C,01:29,Real Madrid,61,53,Valencia Basket,Mate,True,101423,1,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,4C,05:16,Real Madrid,76,62,Valencia Basket,Mate,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,469.6786660359508,159.89999999999998,1C,09:31,Real Madrid,0,2,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,471.5706244087039,165.39999999999998,1C,08:16,Real Madrid,3,5,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,354.868637653737,103.11666666666666,1C,05:11,Real Madrid,13,9,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,464.433632923368,161.16666666666669,1C,03:49,Real Madrid,17,9,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,363.4292809839167,213.28333333333333,3C,06:40,Real Madrid,55,38,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,366.7636234626301,79.38333333333334,3C,04:42,Real Madrid,59,47,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,425.84517502365185,126.0,3C,03:29,Real Madrid,59,49,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,480.15,130.23333333333335,3C,02:52,Real Madrid,59,51,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,480.15,123.45,3C,02:22,Real Madrid,59,53,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+S. Van Rossom,477.28396404919584,33.2,4C,01:27,Real Madrid,83,71,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+V. Marinkovic,472.0576631977294,24.3,1C,09:01,Real Madrid,0,3,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+V. Marinkovic,471.1023178807947,118.36666666666666,1C,07:37,Real Madrid,5,5,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+V. Marinkovic,458.72029328287607,98.88333333333334,1C,05:33,Real Madrid,10,9,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+V. Marinkovic,380.10099337748346,215.83333333333331,2C,04:47,Real Madrid,38,27,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+B. Dubljevic,471.5706244087039,159.05,1C,06:37,Real Madrid,7,7,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+B. Dubljevic,480.15,104.38333333333333,2C,00:28,Real Madrid,45,34,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+B. Dubljevic,335.7991958372753,114.13333333333334,3C,09:45,Real Madrid,49,34,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+B. Dubljevic,480.15,125.56666666666666,3C,09:09,Real Madrid,49,36,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+B. Dubljevic,347.71291390728476,152.26666666666665,3C,01:09,Real Madrid,61,53,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+B. Dubljevic,347.71291390728476,127.26666666666667,4C,03:00,Real Madrid,80,64,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,452.05160832544937,147.18333333333334,1C,06:06,Real Madrid,10,9,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,403.4601229895932,35.733333333333334,2C,04:52,Real Madrid,38,24,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,471.5706244087039,124.3,2C,02:56,Real Madrid,40,33,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,478.23930936613056,156.50000000000003,3C,07:25,Real Madrid,53,38,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,389.1674077578051,235.31666666666666,3C,01:40,Real Madrid,59,53,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,451.09626300851465,146.76666666666665,3C,00:03,Real Madrid,63,55,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,456.3225638599811,143.36666666666665,4C,08:10,Real Madrid,68,60,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,477.28396404919584,139.55,4C,05:43,Real Madrid,74,62,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+N. Kalinic,463.4782876064333,112.43333333333332,4C,02:52,Real Madrid,80,66,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+L. Labeyrie,470.61527909176914,260.7333333333333,1C,04:21,Real Madrid,17,9,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+L. Labeyrie,474.90496688741723,156.9333333333333,3C,08:26,Real Madrid,51,36,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+L. Labeyrie,438.2271996215705,134.05,4C,04:53,Real Madrid,76,64,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+M. Tobey,373.9193472090823,193.80000000000004,1C,02:39,Real Madrid,21,13,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+M. Tobey,470.61527909176914,125.56666666666666,2C,09:19,Real Madrid,32,19,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+M. Tobey,445.3829233680227,148.03333333333336,2C,05:30,Real Madrid,38,24,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+M. Tobey,382.9670293282876,54.81666666666666,4C,06:27,Real Madrid,72,62,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+M. Tobey,373.9193472090823,54.81666666666666,4C,05:49,Real Madrid,74,62,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,480.15,123.88333333333333,1C,00:48,Real Madrid,27,15,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,467.7679754020814,97.60000000000001,2C,08:36,Real Madrid,32,19,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,367.71896877956476,69.21666666666668,2C,06:48,Real Madrid,38,22,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,341.5125354777673,103.11666666666666,2C,04:09,Real Madrid,38,27,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,456.8096026490066,123.03333333333333,4C,08:55,Real Madrid,66,58,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,453.47526017029327,145.48333333333335,4C,07:40,Real Madrid,68,60,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,477.77100283822136,124.3,4C,07:07,Real Madrid,70,62,Valencia Basket,Tiro de 2,True,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,480.15,152.68333333333334,4C,06:23,Real Madrid,72,62,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,377.72199621570485,55.233333333333334,4C,02:14,Real Madrid,80,69,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+M. Hermannsson,464.433632923368,22.6,4C,01:00,Real Madrid,83,74,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+J. Pradilla,476.81565752128665,27.683333333333334,2C,09:48,Real Madrid,29,17,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,352.95794701986756,79.81666666666666,2C,07:50,Real Madrid,32,20,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,380.10099337748346,56.083333333333336,2C,02:37,Real Madrid,40,33,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,329.13051087984866,136.16666666666666,2C,01:06,Real Madrid,45,34,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,359.6266319772942,215.83333333333331,2C,00:03,Real Madrid,48,34,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,373.9193472090823,57.78333333333333,3C,05:42,Real Madrid,59,44,Valencia Basket,Triple,True,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,363.4292809839167,65.83333333333333,3C,05:09,Real Madrid,59,44,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,412.5078051087985,220.91666666666666,3C,04:03,Real Madrid,59,47,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,372.96400189214756,223.45,4C,08:23,Real Madrid,68,58,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+K. Prepelic,323.41717123935666,128.53333333333333,4C,03:39,Real Madrid,77,64,Valencia Basket,Triple,False,101423,1,2020-2021,Copa del Rey,False
+J. Puerto,471.5706244087039,183.19999999999996,2C,05:58,Real Madrid,38,22,Valencia Basket,Tiro de 2,False,101423,1,2020-2021,Copa del Rey,False
+T. Jekiri,33.32937559129613,151.85,1C,09:49,TD Systems Baskonia,0,0,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+T. Jekiri,111.46163670766319,145.48333333333335,1C,07:34,TD Systems Baskonia,9,4,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+T. Jekiri,27.12899716177862,133.61666666666667,1C,04:27,TD Systems Baskonia,16,8,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+T. Jekiri,28.084342478713342,149.71666666666667,4C,04:44,TD Systems Baskonia,89,71,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Peters,24.75,156.08333333333334,1C,09:05,TD Systems Baskonia,2,2,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Peters,37.61906338694418,122.6,1C,06:01,TD Systems Baskonia,10,6,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+A. Peters,157.18708609271522,189.98333333333335,2C,00:56,TD Systems Baskonia,55,44,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+A. Peters,162.432119205298,112.86666666666667,2C,00:10,TD Systems Baskonia,55,47,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Peters,158.14243140964996,170.91666666666666,3C,02:40,TD Systems Baskonia,71,63,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Peters,28.084342478713342,23.883333333333333,3C,00:01,TD Systems Baskonia,78,68,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+A. Peters,24.75,137.01666666666668,4C,09:07,TD Systems Baskonia,83,68,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Peters,24.75,136.16666666666666,4C,08:24,TD Systems Baskonia,85,68,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Peters,159.56608325449383,135.73333333333332,4C,07:32,TD Systems Baskonia,85,68,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Peters,24.75,23.883333333333333,4C,07:10,TD Systems Baskonia,85,68,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Peters,27.616035950804164,136.16666666666666,4C,01:31,TD Systems Baskonia,93,84,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,24.75,141.25,1C,08:45,TD Systems Baskonia,4,2,Joventut,Mate,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,65.24914853358561,223.45,1C,05:28,TD Systems Baskonia,14,6,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,98.59257332071903,42.516666666666666,1C,01:57,TD Systems Baskonia,22,15,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,162.9004257332072,139.98333333333335,1C,00:57,TD Systems Baskonia,25,15,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,37.61906338694418,145.06666666666666,2C,05:22,TD Systems Baskonia,39,30,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,71.9178334910123,138.2833333333333,2C,04:35,TD Systems Baskonia,43,32,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,27.616035950804164,142.51666666666668,3C,07:35,TD Systems Baskonia,62,51,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,120.50931882686848,56.93333333333334,3C,01:42,TD Systems Baskonia,74,65,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,24.75,141.25,4C,05:34,TD Systems Baskonia,87,68,Joventut,Mate,True,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,24.75,259.4666666666667,4C,03:15,TD Systems Baskonia,89,79,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Polonara,170.5244560075686,139.13333333333333,4C,00:25,TD Systems Baskonia,96,86,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,163.85577105014193,139.13333333333333,1C,08:13,TD Systems Baskonia,7,2,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,70.96248817407756,145.48333333333335,1C,04:03,TD Systems Baskonia,18,10,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,53.33543046357616,137.86666666666667,3C,09:48,TD Systems Baskonia,57,47,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,67.62814569536422,28.96666666666667,3C,08:54,TD Systems Baskonia,60,47,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,24.75,141.25,3C,06:48,TD Systems Baskonia,64,51,Joventut,Mate,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,93.34754020813622,34.9,3C,04:31,TD Systems Baskonia,71,61,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,34.75302743614002,145.91666666666669,3C,04:01,TD Systems Baskonia,71,61,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,58.58046357615894,119.63333333333333,3C,03:22,TD Systems Baskonia,71,63,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,24.75,253.96666666666667,4C,09:35,TD Systems Baskonia,81,68,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,53.80373699148533,157.78333333333333,4C,03:32,TD Systems Baskonia,89,77,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+R. Giedraitis,24.75,256.0833333333333,4C,01:00,TD Systems Baskonia,94,84,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Henry,97.16892147587514,94.63333333333334,1C,05:49,TD Systems Baskonia,12,6,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+P. Henry,27.616035950804164,146.76666666666665,1C,02:51,TD Systems Baskonia,20,12,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+P. Henry,24.75,141.25,1C,00:02,TD Systems Baskonia,28,17,Joventut,Mate,True,101426,1,2020-2021,Copa del Rey,False
+P. Henry,135.7573793755913,209.89999999999998,3C,07:36,TD Systems Baskonia,60,51,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Henry,79.5418637653737,79.38333333333334,3C,06:23,TD Systems Baskonia,66,54,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+P. Henry,92.3921948912015,80.23333333333333,3C,05:37,TD Systems Baskonia,68,56,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+P. Henry,39.04271523178808,114.98333333333333,3C,05:07,TD Systems Baskonia,68,59,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+P. Henry,28.55264900662252,154.81666666666666,3C,04:06,TD Systems Baskonia,71,61,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+P. Henry,169.56911069063386,137.01666666666668,4C,04:14,TD Systems Baskonia,89,74,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Henry,29.99503311258278,68.36666666666666,4C,02:32,TD Systems Baskonia,91,82,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+Y. Fall,56.18273415326396,142.95000000000002,2C,09:01,TD Systems Baskonia,31,21,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+Y. Fall,38.087369914853355,131.93333333333334,2C,08:23,TD Systems Baskonia,33,23,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+Y. Fall,46.17970671712394,159.05,3C,03:50,TD Systems Baskonia,71,61,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,98.59257332071903,96.76666666666667,2C,06:50,TD Systems Baskonia,37,30,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,32.84233680227058,139.13333333333333,2C,05:53,TD Systems Baskonia,39,30,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,32.84233680227058,141.66666666666666,2C,05:27,TD Systems Baskonia,39,30,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,140.98368022705773,178.53333333333333,2C,03:24,TD Systems Baskonia,45,36,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,27.616035950804164,132.35,3C,01:04,TD Systems Baskonia,75,65,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,68.58349101229895,194.63333333333333,3C,00:13,TD Systems Baskonia,75,67,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+L. Vildoza,27.616035950804164,149.71666666666667,4C,01:37,TD Systems Baskonia,91,82,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+T. Sedekerskis,24.75,141.25,2C,05:17,TD Systems Baskonia,41,30,Joventut,Mate,True,101426,1,2020-2021,Copa del Rey,False
+Z. Dragic,29.03968779564806,145.91666666666669,2C,03:55,TD Systems Baskonia,45,34,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+Z. Dragic,110.97459791863766,236.16666666666669,2C,02:53,TD Systems Baskonia,48,39,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+Z. Dragic,24.75,134.90000000000003,2C,02:17,TD Systems Baskonia,50,42,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+Z. Dragic,43.33240302743614,127.68333333333331,3C,07:13,TD Systems Baskonia,62,51,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+S. Raieste,79.5418637653737,25.566666666666666,4C,00:02,TD Systems Baskonia,96,87,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,426.31348155156104,147.60000000000002,1C,09:29,TD Systems Baskonia,0,2,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,467.2809366130558,180.23333333333335,1C,05:13,TD Systems Baskonia,14,6,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,464.433632923368,145.91666666666669,2C,04:11,TD Systems Baskonia,43,34,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,477.77100283822136,135.73333333333332,2C,03:45,TD Systems Baskonia,45,36,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,347.71291390728476,145.48333333333335,2C,02:33,TD Systems Baskonia,48,42,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,459.18859981078526,131.08333333333334,3C,08:08,TD Systems Baskonia,60,51,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,471.5706244087039,148.03333333333336,3C,07:00,TD Systems Baskonia,62,51,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+A. Tomic,472.5259697256386,157.35,4C,05:11,TD Systems Baskonia,87,70,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+F. Bassas,386.3013718070009,55.65,1C,08:28,TD Systems Baskonia,4,2,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+F. Bassas,480.15,255.23333333333332,3C,09:17,TD Systems Baskonia,57,47,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+F. Bassas,354.868637653737,212.86666666666665,3C,05:15,TD Systems Baskonia,68,59,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+F. Bassas,473.01300851466414,136.58333333333334,3C,04:57,TD Systems Baskonia,68,61,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+F. Bassas,393.4383632923368,46.333333333333336,4C,02:07,TD Systems Baskonia,91,82,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+N. Dimitrijevic,448.71726584673604,161.16666666666669,1C,08:01,TD Systems Baskonia,7,4,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+N. Dimitrijevic,451.09626300851465,112.01666666666667,1C,07:23,TD Systems Baskonia,9,6,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+N. Dimitrijevic,477.77100283822136,148.45000000000002,1C,04:19,TD Systems Baskonia,16,10,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+N. Dimitrijevic,480.15,145.91666666666669,2C,01:22,TD Systems Baskonia,52,44,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+N. Dimitrijevic,472.0576631977294,155.65,4C,09:12,TD Systems Baskonia,81,68,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+J. Parra,473.4813150425733,124.71666666666667,1C,06:39,TD Systems Baskonia,10,6,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+J. Parra,474.90496688741723,122.18333333333334,1C,05:08,TD Systems Baskonia,14,6,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,439.6508514664144,112.01666666666667,1C,04:38,TD Systems Baskonia,16,6,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,463.4782876064333,115.83333333333333,1C,04:35,TD Systems Baskonia,16,8,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,478.7263481551561,188.28333333333336,1C,03:16,TD Systems Baskonia,18,10,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,475.86031220435194,159.46666666666664,1C,00:28,TD Systems Baskonia,25,15,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,449.6538789025544,136.16666666666666,2C,06:04,TD Systems Baskonia,37,30,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,374.38765373699147,61.583333333333336,2C,05:42,TD Systems Baskonia,39,30,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,479.19465468306527,124.3,2C,05:03,TD Systems Baskonia,41,32,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,479.19465468306527,144.21666666666667,2C,03:10,TD Systems Baskonia,45,39,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,472.0576631977294,175.15000000000003,3C,00:49,TD Systems Baskonia,75,67,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,472.0576631977294,147.60000000000002,4C,04:35,TD Systems Baskonia,89,73,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,380.588032166509,52.26666666666667,4C,02:57,TD Systems Baskonia,89,82,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+V. Brodziansky,459.18859981078526,125.56666666666666,4C,01:18,TD Systems Baskonia,94,84,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+D. Jackson,480.15,155.65,1C,03:11,TD Systems Baskonia,18,12,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+D. Jackson,477.77100283822136,147.60000000000002,1C,00:11,TD Systems Baskonia,26,17,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+D. Jackson,478.23930936613056,140.4,2C,08:41,TD Systems Baskonia,31,23,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+D. Jackson,372.96400189214756,213.28333333333333,2C,08:06,TD Systems Baskonia,33,26,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+D. Jackson,480.15,123.45,2C,07:34,TD Systems Baskonia,35,28,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+D. Jackson,480.15,138.2833333333333,4C,09:43,TD Systems Baskonia,78,68,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+C. Morgan,360.581977294229,67.95000000000002,1C,02:11,TD Systems Baskonia,22,15,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+C. Morgan,480.15,141.25,2C,07:11,TD Systems Baskonia,35,30,Joventut,Mate,True,101426,1,2020-2021,Copa del Rey,False
+C. Morgan,390.1040208136235,48.03333333333333,3C,08:04,TD Systems Baskonia,60,51,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+C. Morgan,382.49872280037846,227.26666666666668,4C,08:41,TD Systems Baskonia,83,68,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+C. Morgan,392.0147114474929,46.333333333333336,4C,06:59,TD Systems Baskonia,85,68,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Ribas,335.33088930936617,101.85,1C,01:46,TD Systems Baskonia,22,15,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Ribas,464.9019394512772,124.3,2C,09:18,TD Systems Baskonia,29,19,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+P. Ribas,357.2476348155156,69.63333333333333,3C,09:30,TD Systems Baskonia,57,47,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Ribas,470.14697256386,147.60000000000002,3C,08:18,TD Systems Baskonia,60,51,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+P. Ribas,383.4353358561968,47.18333333333334,3C,08:11,TD Systems Baskonia,60,51,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+P. Ribas,473.01300851466414,133.2,4C,00:50,TD Systems Baskonia,96,86,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,480.15,30.65,1C,01:20,TD Systems Baskonia,22,15,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,370.09796594134343,66.25,2C,01:53,TD Systems Baskonia,50,42,Joventut,Triple,False,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,472.5259697256386,148.45000000000002,3C,08:37,TD Systems Baskonia,60,49,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,480.15,25.15,3C,06:35,TD Systems Baskonia,64,54,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,445.3829233680227,173.0333333333333,4C,05:34,TD Systems Baskonia,85,68,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,480.15,148.03333333333336,4C,04:35,TD Systems Baskonia,89,71,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+López-Arostegui,471.5706244087039,260.7333333333333,4C,03:52,TD Systems Baskonia,89,77,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+S. Birgander,477.77100283822136,140.4,2C,09:14,TD Systems Baskonia,29,21,Joventut,Tiro de 2,True,101426,1,2020-2021,Copa del Rey,False
+S. Birgander,472.0576631977294,157.78333333333333,3C,01:52,TD Systems Baskonia,71,65,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+S. Dawson,439.1825449385052,109.89999999999999,2C,06:04,TD Systems Baskonia,37,30,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+S. Dawson,478.7263481551561,132.35,2C,00:44,TD Systems Baskonia,55,44,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+S. Dawson,385.8330652790918,226.85,2C,00:38,TD Systems Baskonia,55,47,Joventut,Triple,True,101426,1,2020-2021,Copa del Rey,False
+A. Ventura,468.7233207190161,150.15,2C,06:01,TD Systems Baskonia,37,30,Joventut,Tiro de 2,False,101426,1,2020-2021,Copa del Rey,False
+N. Mirotic,28.084342478713342,150.5666666666667,1C,09:31,Barça,2,2,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Mirotic,24.75,25.15,1C,04:30,Barça,7,19,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+N. Mirotic,128.1333491012299,57.78333333333333,3C,09:08,Barça,42,47,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+N. Mirotic,42.377057710501425,165.39999999999998,3C,07:29,Barça,44,49,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+N. Mirotic,27.616035950804164,260.31666666666666,4C,00:43,Barça,87,84,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,44.28774834437086,151.00000000000003,1C,08:36,Barça,2,4,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,98.59257332071903,87.86666666666666,2C,06:36,Barça,21,34,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,85.25520340586566,122.18333333333334,2C,05:09,Barça,26,34,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,60.00411542100284,217.51666666666668,2C,04:10,Barça,28,36,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,166.23476821192054,135.31666666666666,2C,00:40,Barça,37,42,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,154.32105014191106,68.8,2C,00:02,Barça,39,44,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,67.62814569536422,131.93333333333334,3C,08:34,Barça,44,47,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,24.75,23.883333333333333,4C,01:10,Barça,84,82,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,52.84839167455062,78.96666666666667,PR1,01:58,Barça,94,92,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,40.466367076631975,91.66666666666667,PR1,00:44,Barça,98,93,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Higgins,26.660690633869443,138.2833333333333,PR1,00:10,Barça,103,93,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+K. Kuric,28.084342478713342,25.15,1C,08:30,Barça,5,4,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+K. Kuric,71.9178334910123,32.35,1C,06:48,Barça,7,13,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+K. Kuric,172.90345316934722,136.58333333333334,4C,08:05,Barça,65,68,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+K. Kuric,27.12899716177862,136.58333333333334,4C,05:30,Barça,77,70,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,26.173651844843896,148.45000000000002,1C,08:01,Barça,7,7,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,33.32937559129613,146.33333333333331,1C,06:12,Barça,7,15,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,149.09474929044467,77.68333333333332,1C,05:07,Barça,7,17,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,108.59560075685904,100.56666666666666,1C,03:52,Barça,7,21,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,86.21054872280038,157.78333333333333,2C,02:38,Barça,32,38,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,33.32937559129613,146.76666666666665,2C,01:43,Barça,34,40,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,27.12899716177862,102.68333333333334,3C,06:14,Barça,46,52,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,36.17667928098392,136.58333333333334,3C,05:00,Barça,51,56,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,54.75908230842006,98.45,3C,04:32,Barça,53,59,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,29.507994323557238,125.56666666666666,3C,03:53,Barça,55,62,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,52.84839167455062,171.33333333333334,3C,01:56,Barça,58,65,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,156.71877956480603,145.48333333333335,4C,04:13,Barça,79,73,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,52.84839167455062,145.91666666666669,4C,03:52,Barça,79,73,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,51.424739829706716,142.51666666666668,PR1,04:14,Barça,88,90,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+N. Calathes,51.911778618732264,167.95,PR1,02:42,Barça,92,90,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,98.10553453169348,155.23333333333335,1C,04:20,Barça,7,19,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,52.84839167455062,148.03333333333336,1C,03:13,Barça,7,23,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,37.61906338694418,123.45,1C,00:24,Barça,12,29,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,46.17970671712394,143.36666666666665,2C,09:41,Barça,15,29,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,33.32937559129613,135.31666666666666,2C,09:10,Barça,15,30,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,40.466367076631975,136.16666666666666,3C,03:03,Barça,55,62,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,25.705345316934725,146.76666666666665,3C,01:04,Barça,60,65,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+B. Davies,47.6220908230842,149.29999999999998,3C,00:20,Barça,60,65,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,28.084342478713342,137.43333333333337,4C,07:16,Barça,69,68,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+B. Davies,31.41868495742668,141.25,4C,05:53,Barça,75,70,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+B. Davies,46.66674550614948,138.7,4C,01:39,Barça,81,82,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+B. Davies,52.84839167455062,142.1,PR1,02:37,Barça,92,90,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+A. Hanga,149.09474929044467,208.61666666666667,1C,01:31,Barça,9,29,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+A. Hanga,58.58046357615894,188.7,2C,08:36,Barça,17,32,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+A. Abrines,24.75,258.6166666666667,1C,00:58,Barça,12,29,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Abrines,24.75,25.15,2C,01:16,Barça,37,42,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Abrines,24.75,246.33333333333334,2C,00:38,Barça,39,42,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+A. Abrines,143.84971617786186,218.79999999999998,3C,05:36,Barça,49,54,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+L. Westermann,85.25520340586566,247.6,1C,00:17,Barça,15,29,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+L. Westermann,48.09039735099338,144.63333333333333,4C,06:30,Barça,73,68,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+P. Oriola,33.32937559129613,139.98333333333335,2C,07:53,Barça,19,32,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+P. Oriola,70.47544938505203,148.03333333333336,2C,07:07,Barça,19,34,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+P. Oriola,31.41868495742668,134.90000000000003,2C,05:49,Barça,23,34,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+P. Oriola,34.75302743614002,126.0,3C,07:23,Barça,44,49,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+R. Smits,33.32937559129613,133.61666666666667,2C,03:13,Barça,32,38,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+R. Smits,29.03968779564806,159.05,4C,08:02,Barça,67,68,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+R. Guerrero,480.15,141.25,1C,09:54,Barça,0,2,Unicaja,Mate,True,101425,1,2020-2021,Copa del Rey,False
+R. Guerrero,480.15,141.25,1C,05:32,Barça,7,17,Unicaja,Mate,True,101425,1,2020-2021,Copa del Rey,False
+R. Guerrero,474.43666035950804,125.14999999999998,1C,03:31,Barça,7,23,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+R. Guerrero,471.5706244087039,148.03333333333336,3C,07:49,Barça,44,49,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+R. Guerrero,480.15,141.25,3C,05:50,Barça,46,54,Unicaja,Mate,True,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,450.14091769157994,206.93333333333337,1C,09:07,Barça,2,2,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,464.9019394512772,30.65,1C,07:41,Barça,7,10,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,396.7914380321665,45.06666666666667,1C,05:43,Barça,7,15,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,480.15,21.766666666666666,1C,01:57,Barça,9,29,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,462.5229422894986,144.21666666666667,2C,07:27,Barça,19,34,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,472.5259697256386,259.4666666666667,3C,02:42,Barça,55,62,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,473.01300851466414,148.03333333333336,4C,02:37,Barça,79,80,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,480.15,258.6166666666667,PR1,04:01,Barça,88,90,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+A. Waczynski,464.9019394512772,132.78333333333333,PR1,03:03,Barça,92,90,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,477.28396404919584,133.61666666666667,1C,09:00,Barça,2,4,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,335.7991958372753,145.06666666666666,1C,08:13,Barça,5,7,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,360.581977294229,79.38333333333334,1C,07:08,Barça,7,13,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,458.72029328287607,190.83333333333334,1C,06:31,Barça,7,15,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,373.43230842005676,64.13333333333334,1C,06:05,Barça,7,15,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,436.316508987701,144.21666666666667,1C,04:47,Barça,7,19,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,458.72029328287607,144.63333333333333,1C,04:05,Barça,7,21,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,408.2181173131504,80.65,3C,09:39,Barça,39,44,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,471.5706244087039,259.90000000000003,3C,06:29,Barça,44,52,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,406.7944654683065,90.83333333333333,3C,05:11,Barça,49,56,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,477.28396404919584,23.883333333333333,3C,04:48,Barça,51,59,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,334.8438505203406,124.3,4C,04:37,Barça,79,73,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,322.94886471144747,137.01666666666668,4C,04:01,Barça,79,73,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,474.43666035950804,81.08333333333334,4C,03:04,Barça,79,78,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,425.3581362346263,202.68333333333334,4C,01:58,Barça,81,82,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,335.7991958372753,114.13333333333334,PR1,03:49,Barça,88,90,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+D. Brizuela,420.60014191106904,89.55000000000001,PR1,00:57,Barça,96,93,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+A. Díaz,347.24460737937557,134.46666666666667,1C,02:48,Barça,7,26,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Díaz,480.15,191.66666666666666,2C,02:49,Barça,32,38,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+A. Díaz,480.15,30.65,2C,00:55,Barça,37,42,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+A. Díaz,341.9995742667928,204.81666666666663,3C,09:28,Barça,39,47,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Díaz,380.588032166509,237.86666666666667,4C,03:34,Barça,79,76,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+D. Thompson,423.93448438978237,134.46666666666667,1C,00:02,Barça,15,29,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+D. Thompson,451.56456953642385,141.66666666666666,1C,00:02,Barça,15,29,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+D. Thompson,471.5706244087039,148.03333333333336,3C,00:39,Barça,60,65,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+D. Thompson,476.34735099337746,69.21666666666668,3C,00:01,Barça,60,65,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,477.77100283822136,150.15,2C,08:56,Barça,15,32,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,451.09626300851465,212.4333333333333,2C,08:09,Barça,17,32,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,476.81565752128665,165.83333333333334,2C,06:50,Barça,19,34,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,472.0576631977294,68.8,3C,03:22,Barça,55,62,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,471.1023178807947,158.61666666666667,3C,00:39,Barça,60,65,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,456.3225638599811,140.83333333333334,3C,00:02,Barça,60,65,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,471.5706244087039,159.05,4C,00:34,Barça,87,86,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+J. Fernández,341.9995742667928,127.26666666666667,PR1,02:19,Barça,92,90,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+F. Alonso,372.96400189214756,213.7,2C,07:30,Barça,19,32,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+T. Abromaitis,476.81565752128665,258.6166666666667,2C,06:07,Barça,21,34,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+T. Abromaitis,480.15,136.58333333333334,4C,00:01,Barça,88,88,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+T. Abromaitis,477.28396404919584,136.58333333333334,PR1,02:13,Barça,92,92,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+Y. Nzosa,476.81565752128665,133.61666666666667,2C,03:27,Barça,30,36,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+Y. Nzosa,463.4782876064333,135.73333333333332,2C,00:02,Barça,39,44,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+Y. Nzosa,472.0576631977294,109.05,4C,01:17,Barça,81,82,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+C. Suárez,477.28396404919584,156.50000000000003,2C,01:32,Barça,34,42,Unicaja,Tiro de 2,True,101425,1,2020-2021,Copa del Rey,False
+C. Suárez,476.81565752128665,258.6166666666667,2C,00:09,Barça,39,42,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+C. Suárez,456.3225638599811,102.68333333333334,3C,07:05,Barça,44,49,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+C. Suárez,417.2657994323557,34.05,3C,04:06,Barça,53,62,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Bouteille,341.04422894985805,160.73333333333335,3C,02:11,Barça,55,65,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Bouteille,393.4383632923368,137.43333333333337,3C,01:22,Barça,58,65,Unicaja,Tiro de 2,False,101425,1,2020-2021,Copa del Rey,False
+A. Bouteille,340.5759224219489,146.33333333333331,4C,09:33,Barça,62,68,Unicaja,Triple,True,101425,1,2020-2021,Copa del Rey,False
+A. Bouteille,431.09020813623465,24.71666666666667,4C,06:57,Barça,69,68,Unicaja,Triple,False,101425,1,2020-2021,Copa del Rey,False
+G. Deck,161.57043519394512,162.4333333333333,1C,08:10,Real Madrid,3,6,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,69.85728476821193,142.81666666666663,1C,03:17,Real Madrid,11,15,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+G. Deck,41.04706717123936,159.95,2C,06:50,Real Madrid,22,32,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,68.07771996215705,125.64999999999998,2C,05:16,Real Madrid,22,36,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+G. Deck,29.489262062440876,109.38333333333333,2C,02:03,Real Madrid,32,44,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,24.75,164.95,2C,00:53,Real Madrid,37,44,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,81.93959318826869,30.583333333333332,3C,09:07,Real Madrid,42,49,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+G. Deck,41.04706717123936,168.86666666666667,3C,08:42,Real Madrid,44,49,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,58.73032166508988,119.5,3C,06:46,Real Madrid,46,53,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+G. Deck,48.82095553453169,121.91666666666667,3C,06:02,Real Madrid,48,55,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,30.14489120151372,113.81666666666666,4C,06:41,Real Madrid,67,64,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+G. Deck,101.23382213812677,44.03333333333333,4C,03:31,Real Madrid,76,70,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+G. Deck,41.552838221381265,113.60000000000001,4C,01:53,Real Madrid,81,74,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,81.88339640491958,248.7,1C,07:30,Real Madrid,6,9,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,148.30799432355724,80.4,1C,05:38,Real Madrid,9,13,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,70.269394512772,156.38333333333333,1C,02:15,Real Madrid,13,19,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,28.327861873226112,22.05,2C,00:04,Real Madrid,40,46,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,53.185572374645226,257.7,3C,08:00,Real Madrid,44,51,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,31.718401135288556,24.033333333333335,3C,07:37,Real Madrid,44,51,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,60.43495742667928,119.78333333333335,3C,01:27,Real Madrid,61,59,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,163.4623935666982,152.45,3C,00:48,Real Madrid,64,59,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,112.7166982024598,44.63333333333333,4C,06:58,Real Madrid,67,64,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,70.88755912961211,149.81666666666666,4C,05:02,Real Madrid,71,68,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Causeur,45.130700094607384,27.116666666666667,4C,02:50,Real Madrid,79,72,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+C. Alocén,153.59049195837275,205.00000000000003,1C,06:37,Real Madrid,9,11,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+C. Alocén,24.75,110.2,1C,05:13,Real Madrid,11,13,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+T. Thompkins,159.11650898770102,141.86666666666665,1C,03:26,Real Madrid,11,15,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+T. Thompkins,33.83514664143803,128.93333333333334,1C,01:24,Real Madrid,15,19,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+T. Thompkins,58.205818353831596,146.05,3C,04:42,Real Madrid,51,59,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+T. Thompkins,135.40146641438034,69.1,3C,03:32,Real Madrid,53,59,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+T. Thompkins,32.35529801324504,115.28333333333333,4C,00:49,Real Madrid,83,77,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+R. Fernández,107.67771996215706,141.61666666666667,1C,01:33,Real Madrid,13,19,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+R. Fernández,65.34280983916746,134.61666666666667,2C,09:01,Real Madrid,19,24,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+R. Fernández,116.14470198675497,230.9,2C,06:55,Real Madrid,20,32,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+R. Fernández,111.38670766319774,236.66666666666669,2C,05:28,Real Madrid,22,36,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+R. Fernández,112.73543046357617,241.11666666666665,2C,01:16,Real Madrid,35,44,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+W. Tavares,61.858609271523186,134.4,1C,01:28,Real Madrid,13,19,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,3C,09:48,Real Madrid,42,46,Lenovo Tenerife,Mate,True,101427,2,2020-2021,Copa del Rey,False
+W. Tavares,60.80960264900662,169.56666666666663,3C,07:32,Real Madrid,46,51,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,3C,04:31,Real Madrid,53,59,Lenovo Tenerife,Mate,True,101427,2,2020-2021,Copa del Rey,False
+W. Tavares,43.66958372753075,141.06666666666666,4C,05:24,Real Madrid,69,66,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+N. Laprovittola,67.3658940397351,133.51666666666668,2C,09:36,Real Madrid,19,24,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+N. Laprovittola,69.9884105960265,153.46666666666664,4C,04:19,Real Madrid,73,70,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+U. Garuba,27.57857142857143,257.75,2C,08:05,Real Madrid,20,27,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+A. Abalde,36.19541154210028,221.89999999999998,2C,07:39,Real Madrid,20,29,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+A. Tyus,46.79787133396405,116.03333333333333,2C,07:32,Real Madrid,20,29,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,34.17232734153264,261.18333333333334,2C,06:17,Real Madrid,22,35,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,51.967975402081365,116.58333333333333,2C,05:19,Real Madrid,22,36,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,37.750189214758755,158.10000000000002,2C,04:25,Real Madrid,24,40,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Llull,27.409981078524126,160.8,2C,04:03,Real Madrid,26,40,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Llull,30.182355723746454,116.15,2C,02:44,Real Madrid,30,42,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Llull,137.66807000946076,204.7833333333333,2C,02:16,Real Madrid,30,44,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,36.30780510879849,115.96666666666667,3C,03:09,Real Madrid,55,59,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Llull,165.35435193945125,139.33333333333334,3C,02:20,Real Madrid,55,59,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,28.27166508987701,109.56666666666668,3C,00:16,Real Madrid,64,62,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,32.973462630085145,173.59999999999997,4C,09:23,Real Madrid,65,62,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+S. Llull,32.16797540208136,170.66666666666669,4C,08:08,Real Madrid,67,62,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Llull,105.84195837275307,139.05,4C,00:22,Real Madrid,83,77,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+J. Carroll,161.308183538316,148.08333333333334,3C,05:37,Real Madrid,51,57,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+J. Carroll,40.428902554399244,255.36666666666667,3C,04:55,Real Madrid,51,59,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+J. Carroll,37.39427625354777,28.46666666666667,3C,04:37,Real Madrid,51,59,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+J. Carroll,89.22644276253547,154.29999999999998,3C,03:56,Real Madrid,53,59,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+J. Carroll,110.48755912961212,136.74999999999997,4C,06:16,Real Madrid,69,64,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+J. Carroll,70.85009460737938,143.51666666666668,4C,05:34,Real Madrid,69,66,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+A. Doornekamp,400.2756385998108,234.3,1C,09:25,Real Madrid,0,0,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+A. Doornekamp,456.50988647114474,24.21666666666667,1C,08:25,Real Madrid,0,6,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+A. Doornekamp,386.6198202459792,55.7,4C,01:13,Real Madrid,81,77,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+A. Doornekamp,383.73505203405864,53.88333333333333,4C,00:44,Real Madrid,83,77,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,389.5982497634816,184.13333333333333,1C,09:16,Real Madrid,0,0,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,332.70837275307474,143.81666666666663,1C,09:05,Real Madrid,0,3,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,453.6813150425733,169.5333333333333,1C,06:17,Real Madrid,9,11,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,397.72805108798485,47.81666666666667,2C,06:29,Real Madrid,22,35,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,345.33391674550614,143.90000000000003,2C,04:59,Real Madrid,22,39,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,351.4593661305582,192.7833333333333,2C,04:34,Real Madrid,22,40,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,478.74508041627246,84.15,2C,03:10,Real Madrid,28,42,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,477.75227057710504,160.5666666666667,2C,02:24,Real Madrid,30,44,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,346.9823557237464,161.76666666666668,2C,01:01,Real Madrid,35,44,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,453.2317407757805,195.71666666666664,3C,01:04,Real Madrid,61,59,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,345.67109744560076,204.00000000000003,3C,00:01,Real Madrid,65,62,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+B. Fitipaldo,462.1108325449385,170.98333333333332,4C,05:20,Real Madrid,69,66,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,475.5793282876064,165.83333333333334,1C,07:46,Real Madrid,3,8,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,438.99522232734154,152.18333333333334,1C,06:59,Real Madrid,6,11,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,460.911967833491,112.35000000000001,1C,05:21,Real Madrid,9,13,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,480.15,109.95,1C,01:05,Real Madrid,15,19,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,470.85879848628196,120.2,3C,08:21,Real Madrid,44,51,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,453.868637653737,170.33333333333334,3C,07:06,Real Madrid,46,53,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,480.15,141.25,3C,06:26,Real Madrid,46,55,Lenovo Tenerife,Mate,True,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,476.4410122989593,168.85,4C,04:01,Real Madrid,73,70,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,466.10080416272467,112.16666666666667,4C,03:14,Real Madrid,76,72,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+F. Guerra,347.76911069063385,152.53333333333336,4C,00:03,Real Madrid,85,79,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+T. Cavanaugh,477.80846736045413,90.73333333333333,1C,05:55,Real Madrid,9,13,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+T. Cavanaugh,464.9768684957427,22.383333333333336,2C,08:25,Real Madrid,20,27,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+T. Cavanaugh,466.11953642384105,258.2333333333333,2C,07:04,Real Madrid,20,32,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+T. Cavanaugh,469.54754020813624,40.9,2C,03:40,Real Madrid,26,40,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+T. Cavanaugh,410.84063386944183,149.5666666666667,3C,08:56,Real Madrid,42,49,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,323.00506149479656,115.08333333333333,1C,04:40,Real Madrid,11,13,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,394.6934247871334,145.65,1C,03:39,Real Madrid,11,15,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,461.473935666982,202.61666666666667,1C,03:07,Real Madrid,11,17,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,474.39919583727533,212.83333333333331,1C,02:36,Real Madrid,11,19,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,470.44668874172186,175.73333333333335,1C,00:07,Real Madrid,19,21,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,429.76021759697255,134.86666666666667,2C,00:31,Real Madrid,37,46,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,194.6890728476821,131.48333333333335,2C,00:01,Real Madrid,40,46,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,427.4561494796594,128.4,3C,05:47,Real Madrid,48,57,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,408.0307947019868,119.68333333333334,3C,05:12,Real Madrid,51,59,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,475.86031220435194,86.86666666666666,3C,03:42,Real Madrid,53,59,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,475.6355250709555,194.2833333333333,3C,00:33,Real Madrid,64,59,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,448.3988174077578,178.91666666666666,3C,00:31,Real Madrid,64,61,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,474.30553453169347,164.95,4C,06:33,Real Madrid,67,64,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,417.3781929990539,130.36666666666667,4C,05:58,Real Madrid,69,66,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,392.2207663197729,146.25,4C,04:42,Real Madrid,71,70,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,458.6828287606433,214.7,4C,02:30,Real Madrid,79,74,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+M. Huertas,470.98992431409647,170.88333333333333,4C,01:32,Real Madrid,81,74,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+E. Sulejmanovic,454.2432828760643,166.25,1C,00:04,Real Madrid,19,23,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+E. Sulejmanovic,465.3889782403027,184.1833333333333,2C,06:37,Real Madrid,22,32,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+E. Sulejmanovic,459.076206244087,113.01666666666667,2C,03:14,Real Madrid,28,40,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+E. Sulejmanovic,480.15,169.3,4C,07:50,Real Madrid,67,64,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+E. Sulejmanovic,449.11064333017976,160.11666666666667,4C,05:17,Real Madrid,69,68,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Rodríguez,418.10875118259224,37.416666666666664,2C,09:16,Real Madrid,19,24,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+S. Salin,474.0994796594134,168.21666666666667,2C,07:50,Real Madrid,20,29,Lenovo Tenerife,Tiro de 2,True,101427,2,2020-2021,Copa del Rey,False
+S. Salin,448.867123935667,165.25,2C,04:10,Real Madrid,24,40,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+S. Salin,448.60487228003785,258.0833333333333,3C,03:16,Real Madrid,53,59,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+S. Yusta,462.71026490066225,170.33333333333334,2C,02:03,Real Madrid,32,44,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+S. Yusta,463.9465941343425,26.98333333333333,4C,08:14,Real Madrid,65,62,Lenovo Tenerife,Triple,False,101427,2,2020-2021,Copa del Rey,False
+S. Butterfield,412.69512771996216,249.93333333333334,3C,09:28,Real Madrid,42,49,Lenovo Tenerife,Triple,True,101427,2,2020-2021,Copa del Rey,False
+S. Butterfield,422.41717123935666,207.50000000000003,4C,03:55,Real Madrid,73,70,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+G. Shermadini,457.78368022705774,122.56666666666668,4C,06:29,Real Madrid,67,64,Lenovo Tenerife,Tiro de 2,False,101427,2,2020-2021,Copa del Rey,False
+N. Mirotic,28.196736045411544,172.61666666666665,1C,09:22,Barça,0,4,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,27.185193945127722,166.88333333333333,1C,09:19,Barça,2,4,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,72.79824976348155,107.61666666666666,1C,08:51,Barça,4,4,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,39.56721854304636,24.533333333333335,1C,06:13,Barça,8,6,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,34.56570482497635,24.933333333333334,1C,06:08,Barça,8,6,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,43.74451277199621,92.08333333333334,1C,02:18,Barça,13,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,155.5573793755913,100.55,2C,02:12,Barça,29,21,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,157.91764427625353,131.25,2C,01:42,Barça,32,23,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,25.162109744560077,120.26666666666667,3C,08:25,Barça,44,27,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+N. Mirotic,34.95908230842006,257.05,4C,02:21,Barça,71,65,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Pustovyi,52.30515610217597,159.5666666666667,1C,08:10,Barça,6,6,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+A. Pustovyi,61.783680227057715,162.73333333333335,1C,07:22,Barça,6,6,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Pustovyi,33.142052980132455,166.31666666666666,1C,07:20,Barça,6,6,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Pustovyi,42.11480605487228,131.26666666666668,1C,06:19,Barça,8,6,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Pustovyi,24.75,141.25,3C,08:59,Barça,42,27,TD Systems Baskonia,Mate,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,79.35454115421003,145.15,1C,07:08,Barça,6,6,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,122.56986754966888,143.08333333333334,1C,04:11,Barça,10,12,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,42.33959318826869,116.56666666666666,1C,01:53,Barça,15,12,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,82.6139545884579,25.416666666666668,2C,01:11,Barça,35,25,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,119.77876064333019,137.55,3C,09:32,Barça,40,27,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,29.339403973509935,108.76666666666667,3C,06:54,Barça,46,34,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,25.761542100283823,121.46666666666667,3C,00:01,Barça,64,47,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,27.52237464522233,109.7,4C,05:59,Barça,69,58,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+C. Higgins,113.35359508041627,241.2166666666667,4C,00:20,Barça,77,68,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+N. Calathes,41.103263954588456,166.08333333333337,1C,06:53,Barça,8,6,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+N. Calathes,76.8069536423841,185.75000000000003,1C,05:19,Barça,8,10,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+N. Calathes,139.5038315988647,39.46666666666666,2C,00:10,Barça,35,27,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+N. Calathes,68.93940397350994,122.23333333333333,3C,05:18,Barça,48,35,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+N. Calathes,163.83703878902554,138.33333333333334,4C,03:13,Barça,69,65,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,155.65104068117313,143.58333333333334,1C,03:13,Barça,13,12,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,73.24782403027436,120.46666666666667,2C,09:41,Barça,15,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,158.2173604541154,186.43333333333334,2C,07:00,Barça,21,15,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,34.884153263954595,116.5,3C,04:41,Barça,52,35,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,109.28869441816462,206.29999999999998,3C,03:58,Barça,54,37,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,113.48472090823084,234.01666666666665,3C,02:18,Barça,57,40,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,158.81679280983917,129.28333333333333,3C,01:37,Barça,57,43,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,38.74299905392621,220.4333333333333,4C,08:41,Barça,67,47,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+K. Kuric,40.26031220435195,213.85,4C,06:53,Barça,69,55,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+B. Davies,63.769299905392614,117.95,1C,02:14,Barça,13,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+B. Davies,48.44631031220436,88.03333333333333,1C,01:13,Barça,15,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+B. Davies,24.75,141.25,2C,08:56,Barça,19,15,TD Systems Baskonia,Mate,True,101428,2,2020-2021,Copa del Rey,False
+B. Davies,37.094560075685905,103.91666666666667,3C,05:09,Barça,50,35,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+B. Davies,115.39541154210029,139.11666666666667,3C,00:54,Barça,59,45,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+B. Davies,25.443093661305582,111.25,4C,07:31,Barça,69,53,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+B. Davies,24.75,141.25,4C,03:06,Barça,71,65,TD Systems Baskonia,Mate,True,101428,2,2020-2021,Copa del Rey,False
+R. Smits,37.094560075685905,129.16666666666666,2C,09:38,Barça,17,12,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+R. Smits,31.793330179754026,161.63333333333335,2C,04:28,Barça,24,19,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+R. Smits,40.428902554399244,128.26666666666668,2C,00:07,Barça,35,27,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+R. Smits,53.50402081362347,157.58333333333334,3C,05:24,Barça,48,35,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+R. Smits,68.6771523178808,132.71666666666664,3C,02:49,Barça,54,37,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Westermann,163.48112582781457,128.03333333333333,2C,08:16,Barça,19,15,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+L. Westermann,128.37686849574266,71.03333333333333,3C,03:12,Barça,54,37,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+L. Westermann,129.18235572374644,56.983333333333334,4C,09:38,Barça,64,47,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+L. Westermann,76.00146641438032,130.78333333333333,4C,00:52,Barça,77,66,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+L. Bolmaro,44.40014191106906,167.41666666666666,2C,07:50,Barça,21,15,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+A. Abrines,64.05028382213813,30.883333333333333,2C,05:15,Barça,24,17,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+A. Abrines,37.52540208136235,256.40000000000003,3C,00:32,Barça,62,45,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+A. Abrines,24.75,260.48333333333335,4C,09:21,Barça,67,47,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+P. Oriola,24.75,96.4,2C,04:32,Barça,24,19,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Hanga,63.63817407757804,256.2333333333333,2C,00:01,Barça,38,27,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+A. Hanga,109.4198202459792,238.11666666666665,4C,05:19,Barça,69,60,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,446.3008041627247,84.38333333333334,1C,09:57,Barça,0,2,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,454.3182119205298,166.73333333333335,1C,09:42,Barça,0,4,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,474.49285714285713,124.16666666666666,1C,08:27,Barça,4,6,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,480.15,141.25,1C,05:43,Barça,8,10,TD Systems Baskonia,Mate,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,400.4816934720908,185.23333333333335,1C,05:09,Barça,8,12,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,368.11234626300853,202.66666666666666,1C,04:27,Barça,8,12,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,396.9787606433302,124.16666666666666,1C,00:44,Barça,15,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,345.5587038789025,94.81666666666668,2C,09:12,Barça,17,15,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,391.1717596972564,104.88333333333333,2C,08:00,Barça,19,15,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,414.4184957426679,109.66666666666666,2C,06:34,Barça,21,15,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,410.6158467360454,147.9666666666667,2C,06:17,Barça,21,15,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,341.06296121097444,157.53333333333336,2C,04:02,Barça,24,19,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,476.8531220435194,165.88333333333333,2C,03:10,Barça,24,21,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,467.0186849574267,119.73333333333333,3C,09:47,Barça,38,27,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,416.2917218543046,192.88333333333335,3C,08:32,Barça,42,27,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+P. Henry,440.6623935666982,258.45,3C,08:04,Barça,44,30,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+P. Henry,380.10099337748346,137.28333333333333,4C,01:59,Barça,71,65,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+Z. Dragic,336.11764427625354,149.25,1C,09:02,Barça,2,4,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+Z. Dragic,466.28812677388834,174.66666666666669,1C,07:02,Barça,6,6,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+Z. Dragic,470.40922421948915,168.96666666666664,3C,03:05,Barça,54,37,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+Z. Dragic,472.99427625354775,157.41666666666666,4C,08:02,Barça,67,52,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+R. Giedraitis,355.82398297067175,69.61666666666666,1C,06:34,Barça,8,6,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+R. Giedraitis,441.467880794702,84.4,2C,05:34,Barça,21,17,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+R. Giedraitis,422.791816461684,251.8,3C,07:37,Barça,44,33,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+R. Giedraitis,338.85255439924316,138.51666666666668,4C,08:56,Barça,67,47,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,480.15,141.25,1C,05:56,Barça,8,8,TD Systems Baskonia,Mate,True,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,386.07658467360454,134.16666666666666,2C,08:38,Barça,19,15,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,472.31991485335857,163.01666666666665,2C,01:22,Barça,32,25,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,403.19787133396403,172.91666666666666,3C,04:16,Barça,52,37,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,462.54167455061497,113.9,3C,02:34,Barça,54,39,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,461.30534531693473,140.85,3C,01:26,Barça,57,45,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+T. Jekiri,468.55473036896876,173.8,4C,03:28,Barça,69,65,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,379.14564806054875,217.81666666666666,1C,03:55,Barça,10,12,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,459.9566225165563,174.53333333333333,1C,03:26,Barça,10,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,425.6391201513718,33.466666666666676,2C,07:25,Barça,21,15,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,447.76192052980133,155.61666666666667,2C,06:14,Barça,21,17,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,346.77630085146643,117.91666666666667,2C,03:44,Barça,24,19,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,342.0370387890256,139.7,2C,02:30,Barça,26,21,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,375.1744087038789,44.25,4C,08:26,Barça,67,50,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,356.1798959318827,204.23333333333332,4C,06:34,Barça,69,58,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,332.57724692526017,176.56666666666666,4C,04:06,Barça,69,63,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Polonara,371.7276726584674,223.0666666666667,4C,02:14,Barça,71,65,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,406.2512298959319,110.06666666666668,1C,02:47,Barça,13,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,434.57440870387893,86.08333333333333,1C,01:36,Barça,15,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,405.7079943235573,209.05,1C,00:01,Barça,15,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,456.04157994323555,86.98333333333333,2C,05:22,Barça,21,17,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,469.49134342478715,111.01666666666667,2C,01:57,Barça,29,23,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,442.0860454115421,116.38333333333334,3C,09:10,Barça,40,27,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,370.435146641438,144.83333333333331,3C,06:07,Barça,46,35,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,344.0601229895932,95.21666666666667,3C,03:38,Barça,54,37,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,342.0745033112583,132.48333333333335,3C,01:54,Barça,57,43,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,427.77459791863765,156.15,4C,05:54,Barça,69,58,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,464.60222327341535,106.58333333333333,4C,05:34,Barça,69,60,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,448.3613528855251,22.316666666666666,4C,04:53,Barça,69,63,TD Systems Baskonia,Triple,True,101428,2,2020-2021,Copa del Rey,False
+L. Vildoza,393.2697729422895,141.23333333333332,4C,02:43,Barça,71,65,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Peters,466.98122043519396,198.11666666666667,1C,02:43,Barça,13,12,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+A. Peters,475.1859508041627,123.46666666666667,2C,04:53,Barça,24,19,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+A. Peters,425.6953169347209,34.03333333333333,3C,07:11,Barça,44,34,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Peters,386.7322138126774,45.35,3C,04:47,Barça,50,35,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Peters,464.8832071901608,107.7,4C,07:11,Barça,69,55,TD Systems Baskonia,Tiro de 2,True,101428,2,2020-2021,Copa del Rey,False
+A. Peters,464.789545884579,160.83333333333331,4C,00:11,Barça,77,68,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+Y. Fall,451.3585146641438,171.33333333333334,3C,09:44,Barça,38,27,TD Systems Baskonia,Tiro de 2,False,101428,2,2020-2021,Copa del Rey,False
+I. Diop,342.95491958372753,136.95000000000002,3C,05:43,Barça,48,35,TD Systems Baskonia,Triple,False,101428,2,2020-2021,Copa del Rey,False
+A. Abalde,24.75,142.51666666666668,1C,09:31,Real Madrid,2,0,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,157.18708609271522,187.01666666666665,1C,08:14,Real Madrid,5,2,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,119.55397350993378,237.43333333333334,1C,04:26,Real Madrid,7,10,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,28.084342478713342,126.41666666666667,1C,03:06,Real Madrid,7,15,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,280.08945127719966,193.36666666666667,1C,00:00,Real Madrid,11,20,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,47.13505203405866,191.66666666666666,4C,08:18,Real Madrid,52,71,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,137.1810312204352,68.36666666666666,4C,07:16,Real Madrid,57,71,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,32.84233680227058,164.98333333333332,4C,06:37,Real Madrid,57,73,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,110.50629139072846,211.58333333333334,4C,06:29,Real Madrid,59,73,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,163.85577105014193,136.58333333333334,4C,05:46,Real Madrid,62,73,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,165.2794228949858,145.48333333333335,4C,05:09,Real Madrid,62,75,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+A. Abalde,150.03136234626302,200.56666666666666,4C,02:39,Real Madrid,67,81,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,183.39351939451277,203.9666666666667,1C,06:25,Real Madrid,7,4,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,82.87620624408704,181.08333333333331,2C,01:34,Real Madrid,29,47,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,171.47980132450328,123.88333333333333,2C,00:03,Real Madrid,29,52,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,24.75,100.15,3C,09:46,Real Madrid,31,52,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,24.75,134.46666666666667,3C,08:41,Real Madrid,33,55,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+S. Llull,145.27336802270577,74.30000000000001,3C,07:29,Real Madrid,36,55,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+S. Llull,178.14848628192996,172.59999999999997,3C,06:46,Real Madrid,36,55,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,24.75,123.45,3C,05:55,Real Madrid,38,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,33.7976821192053,169.21666666666667,3C,04:21,Real Madrid,40,56,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,165.76646168401135,89.55000000000001,3C,03:21,Real Madrid,40,61,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,148.13940397350993,65.4,3C,02:23,Real Madrid,47,61,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+S. Llull,123.84366130558183,45.483333333333334,3C,01:08,Real Madrid,50,65,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+S. Llull,24.75,257.35,3C,00:39,Real Madrid,50,67,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+T. Thompkins,131.46769157994322,57.78333333333333,1C,06:19,Real Madrid,7,4,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+T. Thompkins,24.75,148.88333333333333,1C,05:43,Real Madrid,7,6,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+T. Thompkins,27.616035950804164,210.31666666666666,1C,05:13,Real Madrid,7,8,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+T. Thompkins,34.284720908230845,138.2833333333333,1C,04:39,Real Madrid,7,8,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+T. Thompkins,24.75,148.88333333333333,2C,09:10,Real Madrid,16,20,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+T. Thompkins,28.084342478713342,148.45000000000002,2C,00:01,Real Madrid,31,52,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,154.8080889309366,96.76666666666667,1C,03:37,Real Madrid,7,12,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,39.51102175969726,148.45000000000002,1C,02:42,Real Madrid,9,18,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,35.70837275307474,158.20000000000002,1C,01:55,Real Madrid,9,18,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,32.84233680227058,169.63333333333335,3C,02:42,Real Madrid,44,61,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,102.39522232734153,32.78333333333333,3C,01:52,Real Madrid,50,63,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,84.76816461684012,248.45000000000002,3C,00:04,Real Madrid,50,69,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+F. Causeur,98.10553453169348,247.1833333333333,4C,03:16,Real Madrid,67,79,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,24.75,136.58333333333334,1C,00:55,Real Madrid,11,20,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,27.616035950804164,139.13333333333333,2C,09:13,Real Madrid,14,20,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,2C,08:05,Real Madrid,20,25,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,3C,06:21,Real Madrid,38,55,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,31.41868495742668,133.2,3C,05:51,Real Madrid,40,55,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,84.76816461684012,111.16666666666666,4C,08:04,Real Madrid,52,71,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,4C,07:47,Real Madrid,54,71,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,4C,04:32,Real Madrid,64,78,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+W. Tavares,24.75,141.25,4C,00:48,Real Madrid,73,88,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,143.36267738883635,210.31666666666666,1C,00:21,Real Madrid,11,20,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,25.705345316934725,69.21666666666668,1C,00:10,Real Madrid,11,20,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,104.77421948912017,241.66666666666663,2C,09:19,Real Madrid,14,20,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,90.96854304635761,34.05,2C,07:30,Real Madrid,20,27,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,105.72956480605487,96.33333333333334,2C,04:29,Real Madrid,23,35,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,111.46163670766319,44.63333333333333,3C,09:13,Real Madrid,31,55,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,71.9178334910123,167.95,3C,08:08,Real Madrid,33,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+J. Carroll,137.1810312204352,66.66666666666667,3C,05:01,Real Madrid,40,56,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+C. Alocén,26.173651844843896,136.58333333333334,2C,09:49,Real Madrid,13,20,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Alocén,52.38008514664144,179.8166666666667,2C,08:46,Real Madrid,18,23,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Alocén,123.3566225165563,78.11666666666667,4C,08:50,Real Madrid,52,69,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Alocén,26.173651844843896,134.46666666666667,4C,01:30,Real Madrid,71,86,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+G. Deck,89.05785241248816,238.70000000000002,2C,05:58,Real Madrid,23,31,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+G. Deck,51.911778618732264,71.76666666666668,2C,05:22,Real Madrid,23,33,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+G. Deck,39.51102175969726,204.81666666666663,2C,04:59,Real Madrid,23,33,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+G. Deck,24.75,141.25,2C,02:17,Real Madrid,29,45,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+G. Deck,28.084342478713342,135.31666666666666,3C,03:02,Real Madrid,44,61,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Laprovittola,168.14545884579,136.58333333333334,2C,00:56,Real Madrid,29,49,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+U. Garuba,137.64933774834438,209.05,4C,00:51,Real Madrid,71,88,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,472.0576631977294,136.58333333333334,1C,09:06,Real Madrid,2,2,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,379.63268684957427,203.53333333333333,1C,07:41,Real Madrid,5,2,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,480.15,148.03333333333336,2C,06:15,Real Madrid,20,31,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,474.43666035950804,137.43333333333337,2C,05:48,Real Madrid,23,33,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,478.7263481551561,148.03333333333336,2C,02:36,Real Madrid,27,45,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,477.77100283822136,135.31666666666666,3C,09:29,Real Madrid,31,54,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,398.68339640491956,145.48333333333335,3C,08:56,Real Madrid,31,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,405.83912015137184,162.01666666666665,3C,06:06,Real Madrid,38,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,480.15,142.1,4C,09:27,Real Madrid,50,69,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,477.77100283822136,157.78333333333333,4C,09:05,Real Madrid,50,69,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,477.77100283822136,156.50000000000003,4C,05:28,Real Madrid,62,73,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,444.427578051088,259.05,4C,04:47,Real Madrid,62,78,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,475.39200567644275,149.71666666666667,4C,04:19,Real Madrid,65,78,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,399.17043519394514,149.71666666666667,4C,02:17,Real Madrid,67,83,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+C. Higgins,360.0949385052034,192.51666666666668,4C,00:13,Real Madrid,73,88,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,367.71896877956476,73.45,1C,07:48,Real Madrid,5,2,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,367.71896877956476,64.55,1C,06:51,Real Madrid,7,4,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,480.15,145.06666666666666,1C,04:33,Real Madrid,7,10,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,365.3399716177862,202.68333333333334,2C,04:10,Real Madrid,23,38,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,361.0502838221381,201.41666666666669,3C,07:06,Real Madrid,36,55,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,438.6955061494797,145.91666666666669,4C,07:53,Real Madrid,52,71,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,365.3399716177862,77.26666666666667,4C,07:25,Real Madrid,54,71,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,450.60922421948914,179.38333333333333,4C,02:55,Real Madrid,67,81,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,347.24460737937557,143.79999999999998,4C,01:39,Real Madrid,69,86,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+N. Calathes,340.5759224219489,173.45,4C,00:25,Real Madrid,73,88,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,454.430605487228,137.86666666666667,1C,07:31,Real Madrid,5,4,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,471.1023178807947,180.23333333333335,1C,06:05,Real Madrid,7,6,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,480.15,148.03333333333336,1C,05:36,Real Madrid,7,8,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,458.72029328287607,148.03333333333336,1C,04:50,Real Madrid,7,8,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,471.1023178807947,192.1,2C,06:55,Real Madrid,20,29,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,474.43666035950804,162.4333333333333,3C,02:30,Real Madrid,44,61,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+N. Mirotic,480.15,142.1,3C,01:01,Real Madrid,50,67,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+B. Davies,475.86031220435194,140.4,1C,03:52,Real Madrid,7,12,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+B. Davies,395.83609271523176,118.36666666666666,2C,08:01,Real Madrid,20,27,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+B. Davies,444.89588457899714,159.05,2C,07:06,Real Madrid,20,27,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+B. Davies,480.15,135.31666666666666,2C,01:52,Real Madrid,29,47,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+B. Davies,412.020766319773,141.25,3C,07:42,Real Madrid,33,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+B. Davies,463.4782876064333,143.36666666666665,3C,06:56,Real Madrid,36,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+B. Davies,477.28396404919584,170.06666666666663,3C,06:52,Real Madrid,36,55,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,421.55548722800376,110.31666666666668,1C,03:15,Real Madrid,7,12,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,385.3460264900662,46.766666666666666,1C,01:46,Real Madrid,9,18,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,409.6417691579943,181.93333333333334,2C,08:20,Real Madrid,18,25,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,407.2627719962157,238.28333333333336,2C,07:18,Real Madrid,20,27,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,242.905912961211,55.65,3C,00:00,Real Madrid,50,69,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,417.2657994323557,34.46666666666667,4C,09:20,Real Madrid,50,69,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,446.31953642384104,147.18333333333334,4C,08:32,Real Madrid,52,71,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+K. Kuric,405.83912015137184,88.7,4C,07:01,Real Madrid,57,73,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+R. Smits,465.8572847682119,146.76666666666665,1C,03:11,Real Madrid,7,14,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
+R. Smits,352.95794701986756,102.68333333333334,1C,02:58,Real Madrid,7,18,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+R. Smits,458.72029328287607,142.1,1C,02:16,Real Madrid,9,18,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+R. Smits,480.15,256.0833333333333,2C,03:46,Real Madrid,25,41,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+R. Smits,480.15,24.71666666666667,2C,03:09,Real Madrid,25,41,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+R. Smits,477.28396404919584,136.16666666666666,3C,05:23,Real Madrid,40,56,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+R. Smits,480.15,141.25,3C,01:29,Real Madrid,50,65,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+R. Smits,480.15,141.25,3C,00:28,Real Madrid,50,69,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+A. Pustovyi,480.15,141.25,1C,01:17,Real Madrid,9,20,Barça,Mate,True,101429,3,2020-2021,Copa del Rey,False
+L. Westermann,343.91026490066224,181.93333333333334,1C,00:43,Real Madrid,11,20,Barça,Triple,False,101429,3,2020-2021,Copa del Rey,False
+L. Westermann,470.61527909176914,154.38333333333333,2C,09:26,Real Madrid,14,20,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+A. Abrines,380.588032166509,57.78333333333333,2C,09:06,Real Madrid,16,23,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+A. Abrines,372.96400189214756,213.7,3C,04:11,Real Madrid,40,59,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+A. Hanga,432.51385998107855,24.71666666666667,2C,00:41,Real Madrid,29,52,Barça,Triple,True,101429,3,2020-2021,Copa del Rey,False
+P. Oriola,479.19465468306527,125.14999999999998,3C,04:46,Real Madrid,40,56,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+P. Oriola,471.1023178807947,148.45000000000002,4C,04:14,Real Madrid,65,78,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+P. Oriola,465.8572847682119,154.81666666666666,4C,04:03,Real Madrid,65,78,Barça,Tiro de 2,False,101429,3,2020-2021,Copa del Rey,False
+P. Oriola,477.28396404919584,145.91666666666669,4C,01:10,Real Madrid,71,88,Barça,Tiro de 2,True,101429,3,2020-2021,Copa del Rey,False
