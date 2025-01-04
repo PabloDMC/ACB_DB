@@ -1,4 +1,4 @@
-from Utils.utils import procesar_tiros, reintentar
+from Utils.scraping_helpers import procesar_tiros, reintentar
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By

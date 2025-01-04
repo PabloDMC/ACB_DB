@@ -1,9 +1,13 @@
 import pandas as pd
 import pickle
-from Utils.utils import ultimo_archivo
+from Utils.file_operations import ultimo_archivo
 from Utils.data_processing import transformar_nombre,actualizar_dataframe
 
 def main():
+    """
+    Actualización de las tablas 'jugadores' y 'jugadores_equipos' de la base de datos.
+    """
+    # Lectura de los datos necesarios para la creación y actualización de las tablas.
     df_jugadores_nuevo = pd.read_csv(ultimo_archivo('data/raw/new','df_jugadores'))
     with open("data/processed/static_data.pkl", "rb") as f:
         diccionario_static_df = pickle.load(f)
@@ -13,6 +17,7 @@ def main():
     df_jugadores = diccionario_df['jugadores']
     df_jugadores_equipos = diccionario_df['jugadores_equipos']
     
+    # Corrección del nombre de jugadores y equipos cuyo formato en la página https://jv.acb.com/ no coincide con el estándar.
     df_jugadores_nuevo.replace({'nombre_equipo':{'Valencia Basket Club':'Valencia Basket'}},inplace=True)
     df_jugadores_nuevo["nombre_jugador"] = df_jugadores_nuevo['nombre_jugador'].apply(transformar_nombre)
     jugadores_distintos = {'O. Balcerowski': 'A. Balcerowski',
@@ -64,12 +69,12 @@ def main():
                         .reset_index(drop=True) \
                         .rename(columns={'id_equipo_y':'id_equipo'})
     df_jugadores_equipos_nuevo = df_jugadores_equipos_nuevo[['id_jugador','id_equipo','id_temporada']]
-    
     jugadores_equipos = actualizar_dataframe(df_jugadores_equipos,df_jugadores_equipos_nuevo,'id_jugador_equipo')
     
     df_jugadores_nuevo = df_jugadores_nuevo.loc[:,['id_jugador','nombre_jugador']].sort_values(by='id_jugador').drop_duplicates()
     jugadores = pd.concat([df_jugadores,df_jugadores_nuevo],ignore_index=True).drop_duplicates()
     
+    # Se guardan las tablas en un diccionario de dataframes en un archivo pickle.
     diccionario_df = {"jugadores": jugadores,
                       "jugadores_equipos": jugadores_equipos}
     with open("data/processed/jugadores_equipos.pkl", "wb") as f:

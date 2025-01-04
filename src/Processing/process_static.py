@@ -1,9 +1,14 @@
 import pickle
 import pandas as pd
-from Utils.utils import ultimo_archivo
-from Scraping.Clases.scraper_id import obtener_id_equipos
+from Scraping.scraper_id import obtener_id_equipos
 
 def main():
+    """
+    Creación de las tablas 'equipos','clubes','temporadas' y 'competiciones' de la base de datos. 
+    Estas tablas son estáticas, no se actualizarán con el paso del tiempo.
+    """
+    
+    # Creación de la tabla equipos.
     list_equipos = []
     for temporada in range(2020,2025):
         list_equipos.extend(obtener_id_equipos(temporada))
@@ -26,6 +31,7 @@ def main():
         .rename(columns={'index':'id_equipo'})                        
     equipos.id_equipo += 1
     
+    # Creación de la tabla temporadas.
     temporadas = pd.DataFrame([[1,2020,2021,'2020-2021'],
                                 [2,2021,2022,'2021-2022'],
                                 [3,2022,2023,'2022-2023'],
@@ -33,6 +39,7 @@ def main():
                                 [5,2024,2025,'2024-2025']],
                                 columns=['id_temporada','anio_inicio','anio_fin','temporada'])
 
+    # Creación de la tabla clubes.
     nombre_clubes={'Acunsa GBC': 'Gipuzkoa Basket Club',
                     'Barça': 'Fútbol Club Barcelona',
                     'BAXI Manresa': 'Bàsquet Manresa',
@@ -62,9 +69,11 @@ def main():
                 .replace({'nombre_oficial':nombre_clubes}) \
                 .sort_values(by='id_club')
 
+    # Creación de la tabla competiciones.
     competiciones = pd.DataFrame([[1,'Liga Endesa'],[2,'Copa del Rey'],[3,'Supercopa Endesa']],
                                 columns=['id_competicion','nombre_competicion'])
 
+    # Se guardan las tablas en un diccionario de dataframes en un archivo pickle.
     diccionario_df = {"equipos": equipos,
                       "clubes": clubes,
                       "competiciones": competiciones,

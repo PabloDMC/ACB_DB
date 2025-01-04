@@ -1,5 +1,5 @@
-from Scraping.Clases.scraper import ScraperACB
-from Utils.utils import guardar_datos_csv
+from scraper import ScraperACB
+from Utils.file_operations import guardar_datos_csv
 
 scraper = ScraperACB()
 raw_path = '../data/raw/'

@@ -3,7 +3,6 @@ import psycopg2
 from psycopg2 import sql
 from psycopg2.extras import execute_values
 from psycopg2.extensions import register_adapter, AsIs
-import pandas as pd
 import numpy as np
 import pickle
 from dotenv import load_dotenv
@@ -53,7 +52,11 @@ class BaseDeDatos:
             raise
         
     def ejecutar_script_sql(self, script_path):
-        """Ejecuta un script SQL desde un archivo."""
+        """Ejecuta un script SQL desde un archivo.
+        
+        Args:
+            script_path (str): Path del script SQL a ejecutar.
+        """
         if not os.path.exists(script_path):
             raise FileNotFoundError(f"El archivo {script_path} no existe.")
         with self.connection.cursor() as cursor:
@@ -62,7 +65,11 @@ class BaseDeDatos:
             self.connection.commit()  
 
     def create_database_if_not_exists(self, script_path):
-        """Crea la base de datos si no existe y configura las tablas utilizando el script script_path."""
+        """Crea la base de datos si no existe y configura las tablas utilizando el script script_path.
+        
+        Args:
+            script_path (str): Path del script de SQL que crea las tablas.
+        """
         try:
             # Establecer conexión a la base de datos postgres (por defecto)
             with self.connection.cursor() as cursor:
@@ -73,17 +80,6 @@ class BaseDeDatos:
                 else:
                     print(f"La base de datos '{self.dbname}' ya existe.")
 
-            '''# Reconectar a la base de datos recién creada (o existente)
-            self.connection.close()  # Cerrar la conexión actual (a postgres)
-            self.connection = psycopg2.connect(
-                host=self.db_host,
-                port=self.db_port,
-                user=self.db_user,
-                password=self.db_password,
-                database=self.db_name
-            )
-            self.connection.autocommit = False  # Rehabilitar transacciones explícitas
-            '''
             # Ejecutar el script schema.sql para crear las tablas
             self.ejecutar_script_sql(script_path)
             print("Base de datos configurada según el esquema proporcionado.")
@@ -144,35 +140,37 @@ class BaseDeDatos:
             print("Conexión cerrada.")
 
 if __name__ == "__main__":
-    db_handler = BaseDeDatos()
+    acb_db = BaseDeDatos()
     '''
-    schema_path = "src/database/schema.sql"
-    db_handler.create_database_if_not_exists(schema_path)
+    acb_db.create_database_if_not_exists("src/database/schema.sql")
+    
+    with open("data/processed/static_data.pkl", "rb") as f:
+        diccionario_static = pickle.load(f)
+    equipos = diccionario_static['equipos']
+    clubes = diccionario_static['clubes']
+    competiciones = diccionario_static['competiciones']
+    temporadas = diccionario_static['temporadas']
+    
+    acb_db.update_table('clubes', clubes)
+    acb_db.update_table('competiciones', competiciones)
+    acb_db.update_table('temporadas', temporadas)
+    acb_db.update_table('equipos', equipos)
     '''
     with open("data/processed/jugadores_equipos.pkl", "rb") as f:
         diccionario_jugadores_equipos = pickle.load(f)
-    '''with open("data/processed/static_data.pkl", "rb") as f:
-        diccionario_static = pickle.load(f)'''
     with open("data/processed/dynamic_data.pkl", "rb") as f:
         diccionario_dynamic = pickle.load(f)
     jugadores = diccionario_jugadores_equipos['jugadores']
     jugadores_equipos = diccionario_jugadores_equipos['jugadores_equipos']
-    '''equipos = diccionario_static['equipos']
-    clubes = diccionario_static['clubes']
-    competiciones = diccionario_static['competiciones']
-    temporadas = diccionario_static['temporadas']'''
     jornadas = diccionario_dynamic['jornadas']
     partidos = diccionario_dynamic['partidos']
     tiros = diccionario_dynamic['tiros']
     
-    db_handler.update_table('jugadores', jugadores)
-    '''db_handler.update_table('clubes', clubes)
-    db_handler.update_table('competiciones', competiciones)
-    db_handler.update_table('temporadas', temporadas)
-    db_handler.update_table('equipos', equipos)'''
-    db_handler.update_table('jornadas', jornadas)
-    db_handler.update_table('partidos', partidos)
-    db_handler.update_table('tiros', tiros)
-    db_handler.update_table('jugadores_equipos', jugadores_equipos)
+    acb_db.update_table('jugadores', jugadores)
+    acb_db.update_table('jornadas', jornadas)
+    acb_db.update_table('partidos', partidos)
+    acb_db.update_table('tiros', tiros)
+    acb_db.update_table('jugadores_equipos', jugadores_equipos)
     
-    db_handler.close_connection()
+    acb_db.ejecutar_script_sql('src/Database/presentation.sql')
+    acb_db.close_connection()

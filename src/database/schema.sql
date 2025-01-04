@@ -1,15 +1,5 @@
-DROP TABLE IF EXISTS jugadores CASCADE;
-DROP TABLE IF EXISTS clubes CASCADE;
-DROP TABLE IF EXISTS competiciones CASCADE;
-DROP TABLE IF EXISTS temporadas CASCADE;
-DROP TABLE IF EXISTS equipos CASCADE; 
-DROP TABLE IF EXISTS jornadas CASCADE;
-DROP TABLE IF EXISTS partidos CASCADE;
-DROP TABLE IF EXISTS tiros CASCADE;
-DROP TABLE IF EXISTS jugadores_equipos CASCADE;
-
 -- Tabla de jugadores
-CREATE TABLE jugadores (
+CREATE TABLE IF NOT EXISTS jugadores (
     id_jugador INT PRIMARY KEY,
     nombre_jugador VARCHAR(50) NOT NULL
     --fecha_nacimiento DATE
@@ -17,19 +7,19 @@ CREATE TABLE jugadores (
 );
 
 -- Tabla de clubes
-CREATE TABLE clubes (
+CREATE TABLE IF NOT EXISTS clubes (
     id_club INT PRIMARY KEY,
     nombre_oficial VARCHAR(50) NOT NULL
 );
 
 -- Tabla de competencias
-CREATE TABLE competiciones (
+CREATE TABLE IF NOT EXISTS competiciones (
     id_competicion SERIAL PRIMARY KEY,
     nombre_competicion VARCHAR(20) NOT NULL
 );
 
 -- Tabla de temporadas
-CREATE TABLE temporadas (
+CREATE TABLE IF NOT EXISTS temporadas (
     id_temporada SERIAL PRIMARY KEY,
     anio_inicio INT NOT NULL,
     anio_fin INT NOT NULL,
@@ -37,7 +27,7 @@ CREATE TABLE temporadas (
 );
 
 -- Tabla de equipos
-CREATE TABLE equipos (
+CREATE TABLE IF NOT EXISTS equipos (
     id_equipo SERIAL PRIMARY KEY,
     id_club INT REFERENCES clubes(id_club),
     nombre_equipo VARCHAR(30) NOT NULL,
@@ -46,7 +36,7 @@ CREATE TABLE equipos (
 );
 
 -- Tabla de jornadas
-CREATE TABLE jornadas (
+CREATE TABLE IF NOT EXISTS jornadas (
     id_jornada SERIAL PRIMARY KEY,
     numero_jornada INT NOT NULL,
     id_temporada INT REFERENCES temporadas(id_temporada),
@@ -55,7 +45,7 @@ CREATE TABLE jornadas (
 );
 
 -- Tabla de partidos
-CREATE TABLE partidos (
+CREATE TABLE IF NOT EXISTS partidos (
     id_partido INT PRIMARY KEY,
     resultado_local INT,
     resultado_visitante INT,
@@ -66,7 +56,7 @@ CREATE TABLE partidos (
 );
 
 -- Tabla de tiros
-CREATE TABLE tiros (
+CREATE TABLE IF NOT EXISTS tiros (
     id_tiro SERIAL PRIMARY KEY,
     id_jugador INT REFERENCES jugadores(id_jugador),
     x FLOAT,
@@ -81,7 +71,7 @@ CREATE TABLE tiros (
 );
 
 -- Tabla de historial de equipos por jugador
-CREATE TABLE jugadores_equipos (
+CREATE TABLE IF NOT EXISTS jugadores_equipos (
     id_jugador_equipo SERIAL PRIMARY KEY,
     id_jugador INT REFERENCES jugadores(id_jugador),
     id_equipo INT REFERENCES equipos(id_equipo),

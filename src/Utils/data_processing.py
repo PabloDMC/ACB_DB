@@ -10,6 +10,9 @@ def quitar_acento(texto):
     )
 
 def transformar_nombre(nombre):
+    """
+    Transforma el nombre del formato 'Nombre Apellido' a 'N. Apellido'.
+    """
     partes = re.findall(r"\p{L}+['-]?\p{L}*\.?|\p{L}+[\.'-]?\p{L}*", nombre)
 
     if len(partes) < 2:
@@ -25,6 +28,9 @@ def transformar_nombre(nombre):
     return f"{inicial} {apellido}"
 
 def corregir_nombre_ambiguo(row,estructura):
+    """
+    Asigna el id_jugador correspondiente a un lanzamiento para el cual desconocemos el lanzador por ambigüedades en su nombre.
+    """
     clave = (row['nombre_jugador'], row['id_temporada'])
     if clave in estructura:
         for (id_jugador1, id_equipo1), (id_jugador2, id_equipo2) in combinations(estructura[clave], 2):

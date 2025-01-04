@@ -37,51 +37,13 @@ def guardar_datos_csv(data, archivo):
     df = convertir_df(data)
     df.to_csv(archivo, index=False)
     print(f"Datos guardados en {archivo}")
-    
-def cargar_datos_carpeta(directorio):
-    """
-    Lee todos los archivos CSV en el directorio especificado y los carga en un diccionario.
-
-    Args:
-        directorio (str): Ruta a la carpeta que contiene los archivos CSV.
-
-    Returns:
-        dict: Un diccionario donde las claves son los nombres de los archivos (sin extensión) 
-              y los valores son DataFrames con los datos de esos archivos.
-    """
-    dataframes = {}
-    for archivo in os.listdir(directorio):
-        if archivo.endswith('.csv'):  # Solo procesar archivos CSV
-            nombre = os.path.splitext(archivo)[0]  # Nombre del archivo sin la extensión
-            ruta_completa = os.path.join(directorio, archivo)
-            try:
-                dataframes[nombre] = pd.read_csv(ruta_completa)
-                print(f"Archivo {archivo} cargado correctamente.")
-            except Exception as e:
-                print(f"Error al cargar {archivo}: {e}")
-    return dataframes
-
-def combinar_datos(dataframes):
-    """
-    Combina todos los DataFrames de un diccionario en un único DataFrame.
-
-    Args:
-        dataframes (dict): Diccionario de DataFrames a combinar.
-
-    Returns:
-        pd.DataFrame: Un único DataFrame combinado con una columna que identifica el origen.
-    """
-    for nombre, df in dataframes.items():
-        df['origen'] = nombre  # Agregar una columna para identificar el archivo origen
-    datos_combinados = pd.concat(dataframes.values(), ignore_index=True)
-    return datos_combinados
 
 def extraer_fecha(nombre_archivo):
     """
     Función para extraer la fecha del nombre de un archivo csv.
     
     Args:
-        nombre_archivo (str): El nombre del archivo en formato 'jugadores_DD-MM-YYYY.csv',
+        nombre_archivo (str): El nombre del archivo en formato 'df_jugadores_DD-MM-YYYY.csv',
                             donde 'DD-MM-YYYY' representa la fecha.
 
     Returns:

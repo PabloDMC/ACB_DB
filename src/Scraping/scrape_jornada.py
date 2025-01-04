@@ -1,18 +1,18 @@
 import argparse
-from Clases.scraper_id import obtener_id_equipos,obtener_id_jugadores
-from Clases.scraper import ScraperACB
-from Utils.utils import guardar_datos_csv
+from scraper_id import obtener_id_equipos,obtener_id_jugadores
+from scraper import ScraperACB
+from Utils.file_operations import guardar_datos_csv
 from datetime import datetime
 import pandas as pd
 
-def scrape_jornada(jornada,competicion):
+def scrape_jornada(jornada,competicion,temporada):
     try:
         dict_competiciones = {'liga_endesa':1,'copa_del_rey':2,'supercopa_endesa':3}
         scraper = ScraperACB()
-        nuevos_datos = scraper.obtener_tiros_jornada(jornada, id_temporada=2024, id_competicion=dict_competiciones[competicion])
+        nuevos_datos = scraper.obtener_tiros_jornada(jornada, id_temporada=temporada, id_competicion=dict_competiciones[competicion])
 
         file_path = 'data/raw/new/'
-        guardar_datos_csv(nuevos_datos, f"{file_path}jornada_{jornada}_{competicion}.csv")
+        guardar_datos_csv(nuevos_datos, f"{file_path}jornada_{jornada}_{competicion}_{temporada}.csv")
         print(f"Datos de la jornada {jornada} guardados en {file_path}.")
     except Exception as e:
         print(f"Error durante el scraping de la jornada {jornada}: {e}")
@@ -40,7 +40,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scraping de datos de una jornada específica.")
     parser.add_argument("-j", "--jornada", type=int, required=True, help="Número de la jornada.")
     parser.add_argument("-c", "--competicion", type=str, required=True, help="ID de la competicion.")
+    parser.add_argument("-t", "--temporada", type=int, required=True, help="Año de inicio de la temporada.")
     args = parser.parse_args()
 
-    scrape_jornada(args.jornada, args.competicion)
+    scrape_jornada(args.jornada, args.competicion, args.temporada)
     scrape_jugadores()

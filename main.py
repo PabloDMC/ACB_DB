@@ -20,9 +20,9 @@ if __name__ == "__main__":
     # Define las rutas de los scripts a ejecutar
     base_dir = os.path.dirname(os.path.abspath(__file__))
     scripts = [
-        {"path": os.path.join(base_dir, "src", "Scraping", "scrape_jornada.py"), "args": ["-j", "6", "-c", "liga_endesa"]},
+        {"path": os.path.join(base_dir, "src", "Scraping", "scrape_jornada.py"), "args": ["-j", "6", "-c", "liga_endesa", "-t", "2024"]},
         {"path": os.path.join(base_dir, "src", "Processing", "process_player_team.py"), "args": []},
-        {"path": os.path.join(base_dir, "src", "Processing", "process_dynamic_data.py"), "args": ["-j", "6", "-c", "liga_endesa"]},
+        {"path": os.path.join(base_dir, "src", "Processing", "process_dynamic_data.py"), "args": ["-j", "6", "-c", "liga_endesa", "-t", "2024"]},
         {"path": os.path.join(base_dir, "src", "Database", "base_de_datos.py"), "args": []},
     ]
 
