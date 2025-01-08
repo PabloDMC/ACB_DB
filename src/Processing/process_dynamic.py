@@ -181,6 +181,7 @@ def crear_tabla_tiros(df_raw,jugadores,equipos,jugadores_equipos):
         estructura[clave].append((row['id_jugador'], row['id_equipo']))
     
     df_tiros['id_jugador'] = df_tiros.apply(corregir_nombre_ambiguo, axis=1, args=(estructura,)) # Se asigna el id_jugador correspondiente a lanzamientos con ambigüedad.
+    df_tiros = df_tiros.dropna() # Error. Hay un jugador que sale en los tiros pero no en las plantillas de los equipos. Corregir esto.
     df_tiros['id_jugador'] = df_tiros['id_jugador'].astype('int')
     df_tiros = df_tiros \
         .drop(['nombre_jugador','id_local','id_visitante','id_temporada'],axis=1) \

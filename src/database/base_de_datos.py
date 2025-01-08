@@ -23,57 +23,56 @@ register_adapter(np.bool_, adapt_numpy_bool)
 
 class BaseDeDatos:
     def __init__(self):
-        """Inicializa la conexión a la base de datos PostgreSQL."""
+        """Inicializa la clase y carga las configuraciones."""
         load_dotenv()
         self.connection = None
-        self.dbname=os.getenv("DB_NAME", "postgres")
-        self.user=os.getenv("DB_USER")
-        self.password=os.getenv("DB_PASSWORD")
-        self.host=os.getenv("DB_HOST")
-        self.port=os.getenv("DB_PORT")
-        self._connect_to_database()
+        self.dbname = os.getenv("DB_NAME", "postgres")
+        self.user = os.getenv("DB_USER")
+        self.password = os.getenv("DB_PASSWORD")
+        self.host = os.getenv("DB_HOST")
+        self.port = os.getenv("DB_PORT")
 
-    def _connect_to_database(self):
-        """Establece conexión a PostgreSQL usando las variables de entorno.
-        
-        Si 'DB_NAME' no está definida, conecta a la base de datos 'postgres' por defecto.
-        """
+    def _connect(self, dbname=None, autocommit=False):
+        """Crea una conexión a la base de datos especificada."""
+        dbname = dbname or self.dbname
         try:
-            print(f"Conectando a la base de datos '{self.dbname}'...")
-            self.connection = psycopg2.connect(
-                dbname=self.dbname,
+            connection = psycopg2.connect(
+                dbname=dbname,
                 user=self.user,
                 password=self.password,
                 host=self.host,
                 port=self.port
             )
-            print(f"Conexión a la base de datos '{self.dbname}' establecida correctamente.")
+            connection.autocommit = autocommit  # Establece el modo de autocommit
+            return connection
         except Exception as e:
-            print(f"Error al conectar a la base de datos: {e}")
-            raise
-        
+            raise RuntimeError(f"Error al conectar a la base de datos '{dbname}': {e}")
+
     def ejecutar_script_sql(self, script_path):
-        """Ejecuta un script SQL desde un archivo.
-        
-        Args:
-            script_path (str): Path del script SQL a ejecutar.
-        """
+        """Ejecuta un script SQL desde un archivo."""
         if not os.path.exists(script_path):
             raise FileNotFoundError(f"El archivo {script_path} no existe.")
         with self.connection.cursor() as cursor:
             with open(script_path, 'r') as file:
                 cursor.execute(file.read())
-            self.connection.commit()  
+            self.connection.commit()
 
     def create_database_if_not_exists(self, script_path):
-        """Crea la base de datos si no existe y configura las tablas utilizando el script script_path.
-        
-        Args:
-            script_path (str): Path del script de SQL que crea las tablas.
-        """
+        """Crea la base de datos si no existe y configura las tablas."""
         try:
-            # Establecer conexión a la base de datos postgres (por defecto)
-            with self.connection.cursor() as cursor:
+            # Conectar a la base de datos 'postgres' para crear la base de datos
+            print("Conectando a 'postgres' para crear la base de datos si no existe...")
+            temp_connection = psycopg2.connect(
+                dbname="postgres",
+                user=self.user,
+                password=self.password,
+                host=self.host,
+                port=self.port
+            )
+            temp_connection.autocommit = True  # Importante: autocommit debe estar activado
+
+            with temp_connection.cursor() as cursor:
+                # Verificar si la base de datos ya existe
                 cursor.execute("SELECT 1 FROM pg_database WHERE datname = %s", [self.dbname])
                 if not cursor.fetchone():
                     cursor.execute(sql.SQL("CREATE DATABASE {}").format(sql.Identifier(self.dbname)))
@@ -81,22 +80,27 @@ class BaseDeDatos:
                 else:
                     print(f"La base de datos '{self.dbname}' ya existe.")
 
-            # Ejecutar el script schema.sql para crear las tablas
+            # Cerrar la conexión temporal
+            temp_connection.close()
+
+            # Ahora conectar a la base de datos recién creada
+            self.connection = self._connect(self.dbname)
+
+            # Ejecutar el script para configurar las tablas
             self.ejecutar_script_sql(script_path)
             print("Base de datos configurada según el esquema proporcionado.")
+
         except Exception as e:
             print(f"Error al crear o configurar la base de datos: {e}")
             if self.connection:
-                self.connection.rollback() 
+                self.connection.rollback()
 
     def update_table(self, table_name, new_data):
-        """Actualiza la tabla de la base de datos con nuevas filas.
-        
-        Args:
-            table_name (str): Nombre de la tabla a actualizar.
-            new_data (pd.DataFrame): Datos nuevos que se insertarán en la tabla.
-        """
+        """Actualiza la tabla de la base de datos con nuevas filas."""
         try:
+            if self.connection is None:
+                raise RuntimeError("No hay conexión activa a la base de datos.")
+            
             primary_key_column = new_data.columns[0]  # Suponemos que la primera columna es la clave primaria
 
             # Obtener las filas existentes en la tabla
@@ -132,8 +136,9 @@ class BaseDeDatos:
 
         except Exception as e:
             print(f"Error al actualizar la tabla '{table_name}': {e}")
-            self.connection.rollback()  # Hacemos rollback en caso de error     
-    
+            if self.connection:
+                self.connection.rollback()
+
     def close_connection(self):
         """Cierra la conexión a la base de datos."""
         if self.connection:

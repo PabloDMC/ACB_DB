@@ -147,7 +147,7 @@ class ScraperACB:
             equipo_visitante = soup.find('div', class_='sm-table sm-table--visitor').find('span').get_text(strip=True)
             temporada = f"{id_temporada}-{int(id_temporada)+1}" if id_temporada else None
             competicion = "Liga Endesa" if id_competicion == 1 else "Copa del Rey" if id_competicion == 2 else "Supercopa Endesa" if id_competicion == 3 else None
-            playoff = None if id_jornada is None or id_competicion is None else id_competicion == 1 and id_jornada > 34
+            playoff = None if id_jornada is None or id_competicion is None else id_competicion == 1 and id_jornada > 34 # Error. En la temporada 2020-2021 había 19 equipos y 38 jornadas de temporada regular
             tiros = soup.find_all('foreignobject')
             datos = procesar_tiros(tiros,equipo_local,equipo_visitante,id_partido,id_jornada,temporada,competicion,playoff)
             return datos
@@ -198,67 +198,31 @@ class ScraperACB:
         """
         try:
             datos_competicion = []
-            id_jornada = 1
+            if id_competicion == 1:
+                max_jornadas = 47
+            elif id_competicion == 2:
+                max_jornadas = 3
+            elif id_competicion == 3:
+                max_jornadas = 2
+            else:
+                print(f"Competición con id {id_competicion} no reconocida.")
+                return []
+            for id_jornada in range(1,max_jornadas + 1):
+                try:
+                    print(f"Obteniendo datos de la jornada {id_jornada}...")
+                    datos_jornada = self.obtener_tiros_jornada(id_jornada, id_temporada, id_competicion)
 
-            while True:
-                print(f"Obteniendo datos de la jornada {id_jornada}...")
-                datos_jornada = self.obtener_tiros_jornada(id_jornada, id_temporada, id_competicion)
+                    if datos_jornada:
+                        datos_competicion.extend(datos_jornada)
+                    else:
+                        print(f"Jornada {id_jornada} vacía. Continuando con la siguiente jornada.")
 
-                if not datos_jornada:
-                    print(f"No se encontraron datos para la jornada {id_jornada}. Finalizando la obtención de datos.")
-                    break
-
-                datos_competicion.extend(datos_jornada)
-                id_jornada += 1
-
-            self.cerrar_driver()
+                except Exception as e:
+                    print(f"Error al obtener los datos de la jornada {id_jornada}: {e}")
+                    continue
             return datos_competicion
         except Exception as e:
             print(f"Error al obtener los datos de la competición: {e}")
             return []
         finally:
             self.cerrar_driver()
-        
-"""
-# Obtener los tiros de los partidos de una jornada
-    def obtener_tiros_jornada(self, id_jornada, id_temporada, id_competicion):
-        # Obtener los IDs de los partidos de la jornada
-        id_partidos = self.obtener_id_partidos_jornada(id_jornada, id_temporada, id_competicion)
-        
-        if not id_partidos: # Si id_partidos está vacío
-            return []
-    
-        # Número máximo de reintentos para cada partido
-        max_reintentos = 3
-        datos_jornada = []
-
-        for id_partido in id_partidos:
-            reintento = 0
-            while reintento < max_reintentos:
-                try:
-                    if reintento > 0:
-                        print(f"Reintentando la carga de la página para el partido {id_partido} ({reintento}/{max_reintentos})...")
-                        self.driver.refresh()
-                        time.sleep(1)  # Esperar un poco para que la página recargue
-
-                    # Llamar al método para obtener los tiros del partido
-                    datos_partido = self.obtener_tiros_partido(id_partido, id_jornada, id_temporada, id_competicion)
-                    
-                    # Si los datos se obtuvieron con éxito, se sale del bucle
-                    if datos_partido:
-                        break
-
-                except (NoSuchElementException, TimeoutException) as e:
-                    print(f"Error al intentar scrapear el partido {id_partido}: {e}")
-                    reintento += 1
-                    if reintento < max_reintentos:
-                        print("Esperando antes del siguiente intento...")
-                        time.sleep(1)
-                    else:
-                        print(f"Fallo al scrapear el partido {id_partido} después de {max_reintentos} reintentos.")
-                        datos_partido = []  # Si después de 3 reintentos no se obtiene información, se establece como lista vacía
-
-            # Agregar los datos del partido a la lista de datos de la jornada
-            datos_jornada.extend(datos_partido)
-
-        return datos_jornada"""

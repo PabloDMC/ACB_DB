@@ -1,347 +1,347 @@
 nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
-R. Giedraitis,134.24006622516555,215.83333333333331,1C,08:56,TD Systems Baskonia,3,0,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,70.13826868495742,140.83333333333334,1C,06:18,TD Systems Baskonia,5,4,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,56.557379375591296,23.333333333333336,2C,06:12,TD Systems Baskonia,20,29,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,152.01698202459792,200.0,3C,08:12,TD Systems Baskonia,33,37,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,61.24044465468307,123.33333333333334,3C,08:09,TD Systems Baskonia,35,37,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,35.5023178807947,171.25,3C,07:13,TD Systems Baskonia,39,39,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,150.61206244087037,77.08333333333334,3C,06:38,TD Systems Baskonia,42,42,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,89.7884105960265,247.91666666666669,3C,05:20,TD Systems Baskonia,42,44,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-R. Giedraitis,39.24877010406812,147.08333333333334,4C,04:19,TD Systems Baskonia,61,65,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-S. Raieste,43.46352885525071,166.25,1C,08:29,TD Systems Baskonia,5,0,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,27.559839167455063,22.916666666666668,1C,06:47,TD Systems Baskonia,5,4,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,40.18538315988648,116.25,2C,03:40,TD Systems Baskonia,22,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,59.36721854304636,127.5,2C,02:57,TD Systems Baskonia,24,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,42.99522232734153,154.16666666666669,2C,02:40,TD Systems Baskonia,26,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,84.16873226111636,245.83333333333334,2C,02:00,TD Systems Baskonia,26,33,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,163.70591296121097,157.08333333333334,3C,04:08,TD Systems Baskonia,42,50,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-Z. Dragic,35.97062440870388,165.41666666666666,3C,03:18,TD Systems Baskonia,42,53,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,38.780463576158944,115.41666666666667,1C,05:45,TD Systems Baskonia,5,6,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,57.025685903500474,128.33333333333331,1C,05:39,TD Systems Baskonia,5,6,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,24.75,22.083333333333332,2C,07:59,TD Systems Baskonia,17,24,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,43.931835383159886,143.75,2C,07:31,TD Systems Baskonia,17,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,126.27885525070955,108.33333333333334,3C,08:53,TD Systems Baskonia,31,37,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,120.65917691579942,166.25,3C,05:48,TD Systems Baskonia,42,44,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,125.3422421948912,137.08333333333334,3C,02:21,TD Systems Baskonia,42,53,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,163.70591296121097,169.58333333333331,4C,03:38,TD Systems Baskonia,61,67,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,36.90723746452223,172.08333333333331,4C,02:56,TD Systems Baskonia,63,69,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,40.18538315988648,178.33333333333334,4C,01:20,TD Systems Baskonia,66,71,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,48.61490066225166,122.5,4C,00:43,TD Systems Baskonia,68,71,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-P. Henry,36.438930936613055,166.25,4C,00:25,TD Systems Baskonia,68,71,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,167.4523651844844,149.58333333333334,1C,04:44,TD Systems Baskonia,5,10,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,134.70837275307474,125.83333333333336,1C,00:25,TD Systems Baskonia,14,22,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,83.7004257332072,205.00000000000003,2C,09:18,TD Systems Baskonia,16,24,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,30.8379848628193,73.33333333333333,2C,05:00,TD Systems Baskonia,20,31,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,143.11915799432356,200.41666666666669,2C,00:36,TD Systems Baskonia,28,35,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,143.58746452223272,194.58333333333334,2C,00:25,TD Systems Baskonia,28,35,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,24.75,216.66666666666669,3C,01:16,TD Systems Baskonia,44,55,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,134.24006622516555,56.666666666666664,4C,09:46,TD Systems Baskonia,48,60,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,134.240066,215.833333,1C,08:56,TD Systems Baskonia,3,0,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,70.138269,140.833333,1C,06:18,TD Systems Baskonia,5,4,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,56.557379,23.333333,2C,06:12,TD Systems Baskonia,20,29,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,152.016982,200.0,3C,08:12,TD Systems Baskonia,33,37,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,61.240445,123.333333,3C,08:09,TD Systems Baskonia,35,37,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,35.502318,171.25,3C,07:13,TD Systems Baskonia,39,39,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,150.612062,77.083333,3C,06:38,TD Systems Baskonia,42,42,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,89.788411,247.916667,3C,05:20,TD Systems Baskonia,42,44,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+R. Giedraitis,39.24877,147.083333,4C,04:19,TD Systems Baskonia,61,65,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+S. Raieste,43.463529,166.25,1C,08:29,TD Systems Baskonia,5,0,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,27.559839,22.916667,1C,06:47,TD Systems Baskonia,5,4,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,40.185383,116.25,2C,03:40,TD Systems Baskonia,22,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,59.367219,127.5,2C,02:57,TD Systems Baskonia,24,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,42.995222,154.166667,2C,02:40,TD Systems Baskonia,26,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,84.168732,245.833333,2C,02:00,TD Systems Baskonia,26,33,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,163.705913,157.083333,3C,04:08,TD Systems Baskonia,42,50,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+Z. Dragic,35.970624,165.416667,3C,03:18,TD Systems Baskonia,42,53,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,38.780464,115.416667,1C,05:45,TD Systems Baskonia,5,6,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,57.025686,128.333333,1C,05:39,TD Systems Baskonia,5,6,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,24.75,22.083333,2C,07:59,TD Systems Baskonia,17,24,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,43.931835,143.75,2C,07:31,TD Systems Baskonia,17,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,126.278855,108.333333,3C,08:53,TD Systems Baskonia,31,37,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,120.659177,166.25,3C,05:48,TD Systems Baskonia,42,44,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,125.342242,137.083333,3C,02:21,TD Systems Baskonia,42,53,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,163.705913,169.583333,4C,03:38,TD Systems Baskonia,61,67,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,36.907237,172.083333,4C,02:56,TD Systems Baskonia,63,69,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,40.185383,178.333333,4C,01:20,TD Systems Baskonia,66,71,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,48.614901,122.5,4C,00:43,TD Systems Baskonia,68,71,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+P. Henry,36.438931,166.25,4C,00:25,TD Systems Baskonia,68,71,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,167.452365,149.583333,1C,04:44,TD Systems Baskonia,5,10,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,134.708373,125.833333,1C,00:25,TD Systems Baskonia,14,22,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,83.700426,205.0,2C,09:18,TD Systems Baskonia,16,24,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,30.837985,73.333333,2C,05:00,TD Systems Baskonia,20,31,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,143.119158,200.416667,2C,00:36,TD Systems Baskonia,28,35,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,143.587465,194.583333,2C,00:25,TD Systems Baskonia,28,35,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,24.75,216.666667,3C,01:16,TD Systems Baskonia,44,55,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,134.240066,56.666667,4C,09:46,TD Systems Baskonia,48,60,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
 L. Vildoza,24.75,22.5,4C,08:47,TD Systems Baskonia,51,60,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,113.65331125827815,149.58333333333334,4C,07:54,TD Systems Baskonia,51,62,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,77.6124408703879,122.91666666666667,4C,06:15,TD Systems Baskonia,57,64,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,112.7166982024598,152.50000000000003,4C,02:12,TD Systems Baskonia,64,70,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Vildoza,151.08036896877957,79.58333333333334,4C,00:08,TD Systems Baskonia,68,72,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-I. Diop,171.19881740775782,128.33333333333331,1C,04:08,TD Systems Baskonia,5,12,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-I. Diop,68.26504257332071,90.41666666666667,1C,02:53,TD Systems Baskonia,5,16,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-I. Diop,45.8050614947966,150.00000000000003,1C,01:34,TD Systems Baskonia,12,19,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-I. Diop,63.113670766319764,82.91666666666667,2C,04:33,TD Systems Baskonia,20,33,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Kurucs,108.03363292336802,234.58333333333331,1C,02:10,TD Systems Baskonia,10,19,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Kurucs,24.75,260.4166666666667,3C,00:08,TD Systems Baskonia,45,60,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,50.95643330179754,162.08333333333337,1C,00:55,TD Systems Baskonia,12,21,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,44.40014191106906,119.58333333333333,2C,06:53,TD Systems Baskonia,19,27,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,30.8379848628193,78.75,2C,01:37,TD Systems Baskonia,28,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,159.50988647114474,177.5,3C,09:38,TD Systems Baskonia,31,35,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,163.70591296121097,104.58333333333333,3C,02:12,TD Systems Baskonia,42,53,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,37.37554399243141,22.5,4C,07:41,TD Systems Baskonia,54,62,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Peters,43.931835383159886,176.25000000000003,4C,07:06,TD Systems Baskonia,55,62,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-T. Jekiri,116.46315042573322,140.0,2C,08:55,TD Systems Baskonia,16,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-T. Jekiri,43.931835383159886,133.33333333333334,3C,07:36,TD Systems Baskonia,37,39,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-T. Jekiri,27.091532639545886,87.91666666666667,4C,05:32,TD Systems Baskonia,59,64,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Polonara,83.232119205298,117.08333333333333,2C,04:50,TD Systems Baskonia,20,31,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Polonara,197.40525070955533,69.16666666666667,2C,00:02,TD Systems Baskonia,28,35,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,385.1774361400189,226.66666666666669,1C,09:22,TD Systems Baskonia,0,0,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,390.7783822138127,183.33333333333334,1C,04:33,TD Systems Baskonia,5,10,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,453.00695364238413,162.08333333333337,2C,01:37,TD Systems Baskonia,26,33,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,450.19711447492904,121.66666666666667,3C,09:18,TD Systems Baskonia,31,37,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,370.6599337748344,219.99999999999997,3C,08:41,TD Systems Baskonia,33,37,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,383.7725165562914,230.41666666666666,3C,05:30,TD Systems Baskonia,42,44,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,230.76740775780507,183.75000000000003,3C,00:01,TD Systems Baskonia,45,60,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,422.6044938505203,154.16666666666669,4C,07:30,TD Systems Baskonia,55,62,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Calathes,383.7725165562914,52.5,4C,05:00,TD Systems Baskonia,59,65,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Oriola,468.9293755912961,112.5,1C,07:27,TD Systems Baskonia,5,2,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Oriola,456.7534058656575,149.58333333333334,1C,05:58,TD Systems Baskonia,5,6,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-P. Oriola,457.6900189214759,144.58333333333334,1C,05:32,TD Systems Baskonia,5,6,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-P. Oriola,457.2217123935667,145.00000000000003,1C,05:09,TD Systems Baskonia,5,10,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-P. Oriola,467.99276253547777,115.83333333333333,1C,04:27,TD Systems Baskonia,5,12,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,460.9681646168401,117.08333333333333,1C,07:11,TD Systems Baskonia,5,4,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,464.24631031220434,145.41666666666669,1C,05:25,TD Systems Baskonia,5,8,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,457.2217123935667,129.16666666666666,2C,05:26,TD Systems Baskonia,20,31,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,453.00695364238413,144.58333333333334,3C,09:51,TD Systems Baskonia,28,35,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,461.9047776726585,165.83333333333334,4C,08:26,TD Systems Baskonia,51,62,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,387.9685430463576,99.16666666666667,4C,06:47,TD Systems Baskonia,55,64,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-N. Mirotic,470.7838694418165,244.16666666666663,4C,00:32,TD Systems Baskonia,68,71,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Hanga,365.9768684957427,70.41666666666667,1C,03:32,TD Systems Baskonia,5,15,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Hanga,480.15,27.083333333333336,2C,07:11,TD Systems Baskonia,17,27,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Hanga,447.4060075685903,144.58333333333334,2C,06:33,TD Systems Baskonia,19,29,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Hanga,369.2550141911069,62.08333333333333,4C,02:39,TD Systems Baskonia,64,69,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,343.0673131504258,170.83333333333334,1C,02:31,TD Systems Baskonia,7,19,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,383.3042100283822,187.91666666666669,3C,06:14,TD Systems Baskonia,42,44,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,473.1254020813623,22.5,3C,05:06,TD Systems Baskonia,42,47,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,347.26333964049195,145.83333333333331,3C,04:32,TD Systems Baskonia,42,50,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,460.9681646168401,25.416666666666668,3C,03:45,TD Systems Baskonia,42,53,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,468.46106906338696,87.5,3C,01:45,TD Systems Baskonia,42,55,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,460.03155156102173,22.5,3C,00:57,TD Systems Baskonia,44,58,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,370.6599337748344,216.25,4C,04:51,TD Systems Baskonia,59,65,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,370.6599337748344,71.66666666666667,4C,04:30,TD Systems Baskonia,59,65,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-A. Abrines,462.37308420056763,111.25,4C,02:27,TD Systems Baskonia,64,69,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,113.653311,149.583333,4C,07:54,TD Systems Baskonia,51,62,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,77.612441,122.916667,4C,06:15,TD Systems Baskonia,57,64,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,112.716698,152.5,4C,02:12,TD Systems Baskonia,64,70,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Vildoza,151.080369,79.583333,4C,00:08,TD Systems Baskonia,68,72,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+I. Diop,171.198817,128.333333,1C,04:08,TD Systems Baskonia,5,12,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+I. Diop,68.265043,90.416667,1C,02:53,TD Systems Baskonia,5,16,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+I. Diop,45.805061,150.0,1C,01:34,TD Systems Baskonia,12,19,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+I. Diop,63.113671,82.916667,2C,04:33,TD Systems Baskonia,20,33,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Kurucs,108.033633,234.583333,1C,02:10,TD Systems Baskonia,10,19,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Kurucs,24.75,260.416667,3C,00:08,TD Systems Baskonia,45,60,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,50.956433,162.083333,1C,00:55,TD Systems Baskonia,12,21,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,44.400142,119.583333,2C,06:53,TD Systems Baskonia,19,27,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,30.837985,78.75,2C,01:37,TD Systems Baskonia,28,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,159.509886,177.5,3C,09:38,TD Systems Baskonia,31,35,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,163.705913,104.583333,3C,02:12,TD Systems Baskonia,42,53,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,37.375544,22.5,4C,07:41,TD Systems Baskonia,54,62,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Peters,43.931835,176.25,4C,07:06,TD Systems Baskonia,55,62,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+T. Jekiri,116.46315,140.0,2C,08:55,TD Systems Baskonia,16,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+T. Jekiri,43.931835,133.333333,3C,07:36,TD Systems Baskonia,37,39,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+T. Jekiri,27.091533,87.916667,4C,05:32,TD Systems Baskonia,59,64,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Polonara,83.232119,117.083333,2C,04:50,TD Systems Baskonia,20,31,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Polonara,197.405251,69.166667,2C,00:02,TD Systems Baskonia,28,35,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,385.177436,226.666667,1C,09:22,TD Systems Baskonia,0,0,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,390.778382,183.333333,1C,04:33,TD Systems Baskonia,5,10,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,453.006954,162.083333,2C,01:37,TD Systems Baskonia,26,33,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,450.197114,121.666667,3C,09:18,TD Systems Baskonia,31,37,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,370.659934,220.0,3C,08:41,TD Systems Baskonia,33,37,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,383.772517,230.416667,3C,05:30,TD Systems Baskonia,42,44,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,230.767408,183.75,3C,00:01,TD Systems Baskonia,45,60,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,422.604494,154.166667,4C,07:30,TD Systems Baskonia,55,62,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Calathes,383.772517,52.5,4C,05:00,TD Systems Baskonia,59,65,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Oriola,468.929376,112.5,1C,07:27,TD Systems Baskonia,5,2,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Oriola,456.753406,149.583333,1C,05:58,TD Systems Baskonia,5,6,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+P. Oriola,457.690019,144.583333,1C,05:32,TD Systems Baskonia,5,6,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+P. Oriola,457.221712,145.0,1C,05:09,TD Systems Baskonia,5,10,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+P. Oriola,467.992763,115.833333,1C,04:27,TD Systems Baskonia,5,12,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,460.968165,117.083333,1C,07:11,TD Systems Baskonia,5,4,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,464.24631,145.416667,1C,05:25,TD Systems Baskonia,5,8,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,457.221712,129.166667,2C,05:26,TD Systems Baskonia,20,31,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,453.006954,144.583333,3C,09:51,TD Systems Baskonia,28,35,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,461.904778,165.833333,4C,08:26,TD Systems Baskonia,51,62,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,387.968543,99.166667,4C,06:47,TD Systems Baskonia,55,64,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+N. Mirotic,470.783869,244.166667,4C,00:32,TD Systems Baskonia,68,71,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Hanga,365.976868,70.416667,1C,03:32,TD Systems Baskonia,5,15,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Hanga,480.15,27.083333,2C,07:11,TD Systems Baskonia,17,27,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Hanga,447.406008,144.583333,2C,06:33,TD Systems Baskonia,19,29,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Hanga,369.255014,62.083333,4C,02:39,TD Systems Baskonia,64,69,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,343.067313,170.833333,1C,02:31,TD Systems Baskonia,7,19,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,383.30421,187.916667,3C,06:14,TD Systems Baskonia,42,44,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,473.125402,22.5,3C,05:06,TD Systems Baskonia,42,47,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,347.26334,145.833333,3C,04:32,TD Systems Baskonia,42,50,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,460.968165,25.416667,3C,03:45,TD Systems Baskonia,42,53,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,468.461069,87.5,3C,01:45,TD Systems Baskonia,42,55,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,460.031552,22.5,3C,00:57,TD Systems Baskonia,44,58,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,370.659934,216.25,4C,04:51,TD Systems Baskonia,59,65,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,370.659934,71.666667,4C,04:30,TD Systems Baskonia,59,65,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+A. Abrines,462.373084,111.25,4C,02:27,TD Systems Baskonia,64,69,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
 B. Davies,480.15,141.25,1C,01:14,TD Systems Baskonia,12,21,Barça,Mate,True,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,444.5961684011353,140.83333333333334,1C,00:02,TD Systems Baskonia,14,22,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,442.7229422894986,138.74999999999997,1C,00:02,TD Systems Baskonia,14,22,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,452.53864711447494,150.83333333333331,2C,09:54,TD Systems Baskonia,14,24,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,385.6457426679281,136.24999999999997,2C,09:18,TD Systems Baskonia,16,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,462.37308420056763,128.33333333333331,2C,08:15,TD Systems Baskonia,17,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,447.4060075685903,127.5,2C,04:33,TD Systems Baskonia,20,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,462.8413907284768,134.58333333333334,3C,07:19,TD Systems Baskonia,37,39,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-B. Davies,408.555298013245,142.50000000000003,4C,01:00,TD Systems Baskonia,66,71,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-T. Heurtel,460.4998580889309,81.66666666666667,2C,08:45,TD Systems Baskonia,16,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-T. Heurtel,400.61281929990537,35.0,3C,06:59,TD Systems Baskonia,39,42,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
-T. Heurtel,426.81925260170294,210.00000000000003,3C,02:55,TD Systems Baskonia,42,53,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
-T. Heurtel,389.37346263008516,210.83333333333331,3C,00:28,TD Systems Baskonia,45,60,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-R. Smits,365.9768684957427,66.66666666666667,2C,06:12,TD Systems Baskonia,20,29,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-R. Smits,344.92180700094605,102.91666666666667,4C,09:25,TD Systems Baskonia,48,60,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Bolmaro,365.5085619678335,70.83333333333333,2C,06:12,TD Systems Baskonia,20,29,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-L. Bolmaro,472.188789025544,260.0,2C,03:40,TD Systems Baskonia,20,33,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
-V. Claver,456.7534058656575,155.41666666666666,2C,00:54,TD Systems Baskonia,28,35,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,84.16873226111636,88.33333333333333,1C,08:24,Iberostar Tenerife,4,4,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,136.11329233680226,127.08333333333333,2C,07:05,Iberostar Tenerife,22,27,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,25.686613055818356,260.0,2C,04:59,Iberostar Tenerife,29,37,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,135.1766792809839,219.16666666666669,2C,04:16,Iberostar Tenerife,32,37,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,142.1825449385052,74.16666666666666,2C,03:06,Iberostar Tenerife,33,38,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,134.24006622516555,217.08333333333334,2C,02:37,Iberostar Tenerife,34,40,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,152.4852885525071,205.00000000000003,3C,09:01,Iberostar Tenerife,44,50,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,80.42228003784294,87.91666666666667,3C,03:43,Iberostar Tenerife,50,62,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,62.177057710501415,145.00000000000003,4C,05:45,Iberostar Tenerife,69,83,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,153.42190160832544,110.0,4C,04:14,Iberostar Tenerife,70,88,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-B. Fitipaldo,100.54072847682119,195.0,4C,03:20,Iberostar Tenerife,75,88,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Doornekamp,57.96229895931883,148.75,1C,06:56,Iberostar Tenerife,4,10,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Doornekamp,145.46069063386943,196.66666666666666,1C,04:49,Iberostar Tenerife,6,12,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Doornekamp,30.8379848628193,27.5,2C,03:01,Iberostar Tenerife,34,38,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Doornekamp,123.00070955534532,59.166666666666664,2C,00:42,Iberostar Tenerife,42,48,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Doornekamp,62.177057710501415,254.58333333333331,3C,03:11,Iberostar Tenerife,50,64,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Salin,128.62038789025542,60.833333333333336,1C,06:36,Iberostar Tenerife,6,10,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Salin,134.24006622516555,95.41666666666666,1C,03:53,Iberostar Tenerife,6,15,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Salin,39.24877010406812,237.08333333333331,3C,05:59,Iberostar Tenerife,46,58,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Cavanaugh,112.7166982024598,238.75000000000003,1C,05:28,Iberostar Tenerife,6,12,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Cavanaugh,56.557379375591296,116.66666666666667,1C,04:43,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Cavanaugh,37.37554399243141,133.33333333333334,4C,01:13,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-T. Cavanaugh,50.01982024597918,172.5,4C,00:33,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Shermadini,69.66996215704825,157.91666666666666,1C,04:54,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Shermadini,50.95643330179754,174.58333333333331,3C,07:43,Iberostar Tenerife,44,53,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Shermadini,51.893046357615894,150.41666666666663,4C,05:54,Iberostar Tenerife,69,83,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Shermadini,48.14659413434248,132.5,4C,04:50,Iberostar Tenerife,70,86,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Davies,444.596168,140.833333,1C,00:02,TD Systems Baskonia,14,22,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,442.722942,138.75,1C,00:02,TD Systems Baskonia,14,22,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,452.538647,150.833333,2C,09:54,TD Systems Baskonia,14,24,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,385.645743,136.25,2C,09:18,TD Systems Baskonia,16,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,462.373084,128.333333,2C,08:15,TD Systems Baskonia,17,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,447.406008,127.5,2C,04:33,TD Systems Baskonia,20,33,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,462.841391,134.583333,3C,07:19,TD Systems Baskonia,37,39,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+B. Davies,408.555298,142.5,4C,01:00,TD Systems Baskonia,66,71,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+T. Heurtel,460.499858,81.666667,2C,08:45,TD Systems Baskonia,16,24,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+T. Heurtel,400.612819,35.0,3C,06:59,TD Systems Baskonia,39,42,Barça,Triple,True,100009,1,2020-2021,Supercopa Endesa,False
+T. Heurtel,426.819253,210.0,3C,02:55,TD Systems Baskonia,42,53,Barça,Tiro de 2,False,100009,1,2020-2021,Supercopa Endesa,False
+T. Heurtel,389.373463,210.833333,3C,00:28,TD Systems Baskonia,45,60,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+R. Smits,365.976868,66.666667,2C,06:12,TD Systems Baskonia,20,29,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+R. Smits,344.921807,102.916667,4C,09:25,TD Systems Baskonia,48,60,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Bolmaro,365.508562,70.833333,2C,06:12,TD Systems Baskonia,20,29,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+L. Bolmaro,472.188789,260.0,2C,03:40,TD Systems Baskonia,20,33,Barça,Triple,False,100009,1,2020-2021,Supercopa Endesa,False
+V. Claver,456.753406,155.416667,2C,00:54,TD Systems Baskonia,28,35,Barça,Tiro de 2,True,100009,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,84.168732,88.333333,1C,08:24,Iberostar Tenerife,4,4,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,136.113292,127.083333,2C,07:05,Iberostar Tenerife,22,27,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,25.686613,260.0,2C,04:59,Iberostar Tenerife,29,37,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,135.176679,219.166667,2C,04:16,Iberostar Tenerife,32,37,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,142.182545,74.166667,2C,03:06,Iberostar Tenerife,33,38,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,134.240066,217.083333,2C,02:37,Iberostar Tenerife,34,40,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,152.485289,205.0,3C,09:01,Iberostar Tenerife,44,50,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,80.42228,87.916667,3C,03:43,Iberostar Tenerife,50,62,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,62.177058,145.0,4C,05:45,Iberostar Tenerife,69,83,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,153.421902,110.0,4C,04:14,Iberostar Tenerife,70,88,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+B. Fitipaldo,100.540728,195.0,4C,03:20,Iberostar Tenerife,75,88,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Doornekamp,57.962299,148.75,1C,06:56,Iberostar Tenerife,4,10,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Doornekamp,145.460691,196.666667,1C,04:49,Iberostar Tenerife,6,12,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Doornekamp,30.837985,27.5,2C,03:01,Iberostar Tenerife,34,38,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Doornekamp,123.00071,59.166667,2C,00:42,Iberostar Tenerife,42,48,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Doornekamp,62.177058,254.583333,3C,03:11,Iberostar Tenerife,50,64,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Salin,128.620388,60.833333,1C,06:36,Iberostar Tenerife,6,10,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Salin,134.240066,95.416667,1C,03:53,Iberostar Tenerife,6,15,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Salin,39.24877,237.083333,3C,05:59,Iberostar Tenerife,46,58,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Cavanaugh,112.716698,238.75,1C,05:28,Iberostar Tenerife,6,12,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Cavanaugh,56.557379,116.666667,1C,04:43,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Cavanaugh,37.375544,133.333333,4C,01:13,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+T. Cavanaugh,50.01982,172.5,4C,00:33,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Shermadini,69.669962,157.916667,1C,04:54,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Shermadini,50.956433,174.583333,3C,07:43,Iberostar Tenerife,44,53,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Shermadini,51.893046,150.416667,4C,05:54,Iberostar Tenerife,69,83,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Shermadini,48.146594,132.5,4C,04:50,Iberostar Tenerife,70,86,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
 G. Shermadini,24.75,141.25,4C,04:08,Iberostar Tenerife,72,88,Real Madrid,Mate,True,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,145.92899716177863,205.41666666666669,1C,02:25,Iberostar Tenerife,11,18,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,145.46069063386943,72.08333333333333,1C,01:02,Iberostar Tenerife,13,20,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,87.91518448438978,140.0,2C,08:36,Iberostar Tenerife,20,25,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,71.07488174077578,138.74999999999997,2C,01:34,Iberostar Tenerife,39,46,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,112.7166982024598,103.75,3C,06:54,Iberostar Tenerife,44,56,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,37.37554399243141,211.66666666666666,3C,06:31,Iberostar Tenerife,46,56,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,29.90137180700095,81.66666666666667,3C,05:07,Iberostar Tenerife,48,60,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,113.18500473036896,149.58333333333334,3C,05:35,Iberostar Tenerife,50,62,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,50.01982024597918,121.66666666666667,3C,00:07,Iberostar Tenerife,59,70,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,88.38349101229898,132.5,4C,09:53,Iberostar Tenerife,59,71,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,63.113670766319764,87.91666666666667,4C,08:23,Iberostar Tenerife,64,76,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,162.30099337748342,110.41666666666666,4C,07:47,Iberostar Tenerife,64,78,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-M. Huertas,42.99522232734153,133.74999999999997,4C,06:27,Iberostar Tenerife,69,83,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Bogris,68.26504257332071,127.91666666666669,1C,01:38,Iberostar Tenerife,13,20,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Bogris,42.52691579943236,156.25,3C,05:30,Iberostar Tenerife,48,60,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-D. Díez,121.12748344370861,236.25000000000003,1C,00:13,Iberostar Tenerife,18,23,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-D. Díez,162.30099337748342,150.00000000000003,2C,08:53,Iberostar Tenerife,18,25,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,145.928997,205.416667,1C,02:25,Iberostar Tenerife,11,18,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,145.460691,72.083333,1C,01:02,Iberostar Tenerife,13,20,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,87.915184,140.0,2C,08:36,Iberostar Tenerife,20,25,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,71.074882,138.75,2C,01:34,Iberostar Tenerife,39,46,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,112.716698,103.75,3C,06:54,Iberostar Tenerife,44,56,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,37.375544,211.666667,3C,06:31,Iberostar Tenerife,46,56,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,29.901372,81.666667,3C,05:07,Iberostar Tenerife,48,60,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,113.185005,149.583333,3C,05:35,Iberostar Tenerife,50,62,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,50.01982,121.666667,3C,00:07,Iberostar Tenerife,59,70,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,88.383491,132.5,4C,09:53,Iberostar Tenerife,59,71,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,63.113671,87.916667,4C,08:23,Iberostar Tenerife,64,76,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,162.300993,110.416667,4C,07:47,Iberostar Tenerife,64,78,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+M. Huertas,42.995222,133.75,4C,06:27,Iberostar Tenerife,69,83,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Bogris,68.265043,127.916667,1C,01:38,Iberostar Tenerife,13,20,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Bogris,42.526916,156.25,3C,05:30,Iberostar Tenerife,48,60,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+D. Díez,121.127483,236.25,1C,00:13,Iberostar Tenerife,18,23,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+D. Díez,162.300993,150.0,2C,08:53,Iberostar Tenerife,18,25,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
 F. Guerra,24.75,141.25,2C,02:22,Iberostar Tenerife,36,41,Real Madrid,Mate,True,100004,1,2020-2021,Supercopa Endesa,False
 F. Guerra,24.75,141.25,3C,01:54,Iberostar Tenerife,53,69,Real Madrid,Mate,True,100004,1,2020-2021,Supercopa Endesa,False
-F. Guerra,164.64252601702933,110.83333333333334,3C,01:20,Iberostar Tenerife,56,70,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+F. Guerra,164.642526,110.833333,3C,01:20,Iberostar Tenerife,56,70,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
 E. Sulejmanovic,24.75,141.25,2C,01:40,Iberostar Tenerife,39,46,Real Madrid,Mate,True,100004,1,2020-2021,Supercopa Endesa,False
-E. Sulejmanovic,60.30383159886471,150.83333333333331,2C,00:02,Iberostar Tenerife,42,48,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-E. Sulejmanovic,24.75,21.666666666666668,3C,00:46,Iberostar Tenerife,59,70,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-A. López,164.64252601702933,128.33333333333331,4C,09:15,Iberostar Tenerife,62,73,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-A. López,157.63666035950803,77.08333333333334,4C,07:07,Iberostar Tenerife,67,80,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-A. López,115.05823084200567,237.08333333333331,4C,04:56,Iberostar Tenerife,70,86,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,455.34848628193,143.75,1C,09:16,Iberostar Tenerife,0,4,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,454.8801797540208,155.00000000000003,1C,07:43,Iberostar Tenerife,4,8,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,456.28509933774836,150.00000000000003,1C,07:12,Iberostar Tenerife,4,10,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,466.58784295175025,116.66666666666667,1C,06:14,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,465.1829233680227,104.16666666666667,1C,05:38,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,455.34848628193,156.66666666666669,2C,02:08,Iberostar Tenerife,37,43,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,454.8801797540208,196.66666666666666,2C,01:34,Iberostar Tenerife,39,46,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,448.7921948912015,127.91666666666669,1C,08:42,Iberostar Tenerife,2,4,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,441.31802270577106,132.91666666666669,1C,08:06,Iberostar Tenerife,4,4,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,373.4697729422895,61.66666666666667,1C,04:36,Iberostar Tenerife,6,12,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,340.2574739829706,140.0,1C,04:21,Iberostar Tenerife,6,15,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,461.4364711447493,152.08333333333334,1C,01:56,Iberostar Tenerife,11,20,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,361.31253547776726,200.41666666666669,3C,08:05,Iberostar Tenerife,44,50,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,381.8992904446547,221.66666666666669,3C,07:16,Iberostar Tenerife,44,56,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,345.39011352885524,110.41666666666666,3C,03:58,Iberostar Tenerife,50,62,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-F. Campazzo,356.1611636707663,180.0,3C,00:32,Iberostar Tenerife,59,70,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,340.2574739829706,134.58333333333334,1C,02:46,Iberostar Tenerife,8,18,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,352.8830179754021,106.25,1C,02:09,Iberostar Tenerife,11,18,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,463.309697256386,154.58333333333334,2C,09:46,Iberostar Tenerife,18,23,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,443.65955534531696,162.08333333333337,2C,06:50,Iberostar Tenerife,22,29,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,344.4535004730369,152.08333333333334,4C,04:42,Iberostar Tenerife,70,86,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,447.4060075685903,137.91666666666669,4C,02:36,Iberostar Tenerife,75,90,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-T. Thompkins,480.15,77.91666666666666,4C,01:54,Iberostar Tenerife,77,90,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,380.9626773888363,50.0,1C,01:25,Iberostar Tenerife,13,20,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,342.5990066225166,94.58333333333334,1C,00:39,Iberostar Tenerife,15,23,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,352.4147114474929,207.91666666666669,2C,07:33,Iberostar Tenerife,22,27,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,357.56608325449383,215.41666666666666,2C,06:00,Iberostar Tenerife,25,34,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,418.3897350993377,133.74999999999997,2C,05:14,Iberostar Tenerife,26,36,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,365.5085619678335,65.83333333333333,2C,04:34,Iberostar Tenerife,29,37,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,372.53315988647114,64.58333333333333,3C,02:09,Iberostar Tenerife,51,69,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,347.7316461684011,143.75,3C,00:02,Iberostar Tenerife,59,70,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,352.8830179754021,55.83333333333333,4C,08:40,Iberostar Tenerife,62,76,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-R. Fernández,335.57440870387893,112.08333333333334,4C,06:51,Iberostar Tenerife,67,83,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,351.9464049195837,195.41666666666669,1C,00:03,Iberostar Tenerife,18,23,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,455.34848628193,74.58333333333333,2C,08:36,Iberostar Tenerife,20,25,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,480.15,89.58333333333333,2C,06:17,Iberostar Tenerife,23,31,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+E. Sulejmanovic,60.303832,150.833333,2C,00:02,Iberostar Tenerife,42,48,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+E. Sulejmanovic,24.75,21.666667,3C,00:46,Iberostar Tenerife,59,70,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+A. López,164.642526,128.333333,4C,09:15,Iberostar Tenerife,62,73,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+A. López,157.63666,77.083333,4C,07:07,Iberostar Tenerife,67,80,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+A. López,115.058231,237.083333,4C,04:56,Iberostar Tenerife,70,86,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,455.348486,143.75,1C,09:16,Iberostar Tenerife,0,4,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,454.88018,155.0,1C,07:43,Iberostar Tenerife,4,8,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,456.285099,150.0,1C,07:12,Iberostar Tenerife,4,10,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,466.587843,116.666667,1C,06:14,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,465.182923,104.166667,1C,05:38,Iberostar Tenerife,6,12,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,455.348486,156.666667,2C,02:08,Iberostar Tenerife,37,43,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,454.88018,196.666667,2C,01:34,Iberostar Tenerife,39,46,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,448.792195,127.916667,1C,08:42,Iberostar Tenerife,2,4,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,441.318023,132.916667,1C,08:06,Iberostar Tenerife,4,4,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,373.469773,61.666667,1C,04:36,Iberostar Tenerife,6,12,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,340.257474,140.0,1C,04:21,Iberostar Tenerife,6,15,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,461.436471,152.083333,1C,01:56,Iberostar Tenerife,11,20,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,361.312535,200.416667,3C,08:05,Iberostar Tenerife,44,50,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,381.89929,221.666667,3C,07:16,Iberostar Tenerife,44,56,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,345.390114,110.416667,3C,03:58,Iberostar Tenerife,50,62,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+F. Campazzo,356.161164,180.0,3C,00:32,Iberostar Tenerife,59,70,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,340.257474,134.583333,1C,02:46,Iberostar Tenerife,8,18,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,352.883018,106.25,1C,02:09,Iberostar Tenerife,11,18,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,463.309697,154.583333,2C,09:46,Iberostar Tenerife,18,23,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,443.659555,162.083333,2C,06:50,Iberostar Tenerife,22,29,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,344.4535,152.083333,4C,04:42,Iberostar Tenerife,70,86,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,447.406008,137.916667,4C,02:36,Iberostar Tenerife,75,90,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+T. Thompkins,480.15,77.916667,4C,01:54,Iberostar Tenerife,77,90,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,380.962677,50.0,1C,01:25,Iberostar Tenerife,13,20,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,342.599007,94.583333,1C,00:39,Iberostar Tenerife,15,23,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,352.414711,207.916667,2C,07:33,Iberostar Tenerife,22,27,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,357.566083,215.416667,2C,06:00,Iberostar Tenerife,25,34,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,418.389735,133.75,2C,05:14,Iberostar Tenerife,26,36,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,365.508562,65.833333,2C,04:34,Iberostar Tenerife,29,37,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,372.53316,64.583333,3C,02:09,Iberostar Tenerife,51,69,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,347.731646,143.75,3C,00:02,Iberostar Tenerife,59,70,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,352.883018,55.833333,4C,08:40,Iberostar Tenerife,62,76,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+R. Fernández,335.574409,112.083333,4C,06:51,Iberostar Tenerife,67,83,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,351.946405,195.416667,1C,00:03,Iberostar Tenerife,18,23,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,455.348486,74.583333,2C,08:36,Iberostar Tenerife,20,25,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,480.15,89.583333,2C,06:17,Iberostar Tenerife,23,31,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
 A. Randolph,480.15,25.0,2C,03:53,Iberostar Tenerife,32,37,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,446.469394512772,139.16666666666666,2C,03:47,Iberostar Tenerife,32,37,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,480.15,259.5833333333333,2C,00:23,Iberostar Tenerife,42,48,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,480.15,209.58333333333334,3C,02:11,Iberostar Tenerife,50,66,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,435.23003784295173,164.58333333333337,4C,09:34,Iberostar Tenerife,59,73,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,471.7204824976348,133.33333333333334,4C,07:33,Iberostar Tenerife,64,80,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,446.469395,139.166667,2C,03:47,Iberostar Tenerife,32,37,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,480.15,259.583333,2C,00:23,Iberostar Tenerife,42,48,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,480.15,209.583333,3C,02:11,Iberostar Tenerife,50,66,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,435.230038,164.583333,4C,09:34,Iberostar Tenerife,59,73,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,471.720482,133.333333,4C,07:33,Iberostar Tenerife,64,80,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
 A. Randolph,480.15,141.25,4C,04:34,Iberostar Tenerife,70,88,Real Madrid,Mate,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Randolph,409.9602175969726,33.75,4C,03:48,Iberostar Tenerife,72,88,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-J. Taylor,473.1254020813623,260.0,2C,08:44,Iberostar Tenerife,18,25,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-J. Taylor,436.1666508987701,126.25,2C,08:30,Iberostar Tenerife,20,25,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-C. Alocén,455.81679280983917,143.75,2C,07:49,Iberostar Tenerife,22,27,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-C. Alocén,453.94356669820246,121.66666666666667,4C,07:59,Iberostar Tenerife,64,78,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-C. Alocén,433.356811731315,27.916666666666664,4C,05:24,Iberostar Tenerife,70,86,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-C. Alocén,471.2521759697256,159.58333333333334,4C,01:32,Iberostar Tenerife,77,92,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-C. Alocén,180.22776726584675,137.91666666666669,4C,00:01,Iberostar Tenerife,79,92,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Llull,442.7229422894986,154.58333333333334,2C,05:19,Iberostar Tenerife,26,34,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Llull,335.10610217596974,153.33333333333331,2C,04:49,Iberostar Tenerife,29,37,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Llull,459.5632450331126,107.08333333333334,2C,03:01,Iberostar Tenerife,34,40,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-S. Llull,477.34016083254494,258.33333333333337,4C,03:20,Iberostar Tenerife,73,88,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-S. Llull,448.3426206244087,111.66666666666666,4C,00:13,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-A. Abalde,442.2546357615894,78.75,2C,01:34,Iberostar Tenerife,39,48,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Abalde,409.4919110690634,147.91666666666663,3C,09:24,Iberostar Tenerife,44,50,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-A. Abalde,352.8830179754021,65.83333333333333,3C,08:01,Iberostar Tenerife,44,53,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
-W. Tavares,437.57157048249763,166.25,3C,07:27,Iberostar Tenerife,44,53,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Randolph,409.960218,33.75,4C,03:48,Iberostar Tenerife,72,88,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+J. Taylor,473.125402,260.0,2C,08:44,Iberostar Tenerife,18,25,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+J. Taylor,436.166651,126.25,2C,08:30,Iberostar Tenerife,20,25,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+C. Alocén,455.816793,143.75,2C,07:49,Iberostar Tenerife,22,27,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+C. Alocén,453.943567,121.666667,4C,07:59,Iberostar Tenerife,64,78,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+C. Alocén,433.356812,27.916667,4C,05:24,Iberostar Tenerife,70,86,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+C. Alocén,471.252176,159.583333,4C,01:32,Iberostar Tenerife,77,92,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+C. Alocén,180.227767,137.916667,4C,00:01,Iberostar Tenerife,79,92,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Llull,442.722942,154.583333,2C,05:19,Iberostar Tenerife,26,34,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Llull,335.106102,153.333333,2C,04:49,Iberostar Tenerife,29,37,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Llull,459.563245,107.083333,2C,03:01,Iberostar Tenerife,34,40,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+S. Llull,477.340161,258.333333,4C,03:20,Iberostar Tenerife,73,88,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+S. Llull,448.342621,111.666667,4C,00:13,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+A. Abalde,442.254636,78.75,2C,01:34,Iberostar Tenerife,39,48,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Abalde,409.491911,147.916667,3C,09:24,Iberostar Tenerife,44,50,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+A. Abalde,352.883018,65.833333,3C,08:01,Iberostar Tenerife,44,53,Real Madrid,Triple,True,100004,1,2020-2021,Supercopa Endesa,False
+W. Tavares,437.57157,166.25,3C,07:27,Iberostar Tenerife,44,53,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
 W. Tavares,480.15,141.25,3C,05:46,Iberostar Tenerife,46,60,Real Madrid,Mate,True,100004,1,2020-2021,Supercopa Endesa,False
-W. Tavares,382.835903500473,143.75,3C,05:07,Iberostar Tenerife,48,60,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-W. Tavares,471.2521759697256,152.91666666666666,3C,05:35,Iberostar Tenerife,48,62,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-W. Tavares,464.71461684011354,163.33333333333334,4C,09:38,Iberostar Tenerife,59,71,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-W. Tavares,454.8801797540208,143.75,4C,07:51,Iberostar Tenerife,64,78,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-J. Carroll,373.93807947019866,55.0,3C,06:46,Iberostar Tenerife,44,56,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
-J. Carroll,453.00695364238413,209.16666666666666,3C,03:25,Iberostar Tenerife,50,64,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
-U. Garuba,442.2546357615894,166.25,4C,00:47,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
-G. Deck,61.24044465468307,96.66666666666667,1C,09:55,Real Madrid,2,0,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,24.75,78.33333333333334,1C,08:45,Real Madrid,2,0,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,95.40808893093661,33.333333333333336,1C,06:14,Real Madrid,8,5,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,37.37554399243141,131.25,1C,05:27,Real Madrid,10,7,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,94.00316934720908,239.16666666666669,3C,08:51,Real Madrid,31,32,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,32.71121097445601,121.25,3C,08:23,Real Madrid,33,32,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,90.25671712393566,250.41666666666669,4C,03:02,Real Madrid,63,61,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,89.7884105960265,29.583333333333336,4C,02:45,Real Madrid,63,61,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-G. Deck,55.63949858088932,149.58333333333334,4C,02:09,Real Madrid,65,63,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,135.1766792809839,62.91666666666668,1C,08:00,Real Madrid,2,2,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,164.64252601702933,143.75,1C,07:26,Real Madrid,5,3,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,64.05028382213813,152.50000000000003,1C,04:32,Real Madrid,12,7,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,61.708751182592245,133.74999999999997,1C,03:29,Real Madrid,14,9,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,24.75,258.33333333333337,1C,00:06,Real Madrid,18,14,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,112.2483916745506,45.0,2C,02:56,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,57.96229895931883,144.16666666666666,2C,01:14,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,39.24877010406812,149.16666666666666,3C,06:59,Real Madrid,37,37,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,58.43060548722801,141.25,3C,06:33,Real Madrid,37,37,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,44.86844843897824,112.91666666666667,3C,05:57,Real Madrid,37,40,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,32.24290444654683,125.41666666666667,3C,03:32,Real Madrid,44,47,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,147.8022232734153,93.33333333333334,3C,02:23,Real Madrid,44,47,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,50.95643330179754,256.25,4C,04:47,Real Madrid,60,58,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,57.025685903500474,128.75,4C,03:43,Real Madrid,63,58,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-F. Campazzo,81.3588930936613,171.66666666666669,4C,00:34,Real Madrid,69,67,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,97.74962157048249,44.583333333333336,1C,06:54,Real Madrid,8,3,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,159.97819299905393,130.83333333333334,1C,02:48,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,36.438930936613055,154.58333333333334,1C,01:45,Real Madrid,16,12,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,38.312157048249766,97.08333333333333,2C,00:57,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,39.24877010406812,118.33333333333333,3C,04:17,Real Madrid,42,45,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,148.73883632923366,92.91666666666666,3C,00:39,Real Madrid,48,49,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abalde,131.43022705771048,229.58333333333337,4C,09:21,Real Madrid,50,52,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-J. Carroll,159.04157994323558,143.33333333333331,1C,01:51,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-J. Carroll,70.6065752128666,89.16666666666667,1C,01:09,Real Madrid,18,12,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-T. Thompkins,50.01982024597918,26.250000000000004,2C,09:33,Real Madrid,21,17,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-T. Thompkins,37.84385052034059,185.0,3C,02:51,Real Madrid,44,47,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Thompkins,52.36135288552507,193.33333333333337,3C,00:03,Real Madrid,50,49,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-U. Garuba,37.84385052034059,133.33333333333334,2C,08:30,Real Madrid,23,17,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-R. Fernández,177.75510879848628,142.08333333333334,2C,07:51,Real Madrid,23,18,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-R. Fernández,97.28131504257333,206.25,2C,06:00,Real Madrid,26,20,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-R. Fernández,151.08036896877957,75.83333333333334,2C,02:40,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-R. Fernández,184.76097445600757,211.66666666666666,4C,05:24,Real Madrid,57,56,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Laprovittola,70.6065752128666,148.33333333333331,2C,07:24,Real Madrid,25,20,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Laprovittola,152.4852885525071,92.91666666666666,2C,04:55,Real Madrid,28,23,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Laprovittola,80.89058656575213,122.91666666666667,2C,03:35,Real Madrid,31,28,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,122.53240302743613,44.166666666666664,2C,06:09,Real Madrid,26,20,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,36.438930936613055,154.58333333333334,2C,05:25,Real Madrid,28,23,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,39.7170766319773,154.16666666666669,2C,04:08,Real Madrid,30,26,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,52.82965941343425,125.83333333333336,2C,03:02,Real Madrid,31,30,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,126.74716177861875,55.41666666666667,2C,02:20,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,58.43060548722801,162.49999999999997,3C,01:40,Real Madrid,44,47,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,85.57365184484391,249.58333333333331,4C,06:27,Real Madrid,57,56,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-S. Llull,144.99238410596027,222.91666666666666,4C,05:58,Real Madrid,57,56,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-W. Tavares,59.36721854304636,138.74999999999997,3C,07:38,Real Madrid,33,34,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-W. Tavares,82.76381267738884,147.91666666666663,4C,07:43,Real Madrid,52,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-W. Tavares,72.01149479659414,137.08333333333334,4C,02:48,Real Madrid,63,61,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Randolph,108.03363292336802,50.416666666666664,3C,05:28,Real Madrid,40,42,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,452.07034058656575,172.08333333333331,1C,09:38,Real Madrid,2,0,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,436.1666508987701,167.91666666666666,1C,08:30,Real Madrid,2,0,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,425.4143330179754,22.916666666666668,1C,03:23,Real Madrid,14,9,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,365.9768684957427,62.08333333333333,1C,02:01,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,429.14205298013246,131.66666666666666,2C,03:24,Real Madrid,31,28,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,461.4364711447493,165.41666666666666,2C,00:04,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-T. Heurtel,442.7229422894986,192.5,4C,01:49,Real Madrid,65,65,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,480.15,260.83333333333337,1C,09:14,Real Madrid,2,0,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,447.8743140964995,163.75,1C,08:19,Real Madrid,2,2,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,440.84971617786186,148.75,1C,06:35,Real Madrid,8,5,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,455.81679280983917,166.25,1C,04:13,Real Madrid,12,9,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,447.4060075685903,110.41666666666666,1C,03:37,Real Madrid,14,9,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,458.1583254493851,120.41666666666667,1C,03:34,Real Madrid,14,9,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,467.5244560075686,166.66666666666669,1C,02:14,Real Madrid,14,12,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,462.8413907284768,167.49999999999997,2C,04:36,Real Madrid,28,23,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,345.39011352885524,79.16666666666666,2C,01:53,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,463.77800378429515,156.25,2C,01:31,Real Madrid,31,32,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,435.23003784295173,115.83333333333333,3C,09:15,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,339.32086092715235,131.66666666666666,3C,07:20,Real Madrid,35,37,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Calathes,444.5961684011353,161.25,4C,06:32,Real Madrid,54,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-P. Oriola,449.72880794701985,143.33333333333331,1C,06:14,Real Madrid,8,7,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-V. Claver,480.15,260.83333333333337,1C,05:06,Real Madrid,10,7,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-V. Claver,345.39011352885524,137.08333333333334,2C,02:08,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Abrines,473.1254020813623,22.083333333333332,1C,03:11,Real Madrid,14,12,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abrines,383.3042100283822,221.25,1C,02:20,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Abrines,382.835903500473,219.58333333333334,2C,09:17,Real Madrid,21,17,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Abrines,398.2712866603595,46.66666666666667,3C,06:41,Real Madrid,37,37,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Abrines,477.34016083254494,49.166666666666664,3C,05:48,Real Madrid,37,42,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-A. Abrines,465.1829233680227,116.66666666666667,3C,03:49,Real Madrid,42,47,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-L. Bolmaro,442.7229422894986,132.91666666666669,1C,01:22,Real Madrid,16,12,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-L. Bolmaro,442.7229422894986,97.91666666666667,1C,00:35,Real Madrid,18,14,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-L. Bolmaro,350.073178807947,187.08333333333331,1C,00:00,Real Madrid,18,14,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-L. Bolmaro,365.0402554399243,200.83333333333331,2C,07:05,Real Madrid,25,20,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-L. Bolmaro,403.42265846736046,197.08333333333334,3C,03:12,Real Madrid,44,47,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,460.03155156102173,132.5,2C,09:42,Real Madrid,18,16,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,433.356811731315,142.08333333333334,2C,08:53,Real Madrid,21,17,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,395.4614474929044,99.16666666666667,2C,03:56,Real Madrid,31,28,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,435.23003784295173,115.0,3C,00:54,Real Madrid,45,49,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,380.9626773888363,117.50000000000001,4C,07:50,Real Madrid,52,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,435.6983443708609,135.0,4C,05:38,Real Madrid,57,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-B. Davies,386.0953169347209,105.41666666666667,4C,05:09,Real Madrid,57,58,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,345.85842005676443,115.0,2C,06:26,Real Madrid,26,20,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,467.05614947965944,155.00000000000003,2C,05:40,Real Madrid,26,22,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,474.0620151371807,58.333333333333336,2C,05:02,Real Madrid,28,23,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,472.6570955534532,155.83333333333331,2C,04:26,Real Madrid,28,25,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,454.41187322611165,137.08333333333334,2C,03:24,Real Madrid,31,30,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,394.5248344370861,49.583333333333336,3C,06:25,Real Madrid,37,40,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,353.3513245033113,192.91666666666669,3C,05:13,Real Madrid,40,45,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,348.66825922421947,177.91666666666666,4C,09:45,Real Madrid,50,52,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,378.62114474929047,132.5,4C,08:27,Real Madrid,50,56,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,454.41187322611165,139.16666666666666,4C,03:26,Real Madrid,63,61,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
-N. Mirotic,473.1254020813623,71.25000000000001,4C,01:11,Real Madrid,66,65,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Hanga,353.3513245033113,188.33333333333334,3C,01:31,Real Madrid,44,47,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Hanga,442.7229422894986,154.16666666666669,4C,04:22,Real Madrid,60,58,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
-A. Hanga,414.64328287606435,30.833333333333336,4C,00:03,Real Madrid,70,67,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+W. Tavares,382.835904,143.75,3C,05:07,Iberostar Tenerife,48,60,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+W. Tavares,471.252176,152.916667,3C,05:35,Iberostar Tenerife,48,62,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+W. Tavares,464.714617,163.333333,4C,09:38,Iberostar Tenerife,59,71,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+W. Tavares,454.88018,143.75,4C,07:51,Iberostar Tenerife,64,78,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+J. Carroll,373.938079,55.0,3C,06:46,Iberostar Tenerife,44,56,Real Madrid,Triple,False,100004,1,2020-2021,Supercopa Endesa,False
+J. Carroll,453.006954,209.166667,3C,03:25,Iberostar Tenerife,50,64,Real Madrid,Tiro de 2,True,100004,1,2020-2021,Supercopa Endesa,False
+U. Garuba,442.254636,166.25,4C,00:47,Iberostar Tenerife,79,92,Real Madrid,Tiro de 2,False,100004,1,2020-2021,Supercopa Endesa,False
+G. Deck,61.240445,96.666667,1C,09:55,Real Madrid,2,0,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,24.75,78.333333,1C,08:45,Real Madrid,2,0,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,95.408089,33.333333,1C,06:14,Real Madrid,8,5,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,37.375544,131.25,1C,05:27,Real Madrid,10,7,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,94.003169,239.166667,3C,08:51,Real Madrid,31,32,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,32.711211,121.25,3C,08:23,Real Madrid,33,32,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,90.256717,250.416667,4C,03:02,Real Madrid,63,61,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,89.788411,29.583333,4C,02:45,Real Madrid,63,61,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+G. Deck,55.639499,149.583333,4C,02:09,Real Madrid,65,63,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,135.176679,62.916667,1C,08:00,Real Madrid,2,2,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,164.642526,143.75,1C,07:26,Real Madrid,5,3,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,64.050284,152.5,1C,04:32,Real Madrid,12,7,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,61.708751,133.75,1C,03:29,Real Madrid,14,9,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,24.75,258.333333,1C,00:06,Real Madrid,18,14,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,112.248392,45.0,2C,02:56,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,57.962299,144.166667,2C,01:14,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,39.24877,149.166667,3C,06:59,Real Madrid,37,37,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,58.430605,141.25,3C,06:33,Real Madrid,37,37,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,44.868448,112.916667,3C,05:57,Real Madrid,37,40,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,32.242904,125.416667,3C,03:32,Real Madrid,44,47,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,147.802223,93.333333,3C,02:23,Real Madrid,44,47,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,50.956433,256.25,4C,04:47,Real Madrid,60,58,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,57.025686,128.75,4C,03:43,Real Madrid,63,58,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+F. Campazzo,81.358893,171.666667,4C,00:34,Real Madrid,69,67,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,97.749622,44.583333,1C,06:54,Real Madrid,8,3,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,159.978193,130.833333,1C,02:48,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,36.438931,154.583333,1C,01:45,Real Madrid,16,12,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,38.312157,97.083333,2C,00:57,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,39.24877,118.333333,3C,04:17,Real Madrid,42,45,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,148.738836,92.916667,3C,00:39,Real Madrid,48,49,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abalde,131.430227,229.583333,4C,09:21,Real Madrid,50,52,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+J. Carroll,159.04158,143.333333,1C,01:51,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+J. Carroll,70.606575,89.166667,1C,01:09,Real Madrid,18,12,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+T. Thompkins,50.01982,26.25,2C,09:33,Real Madrid,21,17,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+T. Thompkins,37.843851,185.0,3C,02:51,Real Madrid,44,47,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Thompkins,52.361353,193.333333,3C,00:03,Real Madrid,50,49,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+U. Garuba,37.843851,133.333333,2C,08:30,Real Madrid,23,17,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+R. Fernández,177.755109,142.083333,2C,07:51,Real Madrid,23,18,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+R. Fernández,97.281315,206.25,2C,06:00,Real Madrid,26,20,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+R. Fernández,151.080369,75.833333,2C,02:40,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+R. Fernández,184.760974,211.666667,4C,05:24,Real Madrid,57,56,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Laprovittola,70.606575,148.333333,2C,07:24,Real Madrid,25,20,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Laprovittola,152.485289,92.916667,2C,04:55,Real Madrid,28,23,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Laprovittola,80.890587,122.916667,2C,03:35,Real Madrid,31,28,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,122.532403,44.166667,2C,06:09,Real Madrid,26,20,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,36.438931,154.583333,2C,05:25,Real Madrid,28,23,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,39.717077,154.166667,2C,04:08,Real Madrid,30,26,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,52.829659,125.833333,2C,03:02,Real Madrid,31,30,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,126.747162,55.416667,2C,02:20,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,58.430605,162.5,3C,01:40,Real Madrid,44,47,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,85.573652,249.583333,4C,06:27,Real Madrid,57,56,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+S. Llull,144.992384,222.916667,4C,05:58,Real Madrid,57,56,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+W. Tavares,59.367219,138.75,3C,07:38,Real Madrid,33,34,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+W. Tavares,82.763813,147.916667,4C,07:43,Real Madrid,52,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+W. Tavares,72.011495,137.083333,4C,02:48,Real Madrid,63,61,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Randolph,108.033633,50.416667,3C,05:28,Real Madrid,40,42,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,452.070341,172.083333,1C,09:38,Real Madrid,2,0,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,436.166651,167.916667,1C,08:30,Real Madrid,2,0,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,425.414333,22.916667,1C,03:23,Real Madrid,14,9,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,365.976868,62.083333,1C,02:01,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,429.142053,131.666667,2C,03:24,Real Madrid,31,28,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,461.436471,165.416667,2C,00:04,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+T. Heurtel,442.722942,192.5,4C,01:49,Real Madrid,65,65,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,480.15,260.833333,1C,09:14,Real Madrid,2,0,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,447.874314,163.75,1C,08:19,Real Madrid,2,2,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,440.849716,148.75,1C,06:35,Real Madrid,8,5,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,455.816793,166.25,1C,04:13,Real Madrid,12,9,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,447.406008,110.416667,1C,03:37,Real Madrid,14,9,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,458.158325,120.416667,1C,03:34,Real Madrid,14,9,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,467.524456,166.666667,1C,02:14,Real Madrid,14,12,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,462.841391,167.5,2C,04:36,Real Madrid,28,23,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,345.390114,79.166667,2C,01:53,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,463.778004,156.25,2C,01:31,Real Madrid,31,32,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,435.230038,115.833333,3C,09:15,Real Madrid,31,32,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,339.320861,131.666667,3C,07:20,Real Madrid,35,37,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Calathes,444.596168,161.25,4C,06:32,Real Madrid,54,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+P. Oriola,449.728808,143.333333,1C,06:14,Real Madrid,8,7,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+V. Claver,480.15,260.833333,1C,05:06,Real Madrid,10,7,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+V. Claver,345.390114,137.083333,2C,02:08,Real Madrid,31,30,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Abrines,473.125402,22.083333,1C,03:11,Real Madrid,14,12,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abrines,383.30421,221.25,1C,02:20,Real Madrid,14,12,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Abrines,382.835904,219.583333,2C,09:17,Real Madrid,21,17,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Abrines,398.271287,46.666667,3C,06:41,Real Madrid,37,37,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Abrines,477.340161,49.166667,3C,05:48,Real Madrid,37,42,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+A. Abrines,465.182923,116.666667,3C,03:49,Real Madrid,42,47,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+L. Bolmaro,442.722942,132.916667,1C,01:22,Real Madrid,16,12,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+L. Bolmaro,442.722942,97.916667,1C,00:35,Real Madrid,18,14,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+L. Bolmaro,350.073179,187.083333,1C,00:00,Real Madrid,18,14,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+L. Bolmaro,365.040255,200.833333,2C,07:05,Real Madrid,25,20,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+L. Bolmaro,403.422658,197.083333,3C,03:12,Real Madrid,44,47,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,460.031552,132.5,2C,09:42,Real Madrid,18,16,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,433.356812,142.083333,2C,08:53,Real Madrid,21,17,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,395.461447,99.166667,2C,03:56,Real Madrid,31,28,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,435.230038,115.0,3C,00:54,Real Madrid,45,49,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,380.962677,117.5,4C,07:50,Real Madrid,52,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,435.698344,135.0,4C,05:38,Real Madrid,57,56,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+B. Davies,386.095317,105.416667,4C,05:09,Real Madrid,57,58,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,345.85842,115.0,2C,06:26,Real Madrid,26,20,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,467.056149,155.0,2C,05:40,Real Madrid,26,22,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,474.062015,58.333333,2C,05:02,Real Madrid,28,23,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,472.657096,155.833333,2C,04:26,Real Madrid,28,25,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,454.411873,137.083333,2C,03:24,Real Madrid,31,30,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,394.524834,49.583333,3C,06:25,Real Madrid,37,40,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,353.351325,192.916667,3C,05:13,Real Madrid,40,45,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,348.668259,177.916667,4C,09:45,Real Madrid,50,52,Barça,Triple,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,378.621145,132.5,4C,08:27,Real Madrid,50,56,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,454.411873,139.166667,4C,03:26,Real Madrid,63,61,Barça,Tiro de 2,True,101399,2,2020-2021,Supercopa Endesa,False
+N. Mirotic,473.125402,71.25,4C,01:11,Real Madrid,66,65,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Hanga,353.351325,188.333333,3C,01:31,Real Madrid,44,47,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Hanga,442.722942,154.166667,4C,04:22,Real Madrid,60,58,Barça,Tiro de 2,False,101399,2,2020-2021,Supercopa Endesa,False
+A. Hanga,414.643283,30.833333,4C,00:03,Real Madrid,70,67,Barça,Triple,False,101399,2,2020-2021,Supercopa Endesa,False

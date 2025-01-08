@@ -1,376 +1,376 @@
 nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
-J. Vesely,87.85898770104068,132.86666666666667,1C,09:49,Barça,0,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,56.91329233680227,135.06666666666666,1C,08:35,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,48.91461684011353,145.4666666666667,1C,02:18,Barça,16,15,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,103.14451277199622,124.23333333333333,3C,09:15,Barça,45,44,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,55.845553453169344,180.75000000000003,3C,07:53,Barça,45,48,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,69.1267265846736,149.78333333333333,3C,07:16,Barça,45,50,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,55.564569536423846,69.8,3C,06:09,Barça,48,52,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,42.9577578051088,152.73333333333332,4C,07:42,Barça,61,70,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,37.26315042573321,148.83333333333331,4C,06:38,Barça,64,73,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-J. Vesely,33.98500473036897,141.98333333333335,4C,03:29,Barça,68,83,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,87.858988,132.866667,1C,09:49,Barça,0,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,56.913292,135.066667,1C,08:35,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,48.914617,145.466667,1C,02:18,Barça,16,15,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,103.144513,124.233333,3C,09:15,Barça,45,44,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,55.845553,180.75,3C,07:53,Barça,45,48,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,69.126727,149.783333,3C,07:16,Barça,45,50,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,55.56457,69.8,3C,06:09,Barça,48,52,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,42.957758,152.733333,4C,07:42,Barça,61,70,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,37.26315,148.833333,4C,06:38,Barça,64,73,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+J. Vesely,33.985005,141.983333,4C,03:29,Barça,68,83,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
 O. Da Silva,24.75,141.25,1C,07:55,Barça,3,0,Real Madrid,Mate,True,103868,1,2023-2024,Supercopa Endesa,False
-O. Da Silva,24.75,256.7333333333333,2C,03:47,Barça,35,34,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-O. Da Silva,43.351135288552506,155.45,3C,08:27,Barça,45,46,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-W. Hernangómez,39.79200567644276,140.51666666666668,1C,07:31,Barça,3,2,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-W. Hernangómez,88.64574266792812,142.84999999999997,2C,08:23,Barça,27,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-W. Hernangómez,65.04309366130559,145.95000000000002,3C,02:03,Barça,58,61,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-W. Hernangómez,39.7732734153264,151.2,3C,01:38,Barça,58,63,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-W. Hernangómez,35.876963103122044,156.48333333333332,4C,08:52,Barça,59,68,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,158.38595080416272,100.4,1C,06:41,Barça,6,2,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,79.61679280983915,136.58333333333334,1C,03:48,Barça,10,12,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,53.672611163670766,26.099999999999998,1C,03:15,Barça,13,12,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,144.33675496688744,215.73333333333332,1C,02:52,Barça,16,14,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,130.3062913907285,62.1,2C,04:27,Barça,32,32,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,85.10534531693472,247.16666666666666,3C,09:44,Barça,43,42,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,65.64252601702933,254.73333333333332,3C,08:19,Barça,45,46,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,43.388599810785244,141.76666666666665,3C,06:40,Barça,48,50,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,131.65501419110691,226.73333333333335,3C,03:52,Barça,55,58,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,35.72710501419111,143.56666666666666,4C,05:47,Barça,66,76,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Laprovittola,117.58708609271523,240.6,4C,01:33,Barça,76,88,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,100.42833491012298,197.88333333333335,1C,06:14,Barça,8,4,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,38.686802270577104,133.13333333333333,1C,05:42,Barça,8,6,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,161.870151371807,131.73333333333332,2C,05:48,Barça,32,25,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,155.16400189214758,85.48333333333333,2C,02:53,Barça,37,36,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,26.773084200567645,142.76666666666665,3C,05:57,Barça,50,52,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,31.11896877956481,145.33333333333331,3C,05:14,Barça,54,54,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,51.818117313150424,148.98333333333335,4C,06:56,Barça,62,73,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,54.02852412488174,27.099999999999998,4C,02:55,Barça,71,85,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-T. Satoransky,70.41925260170294,30.116666666666667,4C,01:14,Barça,79,90,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-A. Abrines,134.55851466414381,72.96666666666667,1C,04:10,Barça,8,12,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-A. Abrines,150.1624881740776,203.08333333333334,1C,00:05,Barça,25,19,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-A. Abrines,118.89834437086091,94.60000000000001,2C,09:43,Barça,27,22,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-A. Abrines,140.32805108798487,47.983333333333334,2C,00:36,Barça,40,42,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-A. Abrines,52.77346263008515,40.300000000000004,3C,03:36,Barça,55,58,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-A. Abrines,133.17232734153262,69.86666666666666,3C,02:22,Barça,58,60,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Jokubaitis,37.750189214758755,149.38333333333333,1C,02:57,Barça,13,14,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Jokubaitis,37.39427625354777,89.51666666666667,1C,00:33,Barça,22,19,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-R. Jokubaitis,102.33902554399243,37.53333333333334,2C,01:12,Barça,37,42,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Jokubaitis,27.89701986754967,132.76666666666668,2C,00:56,Barça,37,42,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Jokubaitis,62.72029328287606,168.98333333333332,3C,03:33,Barça,55,58,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Parra,130.36248817407755,218.60000000000002,2C,07:56,Barça,29,23,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-J. Parra,24.75,27.083333333333336,2C,06:24,Barça,32,25,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-J. Parra,43.55719016083255,124.03333333333333,4C,04:28,Barça,66,81,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Kalinic,41.15946073793756,199.6,2C,02:16,Barça,37,38,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Kalinic,38.03117313150426,145.91666666666669,2C,02:00,Barça,37,40,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Kalinic,48.74602649006622,162.15,3C,08:32,Barça,45,46,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-N. Kalinic,156.08188268684955,93.43333333333334,3C,07:03,Barça,48,50,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+O. Da Silva,24.75,256.733333,2C,03:47,Barça,35,34,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+O. Da Silva,43.351135,155.45,3C,08:27,Barça,45,46,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+W. Hernangómez,39.792006,140.516667,1C,07:31,Barça,3,2,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+W. Hernangómez,88.645743,142.85,2C,08:23,Barça,27,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+W. Hernangómez,65.043094,145.95,3C,02:03,Barça,58,61,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+W. Hernangómez,39.773273,151.2,3C,01:38,Barça,58,63,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+W. Hernangómez,35.876963,156.483333,4C,08:52,Barça,59,68,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,158.385951,100.4,1C,06:41,Barça,6,2,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,79.616793,136.583333,1C,03:48,Barça,10,12,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,53.672611,26.1,1C,03:15,Barça,13,12,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,144.336755,215.733333,1C,02:52,Barça,16,14,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,130.306291,62.1,2C,04:27,Barça,32,32,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,85.105345,247.166667,3C,09:44,Barça,43,42,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,65.642526,254.733333,3C,08:19,Barça,45,46,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,43.3886,141.766667,3C,06:40,Barça,48,50,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,131.655014,226.733333,3C,03:52,Barça,55,58,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,35.727105,143.566667,4C,05:47,Barça,66,76,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+N. Laprovittola,117.587086,240.6,4C,01:33,Barça,76,88,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,100.428335,197.883333,1C,06:14,Barça,8,4,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,38.686802,133.133333,1C,05:42,Barça,8,6,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,161.870151,131.733333,2C,05:48,Barça,32,25,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,155.164002,85.483333,2C,02:53,Barça,37,36,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,26.773084,142.766667,3C,05:57,Barça,50,52,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,31.118969,145.333333,3C,05:14,Barça,54,54,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,51.818117,148.983333,4C,06:56,Barça,62,73,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,54.028524,27.1,4C,02:55,Barça,71,85,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+T. Satoransky,70.419253,30.116667,4C,01:14,Barça,79,90,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+A. Abrines,134.558515,72.966667,1C,04:10,Barça,8,12,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+A. Abrines,150.162488,203.083333,1C,00:05,Barça,25,19,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+A. Abrines,118.898344,94.6,2C,09:43,Barça,27,22,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+A. Abrines,140.328051,47.983333,2C,00:36,Barça,40,42,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+A. Abrines,52.773463,40.3,3C,03:36,Barça,55,58,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+A. Abrines,133.172327,69.866667,3C,02:22,Barça,58,60,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Jokubaitis,37.750189,149.383333,1C,02:57,Barça,13,14,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Jokubaitis,37.394276,89.516667,1C,00:33,Barça,22,19,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+R. Jokubaitis,102.339026,37.533333,2C,01:12,Barça,37,42,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Jokubaitis,27.89702,132.766667,2C,00:56,Barça,37,42,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Jokubaitis,62.720293,168.983333,3C,03:33,Barça,55,58,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Parra,130.362488,218.6,2C,07:56,Barça,29,23,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+J. Parra,24.75,27.083333,2C,06:24,Barça,32,25,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+J. Parra,43.55719,124.033333,4C,04:28,Barça,66,81,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Kalinic,41.159461,199.6,2C,02:16,Barça,37,38,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Kalinic,38.031173,145.916667,2C,02:00,Barça,37,40,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Kalinic,48.746026,162.15,3C,08:32,Barça,45,46,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Kalinic,156.081883,93.433333,3C,07:03,Barça,48,50,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
 N. Kalinic,24.75,141.25,3C,05:42,Barça,52,52,Real Madrid,Mate,True,103868,1,2023-2024,Supercopa Endesa,False
-N. Kalinic,30.819252601702935,146.13333333333333,4C,08:26,Barça,61,70,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-J. Parker,109.77573320719016,237.70000000000002,3C,02:50,Barça,58,58,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-J. Parker,113.63457899716178,240.11666666666665,3C,02:12,Barça,58,61,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,325.29039735099343,150.75,1C,09:27,Barça,0,0,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,352.2835856196783,184.38333333333335,1C,07:18,Barça,3,2,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,475.9352412488174,152.55,1C,06:25,Barça,6,4,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,469.52880794701986,145.23333333333332,3C,08:50,Barça,45,46,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,470.2031693472091,146.61666666666667,3C,08:05,Barça,45,48,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,449.0357142857143,136.71666666666664,3C,07:41,Barça,45,50,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,473.42511825922423,148.39999999999998,3C,06:34,Barça,48,52,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,360.63817407757807,204.66666666666666,4C,09:46,Barça,59,67,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,473.6311731315043,29.283333333333335,4C,07:23,Barça,61,73,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,471.7392147587512,145.93333333333337,4C,07:00,Barça,61,73,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,409.473178807947,248.91666666666669,4C,06:15,Barça,64,76,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Musa,406.0639072847682,250.58333333333331,4C,04:51,Barça,66,81,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-V. Poirier,432.62625354777674,147.29999999999998,1C,08:50,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-V. Poirier,469.5662724692526,132.9,2C,00:00,Barça,40,42,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-V. Poirier,467.95529801324506,153.89999999999998,4C,03:43,Barça,66,83,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-V. Poirier,463.66561021759696,145.63333333333333,4C,03:12,Barça,68,85,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-V. Poirier,461.24914853358564,157.73333333333335,4C,01:29,Barça,76,90,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,466.68150425733205,136.78333333333333,1C,08:14,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,464.5647587511826,137.21666666666664,1C,08:10,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,472.750756859035,141.7,1C,04:54,Barça,8,10,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,454.7677861873226,130.95000000000002,1C,03:08,Barça,13,12,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,473.23779564806057,136.11666666666667,2C,04:11,Barça,32,34,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,465.9884105960265,144.63333333333333,2C,02:08,Barça,37,40,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,473.44385052034056,106.91666666666667,2C,00:01,Barça,40,42,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-G. Deck,470.1844370860927,152.13333333333335,3C,09:28,Barça,43,44,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,473.312724692526,144.39999999999998,1C,05:36,Barça,8,8,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,359.81395458845793,69.56666666666666,1C,04:02,Barça,8,12,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,466.8126300851466,156.89999999999998,2C,07:44,Barça,29,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,462.0171712393567,139.6,2C,05:19,Barça,32,27,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,351.2907757805109,97.69999999999999,2C,05:08,Barça,32,30,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,477.4525543992431,138.81666666666666,2C,04:39,Barça,32,32,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,474.6052507095553,140.05,3C,05:25,Barça,52,54,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,474.84877010406814,147.91666666666663,3C,02:34,Barça,58,60,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,471.96400189214756,135.95000000000002,3C,01:52,Barça,58,63,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,470.03457899716176,141.33333333333331,3C,01:26,Barça,58,65,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,472.39484389782405,156.75,3C,00:45,Barça,58,67,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-F. Campazzo,304.2540681173131,63.65,3C,00:01,Barça,59,67,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-A. Abalde,471.2521759697256,144.83333333333331,1C,04:24,Barça,8,12,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-M. Hezonja,474.0994796594134,126.58333333333333,1C,03:27,Barça,10,12,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-M. Hezonja,467.14981078524124,139.21666666666667,3C,08:09,Barça,45,46,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-M. Hezonja,335.14356669820245,123.5,3C,06:52,Barça,48,50,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+N. Kalinic,30.819253,146.133333,4C,08:26,Barça,61,70,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+J. Parker,109.775733,237.7,3C,02:50,Barça,58,58,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+J. Parker,113.634579,240.116667,3C,02:12,Barça,58,61,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,325.290397,150.75,1C,09:27,Barça,0,0,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,352.283586,184.383333,1C,07:18,Barça,3,2,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,475.935241,152.55,1C,06:25,Barça,6,4,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,469.528808,145.233333,3C,08:50,Barça,45,46,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,470.203169,146.616667,3C,08:05,Barça,45,48,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,449.035714,136.716667,3C,07:41,Barça,45,50,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,473.425118,148.4,3C,06:34,Barça,48,52,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,360.638174,204.666667,4C,09:46,Barça,59,67,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,473.631173,29.283333,4C,07:23,Barça,61,73,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,471.739215,145.933333,4C,07:00,Barça,61,73,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,409.473179,248.916667,4C,06:15,Barça,64,76,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Musa,406.063907,250.583333,4C,04:51,Barça,66,81,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+V. Poirier,432.626254,147.3,1C,08:50,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+V. Poirier,469.566272,132.9,2C,00:00,Barça,40,42,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+V. Poirier,467.955298,153.9,4C,03:43,Barça,66,83,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+V. Poirier,463.66561,145.633333,4C,03:12,Barça,68,85,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+V. Poirier,461.249149,157.733333,4C,01:29,Barça,76,90,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,466.681504,136.783333,1C,08:14,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,464.564759,137.216667,1C,08:10,Barça,1,0,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,472.750757,141.7,1C,04:54,Barça,8,10,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,454.767786,130.95,1C,03:08,Barça,13,12,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,473.237796,136.116667,2C,04:11,Barça,32,34,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,465.988411,144.633333,2C,02:08,Barça,37,40,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,473.443851,106.916667,2C,00:01,Barça,40,42,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+G. Deck,470.184437,152.133333,3C,09:28,Barça,43,44,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,473.312725,144.4,1C,05:36,Barça,8,8,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,359.813955,69.566667,1C,04:02,Barça,8,12,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,466.81263,156.9,2C,07:44,Barça,29,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,462.017171,139.6,2C,05:19,Barça,32,27,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,351.290776,97.7,2C,05:08,Barça,32,30,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,477.452554,138.816667,2C,04:39,Barça,32,32,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,474.605251,140.05,3C,05:25,Barça,52,54,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,474.84877,147.916667,3C,02:34,Barça,58,60,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,471.964002,135.95,3C,01:52,Barça,58,63,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,470.034579,141.333333,3C,01:26,Barça,58,65,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,472.394844,156.75,3C,00:45,Barça,58,67,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+F. Campazzo,304.254068,63.65,3C,00:01,Barça,59,67,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+A. Abalde,471.252176,144.833333,1C,04:24,Barça,8,12,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+M. Hezonja,474.09948,126.583333,1C,03:27,Barça,10,12,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+M. Hezonja,467.149811,139.216667,3C,08:09,Barça,45,46,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+M. Hezonja,335.143567,123.5,3C,06:52,Barça,48,50,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
 W. Tavares,480.15,141.25,1C,02:06,Barça,16,17,Real Madrid,Mate,True,103868,1,2023-2024,Supercopa Endesa,False
-W. Tavares,466.2131977294229,148.78333333333333,1C,01:20,Barça,18,19,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+W. Tavares,466.213198,148.783333,1C,01:20,Barça,18,19,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
 W. Tavares,480.15,141.25,2C,03:19,Barça,35,36,Real Madrid,Mate,True,103868,1,2023-2024,Supercopa Endesa,False
-W. Tavares,460.8745033112583,139.65,2C,01:39,Barça,37,42,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-W. Tavares,468.9293755912961,150.5666666666667,3C,04:28,Barça,55,58,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-W. Tavares,440.90591296121096,144.61666666666667,3C,04:10,Barça,55,58,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-W. Tavares,480.15,150.4333333333333,4C,05:24,Barça,66,78,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-S. Rodríguez,346.8886944181646,164.85,1C,00:22,Barça,22,19,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Rodríguez,380.4381740775781,228.46666666666664,1C,00:00,Barça,25,22,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-S. Rodríguez,353.3325922421949,195.91666666666669,4C,02:30,Barça,71,85,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-G. Yabusele,392.38935666982024,46.733333333333334,2C,08:07,Barça,29,23,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,465.5763008514664,92.41666666666666,2C,07:11,Barça,29,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,447.18122043519395,139.93333333333337,2C,06:45,Barça,29,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,464.17138126773887,139.79999999999998,2C,06:40,Barça,29,25,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,345.783491012299,169.75,2C,06:10,Barça,32,25,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,480.15,25.516666666666666,2C,05:38,Barça,32,25,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,461.9797067171239,139.13333333333333,2C,03:25,Barça,35,34,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,466.53164616840115,138.88333333333333,2C,02:59,Barça,37,36,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
-S. Llull,391.78992431409654,229.99999999999997,4C,00:19,Barça,80,90,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Fernández,350.09191106906337,184.33333333333334,2C,01:43,Barça,37,40,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Fernández,375.43666035950804,229.71666666666667,4C,08:11,Barça,61,70,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
-R. Fernández,377.29115421002837,57.56666666666667,4C,01:57,Barça,73,88,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
-D. Ennis,43.25747398297068,132.63333333333333,1C,09:50,UCAM Murcia,0,0,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,27.5973036896878,260.15,1C,09:05,UCAM Murcia,2,2,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,30.14489120151372,137.98333333333335,1C,06:48,UCAM Murcia,6,9,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,140.15946073793756,206.98333333333335,1C,04:55,UCAM Murcia,10,14,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,39.67961210974456,142.63333333333333,1C,02:27,UCAM Murcia,20,15,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,35.10894039735099,150.16666666666666,2C,03:36,UCAM Murcia,31,34,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,42.60184484389782,159.0666666666667,2C,02:42,UCAM Murcia,33,39,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,42.9015610217597,150.83333333333331,2C,01:57,UCAM Murcia,33,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,178.31707663197727,174.75000000000003,2C,01:50,UCAM Murcia,33,39,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,46.92899716177862,145.08333333333334,2C,00:59,UCAM Murcia,37,39,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,107.56532639545885,236.5,3C,09:26,UCAM Murcia,37,41,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,30.48207190160833,137.03333333333333,3C,08:44,UCAM Murcia,37,43,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,45.99238410596026,154.48333333333335,3C,02:28,UCAM Murcia,52,53,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,138.9418637653737,133.26666666666668,4C,03:10,UCAM Murcia,68,77,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Ennis,167.19011352885525,186.5,4C,00:03,UCAM Murcia,74,79,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+W. Tavares,460.874503,139.65,2C,01:39,Barça,37,42,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+W. Tavares,468.929376,150.566667,3C,04:28,Barça,55,58,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+W. Tavares,440.905913,144.616667,3C,04:10,Barça,55,58,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+W. Tavares,480.15,150.433333,4C,05:24,Barça,66,78,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+S. Rodríguez,346.888694,164.85,1C,00:22,Barça,22,19,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Rodríguez,380.438174,228.466667,1C,00:00,Barça,25,22,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+S. Rodríguez,353.332592,195.916667,4C,02:30,Barça,71,85,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+G. Yabusele,392.389357,46.733333,2C,08:07,Barça,29,23,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,465.576301,92.416667,2C,07:11,Barça,29,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,447.18122,139.933333,2C,06:45,Barça,29,23,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,464.171381,139.8,2C,06:40,Barça,29,25,Real Madrid,Tiro de 2,True,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,345.783491,169.75,2C,06:10,Barça,32,25,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,480.15,25.516667,2C,05:38,Barça,32,25,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,461.979707,139.133333,2C,03:25,Barça,35,34,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,466.531646,138.883333,2C,02:59,Barça,37,36,Real Madrid,Tiro de 2,False,103868,1,2023-2024,Supercopa Endesa,False
+S. Llull,391.789924,230.0,4C,00:19,Barça,80,90,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Fernández,350.091911,184.333333,2C,01:43,Barça,37,40,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Fernández,375.43666,229.716667,4C,08:11,Barça,61,70,Real Madrid,Triple,False,103868,1,2023-2024,Supercopa Endesa,False
+R. Fernández,377.291154,57.566667,4C,01:57,Barça,73,88,Real Madrid,Triple,True,103868,1,2023-2024,Supercopa Endesa,False
+D. Ennis,43.257474,132.633333,1C,09:50,UCAM Murcia,0,0,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,27.597304,260.15,1C,09:05,UCAM Murcia,2,2,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,30.144891,137.983333,1C,06:48,UCAM Murcia,6,9,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,140.159461,206.983333,1C,04:55,UCAM Murcia,10,14,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,39.679612,142.633333,1C,02:27,UCAM Murcia,20,15,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,35.10894,150.166667,2C,03:36,UCAM Murcia,31,34,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,42.601845,159.066667,2C,02:42,UCAM Murcia,33,39,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,42.901561,150.833333,2C,01:57,UCAM Murcia,33,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,178.317077,174.75,2C,01:50,UCAM Murcia,33,39,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,46.928997,145.083333,2C,00:59,UCAM Murcia,37,39,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,107.565326,236.5,3C,09:26,UCAM Murcia,37,41,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,30.482072,137.033333,3C,08:44,UCAM Murcia,37,43,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,45.992384,154.483333,3C,02:28,UCAM Murcia,52,53,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,138.941864,133.266667,4C,03:10,UCAM Murcia,68,77,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Ennis,167.190114,186.5,4C,00:03,UCAM Murcia,74,79,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
 M. Diagné,24.75,141.25,1C,09:33,UCAM Murcia,2,2,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-M. Diagné,33.048391674550615,232.81666666666666,1C,08:18,UCAM Murcia,4,5,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-M. Diagné,117.7744087038789,139.01666666666668,1C,07:03,UCAM Murcia,4,9,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-M. Diagné,39.885666982024595,144.08333333333334,2C,06:34,UCAM Murcia,29,29,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-M. Diagné,53.20430463576159,136.96666666666667,2C,01:23,UCAM Murcia,35,39,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-M. Diagné,27.6535004730369,143.1,4C,06:55,UCAM Murcia,62,68,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-T. Caupain,130.68093661305582,67.21666666666667,1C,08:33,UCAM Murcia,2,5,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Caupain,168.10799432355725,151.03333333333336,3C,03:07,UCAM Murcia,52,53,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-T. Caupain,134.670908230842,65.91666666666667,4C,09:30,UCAM Murcia,56,60,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Caupain,34.41584673604542,137.46666666666667,4C,06:05,UCAM Murcia,62,71,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,39.04271523178808,129.25,1C,07:28,UCAM Murcia,4,7,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,43.05141911069064,25.283333333333335,1C,04:01,UCAM Murcia,15,14,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,145.92899716177863,209.3833333333333,1C,03:16,UCAM Murcia,15,15,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,143.75605487228003,66.21666666666667,2C,04:09,UCAM Murcia,31,34,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,161.5891674550615,181.2166666666667,2C,02:09,UCAM Murcia,33,39,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,82.93240302743614,29.333333333333336,3C,08:40,UCAM Murcia,40,43,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,132.87261116367077,109.0,4C,08:09,UCAM Murcia,58,65,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-H. Sant-Roos,157.14962157048248,134.41666666666669,4C,00:17,UCAM Murcia,74,78,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,33.778949858088936,139.68333333333334,1C,04:12,UCAM Murcia,12,14,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,36.289072847682114,150.39999999999998,1C,01:04,UCAM Murcia,20,19,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,210.89247871333964,207.06666666666666,1C,00:00,UCAM Murcia,20,20,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,40.07298959318827,141.45000000000002,2C,07:24,UCAM Murcia,28,24,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,39.79200567644276,145.2,2C,06:54,UCAM Murcia,29,27,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,52.77346263008515,143.08333333333334,3C,08:01,UCAM Murcia,42,46,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,33.32937559129613,139.16666666666666,3C,06:21,UCAM Murcia,45,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,26.342242194891202,146.61666666666667,3C,04:24,UCAM Murcia,49,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,34.47204351939451,139.2,3C,02:10,UCAM Murcia,54,55,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,28.402790917691583,153.36666666666665,3C,00:11,UCAM Murcia,56,60,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,28.983491012298963,149.91666666666663,4C,02:19,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Radovic,112.84782403027437,237.41666666666666,4C,01:15,UCAM Murcia,70,77,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,154.95794701986756,193.11666666666665,1C,02:57,UCAM Murcia,18,15,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,173.14697256385998,143.91666666666669,1C,02:04,UCAM Murcia,20,16,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,144.93618732261118,209.58333333333334,2C,07:53,UCAM Murcia,26,22,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,61.57762535477767,143.15,2C,06:20,UCAM Murcia,29,29,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,66.80392620624409,141.86666666666665,2C,05:35,UCAM Murcia,31,29,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,31.474881740775782,149.36666666666665,2C,00:27,UCAM Murcia,37,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,165.4667455061495,187.95000000000002,3C,09:02,UCAM Murcia,37,43,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,117.79314096499527,50.75,3C,05:48,UCAM Murcia,45,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-L. Hakanson,172.92218543046357,144.48333333333335,3C,03:38,UCAM Murcia,49,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+M. Diagné,33.048392,232.816667,1C,08:18,UCAM Murcia,4,5,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+M. Diagné,117.774409,139.016667,1C,07:03,UCAM Murcia,4,9,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+M. Diagné,39.885667,144.083333,2C,06:34,UCAM Murcia,29,29,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+M. Diagné,53.204305,136.966667,2C,01:23,UCAM Murcia,35,39,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+M. Diagné,27.6535,143.1,4C,06:55,UCAM Murcia,62,68,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+T. Caupain,130.680937,67.216667,1C,08:33,UCAM Murcia,2,5,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Caupain,168.107994,151.033333,3C,03:07,UCAM Murcia,52,53,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+T. Caupain,134.670908,65.916667,4C,09:30,UCAM Murcia,56,60,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Caupain,34.415847,137.466667,4C,06:05,UCAM Murcia,62,71,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,39.042715,129.25,1C,07:28,UCAM Murcia,4,7,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,43.051419,25.283333,1C,04:01,UCAM Murcia,15,14,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,145.928997,209.383333,1C,03:16,UCAM Murcia,15,15,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,143.756055,66.216667,2C,04:09,UCAM Murcia,31,34,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,161.589167,181.216667,2C,02:09,UCAM Murcia,33,39,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,82.932403,29.333333,3C,08:40,UCAM Murcia,40,43,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,132.872611,109.0,4C,08:09,UCAM Murcia,58,65,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+H. Sant-Roos,157.149622,134.416667,4C,00:17,UCAM Murcia,74,78,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,33.77895,139.683333,1C,04:12,UCAM Murcia,12,14,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,36.289073,150.4,1C,01:04,UCAM Murcia,20,19,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,210.892479,207.066667,1C,00:00,UCAM Murcia,20,20,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,40.07299,141.45,2C,07:24,UCAM Murcia,28,24,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,39.792006,145.2,2C,06:54,UCAM Murcia,29,27,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,52.773463,143.083333,3C,08:01,UCAM Murcia,42,46,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,33.329376,139.166667,3C,06:21,UCAM Murcia,45,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,26.342242,146.616667,3C,04:24,UCAM Murcia,49,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,34.472044,139.2,3C,02:10,UCAM Murcia,54,55,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,28.402791,153.366667,3C,00:11,UCAM Murcia,56,60,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,28.983491,149.916667,4C,02:19,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Radovic,112.847824,237.416667,4C,01:15,UCAM Murcia,70,77,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,154.957947,193.116667,1C,02:57,UCAM Murcia,18,15,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,173.146973,143.916667,1C,02:04,UCAM Murcia,20,16,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,144.936187,209.583333,2C,07:53,UCAM Murcia,26,22,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,61.577625,143.15,2C,06:20,UCAM Murcia,29,29,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,66.803926,141.866667,2C,05:35,UCAM Murcia,31,29,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,31.474882,149.366667,2C,00:27,UCAM Murcia,37,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,165.466746,187.95,3C,09:02,UCAM Murcia,37,43,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,117.793141,50.75,3C,05:48,UCAM Murcia,45,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+L. Hakanson,172.922185,144.483333,3C,03:38,UCAM Murcia,49,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
 L. Hakanson,24.75,138.4,4C,02:53,UCAM Murcia,70,77,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-T. McFadden,128.9950331125828,226.91666666666666,1C,01:19,UCAM Murcia,20,19,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-T. McFadden,160.01565752128667,134.1,2C,08:56,UCAM Murcia,23,22,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-S. Birgander,47.54716177861873,149.85,1C,00:39,UCAM Murcia,20,20,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-S. Birgander,30.01376537369915,133.1,3C,05:04,UCAM Murcia,47,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-R. Kurucs,90.63136234626302,242.35000000000002,2C,08:23,UCAM Murcia,23,22,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-R. Kurucs,37.86258278145695,135.45000000000002,4C,06:05,UCAM Murcia,62,71,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-R. Kurucs,33.647824030274364,137.1,4C,05:02,UCAM Murcia,64,74,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-R. Kurucs,27.84082308420057,139.95000000000002,4C,04:18,UCAM Murcia,66,76,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Sleva,33.51669820245979,113.65,2C,02:21,UCAM Murcia,33,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Sleva,119.61017029328288,48.93333333333334,4C,01:02,UCAM Murcia,73,77,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Sleva,42.864096499526966,27.06666666666667,4C,00:25,UCAM Murcia,74,77,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+T. McFadden,128.995033,226.916667,1C,01:19,UCAM Murcia,20,19,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+T. McFadden,160.015658,134.1,2C,08:56,UCAM Murcia,23,22,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+S. Birgander,47.547162,149.85,1C,00:39,UCAM Murcia,20,20,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+S. Birgander,30.013765,133.1,3C,05:04,UCAM Murcia,47,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+R. Kurucs,90.631362,242.35,2C,08:23,UCAM Murcia,23,22,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+R. Kurucs,37.862583,135.45,4C,06:05,UCAM Murcia,62,71,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+R. Kurucs,33.647824,137.1,4C,05:02,UCAM Murcia,64,74,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+R. Kurucs,27.840823,139.95,4C,04:18,UCAM Murcia,66,76,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Sleva,33.516698,113.65,2C,02:21,UCAM Murcia,33,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Sleva,119.61017,48.933333,4C,01:02,UCAM Murcia,73,77,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Sleva,42.864096,27.066667,4C,00:25,UCAM Murcia,74,77,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
 K. Taylor,480.15,141.25,1C,09:46,UCAM Murcia,0,2,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-K. Taylor,386.15151371807,110.53333333333333,1C,07:51,UCAM Murcia,4,5,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Taylor,457.01565752128664,25.716666666666665,2C,03:16,UCAM Murcia,31,37,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-K. Taylor,366.59503311258277,67.5,2C,01:05,UCAM Murcia,35,39,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Taylor,429.3855723746452,136.95000000000002,3C,02:44,UCAM Murcia,52,53,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,473.2190633869442,26.450000000000003,1C,09:12,UCAM Murcia,2,2,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,477.9208609271523,149.10000000000002,1C,08:50,UCAM Murcia,2,4,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,427.66220435193947,135.98333333333335,2C,02:31,UCAM Murcia,33,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,461.6612582781457,112.18333333333332,2C,00:42,UCAM Murcia,37,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,477.3588930936613,153.66666666666669,2C,00:04,UCAM Murcia,37,41,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,336.24877010406806,107.86666666666666,3C,09:47,UCAM Murcia,37,41,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,466.7189687795648,140.25,3C,09:19,UCAM Murcia,37,43,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,465.35151371807,134.6833333333333,3C,07:50,UCAM Murcia,42,46,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-K. Perry,467.5244560075686,135.86666666666667,4C,01:28,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-W. Thomas,479.73789025543994,145.9666666666667,1C,07:48,UCAM Murcia,4,7,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-W. Thomas,346.4953169347209,153.66666666666669,2C,05:44,UCAM Murcia,29,29,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-W. Thomas,355.31821192052985,76.91666666666666,3C,01:27,UCAM Murcia,54,58,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+K. Taylor,386.151514,110.533333,1C,07:51,UCAM Murcia,4,5,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Taylor,457.015658,25.716667,2C,03:16,UCAM Murcia,31,37,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+K. Taylor,366.595033,67.5,2C,01:05,UCAM Murcia,35,39,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Taylor,429.385572,136.95,3C,02:44,UCAM Murcia,52,53,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,473.219063,26.45,1C,09:12,UCAM Murcia,2,2,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,477.920861,149.1,1C,08:50,UCAM Murcia,2,4,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,427.662204,135.983333,2C,02:31,UCAM Murcia,33,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,461.661258,112.183333,2C,00:42,UCAM Murcia,37,39,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,477.358893,153.666667,2C,00:04,UCAM Murcia,37,41,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,336.24877,107.866667,3C,09:47,UCAM Murcia,37,41,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,466.718969,140.25,3C,09:19,UCAM Murcia,37,43,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,465.351514,134.683333,3C,07:50,UCAM Murcia,42,46,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+K. Perry,467.524456,135.866667,4C,01:28,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+W. Thomas,479.73789,145.966667,1C,07:48,UCAM Murcia,4,7,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+W. Thomas,346.495317,153.666667,2C,05:44,UCAM Murcia,29,29,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+W. Thomas,355.318212,76.916667,3C,01:27,UCAM Murcia,54,58,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
 D. Osetkowski,480.15,141.25,1C,07:22,UCAM Murcia,4,9,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,412.9199148533586,247.01666666666665,1C,06:56,UCAM Murcia,4,9,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,345.52123935666987,149.23333333333332,1C,06:37,UCAM Murcia,7,9,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,477.20903500473037,139.03333333333333,1C,05:52,UCAM Murcia,8,9,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,474.0807473982971,149.29999999999998,1C,05:49,UCAM Murcia,8,11,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,429.0296594134343,253.58333333333331,3C,08:25,UCAM Murcia,40,46,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,388.34318826868497,158.89999999999998,3C,07:31,UCAM Murcia,43,46,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,412.919915,247.016667,1C,06:56,UCAM Murcia,4,9,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,345.521239,149.233333,1C,06:37,UCAM Murcia,7,9,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,477.209035,139.033333,1C,05:52,UCAM Murcia,8,9,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,474.080747,149.3,1C,05:49,UCAM Murcia,8,11,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,429.029659,253.583333,3C,08:25,UCAM Murcia,40,46,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,388.343188,158.9,3C,07:31,UCAM Murcia,43,46,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
 D. Osetkowski,480.15,141.25,3C,07:20,UCAM Murcia,43,48,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,399.03930936613057,36.53333333333333,3C,03:55,UCAM Murcia,49,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,370.3976821192053,206.01666666666668,3C,01:51,UCAM Murcia,54,55,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,475.14848628193,141.05,4C,04:38,UCAM Murcia,64,76,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-D. Osetkowski,465.20165562913905,133.63333333333333,4C,03:26,UCAM Murcia,66,76,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,372.98273415326395,58.35,1C,05:18,UCAM Murcia,10,14,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,353.6135761589404,88.76666666666667,2C,07:10,UCAM Murcia,29,27,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,368.9365657521287,54.43333333333334,3C,08:54,UCAM Murcia,37,43,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,473.42511825922423,143.43333333333337,3C,06:43,UCAM Murcia,43,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,480.15,27.099999999999998,3C,05:54,UCAM Murcia,45,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,376.1672185430464,219.20000000000002,3C,00:51,UCAM Murcia,54,58,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,343.6105487228004,178.43333333333334,4C,06:30,UCAM Murcia,62,71,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,473.2565279091769,140.06666666666666,4C,02:29,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-N. Djedovic,464.4898297067171,133.1,4C,01:09,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-I. Diop,470.6902081362346,164.76666666666668,1C,03:05,UCAM Murcia,15,15,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-I. Diop,456.6035477767266,153.10000000000002,1C,02:33,UCAM Murcia,18,15,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,399.039309,36.533333,3C,03:55,UCAM Murcia,49,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,370.397682,206.016667,3C,01:51,UCAM Murcia,54,55,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,475.148486,141.05,4C,04:38,UCAM Murcia,64,76,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+D. Osetkowski,465.201656,133.633333,4C,03:26,UCAM Murcia,66,76,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,372.982734,58.35,1C,05:18,UCAM Murcia,10,14,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,353.613576,88.766667,2C,07:10,UCAM Murcia,29,27,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,368.936566,54.433333,3C,08:54,UCAM Murcia,37,43,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,473.425118,143.433333,3C,06:43,UCAM Murcia,43,52,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,480.15,27.1,3C,05:54,UCAM Murcia,45,52,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,376.167219,219.2,3C,00:51,UCAM Murcia,54,58,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,343.610549,178.433333,4C,06:30,UCAM Murcia,62,71,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,473.256528,140.066667,4C,02:29,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+N. Djedovic,464.48983,133.1,4C,01:09,UCAM Murcia,70,77,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+I. Diop,470.690208,164.766667,1C,03:05,UCAM Murcia,15,15,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+I. Diop,456.603548,153.1,1C,02:33,UCAM Murcia,18,15,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
 I. Diop,480.15,141.25,4C,09:18,UCAM Murcia,56,62,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-I. Diop,390.1227530747398,140.4,4C,07:12,UCAM Murcia,60,68,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Kalinoski,401.3621097445601,241.23333333333335,1C,01:48,UCAM Murcia,20,19,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-T. Kalinoski,446.71291390728476,165.66666666666669,1C,00:24,UCAM Murcia,20,20,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Kalinoski,389.9728949858089,90.6,3C,04:40,UCAM Murcia,47,52,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-A. Díaz,480.15,26.133333333333336,1C,00:54,UCAM Murcia,20,19,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-A. Díaz,334.9375118259224,143.26666666666665,4C,08:33,UCAM Murcia,56,65,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-M. Ejim,468.8544465468307,144.6,2C,09:46,UCAM Murcia,20,22,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-M. Ejim,469.8472563859981,25.500000000000004,2C,04:38,UCAM Murcia,31,34,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+I. Diop,390.122753,140.4,4C,07:12,UCAM Murcia,60,68,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Kalinoski,401.36211,241.233333,1C,01:48,UCAM Murcia,20,19,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+T. Kalinoski,446.712914,165.666667,1C,00:24,UCAM Murcia,20,20,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Kalinoski,389.972895,90.6,3C,04:40,UCAM Murcia,47,52,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+A. Díaz,480.15,26.133333,1C,00:54,UCAM Murcia,20,19,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+A. Díaz,334.937512,143.266667,4C,08:33,UCAM Murcia,56,65,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+M. Ejim,468.854447,144.6,2C,09:46,UCAM Murcia,20,22,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+M. Ejim,469.847256,25.5,2C,04:38,UCAM Murcia,31,34,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
 M. Ejim,480.15,141.25,3C,07:05,UCAM Murcia,43,50,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-M. Ejim,448.5299432355724,131.64999999999998,4C,05:15,UCAM Murcia,62,74,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,464.3399716177862,146.48333333333335,2C,09:22,UCAM Murcia,20,22,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,368.05614947965944,75.25,2C,08:37,UCAM Murcia,23,22,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,469.8659886471145,150.51666666666668,2C,06:08,UCAM Murcia,29,29,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,460.6309839167455,134.98333333333335,3C,02:20,UCAM Murcia,52,55,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+M. Ejim,448.529943,131.65,4C,05:15,UCAM Murcia,62,74,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,464.339972,146.483333,2C,09:22,UCAM Murcia,20,22,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,368.056149,75.25,2C,08:37,UCAM Murcia,23,22,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,469.865989,150.516667,2C,06:08,UCAM Murcia,29,29,Unicaja,Tiro de 2,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,460.630984,134.983333,3C,02:20,UCAM Murcia,52,55,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
 T. Carter,480.15,141.25,3C,00:35,UCAM Murcia,54,60,Unicaja,Mate,True,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,348.3310785241249,103.9,3C,00:00,UCAM Murcia,56,60,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,475.6355250709555,142.1,4C,07:49,UCAM Murcia,58,67,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,362.81111636707664,215.21666666666667,4C,05:32,UCAM Murcia,62,74,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
-T. Carter,333.0455534531693,135.28333333333333,4C,01:59,UCAM Murcia,70,77,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
-W. Thomas,61.146783349101234,232.08333333333331,1C,09:40,Unicaja,2,0,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,108.61433301797541,234.06666666666663,1C,08:06,Unicaja,5,4,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,139.2228476821192,64.15,1C,04:22,Unicaja,13,11,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,33.47923368022706,140.7833333333333,2C,02:13,Unicaja,29,38,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,37.731456953642386,140.29999999999998,3C,09:48,Unicaja,33,44,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,47.37857142857143,147.53333333333336,3C,06:17,Unicaja,43,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,34.17232734153264,139.88333333333333,3C,04:43,Unicaja,47,51,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,348.331079,103.9,3C,00:00,UCAM Murcia,56,60,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,475.635525,142.1,4C,07:49,UCAM Murcia,58,67,Unicaja,Tiro de 2,True,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,362.811116,215.216667,4C,05:32,UCAM Murcia,62,74,Unicaja,Triple,True,103869,1,2023-2024,Supercopa Endesa,False
+T. Carter,333.045553,135.283333,4C,01:59,UCAM Murcia,70,77,Unicaja,Triple,False,103869,1,2023-2024,Supercopa Endesa,False
+W. Thomas,61.146783,232.083333,1C,09:40,Unicaja,2,0,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,108.614333,234.066667,1C,08:06,Unicaja,5,4,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,139.222848,64.15,1C,04:22,Unicaja,13,11,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,33.479234,140.783333,2C,02:13,Unicaja,29,38,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,37.731457,140.3,3C,09:48,Unicaja,33,44,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,47.378571,147.533333,3C,06:17,Unicaja,43,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,34.172327,139.883333,3C,04:43,Unicaja,47,51,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
 W. Thomas,24.75,141.25,3C,03:50,Unicaja,49,54,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Thomas,35.16513718070009,147.5666666666667,3C,03:25,Unicaja,51,54,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Thomas,35.165137,147.566667,3C,03:25,Unicaja,51,54,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
 W. Thomas,24.75,141.25,4C,02:58,Unicaja,73,77,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,135.02682119205298,223.3,1C,09:04,Unicaja,5,2,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,28.85236518448439,139.06666666666666,1C,08:32,Unicaja,5,2,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,145.72294228949858,82.25,1C,07:25,Unicaja,8,4,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,132.4979659413434,226.76666666666668,1C,06:57,Unicaja,11,7,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,164.69872280037842,114.58333333333333,1C,03:48,Unicaja,13,13,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,134.82076631977296,55.53333333333334,2C,03:12,Unicaja,27,34,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,158.14243140964996,97.13333333333334,2C,00:00,Unicaja,31,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,158.2360927152318,187.35000000000002,3C,07:51,Unicaja,35,47,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,37.50666982024598,140.81666666666666,3C,07:18,Unicaja,39,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,44.662393566698206,147.4666666666667,3C,06:20,Unicaja,41,49,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,39.45482497634816,144.11666666666667,4C,05:06,Unicaja,69,75,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,41.721428571428575,142.3833333333333,4C,01:44,Unicaja,75,81,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,34.715562913907284,138.95000000000002,4C,00:50,Unicaja,79,85,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Perry,34.19105960264901,139.43333333333337,4C,00:24,Unicaja,81,86,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,161.4767738883633,173.59999999999997,1C,06:00,Unicaja,11,8,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,27.241390728476823,138.2,1C,04:54,Unicaja,13,11,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,37.169489120151376,145.43333333333337,3C,08:49,Unicaja,35,44,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,26.735619678334913,149.15,3C,06:45,Unicaja,41,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,35.01527909176916,149.9333333333333,3C,06:03,Unicaja,43,49,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,43.03268684957427,153.68333333333334,4C,01:17,Unicaja,77,83,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-K. Taylor,148.23306527909176,204.21666666666667,4C,00:04,Unicaja,81,88,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,153.0472563859981,198.96666666666667,1C,03:15,Unicaja,13,14,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,27.7658940397351,127.40000000000002,2C,05:54,Unicaja,23,32,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,34.284720908230845,152.36666666666665,2C,04:02,Unicaja,27,34,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,119.64763481551562,45.75,2C,03:25,Unicaja,27,34,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,109.83192999053928,205.48333333333335,3C,05:38,Unicaja,43,49,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,33.7976821192053,144.13333333333333,3C,05:06,Unicaja,45,51,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,41.59030274361401,142.06666666666666,3C,02:33,Unicaja,51,54,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,39.37989593188269,211.55,4C,09:01,Unicaja,59,61,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,144.2992904446547,203.93333333333337,4C,08:28,Unicaja,62,64,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,135.026821,223.3,1C,09:04,Unicaja,5,2,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,28.852365,139.066667,1C,08:32,Unicaja,5,2,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,145.722942,82.25,1C,07:25,Unicaja,8,4,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,132.497966,226.766667,1C,06:57,Unicaja,11,7,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,164.698723,114.583333,1C,03:48,Unicaja,13,13,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,134.820766,55.533333,2C,03:12,Unicaja,27,34,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,158.142431,97.133333,2C,00:00,Unicaja,31,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,158.236093,187.35,3C,07:51,Unicaja,35,47,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,37.50667,140.816667,3C,07:18,Unicaja,39,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,44.662394,147.466667,3C,06:20,Unicaja,41,49,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,39.454825,144.116667,4C,05:06,Unicaja,69,75,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,41.721429,142.383333,4C,01:44,Unicaja,75,81,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,34.715563,138.95,4C,00:50,Unicaja,79,85,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Perry,34.19106,139.433333,4C,00:24,Unicaja,81,86,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,161.476774,173.6,1C,06:00,Unicaja,11,8,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,27.241391,138.2,1C,04:54,Unicaja,13,11,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,37.169489,145.433333,3C,08:49,Unicaja,35,44,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,26.73562,149.15,3C,06:45,Unicaja,41,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,35.015279,149.933333,3C,06:03,Unicaja,43,49,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,43.032687,153.683333,4C,01:17,Unicaja,77,83,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+K. Taylor,148.233065,204.216667,4C,00:04,Unicaja,81,88,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,153.047256,198.966667,1C,03:15,Unicaja,13,14,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,27.765894,127.4,2C,05:54,Unicaja,23,32,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,34.284721,152.366667,2C,04:02,Unicaja,27,34,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,119.647635,45.75,2C,03:25,Unicaja,27,34,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,109.83193,205.483333,3C,05:38,Unicaja,43,49,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,33.797682,144.133333,3C,05:06,Unicaja,45,51,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,41.590303,142.066667,3C,02:33,Unicaja,51,54,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,39.379896,211.55,4C,09:01,Unicaja,59,61,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,144.29929,203.933333,4C,08:28,Unicaja,62,64,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
 D. Osetkowski,24.75,141.25,4C,07:19,Unicaja,67,66,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,24.75,256.7333333333333,4C,05:41,Unicaja,69,73,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Osetkowski,24.75,258.76666666666665,4C,03:17,Unicaja,71,77,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,32.411494796594134,132.08333333333334,1C,02:51,Unicaja,15,14,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,162.33845789971616,145.45000000000002,1C,01:54,Unicaja,17,17,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,295.67469252601705,185.71666666666664,1C,00:02,Unicaja,17,21,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,30.613197729422897,147.7,2C,07:20,Unicaja,23,28,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,161.9263481551561,137.96666666666667,2C,06:38,Unicaja,23,30,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,164.81111636707664,179.36666666666667,3C,09:09,Unicaja,33,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,34.95908230842006,138.71666666666667,3C,07:33,Unicaja,37,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,140.00960264900664,210.89999999999998,3C,04:25,Unicaja,47,51,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Carter,130.53107852412487,56.93333333333334,4C,02:18,Unicaja,73,79,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-N. Djedovic,26.86674550614948,133.5,1C,00:51,Unicaja,17,19,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-N. Djedovic,131.3178334910123,96.41666666666667,3C,00:13,Unicaja,56,59,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-N. Djedovic,163.44366130558183,136.16666666666666,4C,09:38,Unicaja,56,61,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-N. Djedovic,115.58273415326394,50.46666666666667,4C,07:59,Unicaja,65,64,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-N. Djedovic,37.22568590350047,243.93333333333334,4C,04:20,Unicaja,69,75,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-M. Ejim,49.0457426679281,195.88333333333335,1C,00:42,Unicaja,17,19,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-B. Badji,35.5585146641438,132.6833333333333,2C,08:27,Unicaja,20,25,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,68.82701040681172,54.63333333333333,2C,02:31,Unicaja,29,36,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,130.19389782403027,229.4,2C,01:15,Unicaja,31,42,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,155.66977294228948,194.86666666666667,2C,00:30,Unicaja,31,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,48.91461684011353,154.21666666666667,3C,03:55,Unicaja,47,54,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,157.86144749290446,193.85000000000002,3C,01:44,Unicaja,54,54,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,40.20411542100284,145.65,4C,06:52,Unicaja,69,66,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,160.2217123935667,177.14999999999998,4C,06:06,Unicaja,69,70,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-T. Kalinoski,49.176868495742674,184.83333333333334,4C,04:17,Unicaja,69,75,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-A. Díaz,145.55435193945127,215.36666666666665,3C,00:43,Unicaja,56,56,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,475.8790444654683,134.90000000000003,1C,09:20,Unicaja,2,2,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,430.77175969725636,100.25,1C,08:39,Unicaja,5,2,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,467.7305108798486,139.76666666666665,1C,08:25,Unicaja,5,4,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,404.00335856196784,33.583333333333336,1C,05:42,Unicaja,11,11,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,412.0394985808893,246.6833333333333,1C,01:30,Unicaja,17,17,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,468.47980132450334,26.55,3C,08:18,Unicaja,35,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,456.50988647114474,106.68333333333334,3C,08:14,Unicaja,35,46,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,474.2118732261116,163.08333333333337,3C,07:43,Unicaja,35,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,455.0675023651845,27.26666666666667,4C,08:42,Unicaja,59,64,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-M. Hezonja,385.96419110690636,52.13333333333334,4C,08:07,Unicaja,62,64,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-E. Ndiaye,459.86296121097445,27.683333333333334,1C,07:44,Unicaja,5,4,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-E. Ndiaye,480.15,24.966666666666665,1C,04:39,Unicaja,13,11,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,24.75,256.733333,4C,05:41,Unicaja,69,73,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Osetkowski,24.75,258.766667,4C,03:17,Unicaja,71,77,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,32.411495,132.083333,1C,02:51,Unicaja,15,14,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,162.338458,145.45,1C,01:54,Unicaja,17,17,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,295.674693,185.716667,1C,00:02,Unicaja,17,21,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,30.613198,147.7,2C,07:20,Unicaja,23,28,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,161.926348,137.966667,2C,06:38,Unicaja,23,30,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,164.811116,179.366667,3C,09:09,Unicaja,33,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,34.959082,138.716667,3C,07:33,Unicaja,37,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,140.009603,210.9,3C,04:25,Unicaja,47,51,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Carter,130.531079,56.933333,4C,02:18,Unicaja,73,79,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+N. Djedovic,26.866746,133.5,1C,00:51,Unicaja,17,19,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+N. Djedovic,131.317833,96.416667,3C,00:13,Unicaja,56,59,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+N. Djedovic,163.443661,136.166667,4C,09:38,Unicaja,56,61,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+N. Djedovic,115.582734,50.466667,4C,07:59,Unicaja,65,64,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+N. Djedovic,37.225686,243.933333,4C,04:20,Unicaja,69,75,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+M. Ejim,49.045743,195.883333,1C,00:42,Unicaja,17,19,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+B. Badji,35.558515,132.683333,2C,08:27,Unicaja,20,25,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,68.82701,54.633333,2C,02:31,Unicaja,29,36,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,130.193898,229.4,2C,01:15,Unicaja,31,42,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,155.669773,194.866667,2C,00:30,Unicaja,31,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,48.914617,154.216667,3C,03:55,Unicaja,47,54,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,157.861447,193.85,3C,01:44,Unicaja,54,54,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,40.204115,145.65,4C,06:52,Unicaja,69,66,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,160.221712,177.15,4C,06:06,Unicaja,69,70,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+T. Kalinoski,49.176868,184.833333,4C,04:17,Unicaja,69,75,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+A. Díaz,145.554352,215.366667,3C,00:43,Unicaja,56,56,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,475.879044,134.9,1C,09:20,Unicaja,2,2,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,430.77176,100.25,1C,08:39,Unicaja,5,2,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,467.730511,139.766667,1C,08:25,Unicaja,5,4,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,404.003359,33.583333,1C,05:42,Unicaja,11,11,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,412.039499,246.683333,1C,01:30,Unicaja,17,17,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,468.479801,26.55,3C,08:18,Unicaja,35,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,456.509886,106.683333,3C,08:14,Unicaja,35,46,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,474.211873,163.083333,3C,07:43,Unicaja,35,49,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,455.067502,27.266667,4C,08:42,Unicaja,59,64,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+M. Hezonja,385.964191,52.133333,4C,08:07,Unicaja,62,64,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+E. Ndiaye,459.862961,27.683333,1C,07:44,Unicaja,5,4,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+E. Ndiaye,480.15,24.966667,1C,04:39,Unicaja,13,11,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
 E. Ndiaye,480.15,23.75,1C,03:05,Unicaja,13,14,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-E. Ndiaye,470.7651371807001,136.28333333333333,2C,04:56,Unicaja,25,34,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-E. Ndiaye,408.76135288552507,248.4,3C,01:25,Unicaja,54,54,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,365.17138126773887,214.08333333333334,1C,07:12,Unicaja,8,7,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,377.89058656575213,224.4333333333333,1C,02:08,Unicaja,17,17,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,457.8398770104068,149.9333333333333,1C,01:34,Unicaja,17,17,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+E. Ndiaye,470.765137,136.283333,2C,04:56,Unicaja,25,34,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+E. Ndiaye,408.761353,248.4,3C,01:25,Unicaja,54,54,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,365.171381,214.083333,1C,07:12,Unicaja,8,7,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,377.890587,224.433333,1C,02:08,Unicaja,17,17,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,457.839877,149.933333,1C,01:34,Unicaja,17,17,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
 D. Musa,480.15,141.25,1C,01:13,Unicaja,17,19,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,341.41887417218544,181.8166666666667,1C,00:37,Unicaja,17,19,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,467.14981078524124,142.68333333333334,2C,02:48,Unicaja,27,36,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,354.60638599810784,83.11666666666667,3C,06:28,Unicaja,41,49,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-D. Musa,471.6830179754021,142.2833333333333,4C,06:17,Unicaja,69,70,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Tavares,465.08926206244087,142.01666666666668,1C,05:01,Unicaja,11,11,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-W. Tavares,463.57194891201516,136.2,1C,04:07,Unicaja,13,13,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Tavares,463.0849101229896,141.29999999999998,3C,05:18,Unicaja,43,51,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Tavares,478.3891674550615,153.88333333333333,3C,04:10,Unicaja,47,51,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,341.418874,181.816667,1C,00:37,Unicaja,17,19,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,467.149811,142.683333,2C,02:48,Unicaja,27,36,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,354.606386,83.116667,3C,06:28,Unicaja,41,49,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+D. Musa,471.683018,142.283333,4C,06:17,Unicaja,69,70,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Tavares,465.089262,142.016667,1C,05:01,Unicaja,11,11,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+W. Tavares,463.571949,136.2,1C,04:07,Unicaja,13,13,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Tavares,463.08491,141.3,3C,05:18,Unicaja,43,51,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Tavares,478.389167,153.883333,3C,04:10,Unicaja,47,51,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
 W. Tavares,480.15,141.25,3C,04:09,Unicaja,47,53,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-W. Tavares,476.14129612109747,142.98333333333335,3C,00:00,Unicaja,56,61,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+W. Tavares,476.141296,142.983333,3C,00:00,Unicaja,56,61,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
 G. Yabusele,480.15,141.25,1C,00:07,Unicaja,17,21,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-G. Yabusele,453.1942762535478,138.61666666666667,2C,09:44,Unicaja,17,21,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-G. Yabusele,462.67280037842954,259.01666666666665,2C,07:36,Unicaja,21,28,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-G. Yabusele,467.7867076631977,144.71666666666667,2C,03:34,Unicaja,27,34,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-G. Yabusele,366.12672658467363,68.06666666666666,3C,04:33,Unicaja,47,51,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+G. Yabusele,453.194276,138.616667,2C,09:44,Unicaja,17,21,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+G. Yabusele,462.6728,259.016667,2C,07:36,Unicaja,21,28,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+G. Yabusele,467.786708,144.716667,2C,03:34,Unicaja,27,34,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+G. Yabusele,366.126727,68.066667,3C,04:33,Unicaja,47,51,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
 V. Poirier,480.15,141.25,2C,09:13,Unicaja,18,23,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-V. Poirier,468.61092715231786,149.61666666666667,4C,05:23,Unicaja,69,75,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-V. Poirier,476.628334910123,139.35,4C,02:00,Unicaja,73,81,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+V. Poirier,468.610927,149.616667,4C,05:23,Unicaja,69,75,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+V. Poirier,476.628335,139.35,4C,02:00,Unicaja,73,81,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
 V. Poirier,480.15,141.25,4C,00:56,Unicaja,77,85,Real Madrid,Mate,True,103870,2,2023-2024,Supercopa Endesa,False
-S. Rodríguez,468.51726584673605,136.74999999999997,2C,08:51,Unicaja,18,25,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-S. Rodríguez,341.77478713339644,190.83333333333334,2C,08:01,Unicaja,20,25,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-S. Rodríguez,471.90780510879847,143.45000000000002,2C,07:04,Unicaja,23,30,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-S. Rodríguez,336.2113055818354,141.53333333333333,3C,03:31,Unicaja,49,54,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-S. Rodríguez,451.264853358562,162.0333333333333,3C,03:00,Unicaja,51,54,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-R. Fernández,478.87620624408703,142.40000000000003,2C,06:19,Unicaja,23,30,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,438.11480605487225,153.65,2C,05:00,Unicaja,25,32,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,474.36173131504256,147.26666666666665,2C,02:23,Unicaja,29,38,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,474.88623462630085,142.68333333333334,2C,02:01,Unicaja,29,40,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,452.2014664143803,136.01666666666668,2C,01:35,Unicaja,31,42,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,472.78822138126776,144.98333333333335,2C,01:01,Unicaja,31,44,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,354.718779564806,208.2,2C,00:11,Unicaja,31,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,306.93278145695365,145.55,3C,09:20,Unicaja,33,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,451.58330179754023,257.15,3C,00:34,Unicaja,56,59,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-F. Campazzo,473.96835383159885,135.6,4C,02:37,Unicaja,73,79,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
-F. Causeur,364.68434247871335,79.45,3C,02:08,Unicaja,51,54,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-S. Llull,339.45198675496687,117.50000000000001,3C,00:03,Unicaja,56,59,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-S. Llull,335.94905392620626,153.65,4C,07:00,Unicaja,67,66,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
-S. Llull,356.2548249763481,203.29999999999998,4C,06:00,Unicaja,69,73,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
-S. Llull,428.72994323557236,254.58333333333331,4C,04:45,Unicaja,69,75,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+S. Rodríguez,468.517266,136.75,2C,08:51,Unicaja,18,25,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+S. Rodríguez,341.774787,190.833333,2C,08:01,Unicaja,20,25,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+S. Rodríguez,471.907805,143.45,2C,07:04,Unicaja,23,30,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+S. Rodríguez,336.211306,141.533333,3C,03:31,Unicaja,49,54,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+S. Rodríguez,451.264853,162.033333,3C,03:00,Unicaja,51,54,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+R. Fernández,478.876206,142.4,2C,06:19,Unicaja,23,30,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,438.114806,153.65,2C,05:00,Unicaja,25,32,Real Madrid,Tiro de 2,False,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,474.361731,147.266667,2C,02:23,Unicaja,29,38,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,474.886235,142.683333,2C,02:01,Unicaja,29,40,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,452.201466,136.016667,2C,01:35,Unicaja,31,42,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,472.788221,144.983333,2C,01:01,Unicaja,31,44,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,354.71878,208.2,2C,00:11,Unicaja,31,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,306.932781,145.55,3C,09:20,Unicaja,33,44,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,451.583302,257.15,3C,00:34,Unicaja,56,59,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+F. Campazzo,473.968354,135.6,4C,02:37,Unicaja,73,79,Real Madrid,Tiro de 2,True,103870,2,2023-2024,Supercopa Endesa,False
+F. Causeur,364.684342,79.45,3C,02:08,Unicaja,51,54,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+S. Llull,339.451987,117.5,3C,00:03,Unicaja,56,59,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+S. Llull,335.949054,153.65,4C,07:00,Unicaja,67,66,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False
+S. Llull,356.254825,203.3,4C,06:00,Unicaja,69,73,Real Madrid,Triple,True,103870,2,2023-2024,Supercopa Endesa,False
+S. Llull,428.729943,254.583333,4C,04:45,Unicaja,69,75,Real Madrid,Triple,False,103870,2,2023-2024,Supercopa Endesa,False

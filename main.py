@@ -28,8 +28,8 @@ def etapa_inicial(base_dir):
         {"path": os.path.join(base_dir, "src", "Scraping", "scrape_shots.py"), "args": []},
         {"path": os.path.join(base_dir, "src", "Scraping", "scrape_players.py"), "args": []},
         {"path": os.path.join(base_dir, "src", "Processing", "process_static.py"), "args": []},
-        {"path": os.path.join(base_dir, "src", "Processing", "process_data.py"), "args": ["modo", "inicial"]},
-        {"path": os.path.join(base_dir, "src", "Database", "base_de_datos.py"), "args": ["modo", "inicial"]},
+        {"path": os.path.join(base_dir, "src", "Processing", "process_data.py"), "args": ['inicial']},
+        {"path": os.path.join(base_dir, "src", "Database", "base_de_datos.py"), "args": ['inicial']},
     ]
 
     for script in scripts:
@@ -48,9 +48,9 @@ def etapa_actualizacion(base_dir, jornada, competicion, temporada):
         {"path": os.path.join(base_dir, "src", "Scraping", "scrape_jornada.py"),
          "args": ["-j", str(jornada), "-c", competicion, "-t", str(temporada)]},
         {"path": os.path.join(base_dir, "src", "Processing", "process_data.py"),
-         "args": ["modo", "actualizacion", "-j", str(jornada), "-c", competicion, "-t", str(temporada)]},
+         "args": ["actualizacion", "-j", str(jornada), "-c", competicion, "-t", str(temporada)]},
         {"path": os.path.join(base_dir, "src", "Database", "base_de_datos.py"),
-         "args": ["modo", "actualizacion"]},
+         "args": ["actualizacion"]},
     ]
 
     for script in scripts:

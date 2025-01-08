@@ -1,364 +1,364 @@
 nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
-C. Higgins,84.76816461684012,96.76666666666667,1C,09:49,Barça,2,0,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-C. Higgins,45.243093661305586,136.58333333333334,1C,05:22,Barça,11,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-C. Higgins,46.66674550614948,130.23333333333335,2C,03:53,Barça,39,23,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-C. Higgins,33.7976821192053,134.90000000000003,2C,02:47,Barça,43,23,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-C. Higgins,56.669772942289505,192.51666666666668,3C,09:39,Barça,47,28,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-C. Higgins,32.84233680227058,145.48333333333335,3C,04:03,Barça,60,39,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Hayes,24.75,258.6166666666667,1C,08:11,Barça,3,4,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Hayes,43.80070955534532,134.90000000000003,1C,06:53,Barça,5,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Hayes,45.711400189214764,27.26666666666667,1C,03:45,Barça,16,8,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Hayes,98.59257332071903,245.91666666666669,2C,01:04,Barça,43,28,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Hayes,24.75,136.16666666666666,3C,08:16,Barça,51,30,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Calathes,82.87620624408704,126.41666666666667,1C,07:37,Barça,3,6,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Calathes,67.14110690633869,112.86666666666667,1C,07:10,Barça,3,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Calathes,45.243093661305586,147.60000000000002,1C,06:40,Barça,7,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Calathes,38.087369914853355,162.01666666666665,1C,06:23,Barça,9,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Calathes,111.46163670766319,87.86666666666666,2C,00:07,Barça,45,28,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+C. Higgins,84.768165,96.766667,1C,09:49,Barça,2,0,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+C. Higgins,45.243094,136.583333,1C,05:22,Barça,11,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+C. Higgins,46.666746,130.233333,2C,03:53,Barça,39,23,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+C. Higgins,33.797682,134.9,2C,02:47,Barça,43,23,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+C. Higgins,56.669773,192.516667,3C,09:39,Barça,47,28,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+C. Higgins,32.842337,145.483333,3C,04:03,Barça,60,39,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Hayes,24.75,258.616667,1C,08:11,Barça,3,4,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Hayes,43.80071,134.9,1C,06:53,Barça,5,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Hayes,45.7114,27.266667,1C,03:45,Barça,16,8,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Hayes,98.592573,245.916667,2C,01:04,Barça,43,28,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Hayes,24.75,136.166667,3C,08:16,Barça,51,30,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Calathes,82.876206,126.416667,1C,07:37,Barça,3,6,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Calathes,67.141107,112.866667,1C,07:10,Barça,3,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Calathes,45.243094,147.6,1C,06:40,Barça,7,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Calathes,38.08737,162.016667,1C,06:23,Barça,9,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Calathes,111.461637,87.866667,2C,00:07,Barça,45,28,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
 N. Mirotic,24.75,258.2,1C,06:59,Barça,3,8,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,33.32937559129613,135.31666666666666,1C,05:46,Barça,9,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,162.9004257332072,145.06666666666666,2C,01:47,Barça,43,26,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,121.46466414380322,101.85,3C,09:34,Barça,49,30,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,135.7573793755913,68.36666666666666,3C,08:25,Barça,49,30,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,39.51102175969726,110.73333333333333,3C,07:51,Barça,51,30,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,145.76040681173131,90.83333333333333,3C,07:28,Barça,54,32,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Mirotic,92.87923368022706,33.61666666666667,3C,05:54,Barça,56,37,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,40.95340586565752,134.05,1C,04:13,Barça,13,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,123.84366130558183,141.66666666666666,1C,03:26,Barça,19,10,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,152.429091769158,89.55000000000001,1C,02:25,Barça,22,12,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,71.9178334910123,145.48333333333335,1C,01:00,Barça,24,13,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,44.28774834437086,159.46666666666664,2C,04:42,Barça,39,22,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,34.284720908230845,124.3,2C,03:49,Barça,41,23,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,97.16892147587514,240.4,2C,03:12,Barça,41,23,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,33.329376,135.316667,1C,05:46,Barça,9,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,162.900426,145.066667,2C,01:47,Barça,43,26,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,121.464664,101.85,3C,09:34,Barça,49,30,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,135.757379,68.366667,3C,08:25,Barça,49,30,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,39.511022,110.733333,3C,07:51,Barça,51,30,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,145.760407,90.833333,3C,07:28,Barça,54,32,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Mirotic,92.879234,33.616667,3C,05:54,Barça,56,37,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,40.953406,134.05,1C,04:13,Barça,13,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,123.843661,141.666667,1C,03:26,Barça,19,10,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,152.429092,89.55,1C,02:25,Barça,22,12,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,71.917833,145.483333,1C,01:00,Barça,24,13,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,44.287748,159.466667,2C,04:42,Barça,39,22,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,34.284721,124.3,2C,03:49,Barça,41,23,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,97.168921,240.4,2C,03:12,Barça,41,23,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
 B. Davies,24.75,141.25,3C,00:18,Barça,67,44,Valencia Basket,Mate,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Davies,40.95340586565752,115.83333333333333,4C,07:07,Barça,72,49,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Laprovittola,37.13202459791864,22.183333333333334,1C,03:32,Barça,19,8,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Laprovittola,117.64328287606433,56.5,1C,01:19,Barça,22,13,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Laprovittola,162.432119205298,152.68333333333334,1C,00:42,Barça,27,13,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Laprovittola,146.22871333964048,105.23333333333333,3C,02:45,Barça,60,42,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-N. Laprovittola,159.56608325449383,124.71666666666667,3C,02:06,Barça,63,44,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-N. Laprovittola,153.36570482497632,90.39999999999999,3C,01:39,Barça,63,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-K. Kuric,162.432119205298,145.06666666666666,1C,00:03,Barça,27,16,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-K. Kuric,119.06693472090822,181.5,3C,01:06,Barça,63,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-K. Kuric,160.52142857142857,125.14999999999998,4C,06:25,Barça,72,49,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-P. Oriola,110.50629139072846,95.48333333333333,2C,09:34,Barça,27,18,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-P. Oriola,37.61906338694418,134.46666666666667,2C,09:06,Barça,29,18,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-P. Oriola,104.77421948912017,142.51666666666668,3C,04:40,Barça,58,37,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-S. Martínez,34.284720908230845,139.55,2C,08:26,Barça,30,18,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-S. Martínez,45.711400189214764,146.33333333333331,2C,05:36,Barça,35,20,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-S. Martínez,65.24914853358561,133.61666666666667,2C,05:31,Barça,37,20,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-R. Smits,46.17970671712394,257.35,2C,08:18,Barça,33,18,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-R. Smits,71.9178334910123,125.56666666666666,3C,03:10,Barça,60,39,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-R. Smits,106.68491012298959,239.98333333333332,4C,05:40,Barça,75,49,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-R. Smits,38.5744087038789,106.93333333333334,4C,03:23,Barça,78,59,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-R. Smits,31.41868495742668,131.93333333333334,4C,02:54,Barça,80,59,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-R. Smits,43.80070955534532,133.61666666666667,4C,01:44,Barça,82,60,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-R. Jokubaitis,33.7976821192053,150.5666666666667,2C,06:20,Barça,35,20,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Davies,40.953406,115.833333,4C,07:07,Barça,72,49,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Laprovittola,37.132025,22.183333,1C,03:32,Barça,19,8,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Laprovittola,117.643283,56.5,1C,01:19,Barça,22,13,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Laprovittola,162.432119,152.683333,1C,00:42,Barça,27,13,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Laprovittola,146.228713,105.233333,3C,02:45,Barça,60,42,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+N. Laprovittola,159.566083,124.716667,3C,02:06,Barça,63,44,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+N. Laprovittola,153.365705,90.4,3C,01:39,Barça,63,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+K. Kuric,162.432119,145.066667,1C,00:03,Barça,27,16,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+K. Kuric,119.066935,181.5,3C,01:06,Barça,63,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+K. Kuric,160.521429,125.15,4C,06:25,Barça,72,49,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+P. Oriola,110.506291,95.483333,2C,09:34,Barça,27,18,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+P. Oriola,37.619063,134.466667,2C,09:06,Barça,29,18,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+P. Oriola,104.774219,142.516667,3C,04:40,Barça,58,37,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+S. Martínez,34.284721,139.55,2C,08:26,Barça,30,18,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+S. Martínez,45.7114,146.333333,2C,05:36,Barça,35,20,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+S. Martínez,65.249149,133.616667,2C,05:31,Barça,37,20,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+R. Smits,46.179707,257.35,2C,08:18,Barça,33,18,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+R. Smits,71.917833,125.566667,3C,03:10,Barça,60,39,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+R. Smits,106.68491,239.983333,4C,05:40,Barça,75,49,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+R. Smits,38.574409,106.933333,4C,03:23,Barça,78,59,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+R. Smits,31.418685,131.933333,4C,02:54,Barça,80,59,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+R. Smits,43.80071,133.616667,4C,01:44,Barça,82,60,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+R. Jokubaitis,33.797682,150.566667,2C,06:20,Barça,35,20,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
 R. Jokubaitis,24.75,23.45,4C,09:10,Barça,70,44,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-R. Jokubaitis,65.24914853358561,25.15,4C,04:48,Barça,78,52,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-A. Abrines,106.68491012298959,246.76666666666668,3C,02:28,Barça,60,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-A. Abrines,94.77119205298014,36.166666666666664,4C,03:59,Barça,78,56,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-A. Abrines,139.09172185430464,59.05,4C,00:50,Barça,85,65,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Pradilla,444.89588457899714,150.15,1C,09:16,Barça,2,2,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Pradilla,443.47223273415324,116.66666666666667,2C,00:45,Barça,43,28,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-J. Pradilla,463.9465941343425,121.33333333333333,3C,09:34,Barça,47,30,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Pradilla,460.14394512772,142.1,3C,07:41,Barça,51,32,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Pradilla,459.18859981078526,148.45000000000002,3C,06:44,Barça,56,34,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Pradilla,411.0654210028382,133.2,4C,01:24,Barça,82,62,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,416.79749290444653,113.28333333333333,1C,08:35,Barça,3,4,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,463.9465941343425,151.41666666666666,1C,07:27,Barça,3,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,361.0502838221381,60.733333333333334,2C,07:13,Barça,33,18,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,464.9019394512772,144.63333333333333,2C,02:37,Barça,43,25,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,426.80052034058656,129.38333333333335,4C,09:35,Barça,67,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,440.1378902554399,206.93333333333337,4C,08:35,Barça,70,46,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Hermannsson,420.1318353831599,71.33333333333333,4C,01:59,Barça,80,60,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Dubljevic,436.8035477767266,140.4,1C,07:56,Barça,3,6,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-B. Dubljevic,455.38595080416275,156.50000000000003,2C,02:56,Barça,41,23,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Dubljevic,399.17043519394514,44.21666666666667,2C,00:26,Barça,45,28,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Dubljevic,432.51385998107855,159.89999999999998,3C,00:01,Barça,67,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Dubljevic,431.09020813623465,137.43333333333337,4C,09:35,Barça,67,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-B. Dubljevic,342.46788079470195,158.20000000000002,4C,08:02,Barça,70,49,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Puerto,426.31348155156104,70.91666666666667,1C,03:59,Barça,13,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-J. Puerto,464.9019394512772,168.36666666666667,2C,06:39,Barça,33,20,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Puerto,466.3255912961211,149.71666666666667,3C,02:33,Barça,60,44,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Puerto,376.29834437086095,57.78333333333333,4C,05:26,Barça,75,49,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-J. Puerto,342.95491958372753,175.15000000000003,4C,05:05,Barça,75,52,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-J. Puerto,420.1318353831599,24.3,4C,01:08,Barça,82,65,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-K. Prepelic,464.433632923368,162.86666666666665,1C,03:26,Barça,19,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-K. Prepelic,470.14697256386,145.91666666666669,2C,01:28,Barça,43,28,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-K. Prepelic,420.60014191106904,158.20000000000002,3C,08:44,Barça,49,30,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-K. Prepelic,355.80525070955537,78.96666666666667,3C,06:23,Barça,56,37,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-K. Prepelic,453.47526017029327,143.79999999999998,4C,04:04,Barça,78,56,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-K. Prepelic,321.50648060548724,170.48333333333332,4C,03:10,Barça,78,59,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,465.3889782403027,143.36666666666665,1C,03:26,Barça,19,10,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,469.19162724692524,156.9333333333333,1C,03:26,Barça,19,12,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,477.77100283822136,155.23333333333335,2C,09:50,Barça,27,16,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,479.68169347209084,134.90000000000003,2C,09:46,Barça,27,18,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,476.81565752128665,42.1,2C,08:44,Barça,30,18,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,398.68339640491956,39.13333333333333,2C,08:38,Barça,30,18,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,354.868637653737,182.35000000000002,3C,04:52,Barça,56,37,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,460.61225165562917,135.73333333333332,3C,04:12,Barça,58,39,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,448.2302270577105,160.73333333333335,3C,01:48,Barça,63,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Tobey,341.9995742667928,170.48333333333332,3C,01:20,Barça,63,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-M. Jiménez,463.4782876064333,23.883333333333333,1C,00:21,Barça,27,16,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-M. Jiménez,480.15,23.883333333333333,2C,08:32,Barça,30,18,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-V. Claver,456.3225638599811,258.2,2C,05:10,Barça,37,20,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-V. Claver,479.68169347209084,23.883333333333333,3C,07:04,Barça,54,32,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-V. Claver,340.5759224219489,97.18333333333332,4C,07:17,Barça,70,49,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+R. Jokubaitis,65.249149,25.15,4C,04:48,Barça,78,52,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+A. Abrines,106.68491,246.766667,3C,02:28,Barça,60,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+A. Abrines,94.771192,36.166667,4C,03:59,Barça,78,56,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+A. Abrines,139.091722,59.05,4C,00:50,Barça,85,65,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Pradilla,444.895885,150.15,1C,09:16,Barça,2,2,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Pradilla,443.472233,116.666667,2C,00:45,Barça,43,28,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+J. Pradilla,463.946594,121.333333,3C,09:34,Barça,47,30,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Pradilla,460.143945,142.1,3C,07:41,Barça,51,32,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Pradilla,459.1886,148.45,3C,06:44,Barça,56,34,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Pradilla,411.065421,133.2,4C,01:24,Barça,82,62,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,416.797493,113.283333,1C,08:35,Barça,3,4,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,463.946594,151.416667,1C,07:27,Barça,3,8,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,361.050284,60.733333,2C,07:13,Barça,33,18,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,464.901939,144.633333,2C,02:37,Barça,43,25,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,426.80052,129.383333,4C,09:35,Barça,67,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,440.13789,206.933333,4C,08:35,Barça,70,46,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Hermannsson,420.131835,71.333333,4C,01:59,Barça,80,60,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Dubljevic,436.803548,140.4,1C,07:56,Barça,3,6,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+B. Dubljevic,455.385951,156.5,2C,02:56,Barça,41,23,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Dubljevic,399.170435,44.216667,2C,00:26,Barça,45,28,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Dubljevic,432.51386,159.9,3C,00:01,Barça,67,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Dubljevic,431.090208,137.433333,4C,09:35,Barça,67,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+B. Dubljevic,342.467881,158.2,4C,08:02,Barça,70,49,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Puerto,426.313482,70.916667,1C,03:59,Barça,13,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+J. Puerto,464.901939,168.366667,2C,06:39,Barça,33,20,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Puerto,466.325591,149.716667,3C,02:33,Barça,60,44,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Puerto,376.298344,57.783333,4C,05:26,Barça,75,49,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+J. Puerto,342.95492,175.15,4C,05:05,Barça,75,52,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+J. Puerto,420.131835,24.3,4C,01:08,Barça,82,65,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+K. Prepelic,464.433633,162.866667,1C,03:26,Barça,19,8,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+K. Prepelic,470.146973,145.916667,2C,01:28,Barça,43,28,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+K. Prepelic,420.600142,158.2,3C,08:44,Barça,49,30,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+K. Prepelic,355.805251,78.966667,3C,06:23,Barça,56,37,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+K. Prepelic,453.47526,143.8,4C,04:04,Barça,78,56,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+K. Prepelic,321.506481,170.483333,4C,03:10,Barça,78,59,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,465.388978,143.366667,1C,03:26,Barça,19,10,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,469.191627,156.933333,1C,03:26,Barça,19,12,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,477.771003,155.233333,2C,09:50,Barça,27,16,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,479.681693,134.9,2C,09:46,Barça,27,18,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,476.815658,42.1,2C,08:44,Barça,30,18,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,398.683396,39.133333,2C,08:38,Barça,30,18,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,354.868638,182.35,3C,04:52,Barça,56,37,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,460.612252,135.733333,3C,04:12,Barça,58,39,Valencia Basket,Tiro de 2,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,448.230227,160.733333,3C,01:48,Barça,63,44,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Tobey,341.999574,170.483333,3C,01:20,Barça,63,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+M. Jiménez,463.478288,23.883333,1C,00:21,Barça,27,16,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+M. Jiménez,480.15,23.883333,2C,08:32,Barça,30,18,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+V. Claver,456.322564,258.2,2C,05:10,Barça,37,20,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+V. Claver,479.681693,23.883333,3C,07:04,Barça,54,32,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+V. Claver,340.575922,97.183333,4C,07:17,Barça,70,49,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
 V. Claver,480.15,243.8,4C,06:04,Barça,72,49,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-G. Ferrando,465.8572847682119,27.26666666666667,2C,03:35,Barça,41,23,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-G. Ferrando,480.15,261.1666666666667,3C,02:55,Barça,60,42,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-G. Ferrando,367.71896877956476,68.8,3C,00:35,Barça,65,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-S. Van Rossom,327.2385525070955,217.10000000000002,3C,05:28,Barça,56,37,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-S. Van Rossom,459.6569063386944,109.05,4C,05:23,Barça,75,49,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
-S. Van Rossom,363.4292809839167,214.98333333333335,4C,03:42,Barça,78,59,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-S. Van Rossom,392.0147114474929,44.63333333333333,4C,02:36,Barça,80,59,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
-A. Bellver,480.15,23.03333333333333,4C,00:32,Barça,85,68,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
-E. Sulejmanovic,34.284720908230845,129.81666666666666,1C,09:25,Lenovo Tenerife,2,0,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Ferrando,465.857285,27.266667,2C,03:35,Barça,41,23,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+G. Ferrando,480.15,261.166667,3C,02:55,Barça,60,42,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+G. Ferrando,367.718969,68.8,3C,00:35,Barça,65,44,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+S. Van Rossom,327.238553,217.1,3C,05:28,Barça,56,37,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+S. Van Rossom,459.656906,109.05,4C,05:23,Barça,75,49,Valencia Basket,Tiro de 2,False,103028,1,2021-2022,Supercopa Endesa,False
+S. Van Rossom,363.429281,214.983333,4C,03:42,Barça,78,59,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+S. Van Rossom,392.014711,44.633333,4C,02:36,Barça,80,59,Valencia Basket,Triple,False,103028,1,2021-2022,Supercopa Endesa,False
+A. Bellver,480.15,23.033333,4C,00:32,Barça,85,68,Valencia Basket,Triple,True,103028,1,2021-2022,Supercopa Endesa,False
+E. Sulejmanovic,34.284721,129.816667,1C,09:25,Lenovo Tenerife,2,0,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
 E. Sulejmanovic,24.75,24.3,1C,06:54,Lenovo Tenerife,5,4,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-E. Sulejmanovic,118.13032166508987,235.31666666666666,1C,04:51,Lenovo Tenerife,12,6,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-E. Sulejmanovic,27.616035950804164,22.6,3C,09:16,Lenovo Tenerife,40,31,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+E. Sulejmanovic,118.130322,235.316667,1C,04:51,Lenovo Tenerife,12,6,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+E. Sulejmanovic,27.616036,22.6,3C,09:16,Lenovo Tenerife,40,31,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
 E. Sulejmanovic,24.75,258.2,3C,07:42,Lenovo Tenerife,44,35,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-B. Fitipaldo,30.46333964049196,130.23333333333335,1C,08:44,Lenovo Tenerife,2,2,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-B. Fitipaldo,158.14243140964996,140.83333333333334,1C,07:32,Lenovo Tenerife,2,4,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-B. Fitipaldo,118.13032166508987,176.0,2C,09:45,Lenovo Tenerife,21,14,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-B. Fitipaldo,62.870151371807,102.26666666666667,3C,04:36,Lenovo Tenerife,45,40,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-B. Fitipaldo,97.16892147587514,247.6,4C,09:13,Lenovo Tenerife,53,51,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-B. Fitipaldo,34.284720908230845,156.50000000000003,4C,00:34,Lenovo Tenerife,67,70,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-J. Sastre,36.66371807000946,107.78333333333333,1C,08:06,Lenovo Tenerife,2,4,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-J. Sastre,62.383112582781465,173.88333333333333,1C,04:12,Lenovo Tenerife,12,8,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-J. Sastre,157.18708609271522,169.21666666666667,2C,07:14,Lenovo Tenerife,23,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-J. Sastre,33.7976821192053,148.45000000000002,2C,06:31,Lenovo Tenerife,25,18,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,51.911778618732264,144.63333333333333,1C,06:20,Lenovo Tenerife,7,4,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,39.51102175969726,125.56666666666666,1C,05:20,Lenovo Tenerife,9,6,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,44.28774834437086,153.11666666666667,2C,05:31,Lenovo Tenerife,27,20,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,68.09645222327342,134.90000000000003,3C,08:03,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,33.32937559129613,133.2,3C,03:38,Lenovo Tenerife,49,42,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,82.87620624408704,151.85,3C,01:43,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,72.38614001892148,134.46666666666667,4C,08:40,Lenovo Tenerife,55,54,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Shermadini,74.76513718070011,148.45000000000002,4C,02:00,Lenovo Tenerife,65,67,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,92.87923368022706,188.7,1C,03:38,Lenovo Tenerife,12,10,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,83.8128192999054,203.53333333333333,2C,07:04,Lenovo Tenerife,23,18,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,117.17497634815514,131.93333333333334,2C,04:46,Lenovo Tenerife,30,20,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,98.10553453169348,197.6,2C,01:19,Lenovo Tenerife,37,29,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,63.338457899716175,171.76666666666668,3C,08:36,Lenovo Tenerife,42,33,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,63.338457899716175,183.61666666666665,3C,06:44,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,86.67885525070955,127.26666666666667,3C,04:02,Lenovo Tenerife,47,42,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,80.9655156102176,107.35,3C,02:06,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,85.72350993377484,206.08333333333334,4C,07:01,Lenovo Tenerife,55,57,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,44.28774834437086,122.18333333333334,4C,05:24,Lenovo Tenerife,57,59,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-M. Huertas,60.95946073793756,117.51666666666667,4C,04:30,Lenovo Tenerife,59,64,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Doornekamp,109.55094607379377,42.516666666666666,1C,02:59,Lenovo Tenerife,12,12,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Doornekamp,154.8080889309366,226.85,2C,06:37,Lenovo Tenerife,23,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Doornekamp,32.84233680227058,259.90000000000003,4C,06:18,Lenovo Tenerife,57,59,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Doornekamp,163.85577105014193,147.18333333333334,4C,01:09,Lenovo Tenerife,65,70,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Guerra,28.084342478713342,140.83333333333334,1C,02:15,Lenovo Tenerife,14,14,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+B. Fitipaldo,30.46334,130.233333,1C,08:44,Lenovo Tenerife,2,2,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+B. Fitipaldo,158.142431,140.833333,1C,07:32,Lenovo Tenerife,2,4,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+B. Fitipaldo,118.130322,176.0,2C,09:45,Lenovo Tenerife,21,14,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+B. Fitipaldo,62.870151,102.266667,3C,04:36,Lenovo Tenerife,45,40,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+B. Fitipaldo,97.168921,247.6,4C,09:13,Lenovo Tenerife,53,51,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+B. Fitipaldo,34.284721,156.5,4C,00:34,Lenovo Tenerife,67,70,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+J. Sastre,36.663718,107.783333,1C,08:06,Lenovo Tenerife,2,4,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+J. Sastre,62.383113,173.883333,1C,04:12,Lenovo Tenerife,12,8,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+J. Sastre,157.187086,169.216667,2C,07:14,Lenovo Tenerife,23,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+J. Sastre,33.797682,148.45,2C,06:31,Lenovo Tenerife,25,18,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,51.911779,144.633333,1C,06:20,Lenovo Tenerife,7,4,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,39.511022,125.566667,1C,05:20,Lenovo Tenerife,9,6,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,44.287748,153.116667,2C,05:31,Lenovo Tenerife,27,20,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,68.096452,134.9,3C,08:03,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,33.329376,133.2,3C,03:38,Lenovo Tenerife,49,42,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,82.876206,151.85,3C,01:43,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,72.38614,134.466667,4C,08:40,Lenovo Tenerife,55,54,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Shermadini,74.765137,148.45,4C,02:00,Lenovo Tenerife,65,67,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,92.879234,188.7,1C,03:38,Lenovo Tenerife,12,10,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,83.812819,203.533333,2C,07:04,Lenovo Tenerife,23,18,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,117.174976,131.933333,2C,04:46,Lenovo Tenerife,30,20,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,98.105535,197.6,2C,01:19,Lenovo Tenerife,37,29,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,63.338458,171.766667,3C,08:36,Lenovo Tenerife,42,33,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,63.338458,183.616667,3C,06:44,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,86.678855,127.266667,3C,04:02,Lenovo Tenerife,47,42,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,80.965516,107.35,3C,02:06,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,85.72351,206.083333,4C,07:01,Lenovo Tenerife,55,57,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,44.287748,122.183333,4C,05:24,Lenovo Tenerife,57,59,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+M. Huertas,60.959461,117.516667,4C,04:30,Lenovo Tenerife,59,64,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Doornekamp,109.550946,42.516667,1C,02:59,Lenovo Tenerife,12,12,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Doornekamp,154.808089,226.85,2C,06:37,Lenovo Tenerife,23,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Doornekamp,32.842337,259.9,4C,06:18,Lenovo Tenerife,57,59,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Doornekamp,163.855771,147.183333,4C,01:09,Lenovo Tenerife,65,70,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Guerra,28.084342,140.833333,1C,02:15,Lenovo Tenerife,14,14,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
 F. Guerra,24.75,141.25,1C,01:04,Lenovo Tenerife,19,14,Real Madrid,Mate,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Guerra,66.67280037842951,142.95000000000002,1C,00:29,Lenovo Tenerife,21,14,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Guerra,204.8232261116367,43.36666666666667,1C,00:01,Lenovo Tenerife,21,14,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Guerra,68.09645222327342,123.45,2C,03:22,Lenovo Tenerife,32,25,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Guerra,45.243093661305586,128.96666666666667,3C,04:59,Lenovo Tenerife,45,40,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Guerra,33.32937559129613,142.51666666666668,4C,05:21,Lenovo Tenerife,59,59,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-K. Wiltjer,97.16892147587514,248.88333333333335,1C,01:44,Lenovo Tenerife,17,14,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-K. Wiltjer,24.75,20.483333333333334,3C,05:58,Lenovo Tenerife,44,37,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,24.75,193.80000000000004,2C,08:30,Lenovo Tenerife,21,16,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,144.31802270577106,237.01666666666665,2C,02:35,Lenovo Tenerife,35,29,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,163.38746452223273,141.25,2C,00:22,Lenovo Tenerife,37,31,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,169.56911069063386,111.58333333333334,4C,07:58,Lenovo Tenerife,55,57,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,48.577436140018925,118.36666666666666,4C,07:52,Lenovo Tenerife,55,57,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,174.81414380321664,145.91666666666669,4C,03:50,Lenovo Tenerife,59,64,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Salin,165.2794228949858,137.43333333333337,4C,00:02,Lenovo Tenerife,70,72,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,341.5125354777673,148.45000000000002,1C,09:44,Lenovo Tenerife,0,0,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,407.7310785241249,246.76666666666668,1C,05:41,Lenovo Tenerife,7,6,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,426.80052034058656,129.38333333333335,1C,03:59,Lenovo Tenerife,12,10,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,350.09191106906337,89.13333333333333,2C,00:57,Lenovo Tenerife,37,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,466.8126300851466,163.28333333333333,3C,06:39,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,471.1023178807947,130.23333333333335,3C,02:23,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,372.00865657521285,67.1,4C,05:06,Lenovo Tenerife,59,62,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,477.28396404919584,145.91666666666669,4C,04:49,Lenovo Tenerife,59,64,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,451.56456953642385,167.10000000000002,4C,02:55,Lenovo Tenerife,62,67,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-F. Causeur,451.09626300851465,151.41666666666666,4C,00:40,Lenovo Tenerife,65,70,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Guerra,66.6728,142.95,1C,00:29,Lenovo Tenerife,21,14,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+F. Guerra,204.823226,43.366667,1C,00:01,Lenovo Tenerife,21,14,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Guerra,68.096452,123.45,2C,03:22,Lenovo Tenerife,32,25,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Guerra,45.243094,128.966667,3C,04:59,Lenovo Tenerife,45,40,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Guerra,33.329376,142.516667,4C,05:21,Lenovo Tenerife,59,59,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+K. Wiltjer,97.168921,248.883333,1C,01:44,Lenovo Tenerife,17,14,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+K. Wiltjer,24.75,20.483333,3C,05:58,Lenovo Tenerife,44,37,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,24.75,193.8,2C,08:30,Lenovo Tenerife,21,16,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,144.318023,237.016667,2C,02:35,Lenovo Tenerife,35,29,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,163.387465,141.25,2C,00:22,Lenovo Tenerife,37,31,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,169.569111,111.583333,4C,07:58,Lenovo Tenerife,55,57,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,48.577436,118.366667,4C,07:52,Lenovo Tenerife,55,57,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,174.814144,145.916667,4C,03:50,Lenovo Tenerife,59,64,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Salin,165.279423,137.433333,4C,00:02,Lenovo Tenerife,70,72,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,341.512535,148.45,1C,09:44,Lenovo Tenerife,0,0,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,407.731079,246.766667,1C,05:41,Lenovo Tenerife,7,6,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,426.80052,129.383333,1C,03:59,Lenovo Tenerife,12,10,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,350.091911,89.133333,2C,00:57,Lenovo Tenerife,37,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,466.81263,163.283333,3C,06:39,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,471.102318,130.233333,3C,02:23,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,372.008657,67.1,4C,05:06,Lenovo Tenerife,59,62,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,477.283964,145.916667,4C,04:49,Lenovo Tenerife,59,64,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,451.56457,167.1,4C,02:55,Lenovo Tenerife,62,67,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+F. Causeur,451.096263,151.416667,4C,00:40,Lenovo Tenerife,65,70,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,1C,09:00,Lenovo Tenerife,2,2,Real Madrid,Mate,True,103029,1,2021-2022,Supercopa Endesa,False
-V. Poirier,463.9465941343425,137.01666666666668,1C,08:25,Lenovo Tenerife,2,4,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-V. Poirier,419.64479659413433,136.58333333333334,1C,06:35,Lenovo Tenerife,5,4,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+V. Poirier,463.946594,137.016667,1C,08:25,Lenovo Tenerife,2,4,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+V. Poirier,419.644797,136.583333,1C,06:35,Lenovo Tenerife,5,4,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,3C,08:45,Lenovo Tenerife,40,33,Real Madrid,Mate,True,103029,1,2021-2022,Supercopa Endesa,False
-V. Poirier,473.4813150425733,146.33333333333331,3C,01:54,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,341.5125354777673,172.18333333333337,1C,07:48,Lenovo Tenerife,2,4,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,369.1426206244087,228.1166666666667,1C,05:07,Lenovo Tenerife,9,6,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,422.9791390728477,70.48333333333335,2C,04:31,Lenovo Tenerife,30,22,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,399.63874172185433,206.50000000000003,2C,04:02,Lenovo Tenerife,32,22,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,407.7310785241249,223.03333333333336,2C,02:51,Lenovo Tenerife,32,29,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,450.60922421948914,69.63333333333333,2C,00:42,Lenovo Tenerife,37,31,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,443.47223273415324,173.0333333333333,3C,08:25,Lenovo Tenerife,42,35,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,457.2779091769158,122.6,3C,07:50,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,365.3399716177862,76.41666666666666,3C,07:11,Lenovo Tenerife,44,35,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,475.86031220435194,256.93333333333334,3C,02:56,Lenovo Tenerife,49,42,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-T. Heurtel,334.3755439924314,134.46666666666667,4C,02:16,Lenovo Tenerife,63,67,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,413.4631504257332,34.05,1C,07:17,Lenovo Tenerife,2,4,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,480.15,70.91666666666667,2C,08:50,Lenovo Tenerife,21,16,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,354.38159886471146,210.73333333333332,2C,06:19,Lenovo Tenerife,25,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,480.15,23.03333333333333,3C,05:18,Lenovo Tenerife,45,40,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,332.9518921475875,137.01666666666668,3C,03:00,Lenovo Tenerife,49,42,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,345.33391674550614,98.88333333333334,4C,04:07,Lenovo Tenerife,59,64,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-A. Hanga,473.4813150425733,22.6,4C,01:37,Lenovo Tenerife,65,70,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+V. Poirier,473.481315,146.333333,3C,01:54,Lenovo Tenerife,52,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,341.512535,172.183333,1C,07:48,Lenovo Tenerife,2,4,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,369.142621,228.116667,1C,05:07,Lenovo Tenerife,9,6,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,422.979139,70.483333,2C,04:31,Lenovo Tenerife,30,22,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,399.638742,206.5,2C,04:02,Lenovo Tenerife,32,22,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,407.731079,223.033333,2C,02:51,Lenovo Tenerife,32,29,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,450.609224,69.633333,2C,00:42,Lenovo Tenerife,37,31,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,443.472233,173.033333,3C,08:25,Lenovo Tenerife,42,35,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,457.277909,122.6,3C,07:50,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,365.339972,76.416667,3C,07:11,Lenovo Tenerife,44,35,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,475.860312,256.933333,3C,02:56,Lenovo Tenerife,49,42,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+T. Heurtel,334.375544,134.466667,4C,02:16,Lenovo Tenerife,63,67,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,413.46315,34.05,1C,07:17,Lenovo Tenerife,2,4,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,480.15,70.916667,2C,08:50,Lenovo Tenerife,21,16,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,354.381599,210.733333,2C,06:19,Lenovo Tenerife,25,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,480.15,23.033333,3C,05:18,Lenovo Tenerife,45,40,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,332.951892,137.016667,3C,03:00,Lenovo Tenerife,49,42,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,345.333917,98.883333,4C,04:07,Lenovo Tenerife,59,64,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+A. Hanga,473.481315,22.6,4C,01:37,Lenovo Tenerife,65,70,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
 G. Yabusele,480.15,84.9,1C,06:04,Lenovo Tenerife,7,6,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,439.6508514664144,184.04999999999998,1C,03:19,Lenovo Tenerife,12,12,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,355.3369441816462,205.65,1C,01:57,Lenovo Tenerife,14,14,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,480.15,187.43333333333334,1C,01:23,Lenovo Tenerife,17,14,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,456.3225638599811,116.25,2C,03:37,Lenovo Tenerife,32,24,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,380.588032166509,42.1,2C,02:15,Lenovo Tenerife,35,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,460.14394512772,173.0333333333333,3C,09:41,Lenovo Tenerife,37,31,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,478.23930936613056,25.566666666666666,3C,07:20,Lenovo Tenerife,44,35,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,454.89891201513717,156.9333333333333,3C,07:07,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,463.4782876064333,140.83333333333334,3C,07:03,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,470.61527909176914,152.26666666666665,3C,07:02,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,439.650851,184.05,1C,03:19,Lenovo Tenerife,12,12,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,355.336944,205.65,1C,01:57,Lenovo Tenerife,14,14,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,480.15,187.433333,1C,01:23,Lenovo Tenerife,17,14,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,456.322564,116.25,2C,03:37,Lenovo Tenerife,32,24,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,380.588032,42.1,2C,02:15,Lenovo Tenerife,35,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,460.143945,173.033333,3C,09:41,Lenovo Tenerife,37,31,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,478.239309,25.566667,3C,07:20,Lenovo Tenerife,44,35,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,454.898912,156.933333,3C,07:07,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,463.478288,140.833333,3C,07:03,Lenovo Tenerife,44,35,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,470.615279,152.266667,3C,07:02,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
 G. Yabusele,480.15,141.25,3C,01:17,Lenovo Tenerife,52,46,Real Madrid,Mate,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,358.6712866603595,60.31666666666666,3C,00:02,Lenovo Tenerife,53,48,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,459.6569063386944,132.35,4C,08:17,Lenovo Tenerife,55,56,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,436.8035477767266,146.33333333333331,4C,07:26,Lenovo Tenerife,55,57,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,347.24460737937557,150.5666666666667,4C,00:54,Lenovo Tenerife,65,70,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-G. Yabusele,470.14697256386,138.2833333333333,4C,00:09,Lenovo Tenerife,67,70,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-W. Tavares,438.2271996215705,141.66666666666666,1C,04:27,Lenovo Tenerife,12,8,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-W. Tavares,465.3889782403027,128.53333333333333,3C,05:42,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,358.671287,60.316667,3C,00:02,Lenovo Tenerife,53,48,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,459.656906,132.35,4C,08:17,Lenovo Tenerife,55,56,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,436.803548,146.333333,4C,07:26,Lenovo Tenerife,55,57,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,347.244607,150.566667,4C,00:54,Lenovo Tenerife,65,70,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+G. Yabusele,470.146973,138.283333,4C,00:09,Lenovo Tenerife,67,70,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+W. Tavares,438.2272,141.666667,1C,04:27,Lenovo Tenerife,12,8,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+W. Tavares,465.388978,128.533333,3C,05:42,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
 W. Tavares,480.15,141.25,3C,04:20,Lenovo Tenerife,45,42,Real Madrid,Mate,True,103029,1,2021-2022,Supercopa Endesa,False
-W. Tavares,405.35208136234627,189.98333333333335,3C,03:50,Lenovo Tenerife,47,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,431.5585146641438,176.41666666666666,1C,03:26,Lenovo Tenerife,12,10,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,341.04422894985805,152.68333333333334,2C,08:08,Lenovo Tenerife,23,16,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,393.4383632923368,111.16666666666666,3C,00:46,Lenovo Tenerife,53,48,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,348.18122043519395,176.0,4C,09:03,Lenovo Tenerife,53,54,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,430.6031693472091,141.25,4C,06:41,Lenovo Tenerife,55,59,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-S. Llull,429.1795175023652,226.41666666666666,1C,00:06,Lenovo Tenerife,21,14,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-S. Llull,465.8572847682119,142.95000000000002,2C,05:47,Lenovo Tenerife,25,20,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,360.0949385052034,85.31666666666666,2C,09:18,Lenovo Tenerife,21,14,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,463.9465941343425,142.95000000000002,2C,07:39,Lenovo Tenerife,23,18,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,334.3755439924314,125.56666666666666,2C,06:46,Lenovo Tenerife,23,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,363.9163197729423,54.38333333333333,2C,05:22,Lenovo Tenerife,28,20,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,380.10099337748346,185.3166666666667,2C,05:06,Lenovo Tenerife,28,20,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,459.6569063386944,198.03333333333333,3C,06:16,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
-R. Fernández,386.7696783349101,230.23333333333335,3C,04:52,Lenovo Tenerife,45,40,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-J. Taylor,480.15,26.849999999999998,2C,01:46,Lenovo Tenerife,35,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-J. Taylor,454.430605487228,24.3,2C,01:36,Lenovo Tenerife,35,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
-N. Hayes,45.711400189214764,25.566666666666666,1C,09:54,Barça,3,0,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Hayes,52.84839167455062,88.28333333333335,1C,08:18,Barça,8,5,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Hayes,78.58651844843898,28.116666666666664,4C,05:47,Barça,79,69,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-P. Oriola,155.27639545884577,167.95,1C,09:05,Barça,6,2,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-P. Oriola,137.64933774834438,204.81666666666663,1C,06:34,Barça,14,9,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-P. Oriola,100.01622516556291,240.4,2C,06:03,Barça,33,29,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-P. Oriola,43.33240302743614,137.86666666666667,2C,04:48,Barça,35,31,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-P. Oriola,132.89134342478712,230.65000000000003,3C,09:46,Barça,46,40,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-P. Oriola,161.94508041627248,155.65,4C,07:46,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Calathes,161.94508041627248,138.2833333333333,1C,07:46,Barça,11,7,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Calathes,66.67280037842951,145.06666666666666,1C,06:08,Barça,16,11,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Calathes,101.43987701040683,106.93333333333334,2C,03:55,Barça,37,34,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Calathes,36.17667928098392,76.85000000000001,3C,06:49,Barça,54,42,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Calathes,39.04271523178808,128.53333333333333,3C,05:47,Barça,61,44,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Calathes,138.13637653736993,215.83333333333331,3C,03:33,Barça,63,50,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,101.43987701040683,237.43333333333334,1C,05:28,Barça,16,11,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,54.75908230842006,154.38333333333333,1C,04:51,Barça,16,12,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,43.33240302743614,126.41666666666667,1C,04:45,Barça,18,12,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,24.75,54.81666666666666,1C,03:19,Barça,20,15,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,33.32937559129613,161.58333333333334,2C,06:47,Barça,30,27,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,119.06693472090822,94.63333333333334,2C,04:02,Barça,35,34,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,123.3566225165563,91.66666666666667,3C,01:50,Barça,69,52,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,111.92994323557238,73.45,3C,00:13,Barça,71,59,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+W. Tavares,405.352081,189.983333,3C,03:50,Lenovo Tenerife,47,42,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,431.558515,176.416667,1C,03:26,Lenovo Tenerife,12,10,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,341.044229,152.683333,2C,08:08,Lenovo Tenerife,23,16,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,393.438363,111.166667,3C,00:46,Lenovo Tenerife,53,48,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,348.18122,176.0,4C,09:03,Lenovo Tenerife,53,54,Real Madrid,Triple,True,103029,1,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,430.603169,141.25,4C,06:41,Lenovo Tenerife,55,59,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+S. Llull,429.179518,226.416667,1C,00:06,Lenovo Tenerife,21,14,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+S. Llull,465.857285,142.95,2C,05:47,Lenovo Tenerife,25,20,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,360.094939,85.316667,2C,09:18,Lenovo Tenerife,21,14,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,463.946594,142.95,2C,07:39,Lenovo Tenerife,23,18,Real Madrid,Tiro de 2,True,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,334.375544,125.566667,2C,06:46,Lenovo Tenerife,23,18,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,363.91632,54.383333,2C,05:22,Lenovo Tenerife,28,20,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,380.100993,185.316667,2C,05:06,Lenovo Tenerife,28,20,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,459.656906,198.033333,3C,06:16,Lenovo Tenerife,44,37,Real Madrid,Tiro de 2,False,103029,1,2021-2022,Supercopa Endesa,False
+R. Fernández,386.769678,230.233333,3C,04:52,Lenovo Tenerife,45,40,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+J. Taylor,480.15,26.85,2C,01:46,Lenovo Tenerife,35,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+J. Taylor,454.430605,24.3,2C,01:36,Lenovo Tenerife,35,29,Real Madrid,Triple,False,103029,1,2021-2022,Supercopa Endesa,False
+N. Hayes,45.7114,25.566667,1C,09:54,Barça,3,0,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Hayes,52.848392,88.283333,1C,08:18,Barça,8,5,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Hayes,78.586518,28.116667,4C,05:47,Barça,79,69,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+P. Oriola,155.276395,167.95,1C,09:05,Barça,6,2,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+P. Oriola,137.649338,204.816667,1C,06:34,Barça,14,9,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+P. Oriola,100.016225,240.4,2C,06:03,Barça,33,29,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+P. Oriola,43.332403,137.866667,2C,04:48,Barça,35,31,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+P. Oriola,132.891343,230.65,3C,09:46,Barça,46,40,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+P. Oriola,161.94508,155.65,4C,07:46,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Calathes,161.94508,138.283333,1C,07:46,Barça,11,7,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Calathes,66.6728,145.066667,1C,06:08,Barça,16,11,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Calathes,101.439877,106.933333,2C,03:55,Barça,37,34,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Calathes,36.176679,76.85,3C,06:49,Barça,54,42,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Calathes,39.042715,128.533333,3C,05:47,Barça,61,44,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Calathes,138.136377,215.833333,3C,03:33,Barça,63,50,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,101.439877,237.433333,1C,05:28,Barça,16,11,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,54.759082,154.383333,1C,04:51,Barça,16,12,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,43.332403,126.416667,1C,04:45,Barça,18,12,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,24.75,54.816667,1C,03:19,Barça,20,15,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,33.329376,161.583333,2C,06:47,Barça,30,27,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,119.066935,94.633333,2C,04:02,Barça,35,34,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,123.356623,91.666667,3C,01:50,Barça,69,52,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,111.929943,73.45,3C,00:13,Barça,71,59,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
 C. Higgins,24.75,141.25,4C,09:25,Barça,73,64,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,139.5600283822138,219.63333333333335,4C,08:33,Barça,76,66,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Higgins,160.98973509933774,148.03333333333336,4C,06:56,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,135.7573793755913,170.06666666666663,1C,02:59,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,39.04271523178808,139.98333333333335,2C,02:13,Barça,39,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,39.9980605487228,145.06666666666666,2C,02:13,Barça,41,37,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,28.55264900662252,258.2,2C,00:05,Barça,46,40,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,41.90875118259225,256.5,3C,08:45,Barça,49,40,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,35.70837275307474,219.21666666666667,3C,07:43,Barça,52,40,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,65.24914853358561,143.36666666666665,3C,07:13,Barça,52,42,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,110.97459791863766,47.18333333333334,3C,06:24,Barça,59,42,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,138.13637653736993,62.43333333333334,3C,04:59,Barça,63,46,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,38.087369914853355,100.56666666666666,3C,04:23,Barça,63,48,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,45.711400189214764,128.11666666666665,4C,05:06,Barça,79,72,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Mirotic,152.429091769158,196.76666666666665,4C,04:40,Barça,79,74,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Laprovittola,140.51537369914854,70.06666666666666,1C,02:43,Barça,20,18,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N. Laprovittola,67.62814569536422,141.66666666666666,1C,01:52,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,159.56608325449383,89.98333333333333,1C,02:21,Barça,20,18,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,33.7976821192053,152.26666666666665,1C,01:30,Barça,22,18,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,156.71877956480603,94.63333333333334,2C,08:45,Barça,25,24,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,27.12899716177862,142.51666666666668,3C,03:29,Barça,65,50,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,42.377057710501425,256.93333333333334,4C,08:07,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,31.41868495742668,20.483333333333334,4C,06:26,Barça,79,69,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,118.59862819299906,53.96666666666667,4C,03:59,Barça,79,74,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-K. Kuric,152.89739829706716,116.25,4C,01:29,Barça,81,81,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,31.88699148533586,139.13333333333333,1C,02:11,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,72.38614001892148,160.73333333333335,1C,01:33,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,28.084342478713342,133.61666666666667,2C,03:18,Barça,39,34,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,137.1810312204352,217.95,2C,02:26,Barça,39,37,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,124.31196783349102,229.81666666666666,2C,02:13,Barça,39,37,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,35.70837275307474,133.61666666666667,3C,05:24,Barça,63,44,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,29.03968779564806,139.55,3C,02:22,Barça,67,51,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,125.26731315042575,236.16666666666669,4C,03:03,Barça,79,78,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,56.669772942289505,131.08333333333334,4C,02:08,Barça,81,78,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,63.80676442762535,126.85000000000002,4C,00:58,Barça,83,83,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,116.68793755912961,159.46666666666664,4C,00:26,Barça,83,85,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-B. Davies,158.61073793755912,145.91666666666669,4C,00:08,Barça,83,86,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-R. Smits,60.472421948912014,137.86666666666667,2C,09:23,Barça,25,24,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-R. Smits,27.616035950804164,161.16666666666669,2C,08:43,Barça,27,24,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-R. Smits,148.13940397350993,74.30000000000001,2C,07:30,Barça,30,24,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-R. Smits,61.42776726584674,256.0833333333333,2C,07:04,Barça,30,27,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-R. Smits,112.8852885525071,48.45,3C,02:53,Barça,65,50,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-R. Smits,37.61906338694418,140.4,4C,08:00,Barça,76,66,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-A. Abrines,29.03968779564806,258.6166666666667,2C,08:14,Barça,30,24,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-R. Jokubaitis,32.84233680227058,147.60000000000002,3C,02:25,Barça,65,51,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-R. Jokubaitis,80.9655156102176,73.45,3C,01:10,Barça,69,54,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-R. Jokubaitis,50.95643330179754,210.31666666666666,4C,08:45,Barça,73,66,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-T. Heurtel,382.9670293282876,56.5,1C,09:37,Barça,3,0,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-T. Heurtel,440.6061967833491,157.35,2C,01:37,Barça,41,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-T. Heurtel,460.14394512772,127.26666666666667,2C,01:09,Barça,44,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-T. Heurtel,403.92842951750237,43.800000000000004,2C,00:26,Barça,46,40,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-T. Heurtel,468.2362819299905,117.51666666666667,3C,08:06,Barça,50,40,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,139.560028,219.633333,4C,08:33,Barça,76,66,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Higgins,160.989735,148.033333,4C,06:56,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,135.757379,170.066667,1C,02:59,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,39.042715,139.983333,2C,02:13,Barça,39,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,39.998061,145.066667,2C,02:13,Barça,41,37,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,28.552649,258.2,2C,00:05,Barça,46,40,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,41.908751,256.5,3C,08:45,Barça,49,40,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,35.708373,219.216667,3C,07:43,Barça,52,40,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,65.249149,143.366667,3C,07:13,Barça,52,42,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,110.974598,47.183333,3C,06:24,Barça,59,42,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,138.136377,62.433333,3C,04:59,Barça,63,46,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,38.08737,100.566667,3C,04:23,Barça,63,48,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,45.7114,128.116667,4C,05:06,Barça,79,72,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Mirotic,152.429092,196.766667,4C,04:40,Barça,79,74,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Laprovittola,140.515374,70.066667,1C,02:43,Barça,20,18,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N. Laprovittola,67.628146,141.666667,1C,01:52,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,159.566083,89.983333,1C,02:21,Barça,20,18,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,33.797682,152.266667,1C,01:30,Barça,22,18,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,156.71878,94.633333,2C,08:45,Barça,25,24,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,27.128997,142.516667,3C,03:29,Barça,65,50,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,42.377058,256.933333,4C,08:07,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,31.418685,20.483333,4C,06:26,Barça,79,69,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,118.598628,53.966667,4C,03:59,Barça,79,74,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+K. Kuric,152.897398,116.25,4C,01:29,Barça,81,81,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,31.886991,139.133333,1C,02:11,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,72.38614,160.733333,1C,01:33,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,28.084342,133.616667,2C,03:18,Barça,39,34,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,137.181031,217.95,2C,02:26,Barça,39,37,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,124.311968,229.816667,2C,02:13,Barça,39,37,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,35.708373,133.616667,3C,05:24,Barça,63,44,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,29.039688,139.55,3C,02:22,Barça,67,51,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,125.267313,236.166667,4C,03:03,Barça,79,78,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,56.669773,131.083333,4C,02:08,Barça,81,78,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,63.806764,126.85,4C,00:58,Barça,83,83,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,116.687938,159.466667,4C,00:26,Barça,83,85,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+B. Davies,158.610738,145.916667,4C,00:08,Barça,83,86,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+R. Smits,60.472422,137.866667,2C,09:23,Barça,25,24,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+R. Smits,27.616036,161.166667,2C,08:43,Barça,27,24,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+R. Smits,148.139404,74.3,2C,07:30,Barça,30,24,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+R. Smits,61.427767,256.083333,2C,07:04,Barça,30,27,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+R. Smits,112.885289,48.45,3C,02:53,Barça,65,50,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+R. Smits,37.619063,140.4,4C,08:00,Barça,76,66,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+A. Abrines,29.039688,258.616667,2C,08:14,Barça,30,24,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+R. Jokubaitis,32.842337,147.6,3C,02:25,Barça,65,51,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+R. Jokubaitis,80.965516,73.45,3C,01:10,Barça,69,54,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+R. Jokubaitis,50.956433,210.316667,4C,08:45,Barça,73,66,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+T. Heurtel,382.967029,56.5,1C,09:37,Barça,3,0,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+T. Heurtel,440.606197,157.35,2C,01:37,Barça,41,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+T. Heurtel,460.143945,127.266667,2C,01:09,Barça,44,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+T. Heurtel,403.92843,43.8,2C,00:26,Barça,46,40,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+T. Heurtel,468.236282,117.516667,3C,08:06,Barça,50,40,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,1C,09:23,Barça,3,2,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,1C,08:00,Barça,8,7,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
-V. Poirier,394.3937086092715,120.91666666666667,1C,01:18,Barça,22,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-V. Poirier,442.9851939451277,123.88333333333333,3C,05:31,Barça,61,44,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+V. Poirier,394.393709,120.916667,1C,01:18,Barça,22,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+V. Poirier,442.985194,123.883333,3C,05:31,Barça,61,44,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,3C,04:47,Barça,63,48,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,4C,09:45,Barça,71,64,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,4C,04:59,Barça,79,74,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
 V. Poirier,480.15,141.25,4C,03:17,Barça,79,78,Real Madrid,Mate,True,103030,2,2021-2022,Supercopa Endesa,False
-J. Taylor,425.3581362346263,250.14999999999998,1C,08:45,Barça,6,5,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-J. Taylor,173.35302743614005,129.81666666666666,2C,00:04,Barça,46,40,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-J. Taylor,463.9465941343425,147.60000000000002,4C,09:50,Barça,71,62,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-J. Taylor,341.5125354777673,133.61666666666667,4C,07:14,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-J. Taylor,438.6955061494797,253.53333333333333,4C,06:02,Barça,79,69,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-J. Taylor,451.56456953642385,137.86666666666667,4C,00:35,Barça,83,83,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-A. Hanga,469.19162724692524,158.20000000000002,1C,06:23,Barça,14,11,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-A. Hanga,456.8096026490066,256.5,1C,05:58,Barça,16,11,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-A. Hanga,439.6508514664144,138.7,1C,02:05,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-A. Hanga,471.5706244087039,108.2,3C,08:54,Barça,46,40,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Alocén,398.2150898770104,97.18333333333332,1C,04:21,Barça,18,12,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Alocén,449.6538789025544,155.23333333333335,1C,04:21,Barça,18,12,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-C. Alocén,425.3581362346263,29.383333333333333,1C,04:21,Barça,18,15,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Alocén,407.2627719962157,39.13333333333333,1C,03:03,Barça,20,18,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Alocén,424.42152317880794,157.78333333333333,3C,06:05,Barça,59,44,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-C. Alocén,471.5706244087039,140.83333333333334,4C,08:12,Barça,76,66,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-T. Vukcevic,450.60922421948914,252.6833333333333,1C,00:31,Barça,22,22,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,467.7679754020814,126.0,2C,09:36,Barça,23,24,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,348.18122043519395,73.03333333333335,2C,07:47,Barça,30,24,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,463.4782876064333,133.61666666666667,2C,07:19,Barça,30,26,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,346.75756859035005,136.58333333333334,2C,04:48,Barça,35,34,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,367.2506622516556,180.23333333333335,2C,01:47,Barça,41,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,432.51385998107855,129.38333333333335,3C,03:53,Barça,63,50,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,361.0502838221381,68.8,3C,03:11,Barça,65,50,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,451.09626300851465,135.73333333333332,3C,01:06,Barça,69,56,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,342.95491958372753,144.63333333333333,3C,00:39,Barça,69,59,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,372.47696310312205,242.95,3C,00:03,Barça,71,62,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-S. Llull,386.3013718070009,124.71666666666667,4C,09:07,Barça,73,66,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,464.9019394512772,116.66666666666667,2C,06:39,Barça,30,29,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,470.61527909176914,131.93333333333334,2C,06:15,Barça,30,29,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,355.80525070955537,196.33333333333337,4C,05:33,Barça,79,72,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,374.38765373699147,59.46666666666667,4C,04:21,Barça,79,74,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,362.96097445600753,199.71666666666664,4C,01:49,Barça,81,81,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-N.Williams-Goss,398.2150898770104,38.699999999999996,4C,00:36,Barça,83,83,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-F. Causeur,359.6266319772942,99.71666666666667,2C,05:13,Barça,33,31,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-F. Causeur,433.93751182592246,258.6166666666667,2C,03:40,Barça,37,34,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-F. Causeur,368.20600756859034,66.66666666666667,2C,01:43,Barça,41,37,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
-G. Yabusele,446.8065752128666,259.05,2C,02:49,Barça,39,37,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
-E. Ndiaye,455.8542573320719,153.96666666666664,2C,01:01,Barça,44,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-E. Ndiaye,460.61225165562917,109.46666666666667,2C,00:50,Barça,44,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
-W. Tavares,434.89285714285717,135.31666666666666,3C,07:01,Barça,52,42,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+J. Taylor,425.358136,250.15,1C,08:45,Barça,6,5,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+J. Taylor,173.353027,129.816667,2C,00:04,Barça,46,40,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+J. Taylor,463.946594,147.6,4C,09:50,Barça,71,62,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+J. Taylor,341.512535,133.616667,4C,07:14,Barça,76,66,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+J. Taylor,438.695506,253.533333,4C,06:02,Barça,79,69,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+J. Taylor,451.56457,137.866667,4C,00:35,Barça,83,83,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+A. Hanga,469.191627,158.2,1C,06:23,Barça,14,11,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+A. Hanga,456.809603,256.5,1C,05:58,Barça,16,11,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+A. Hanga,439.650851,138.7,1C,02:05,Barça,20,18,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+A. Hanga,471.570624,108.2,3C,08:54,Barça,46,40,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Alocén,398.21509,97.183333,1C,04:21,Barça,18,12,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Alocén,449.653879,155.233333,1C,04:21,Barça,18,12,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+C. Alocén,425.358136,29.383333,1C,04:21,Barça,18,15,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Alocén,407.262772,39.133333,1C,03:03,Barça,20,18,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Alocén,424.421523,157.783333,3C,06:05,Barça,59,44,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+C. Alocén,471.570624,140.833333,4C,08:12,Barça,76,66,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+T. Vukcevic,450.609224,252.683333,1C,00:31,Barça,22,22,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,467.767975,126.0,2C,09:36,Barça,23,24,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,348.18122,73.033333,2C,07:47,Barça,30,24,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,463.478288,133.616667,2C,07:19,Barça,30,26,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,346.757569,136.583333,2C,04:48,Barça,35,34,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,367.250662,180.233333,2C,01:47,Barça,41,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,432.51386,129.383333,3C,03:53,Barça,63,50,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,361.050284,68.8,3C,03:11,Barça,65,50,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,451.096263,135.733333,3C,01:06,Barça,69,56,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,342.95492,144.633333,3C,00:39,Barça,69,59,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,372.476963,242.95,3C,00:03,Barça,71,62,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+S. Llull,386.301372,124.716667,4C,09:07,Barça,73,66,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,464.901939,116.666667,2C,06:39,Barça,30,29,Real Madrid,Tiro de 2,True,103030,2,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,470.615279,131.933333,2C,06:15,Barça,30,29,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,355.805251,196.333333,4C,05:33,Barça,79,72,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,374.387654,59.466667,4C,04:21,Barça,79,74,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,362.960974,199.716667,4C,01:49,Barça,81,81,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+N.Williams-Goss,398.21509,38.7,4C,00:36,Barça,83,83,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+F. Causeur,359.626632,99.716667,2C,05:13,Barça,33,31,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+F. Causeur,433.937512,258.616667,2C,03:40,Barça,37,34,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+F. Causeur,368.206008,66.666667,2C,01:43,Barça,41,37,Real Madrid,Triple,False,103030,2,2021-2022,Supercopa Endesa,False
+G. Yabusele,446.806575,259.05,2C,02:49,Barça,39,37,Real Madrid,Triple,True,103030,2,2021-2022,Supercopa Endesa,False
+E. Ndiaye,455.854257,153.966667,2C,01:01,Barça,44,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+E. Ndiaye,460.612252,109.466667,2C,00:50,Barça,44,37,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
+W. Tavares,434.892857,135.316667,3C,07:01,Barça,52,42,Real Madrid,Tiro de 2,False,103030,2,2021-2022,Supercopa Endesa,False
