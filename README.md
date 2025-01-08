@@ -120,7 +120,7 @@ This mode is used to update the database with new matchday data. It:
 To update the database with data from round 15 of Liga Endesa in the 2024-2025 season:
 
 ```bash
-python main.py actualizacion -j 15 -c "liga_endesa" -t 2023
+python main.py actualizacion -j 15 -c "liga_endesa" -t 2024
 ```
 ## Using as a Package
 
