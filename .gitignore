@@ -4,5 +4,7 @@ __pycache__/
 pruebas
 docs/
 src/__pycache__/
-src/acb_shot_scraper.egg-info
+src/acb_db.egg-info
 .env
+build/
+data/processed/diccionario_df.pkl

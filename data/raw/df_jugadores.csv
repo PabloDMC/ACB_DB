@@ -1,0 +1,1630 @@
+id_jugador,nombre_jugador,id_equipo,nombre_equipo,id_temporada,estado
+20200282,Álvaro Muñoz,57,Monbus Obradoiro,2020,activo
+30000286,Kartal Ozmizrak,57,Monbus Obradoiro,2020,activo
+20200483,Albert Oliver,57,Monbus Obradoiro,2020,activo
+30000201,Laurynas Beliauskas,57,Monbus Obradoiro,2020,activo
+30000289,Laurynas Birutis,57,Monbus Obradoiro,2020,activo
+30000290,Steven Enoch,57,Monbus Obradoiro,2020,activo
+30000038,Mike Daum,57,Monbus Obradoiro,2020,activo
+30000287,Kassius Robertson,57,Monbus Obradoiro,2020,activo
+30000288,Jake Cohen,57,Monbus Obradoiro,2020,activo
+20212288,Chris Czerapowicz,57,Monbus Obradoiro,2020,activo
+20200279,Pepe Pozas,57,Monbus Obradoiro,2020,activo
+20204146,Álex Suárez,57,Monbus Obradoiro,2020,activo
+20212318,Roberto Cubero,57,Monbus Obradoiro,2020,activo
+20213011,Rafa García,57,Monbus Obradoiro,2020,activo
+30000159,Martín Fernández,57,Monbus Obradoiro,2020,activo
+30000951,Antonios Koniaris,57,Monbus Obradoiro,2020,baja
+20209098,Oriol Paulí,22,MoraBanc Andorra,2020,activo
+30000055,Bandja Sy,22,MoraBanc Andorra,2020,activo
+30000213,Babatunde Olumuyiwa,22,MoraBanc Andorra,2020,activo
+30000296,Malik Dime,22,MoraBanc Andorra,2020,activo
+20211327,Clevin Hannah,22,MoraBanc Andorra,2020,activo
+30000918,Artsiom Parakhouski,22,MoraBanc Andorra,2020,activo
+20210685,Sergi García,22,MoraBanc Andorra,2020,activo
+20212433,Saulius Kulvietis,22,MoraBanc Andorra,2020,activo
+30000999,Fausto Ruesga,22,MoraBanc Andorra,2020,activo
+20211282,Guillem Colom,22,MoraBanc Andorra,2020,activo
+20203834,David Jelínek,22,MoraBanc Andorra,2020,activo
+30000054,Jeremy Senglin,22,MoraBanc Andorra,2020,activo
+20212544,Marc Martínez,22,MoraBanc Andorra,2020,activo
+20212547,Leo López,22,MoraBanc Andorra,2020,activo
+30000627,Albert Pons,22,MoraBanc Andorra,2020,activo
+20211439,Hugo Bartolomé,22,MoraBanc Andorra,2020,baja
+20209861,Haukur Palsson,22,MoraBanc Andorra,2020,baja
+30000053,Tyson Pérez,22,MoraBanc Andorra,2020,baja
+20212214,Tomasz Gielo,22,MoraBanc Andorra,2020,baja
+20203810,Nacho Llovet,22,MoraBanc Andorra,2020,baja
+20211372,Alexis Bartolomé,22,MoraBanc Andorra,2020,baja
+20212426,Charlon Kloof,22,MoraBanc Andorra,2020,baja
+20210224,Fabien Causeur,9,Real Madrid,2020,activo
+20201540,Rudy Fernández,9,Real Madrid,2020,activo
+20210088,Alberto Abalde,9,Real Madrid,2020,activo
+30000921,Alex Tyus,9,Real Madrid,2020,activo
+20211947,Nico Laprovittola,9,Real Madrid,2020,activo
+20200355,Felipe Reyes,9,Real Madrid,2020,activo
+20212416,Vincent Poirier,9,Real Madrid,2020,activo
+20202115,Jaycee Carroll,9,Real Madrid,2020,activo
+20209407,Edy Tavares,9,Real Madrid,2020,activo
+20201774,Sergio Llull,9,Real Madrid,2020,activo
+20211615,Trey Thompkins,9,Real Madrid,2020,activo
+20211614,Jeff Taylor,9,Real Madrid,2020,activo
+20210357,Carlos Alocén,9,Real Madrid,2020,activo
+20212174,Usman Garuba,9,Real Madrid,2020,activo
+30000093,Juan Núñez,9,Real Madrid,2020,activo
+30000202,Matteo Spagnolo,9,Real Madrid,2020,activo
+30000475,Tristan Vukcevic,9,Real Madrid,2020,activo
+20212952,Gabriel Deck,9,Real Madrid,2020,baja
+20212172,Boris Tisma,9,Real Madrid,2020,baja
+20212195,Anthony Randolph,9,Real Madrid,2020,baja
+20211331,Facu Campazzo,9,Real Madrid,2020,baja
+20212965,Shawn Dawson,8,Club Joventut Badalona,2020,activo
+20211754,Pep Busquets,8,Club Joventut Badalona,2020,activo
+20200836,Pau Ribas,8,Club Joventut Badalona,2020,activo
+20211660,Xabi López-Arostegui,8,Club Joventut Badalona,2020,activo
+20212967,Conor Morgan,8,Club Joventut Badalona,2020,activo
+20212971,Vladimir Brodziansky,8,Club Joventut Badalona,2020,activo
+20200247,Albert Ventura,8,Club Joventut Badalona,2020,activo
+20200243,Ferran Bassas,8,Club Joventut Badalona,2020,activo
+20212423,Simon Birgander,8,Club Joventut Badalona,2020,activo
+20212265,Joel Parra,8,Club Joventut Badalona,2020,activo
+20202172,Ante Tomic,8,Club Joventut Badalona,2020,activo
+20211451,Nenad Dimitrijevic,8,Club Joventut Badalona,2020,activo
+20212073,Miguel Allen,8,Club Joventut Badalona,2020,activo
+20212264,Arnau Parrado,8,Club Joventut Badalona,2020,activo
+30000095,Yannick Kraag,8,Club Joventut Badalona,2020,activo
+30000147,Roger Martí,8,Club Joventut Badalona,2020,activo
+30000153,Zsombor Maronka,8,Club Joventut Badalona,2020,activo
+30000955,Demetrius Jackson,8,Club Joventut Badalona,2020,baja
+20212474,Arturs Zagars,8,Club Joventut Badalona,2020,baja
+30000910,Sean Kilpatrick,5,Herbalife Gran Canaria,2020,activo
+20212243,Olek Balcerowski,5,Herbalife Gran Canaria,2020,activo
+20212966,Stan Okoye,5,Herbalife Gran Canaria,2020,activo
+20212190,Andrew Albicy,5,Herbalife Gran Canaria,2020,activo
+30000031,AJ Slaughter,5,Herbalife Gran Canaria,2020,activo
+30000748,Tomas Dimsa,5,Herbalife Gran Canaria,2020,activo
+20210670,John Shurna,5,Herbalife Gran Canaria,2020,activo
+20204130,Fabio Santana,5,Herbalife Gran Canaria,2020,activo
+20212905,Khalifa Diop,5,Herbalife Gran Canaria,2020,activo
+30000032,Matt Costello,5,Herbalife Gran Canaria,2020,activo
+20201904,Javi Beirán,5,Herbalife Gran Canaria,2020,activo
+20209878,Oliver Stevic,5,Herbalife Gran Canaria,2020,activo
+20211935,Javier López,5,Herbalife Gran Canaria,2020,activo
+30000132,Rubén López De La Torre,5,Herbalife Gran Canaria,2020,activo
+30000133,Marcis Steinbergs,5,Herbalife Gran Canaria,2020,activo
+30000514,Jean Montero,5,Herbalife Gran Canaria,2020,activo
+30000004,Jacob Wiley,5,Herbalife Gran Canaria,2020,baja
+20204145,Beqa Burjanadze,5,Herbalife Gran Canaria,2020,baja
+30000064,Earl Clark,5,Herbalife Gran Canaria,2020,baja
+30000022,Frankie Ferrari,5,Herbalife Gran Canaria,2020,baja
+30000284,Amedeo Della Valle,5,Herbalife Gran Canaria,2020,baja
+20212462,Jovan Kljajic,5,Herbalife Gran Canaria,2020,baja
+20210918,Santi Yusta,28,Iberostar Tenerife,2020,activo
+20212972,Bruno Fitipaldo,28,Iberostar Tenerife,2020,activo
+20201760,Marcelinho Huertas,28,Iberostar Tenerife,2020,activo
+20211597,Sasu Salin,28,Iberostar Tenerife,2020,activo
+30000996,Charles Jenkins,28,Iberostar Tenerife,2020,activo
+20210279,Sergio Rodríguez,28,Iberostar Tenerife,2020,activo
+20210659,Giorgi Shermadini,28,Iberostar Tenerife,2020,activo
+20210828,Emir Sulejmanovic,28,Iberostar Tenerife,2020,activo
+20203945,Álex López,28,Iberostar Tenerife,2020,activo
+30000285,Tyler Cavanaugh,28,Iberostar Tenerife,2020,activo
+20209934,Fran Guerra,28,Iberostar Tenerife,2020,activo
+20212189,Aaron Doornekamp,28,Iberostar Tenerife,2020,activo
+30000130,Danilo Brnovic,28,Iberostar Tenerife,2020,activo
+30000773,Spencer Butterfield,28,Iberostar Tenerife,2020,baja
+20204156,Dani Díez,28,Iberostar Tenerife,2020,baja
+20211313,Georgios Bogris,28,Iberostar Tenerife,2020,baja
+20210815,Guillem Jou,10,BAXI Manresa,2020,activo
+30000015,Dani García,10,BAXI Manresa,2020,activo
+30000269,Makai Mason,10,BAXI Manresa,2020,activo
+30000270,Seth Hinrichs,10,BAXI Manresa,2020,activo
+20202155,Eulis Báez,10,BAXI Manresa,2020,activo
+20200437,Rafa Martínez,10,BAXI Manresa,2020,activo
+30000272,Martynas Sajus,10,BAXI Manresa,2020,activo
+30000025,Juampi Vaulet,10,BAXI Manresa,2020,activo
+20212458,Matt Janning,10,BAXI Manresa,2020,activo
+30000271,Scott Eatherton,10,BAXI Manresa,2020,activo
+20213230,Yankuba Sima,10,BAXI Manresa,2020,activo
+20212357,Melwin Pantzar,10,BAXI Manresa,2020,activo
+20212078,Marc Peñarroya,10,BAXI Manresa,2020,activo
+20212454,Lazar Mutic,10,BAXI Manresa,2020,activo
+20212992,Pau Treviño,10,BAXI Manresa,2020,activo
+30000022,Frankie Ferrari,10,BAXI Manresa,2020,baja
+20203826,Dani Pérez,10,BAXI Manresa,2020,baja
+20210651,Jonathan Tabu,10,BAXI Manresa,2020,baja
+20212277,Deividas Dulkys,10,BAXI Manresa,2020,baja
+20209835,Janari Joesaar,10,BAXI Manresa,2020,baja
+30000915,Leo Westermann,2,Barça,2020,activo
+20209836,Adam Hanga,2,Barça,2020,activo
+20213026,Leandro Bolmaro,2,Barça,2020,activo
+20209986,Rolands Smits,2,Barça,2020,activo
+20200381,Pau Gasol,2,Barça,2020,activo
+20202164,Pierre Oriola,2,Barça,2020,activo
+20209223,Álex Abrines,2,Barça,2020,activo
+30000020,Cory Higgins,2,Barça,2020,activo
+20210232,Kyle Kuric,2,Barça,2020,activo
+20202101,Nikola Mirotic,2,Barça,2020,activo
+30000268,Nick Calathes,2,Barça,2020,activo
+30000019,Brandon Davies,2,Barça,2020,activo
+20210335,Sergi Martínez,2,Barça,2020,activo
+30000106,Ibou Badji,2,Barça,2020,activo
+30000107,Brancou Badio,2,Barça,2020,activo
+30000925,Michael Caicedo,2,Barça,2020,activo
+20201901,Víctor Claver,2,Barça,2020,baja
+20211643,Artem Pustovyi,2,Barça,2020,baja
+20204097,Thomas Heurtel,2,Barça,2020,baja
+30000050,Frantz Massenat,3,TD Systems Baskonia,2020,activo
+30000308,Tonye Jekiri,3,TD Systems Baskonia,2020,activo
+30000034,Pierria Henry,3,TD Systems Baskonia,2020,activo
+20210830,Tadas Sedekerskis,3,TD Systems Baskonia,2020,activo
+20202077,Quino Colom,3,TD Systems Baskonia,2020,activo
+20209890,Ilimane Diop,3,TD Systems Baskonia,2020,activo
+30000037,Youssoupha Fall,3,TD Systems Baskonia,2020,activo
+30000307,Alec Peters,3,TD Systems Baskonia,2020,activo
+20210258,Zoran Dragic,3,TD Systems Baskonia,2020,activo
+30000306,Rokas Giedraitis,3,TD Systems Baskonia,2020,activo
+30000070,Achille Polonara,3,TD Systems Baskonia,2020,activo
+20211887,Arturs Kurucs,3,TD Systems Baskonia,2020,activo
+30000111,Pavel Savkov,3,TD Systems Baskonia,2020,activo
+30000112,Ondrej Hanzlik,3,TD Systems Baskonia,2020,activo
+30000115,Pape Sow,3,TD Systems Baskonia,2020,activo
+20212239,Sander Raieste,3,TD Systems Baskonia,2020,baja
+20212427,Luca Vildoza,3,TD Systems Baskonia,2020,baja
+30000210,Jerome Randle,15,Coosur Real Betis,2020,activo
+30000277,Nick Kay,15,Coosur Real Betis,2020,activo
+20211333,Tobias Borg,15,Coosur Real Betis,2020,activo
+20209240,Petit Niang,15,Coosur Real Betis,2020,activo
+20204078,Pablo Almazán,15,Coosur Real Betis,2020,activo
+20209101,Nick Spires,15,Coosur Real Betis,2020,activo
+20212172,Boris Tisma,15,Coosur Real Betis,2020,activo
+30000276,Yakouba Ouattara,15,Coosur Real Betis,2020,activo
+30000275,Mike Torres,15,Coosur Real Betis,2020,activo
+30000278,Youssou Ndoye,15,Coosur Real Betis,2020,activo
+30000274,TJ Campbell,15,Coosur Real Betis,2020,activo
+20212177,Jerome Jordan,15,Coosur Real Betis,2020,activo
+20212579,Luis García,15,Coosur Real Betis,2020,activo
+30000163,Ibrahim Magassa,15,Coosur Real Betis,2020,activo
+20210233,James Feldeine,15,Coosur Real Betis,2020,baja
+30000028,Obi Enechionyia,15,Coosur Real Betis,2020,baja
+30000339,Ryan Harrow,15,Coosur Real Betis,2020,baja
+30000039,Dejan Kravic,549,Hereda San Pablo Burgos,2020,activo
+20211605,Maksim Salash,549,Hereda San Pablo Burgos,2020,activo
+20211641,Vitor Benite,549,Hereda San Pablo Burgos,2020,activo
+20200246,Álex Barrera,549,Hereda San Pablo Burgos,2020,activo
+20212441,Miquel Salvó,549,Hereda San Pablo Burgos,2020,activo
+20212959,Thad McFadden,549,Hereda San Pablo Burgos,2020,activo
+30000076,Jasiel Rivero,549,Hereda San Pablo Burgos,2020,activo
+20212244,Jordan Sakho,549,Hereda San Pablo Burgos,2020,activo
+20202070,Omar Cook,549,Hereda San Pablo Burgos,2020,activo
+20203590,Xavi Rabaseda,549,Hereda San Pablo Burgos,2020,activo
+30000304,Ken Horton,549,Hereda San Pablo Burgos,2020,activo
+20210271,Alex Renfroe,549,Hereda San Pablo Burgos,2020,activo
+20212472,Oliver Bieshaar,549,Hereda San Pablo Burgos,2020,activo
+20212802,Alberto Alonso,549,Hereda San Pablo Burgos,2020,activo
+30000091,Kareem Queeley,549,Hereda San Pablo Burgos,2020,activo
+30000902,Khadim Fall,549,Hereda San Pablo Burgos,2020,baja
+30000827,Ángel Infante,549,Hereda San Pablo Burgos,2020,baja
+20210647,Goran Huskic,549,Hereda San Pablo Burgos,2020,baja
+20212954,Klemen Prepelic,13,Valencia Basket Club,2020,activo
+20211129,Jaime Pradilla,13,Valencia Basket Club,2020,activo
+20213002,Louis Labeyrie,13,Valencia Basket Club,2020,activo
+20204111,Sam Van Rossom,13,Valencia Basket Club,2020,activo
+20212399,Mike Tobey,13,Valencia Basket Club,2020,activo
+30000314,Nikola Kalinic,13,Valencia Basket Club,2020,activo
+20210254,Bojan Dubljevic,13,Valencia Basket Club,2020,activo
+20204158,Guillem Vives,13,Valencia Basket Club,2020,activo
+20200613,Fernando San Emeterio,13,Valencia Basket Club,2020,activo
+30000315,Derrick Williams,13,Valencia Basket Club,2020,activo
+30000313,Martin Hermannsson,13,Valencia Basket Club,2020,activo
+20203882,Joan Sastre,13,Valencia Basket Club,2020,activo
+20210392,Josep Puerto,13,Valencia Basket Club,2020,activo
+20212102,Guillem Ferrando,13,Valencia Basket Club,2020,activo
+20212139,Millán Jiménez,13,Valencia Basket Club,2020,activo
+30000161,Hilmar Henningsson,13,Valencia Basket Club,2020,activo
+30000045,Vanja Marinkovic,13,Valencia Basket Club,2020,baja
+20202077,Quino Colom,13,Valencia Basket Club,2020,baja
+30000051,Aleksa Avramovic,6,Movistar Estudiantes,2020,activo
+20212250,Adams Sola,6,Movistar Estudiantes,2020,activo
+20209139,Edgar Vicedo,6,Movistar Estudiantes,2020,activo
+20211645,Alec Brown,6,Movistar Estudiantes,2020,activo
+20212417,Martins Laksa,6,Movistar Estudiantes,2020,activo
+30000299,Ángel Delgado,6,Movistar Estudiantes,2020,activo
+20212871,Dovydas Giedraitis,6,Movistar Estudiantes,2020,activo
+30000298,Nemanja Djurisic,6,Movistar Estudiantes,2020,activo
+20211348,Zelko Sakic,6,Movistar Estudiantes,2020,activo
+20212204,Aleksandar Cvetkovic,6,Movistar Estudiantes,2020,activo
+20200296,Víctor Arteaga,6,Movistar Estudiantes,2020,activo
+20212114,Rubén Domínguez,6,Movistar Estudiantes,2020,activo
+20212720,Emil Stoilov,6,Movistar Estudiantes,2020,activo
+20212736,Nacho Varela,6,Movistar Estudiantes,2020,activo
+30000590,Gilad Levy,6,Movistar Estudiantes,2020,activo
+30000956,Jose Juan Barea,6,Movistar Estudiantes,2020,baja
+20212256,Diego Alderete,6,Movistar Estudiantes,2020,baja
+30000297,John Roberson,6,Movistar Estudiantes,2020,baja
+20211591,Edwin Jackson,6,Movistar Estudiantes,2020,baja
+20213027,Alessandro Gentile,6,Movistar Estudiantes,2020,baja
+30000550,Christ Koumadje,6,Movistar Estudiantes,2020,baja
+30000060,Jaylon Brown,4,RETAbet Bilbao Basket,2020,activo
+20204133,Álex Reyes,4,RETAbet Bilbao Basket,2020,activo
+20212462,Jovan Kljajic,4,RETAbet Bilbao Basket,2020,activo
+20204142,Ondrej Balvin,4,RETAbet Bilbao Basket,2020,activo
+20210122,Felipe Dos Anjos,4,RETAbet Bilbao Basket,2020,activo
+30001056,Ioannis Athinaiou,4,RETAbet Bilbao Basket,2020,activo
+30000211,Quentin Serron,4,RETAbet Bilbao Basket,2020,activo
+30000893,Regimantas Miniotas,4,RETAbet Bilbao Basket,2020,activo
+20210498,Ludde Hakanson,4,RETAbet Bilbao Basket,2020,activo
+20212495,John Jenkins,4,RETAbet Bilbao Basket,2020,activo
+30001059,Leonardo Tote,4,RETAbet Bilbao Basket,2020,activo
+30000061,Arnoldas Kulboka,4,RETAbet Bilbao Basket,2020,activo
+20210363,Íñigo Betolaza,4,RETAbet Bilbao Basket,2020,activo
+30000118,Nahuel Del Val,4,RETAbet Bilbao Basket,2020,activo
+30000663,Iker Chacón,4,RETAbet Bilbao Basket,2020,activo
+30000300,Jaroslaw Zyskowski,4,RETAbet Bilbao Basket,2020,baja
+20210647,Goran Huskic,4,RETAbet Bilbao Basket,2020,baja
+30000063,Jonathan Rousselle,4,RETAbet Bilbao Basket,2020,baja
+30000911,Alade Aminu,4,RETAbet Bilbao Basket,2020,baja
+30000302,Kingsley Moses,4,RETAbet Bilbao Basket,2020,baja
+30000303,Aaron Jones,4,RETAbet Bilbao Basket,2020,baja
+20211649,Tomeu Rigo,4,RETAbet Bilbao Basket,2020,baja
+20200191,Jonathan Barreiro,16,Casademont Zaragoza,2020,activo
+30000923,Elias Harris,16,Casademont Zaragoza,2020,activo
+20212648,Nico Brussino,16,Casademont Zaragoza,2020,activo
+20212348,Jaime Fernández,16,Casademont Zaragoza,2020,activo
+20210147,Aleix Font,16,Casademont Zaragoza,2020,activo
+20211653,Robin Benzing,16,Casademont Zaragoza,2020,activo
+20201800,Rodrigo San Miguel,16,Casademont Zaragoza,2020,activo
+30000004,Jacob Wiley,16,Casademont Zaragoza,2020,activo
+20212941,Dylan Ennis,16,Casademont Zaragoza,2020,activo
+20212461,Tryggvi Hlinason,16,Casademont Zaragoza,2020,activo
+20212976,Javier Justiz,16,Casademont Zaragoza,2020,activo
+30000273,Rasheed Sulaimon,16,Casademont Zaragoza,2020,activo
+20212482,Javi García,16,Casademont Zaragoza,2020,activo
+30000207,Gustav Knudsen,16,Casademont Zaragoza,2020,activo
+30000610,Pavle Stosic,16,Casademont Zaragoza,2020,activo
+30000898,TJ Bray,16,Casademont Zaragoza,2020,baja
+30000209,Jason Thompson,16,Casademont Zaragoza,2020,baja
+20211133,Vit Krejci,16,Casademont Zaragoza,2020,baja
+20212280,Luka Rupnik,16,Casademont Zaragoza,2020,baja
+20211602,DJ Seeley,16,Casademont Zaragoza,2020,baja
+30000407,Sagaba Konate,16,Casademont Zaragoza,2020,baja
+20212448,Deon Thompson,14,Unicaja,2020,activo
+20204124,Jaime Fernández,14,Unicaja,2020,activo
+20209919,Darío Brizuela,14,Unicaja,2020,activo
+20209226,Alberto Díaz,14,Unicaja,2020,activo
+20210585,Francis Alonso,14,Unicaja,2020,activo
+30000963,Malcolm Thomas,14,Unicaja,2020,activo
+20211297,Adam Waczynski,14,Unicaja,2020,activo
+20211625,Tim Abromaitis,14,Unicaja,2020,activo
+20210707,Rubén Guerrero,14,Unicaja,2020,activo
+20201767,Carlos Suárez,14,Unicaja,2020,activo
+30000059,Axel Bouteille,14,Unicaja,2020,activo
+20212407,Gal Mekel,14,Unicaja,2020,activo
+20212883,Pablo Sánchez,14,Unicaja,2020,activo
+30000204,Rafael Santos,14,Unicaja,2020,activo
+30000479,Yannick Nzosa,14,Unicaja,2020,activo
+30001001,Pablo Tamba,14,Unicaja,2020,activo
+20212773,Volodymyr Gerun,14,Unicaja,2020,baja
+30000022,Frankie Ferrari,14,Unicaja,2020,baja
+30000281,Johnny Dee,7,Acunsa GBC,2020,activo
+20210941,Viny Okouo,7,Acunsa GBC,2020,activo
+30000280,Lucas Faggiano,7,Acunsa GBC,2020,activo
+30000914,Mike Carlson,7,Acunsa GBC,2020,activo
+30000279,Jan Span,7,Acunsa GBC,2020,activo
+20200150,Xabi Oroz,7,Acunsa GBC,2020,activo
+20211609,Dino Radoncic,7,Acunsa GBC,2020,activo
+20209872,Mikel Motos,7,Acunsa GBC,2020,activo
+30000024,William Magarity,7,Acunsa GBC,2020,activo
+20209532,Julen Olaizola,7,Acunsa GBC,2020,activo
+20203675,Pere Tomàs,7,Acunsa GBC,2020,activo
+30000283,Jaime Echenique,7,Acunsa GBC,2020,activo
+30000282,Brandone Francis,7,Acunsa GBC,2020,baja
+30000021,Jordan Davis,12,UCAM Murcia CB,2020,activo
+30000954,James Webb III,12,UCAM Murcia CB,2020,activo
+20204053,Tomás Bellas,12,UCAM Murcia CB,2020,activo
+20209892,Rinalds Malmanis,12,UCAM Murcia CB,2020,activo
+20211263,Nemanja Radovic,12,UCAM Murcia CB,2020,activo
+20210914,Emanuel Cate,12,UCAM Murcia CB,2020,activo
+30000962,Isaiah Taylor,12,UCAM Murcia CB,2020,activo
+20200277,Augusto Lima,12,UCAM Murcia CB,2020,activo
+20212968,DJ Strawberry,12,UCAM Murcia CB,2020,activo
+20211304,Sadiel Rojas,12,UCAM Murcia CB,2020,activo
+30000309,Conner Frankamp,12,UCAM Murcia CB,2020,activo
+20201916,Kostas Vasileiadis,12,UCAM Murcia CB,2020,activo
+20212350,Ismael Corraliza,12,UCAM Murcia CB,2020,activo
+30000649,Wilhelm Falk,12,UCAM Murcia CB,2020,activo
+30000731,Alex Antetokounmpo,12,UCAM Murcia CB,2020,activo
+30000998,Noah Churchill,12,UCAM Murcia CB,2020,activo
+30000312,David DiLeo,12,UCAM Murcia CB,2020,baja
+30000310,Peter Jok,12,UCAM Murcia CB,2020,baja
+30000967,Caio Pacheco,12,UCAM Murcia CB,2020,baja
+30000068,Marques Townes,12,UCAM Murcia CB,2020,baja
+20200274,Rafa Luz,12,UCAM Murcia CB,2020,baja
+30000293,Obi Emegano,17,Urbas Fuenlabrada,2020,activo
+20201869,Álex Urtasun,17,Urbas Fuenlabrada,2020,activo
+30000909,Kyle Alexander,17,Urbas Fuenlabrada,2020,activo
+30000292,Melo Trimble,17,Urbas Fuenlabrada,2020,activo
+20211841,Osas Ehigiator,17,Urbas Fuenlabrada,2020,activo
+30000294,Leo Meindl,17,Urbas Fuenlabrada,2020,activo
+20200293,Chema González,17,Urbas Fuenlabrada,2020,activo
+30000920,Josh Sharma,17,Urbas Fuenlabrada,2020,activo
+20210497,Marc Garcia,17,Urbas Fuenlabrada,2020,activo
+20203835,Christian Eyenga,17,Urbas Fuenlabrada,2020,activo
+30000927,Kwan Cheatham,17,Urbas Fuenlabrada,2020,activo
+30001000,Cheick Diallo,17,Urbas Fuenlabrada,2020,activo
+20212485,Juan José Santana,17,Urbas Fuenlabrada,2020,activo
+20213018,Rodijs Macoha,17,Urbas Fuenlabrada,2020,activo
+20213102,Bassala Bagayoko,17,Urbas Fuenlabrada,2020,activo
+30000291,Ziga Samar,17,Urbas Fuenlabrada,2020,activo
+30000924,Jovan Novak,17,Urbas Fuenlabrada,2020,baja
+20212405,Njegos Sikiras,17,Urbas Fuenlabrada,2020,baja
+30000786,Shevon Thompson,17,Urbas Fuenlabrada,2020,baja
+20212981,Siim-Sander Vene,17,Urbas Fuenlabrada,2020,baja
+20212426,Charlon Kloof,17,Urbas Fuenlabrada,2020,baja
+20209878,Oliver Stevic,17,Urbas Fuenlabrada,2020,baja
+20204053,Tomás Bellas,17,Urbas Fuenlabrada,2020,baja
+20212985,Vyacheslav Bobrov,17,Urbas Fuenlabrada,2020,baja
+30000295,Robert Upshaw,17,Urbas Fuenlabrada,2020,baja
+30001171,Trae Bell-Haynes,25,Río Breogán,2021,activo
+30001181,Mindaugas Kacinas,25,Río Breogán,2021,activo
+30001169,Tyler Kalinoski,25,Río Breogán,2021,activo
+30001332,Agustín Ubal,25,Río Breogán,2021,activo
+20212951,Nikola Jankovic,25,Río Breogán,2021,activo
+30001170,Dzanan Musa,25,Río Breogán,2021,activo
+20212429,Marko Lukovic,25,Río Breogán,2021,activo
+20212244,Jordan Sakho,25,Río Breogán,2021,activo
+30001182,Erik Quintela,25,Río Breogán,2021,activo
+20212284,Rasid Mahalbasic,25,Río Breogán,2021,activo
+20204153,Iván Cruz,25,Río Breogán,2021,activo
+30000013,Sergi Quintela,25,Río Breogán,2021,activo
+20201869,Álex Urtasun,25,Río Breogán,2021,baja
+30001180,Adam Sollazzo,25,Río Breogán,2021,baja
+30001179,Kevin Larsen,25,Río Breogán,2021,baja
+20204124,Jaime Fernández,14,Unicaja,2021,activo
+20200191,Jonathan Barreiro,14,Unicaja,2021,activo
+20209919,Darío Brizuela,14,Unicaja,2021,activo
+20209226,Alberto Díaz,14,Unicaja,2021,activo
+30000039,Dejan Kravic,14,Unicaja,2021,activo
+20210585,Francis Alonso,14,Unicaja,2021,activo
+20211625,Tim Abromaitis,14,Unicaja,2021,activo
+30001771,Matt Mooney,14,Unicaja,2021,activo
+20210707,Rubén Guerrero,14,Unicaja,2021,activo
+20201767,Carlos Suárez,14,Unicaja,2021,activo
+30000059,Axel Bouteille,14,Unicaja,2021,activo
+30001817,Cameron Oliver,14,Unicaja,2021,activo
+20213207,Ruben Vicente,14,Unicaja,2021,activo
+20213210,Mario Saint-Supery,14,Unicaja,2021,activo
+30000479,Yannick Nzosa,14,Unicaja,2021,activo
+30001238,Norris Cole,14,Unicaja,2021,baja
+20212218,Micheal Eric,14,Unicaja,2021,baja
+20209139,Edgar Vicedo,14,Unicaja,2021,baja
+20212883,Pablo Sánchez,14,Unicaja,2021,baja
+30000910,Sean Kilpatrick,16,Casademont Zaragoza,2021,activo
+20210918,Santi Yusta,16,Casademont Zaragoza,2021,activo
+30000022,Frankie Ferrari,16,Casademont Zaragoza,2021,activo
+20211609,Dino Radoncic,16,Casademont Zaragoza,2021,activo
+20202070,Omar Cook,16,Casademont Zaragoza,2021,activo
+20212448,Deon Thompson,16,Casademont Zaragoza,2021,activo
+30001853,Christian Mekowulu,16,Casademont Zaragoza,2021,activo
+20211297,Adam Waczynski,16,Casademont Zaragoza,2021,activo
+20210147,Aleix Font,16,Casademont Zaragoza,2021,activo
+20212461,Tryggvi Hlinason,16,Casademont Zaragoza,2021,activo
+20201800,Rodrigo San Miguel,16,Casademont Zaragoza,2021,activo
+30001698,Jordan Bone,16,Casademont Zaragoza,2021,activo
+20212482,Javi García,16,Casademont Zaragoza,2021,activo
+20213218,Lucas Langarita,16,Casademont Zaragoza,2021,activo
+20213226,Aday Mara,16,Casademont Zaragoza,2021,activo
+30000610,Pavle Stosic,16,Casademont Zaragoza,2021,activo
+30001131,Hans Vanwijn,16,Casademont Zaragoza,2021,baja
+30001130,Matt Mobley,16,Casademont Zaragoza,2021,baja
+20210853,Ramon Vilà,16,Casademont Zaragoza,2021,baja
+20212966,Stan Okoye,16,Casademont Zaragoza,2021,baja
+30000030,Kenan Sipahi,16,Casademont Zaragoza,2021,baja
+30001129,Jamel McLean,16,Casademont Zaragoza,2021,baja
+30001697,Dante Exum,2,Barça,2021,activo
+30001120,Sertac Sanli,2,Barça,2021,activo
+20210335,Sergi Martínez,2,Barça,2021,activo
+20209986,Rolands Smits,2,Barça,2021,activo
+20202164,Pierre Oriola,2,Barça,2021,activo
+20211947,Nico Laprovittola,2,Barça,2021,activo
+20209223,Álex Abrines,2,Barça,2021,activo
+30000020,Cory Higgins,2,Barça,2021,activo
+20210232,Kyle Kuric,2,Barça,2021,activo
+20202101,Nikola Mirotic,2,Barça,2021,activo
+30000268,Nick Calathes,2,Barça,2021,activo
+30000019,Brandon Davies,2,Barça,2021,activo
+30000925,Michael Caicedo,2,Barça,2021,activo
+30001217,Rokas Jokubaitis,2,Barça,2021,activo
+30001243,Rafael Villar,2,Barça,2021,activo
+30001353,James Nnaji,2,Barça,2021,activo
+30001234,Nigel Hayes,2,Barça,2021,baja
+30001332,Agustín Ubal,2,Barça,2021,baja
+30000106,Ibou Badji,2,Barça,2021,baja
+20210224,Fabien Causeur,9,Real Madrid,2021,activo
+20212195,Anthony Randolph,9,Real Madrid,2021,activo
+20204097,Thomas Heurtel,9,Real Madrid,2021,activo
+20201540,Rudy Fernández,9,Real Madrid,2021,activo
+20210088,Alberto Abalde,9,Real Madrid,2021,activo
+20209836,Adam Hanga,9,Real Madrid,2021,activo
+20212952,Gabriel Deck,9,Real Madrid,2021,activo
+20212416,Vincent Poirier,9,Real Madrid,2021,activo
+20209407,Edy Tavares,9,Real Madrid,2021,activo
+20201774,Sergio Llull,9,Real Madrid,2021,activo
+30001112,Guerschon Yabusele,9,Real Madrid,2021,activo
+20211614,Jeff Taylor,9,Real Madrid,2021,activo
+20210357,Carlos Alocén,9,Real Madrid,2021,activo
+30000093,Juan Núñez,9,Real Madrid,2021,activo
+30001089,Urban Klavzar,9,Real Madrid,2021,activo
+30001227,Ab Sediq Garuba,9,Real Madrid,2021,activo
+30001229,Eli John Ndiaye,9,Real Madrid,2021,activo
+30001113,Nigel Williams-Goss,9,Real Madrid,2021,baja
+20211615,Trey Thompkins,9,Real Madrid,2021,baja
+30000475,Tristan Vukcevic,9,Real Madrid,2021,baja
+20211754,Pep Busquets,8,Joventut Badalona,2021,activo
+20211635,Brandon Paul,8,Joventut Badalona,2021,activo
+20200836,Pau Ribas,8,Joventut Badalona,2021,activo
+20212971,Vladimir Brodziansky,8,Joventut Badalona,2021,activo
+20200247,Albert Ventura,8,Joventut Badalona,2021,activo
+20204158,Guillem Vives,8,Joventut Badalona,2021,activo
+20200243,Ferran Bassas,8,Joventut Badalona,2021,activo
+30001114,Andrés Feliz,8,Joventut Badalona,2021,activo
+30001110,Derek Willis,8,Joventut Badalona,2021,activo
+20212423,Simon Birgander,8,Joventut Badalona,2021,activo
+20212265,Joel Parra,8,Joventut Badalona,2021,activo
+20202172,Ante Tomic,8,Joventut Badalona,2021,activo
+30000095,Yannick Kraag,8,Joventut Badalona,2021,activo
+30000145,Kriss Helmanis,8,Joventut Badalona,2021,activo
+30000153,Zsombor Maronka,8,Joventut Badalona,2021,activo
+20212474,Arturs Zagars,8,Joventut Badalona,2021,baja
+20209890,Ilimane Diop,5,Gran Canaria,2021,activo
+20212190,Andrew Albicy,5,Gran Canaria,2021,activo
+20212441,Miquel Salvó,5,Gran Canaria,2021,activo
+30000031,AJ Slaughter,5,Gran Canaria,2021,activo
+20212648,Nico Brussino,5,Gran Canaria,2021,activo
+20211935,Javier López,5,Gran Canaria,2021,activo
+20211643,Artem Pustovyi,5,Gran Canaria,2021,activo
+20210670,John Shurna,5,Gran Canaria,2021,activo
+20212905,Khalifa Diop,5,Gran Canaria,2021,activo
+20212941,Dylan Ennis,5,Gran Canaria,2021,activo
+20209878,Oliver Stevic,5,Gran Canaria,2021,activo
+20212234,Kenny Chery,5,Gran Canaria,2021,activo
+20212021,Adrián Del Cerro,5,Gran Canaria,2021,activo
+20212243,Olek Balcerowski,5,Gran Canaria,2021,activo
+20212916,Miguel Serrano,5,Gran Canaria,2021,activo
+20212988,Gerardo Pérez,5,Gran Canaria,2021,activo
+30001193,David Mutaf,5,Gran Canaria,2021,activo
+30001220,Chris Kramer,5,Gran Canaria,2021,baja
+20210685,Sergi García,5,Gran Canaria,2021,baja
+20212239,Sander Raieste,3,Baskonia,2021,activo
+30001116,Wade Baldwin IV,3,Baskonia,2021,activo
+20210830,Tadas Sedekerskis,3,Baskonia,2021,activo
+30000045,Vanja Marinkovic,3,Baskonia,2021,activo
+30001863,Yannick Wetzell,3,Baskonia,2021,activo
+20203770,Jayson Granger,3,Baskonia,2021,activo
+30001218,Simone Fontecchio,3,Baskonia,2021,activo
+30000290,Steven Enoch,3,Baskonia,2021,activo
+30000032,Matt Costello,3,Baskonia,2021,activo
+30000307,Alec Peters,3,Baskonia,2021,activo
+30000306,Rokas Giedraitis,3,Baskonia,2021,activo
+20211887,Arturs Kurucs,3,Baskonia,2021,activo
+30000112,Ondrej Hanzlik,3,Baskonia,2021,activo
+30001251,Sidy Cissoko,3,Baskonia,2021,activo
+20200246,Álex Barrera,3,Baskonia,2021,baja
+30001364,Lamar Peters,3,Baskonia,2021,baja
+30001219,Landry Nnoko,3,Baskonia,2021,baja
+30001852,BJ Johnson,15,Coosur Real Betis,2021,activo
+30000275,Mike Torres,15,Coosur Real Betis,2021,activo
+20212204,Aleksandar Cvetkovic,15,Coosur Real Betis,2021,activo
+20204145,Beqa Burjanadze,15,Coosur Real Betis,2021,activo
+20204078,Pablo Almazán,15,Coosur Real Betis,2021,activo
+30001134,Shannon Evans,15,Coosur Real Betis,2021,activo
+20210643,Dairis Bertans,15,Coosur Real Betis,2021,activo
+20211607,Anzejs Pasecniks,15,Coosur Real Betis,2021,activo
+30000004,Jacob Wiley,15,Coosur Real Betis,2021,activo
+20202155,Eulis Báez,15,Coosur Real Betis,2021,activo
+30001221,Vitto Brown,15,Coosur Real Betis,2021,activo
+20200279,Pepe Pozas,15,Coosur Real Betis,2021,activo
+20212569,David Gómez,15,Coosur Real Betis,2021,activo
+20212579,Luis García,15,Coosur Real Betis,2021,activo
+30000166,Pablo Marin,15,Coosur Real Betis,2021,activo
+30000163,Ibrahim Magassa,15,Coosur Real Betis,2021,baja
+20211944,Danny Agbelese,15,Coosur Real Betis,2021,baja
+30001706,Travis Leslie,15,Coosur Real Betis,2021,baja
+30001199,Vrenz Bleijenbergh,15,Coosur Real Betis,2021,baja
+20209101,Nick Spires,15,Coosur Real Betis,2021,baja
+20200294,Marko Todorovic,15,Coosur Real Betis,2021,baja
+30000305,Khadeen Carrington,15,Coosur Real Betis,2021,baja
+20209098,Oriol Paulí,22,MoraBanc Andorra,2021,activo
+30001847,Yannick Franke,22,MoraBanc Andorra,2021,activo
+30000213,Babatunde Olumuyiwa,22,MoraBanc Andorra,2021,activo
+20203810,Nacho Llovet,22,MoraBanc Andorra,2021,activo
+30001858,TJ Cline JR,22,MoraBanc Andorra,2021,activo
+20211327,Clevin Hannah,22,MoraBanc Andorra,2021,activo
+20212744,Mario Nakic,22,MoraBanc Andorra,2021,activo
+30001132,Drew Crawford,22,MoraBanc Andorra,2021,activo
+20203834,David Jelínek,22,MoraBanc Andorra,2021,activo
+20212967,Conor Morgan,22,MoraBanc Andorra,2021,activo
+20200296,Víctor Arteaga,22,MoraBanc Andorra,2021,activo
+30001133,Codi Miller-McIntyre,22,MoraBanc Andorra,2021,activo
+20210278,Moussa Diagne,22,MoraBanc Andorra,2021,baja
+20211282,Guillem Colom,22,MoraBanc Andorra,2021,baja
+30001137,Amine Noua,22,MoraBanc Andorra,2021,baja
+20212407,Gal Mekel,22,MoraBanc Andorra,2021,baja
+20210685,Sergi García,22,MoraBanc Andorra,2021,baja
+30000293,Obi Emegano,17,Urbas Fuenlabrada,2021,activo
+30000291,Ziga Samar,17,Urbas Fuenlabrada,2021,activo
+30000909,Kyle Alexander,17,Urbas Fuenlabrada,2021,activo
+30001364,Lamar Peters,17,Urbas Fuenlabrada,2021,activo
+20211841,Osas Ehigiator,17,Urbas Fuenlabrada,2021,activo
+30000294,Leo Meindl,17,Urbas Fuenlabrada,2021,activo
+30001145,Dusan Ristic,17,Urbas Fuenlabrada,2021,activo
+20203945,Álex López,17,Urbas Fuenlabrada,2021,activo
+20200293,Chema González,17,Urbas Fuenlabrada,2021,activo
+30000924,Jovan Novak,17,Urbas Fuenlabrada,2021,activo
+20203835,Christian Eyenga,17,Urbas Fuenlabrada,2021,activo
+30000927,Kwan Cheatham,17,Urbas Fuenlabrada,2021,activo
+20212170,Pablo Rodrigo,17,Urbas Fuenlabrada,2021,activo
+20213102,Bassala Bagayoko,17,Urbas Fuenlabrada,2021,activo
+30000138,Juan Fernández,17,Urbas Fuenlabrada,2021,activo
+30001261,Malique Lewis,17,Urbas Fuenlabrada,2021,activo
+20212409,Dragan Milosavljevic,17,Urbas Fuenlabrada,2021,baja
+30001352,Bolong Zheng,17,Urbas Fuenlabrada,2021,baja
+20212410,Ray McCallum,17,Urbas Fuenlabrada,2021,baja
+30001211,Sean Armand,17,Urbas Fuenlabrada,2021,baja
+20209139,Edgar Vicedo,17,Urbas Fuenlabrada,2021,baja
+20201901,Víctor Claver,13,Valencia Basket,2021,activo
+20210392,Josep Puerto,13,Valencia Basket,2021,activo
+20212954,Klemen Prepelic,13,Valencia Basket,2021,activo
+20211660,Xabi López-Arostegui,13,Valencia Basket,2021,activo
+20204111,Sam Van Rossom,13,Valencia Basket,2021,activo
+20212399,Mike Tobey,13,Valencia Basket,2021,activo
+20210254,Bojan Dubljevic,13,Valencia Basket,2021,activo
+30001854,Olivier Hanlan,13,Valencia Basket,2021,activo
+30000313,Martin Hermannsson,13,Valencia Basket,2021,activo
+30000076,Jasiel Rivero,13,Valencia Basket,2021,activo
+20213002,Louis Labeyrie,13,Valencia Basket,2021,activo
+20211451,Nenad Dimitrijevic,13,Valencia Basket,2021,activo
+20211129,Jaime Pradilla,13,Valencia Basket,2021,activo
+20212102,Guillem Ferrando,13,Valencia Basket,2021,activo
+20212139,Millán Jiménez,13,Valencia Basket,2021,activo
+30000168,Rafael Vila,13,Valencia Basket,2021,activo
+30000173,Alejandro Bellver,13,Valencia Basket,2021,activo
+30001258,Gonzalo Bressan,13,Valencia Basket,2021,activo
+30001185,Jeff Withey,4,Surne Bilbao Basket,2021,activo
+30000063,Jonathan Rousselle,4,Surne Bilbao Basket,2021,activo
+20210851,Stefan Peno,4,Surne Bilbao Basket,2021,activo
+20200274,Rafa Luz,4,Surne Bilbao Basket,2021,activo
+20211649,Tomeu Rigo,4,Surne Bilbao Basket,2021,activo
+20204133,Álex Reyes,4,Surne Bilbao Basket,2021,activo
+20210498,Ludde Hakanson,4,Surne Bilbao Basket,2021,activo
+30001183,Gytis Masiulis,4,Surne Bilbao Basket,2021,activo
+20212227,David Walker,4,Surne Bilbao Basket,2021,activo
+30000299,Ángel Delgado,4,Surne Bilbao Basket,2021,activo
+30001111,Andrew Goudelock,4,Surne Bilbao Basket,2021,activo
+30001509,Damien Inglis,4,Surne Bilbao Basket,2021,activo
+30000116,Asier Fernández,4,Surne Bilbao Basket,2021,activo
+30000124,G. Basterrechea,4,Surne Bilbao Basket,2021,activo
+30000658,Elvis Ude,4,Surne Bilbao Basket,2021,activo
+30000663,Iker Chacón,4,Surne Bilbao Basket,2021,activo
+30001248,David Monge,4,Surne Bilbao Basket,2021,activo
+30001184,Valentin Bigote,4,Surne Bilbao Basket,2021,baja
+20211756,Álex Galán,4,Surne Bilbao Basket,2021,baja
+30001643,Khyri Thomas,4,Surne Bilbao Basket,2021,baja
+30000893,Regimantas Miniotas,4,Surne Bilbao Basket,2021,baja
+30001250,Sylvain Francisco,10,BAXI Manresa,2021,activo
+30000015,Dani García,10,BAXI Manresa,2021,activo
+30001128,Chima Moneke,10,BAXI Manresa,2021,activo
+20200437,Rafa Martínez,10,BAXI Manresa,2021,activo
+30001214,Elias Valtonen,10,BAXI Manresa,2021,activo
+30001215,Ismael Bako,10,BAXI Manresa,2021,activo
+30000025,Juampi Vaulet,10,BAXI Manresa,2021,activo
+30001127,Joe Thomasson,10,BAXI Manresa,2021,activo
+30001213,Luke Maye,10,BAXI Manresa,2021,activo
+20203826,Dani Pérez,10,BAXI Manresa,2021,activo
+20213230,Yankuba Sima,10,BAXI Manresa,2021,activo
+30000107,Brancou Badio,10,BAXI Manresa,2021,activo
+20212082,Toni Naspler,10,BAXI Manresa,2021,activo
+30000133,Marcis Steinbergs,10,BAXI Manresa,2021,activo
+30000645,Musa Sagnia,10,BAXI Manresa,2021,activo
+20201850,Txemi Urtasun,10,BAXI Manresa,2021,baja
+30001216,Janis Berzins,10,BAXI Manresa,2021,baja
+20210815,Guillem Jou,10,BAXI Manresa,2021,baja
+30000021,Jordan Davis,12,UCAM Murcia,2021,activo
+30000954,James Webb III,12,UCAM Murcia,2021,activo
+20200277,Augusto Lima,12,UCAM Murcia,2021,activo
+20204053,Tomás Bellas,12,UCAM Murcia,2021,activo
+20209892,Rinalds Malmanis,12,UCAM Murcia,2021,activo
+20211263,Nemanja Radovic,12,UCAM Murcia,2021,activo
+20212959,Thad McFadden,12,UCAM Murcia,2021,activo
+20210914,Emanuel Cate,12,UCAM Murcia,2021,activo
+30000962,Isaiah Taylor,12,UCAM Murcia,2021,activo
+20211304,Sadiel Rojas,12,UCAM Murcia,2021,activo
+20212288,Chris Czerapowicz,12,UCAM Murcia,2021,activo
+20201916,Kostas Vasileiadis,12,UCAM Murcia,2021,activo
+30001210,Yigit Mestoglu,12,UCAM Murcia,2021,activo
+30000091,Kareem Queeley,549,Hereda San Pablo Burgos,2021,activo
+30001864,Anthony Clemmons,549,Hereda San Pablo Burgos,2021,activo
+20211605,Maksim Salash,549,Hereda San Pablo Burgos,2021,activo
+20211641,Vitor Benite,549,Hereda San Pablo Burgos,2021,activo
+20204156,Dani Díez,549,Hereda San Pablo Burgos,2021,activo
+30001772,Tarik Phillip,549,Hereda San Pablo Burgos,2021,activo
+20203590,Xavi Rabaseda,549,Hereda San Pablo Burgos,2021,activo
+20212986,Cady Lalanne,549,Hereda San Pablo Burgos,2021,activo
+20210497,Marc Garcia,549,Hereda San Pablo Burgos,2021,activo
+30000066,Jarell Eddie,549,Hereda San Pablo Burgos,2021,activo
+20210271,Alex Renfroe,549,Hereda San Pablo Burgos,2021,activo
+30001219,Landry Nnoko,549,Hereda San Pablo Burgos,2021,activo
+30001331,Gonzalo Corbalán,549,Hereda San Pablo Burgos,2021,activo
+30001224,Aleksej Nikolic,549,Hereda San Pablo Burgos,2021,baja
+30001337,Julian Gamble,549,Hereda San Pablo Burgos,2021,baja
+30001225,Kristian Kullamae,549,Hereda San Pablo Burgos,2021,baja
+30001696,Hayden Dalton,549,Hereda San Pablo Burgos,2021,baja
+30000039,Dejan Kravic,549,Hereda San Pablo Burgos,2021,baja
+30001223,Tyrus Mcgee,549,Hereda San Pablo Burgos,2021,baja
+30001222,Stephen Zack,549,Hereda San Pablo Burgos,2021,baja
+30001126,Suleiman Braimoh,549,Hereda San Pablo Burgos,2021,baja
+30001166,Thomas Scrubb,57,Monbus Obradoiro,2021,activo
+20210941,Viny Okouo,57,Monbus Obradoiro,2021,activo
+30001187,Braydon Hobbs,57,Monbus Obradoiro,2021,activo
+20200483,Albert Oliver,57,Monbus Obradoiro,2021,activo
+30001117,Henry Ellenson,57,Monbus Obradoiro,2021,activo
+30000201,Laurynas Beliauskas,57,Monbus Obradoiro,2021,activo
+30000289,Laurynas Birutis,57,Monbus Obradoiro,2021,activo
+30000058,Phil Scrubb,57,Monbus Obradoiro,2021,activo
+30000287,Kassius Robertson,57,Monbus Obradoiro,2021,activo
+20200282,Álvaro Muñoz,57,Monbus Obradoiro,2021,activo
+20204146,Álex Suárez,57,Monbus Obradoiro,2021,activo
+20209139,Edgar Vicedo,57,Monbus Obradoiro,2021,activo
+30001270,Sergi Huguet,57,Monbus Obradoiro,2021,activo
+30001167,Fernando Zurbriggen,57,Monbus Obradoiro,2021,baja
+30001168,Marko Filipovity,57,Monbus Obradoiro,2021,baja
+20211333,Tobias Borg,28,Lenovo Tenerife,2021,activo
+20212972,Bruno Fitipaldo,28,Lenovo Tenerife,2021,activo
+20201760,Marcelinho Huertas,28,Lenovo Tenerife,2021,activo
+20211597,Sasu Salin,28,Lenovo Tenerife,2021,activo
+20210279,Sergio Rodríguez,28,Lenovo Tenerife,2021,activo
+20203882,Joan Sastre,28,Lenovo Tenerife,2021,activo
+20210659,Giorgi Shermadini,28,Lenovo Tenerife,2021,activo
+20210404,Dejan Todorovic,28,Lenovo Tenerife,2021,activo
+20210828,Emir Sulejmanovic,28,Lenovo Tenerife,2021,activo
+20212949,Kyle Wiltjer,28,Lenovo Tenerife,2021,activo
+20209934,Fran Guerra,28,Lenovo Tenerife,2021,activo
+20212189,Aaron Doornekamp,28,Lenovo Tenerife,2021,activo
+30000130,Danilo Brnovic,28,Lenovo Tenerife,2021,activo
+30001138,Sean Smith,28,Lenovo Tenerife,2021,baja
+30001337,Julian Gamble,28,Lenovo Tenerife,2021,baja
+20204124,Jaime Fernández,28,Lenovo Tenerife,2022,activo
+20212972,Bruno Fitipaldo,28,Lenovo Tenerife,2022,activo
+20201760,Marcelinho Huertas,28,Lenovo Tenerife,2022,activo
+20211597,Sasu Salin,28,Lenovo Tenerife,2022,activo
+20210278,Moussa Diagne,28,Lenovo Tenerife,2022,activo
+20203882,Joan Sastre,28,Lenovo Tenerife,2022,activo
+20210659,Giorgi Shermadini,28,Lenovo Tenerife,2022,activo
+20211625,Tim Abromaitis,28,Lenovo Tenerife,2022,activo
+30001916,Elgin Cook,28,Lenovo Tenerife,2022,activo
+20213026,Leandro Bolmaro,28,Lenovo Tenerife,2022,activo
+20209934,Fran Guerra,28,Lenovo Tenerife,2022,activo
+20212189,Aaron Doornekamp,28,Lenovo Tenerife,2022,activo
+20213099,Diego Fernández,28,Lenovo Tenerife,2022,activo
+30002477,Louis Riga,28,Lenovo Tenerife,2022,activo
+20212973,Dakota Mathias,28,Lenovo Tenerife,2022,baja
+20210279,Sergio Rodríguez,28,Lenovo Tenerife,2022,baja
+20204153,Iván Cruz,28,Lenovo Tenerife,2022,baja
+30002514,Max Heidegger,3,Cazoo Baskonia,2022,activo
+20212239,Sander Raieste,3,Cazoo Baskonia,2022,activo
+20210830,Tadas Sedekerskis,3,Cazoo Baskonia,2022,activo
+30000045,Vanja Marinkovic,3,Cazoo Baskonia,2022,activo
+20204156,Dani Díez,3,Cazoo Baskonia,2022,activo
+30001900,Darius Thompson,3,Cazoo Baskonia,2022,activo
+30001976,Maik Kotsar,3,Cazoo Baskonia,2022,activo
+30000290,Steven Enoch,3,Cazoo Baskonia,2022,activo
+30000032,Matt Costello,3,Cazoo Baskonia,2022,activo
+30000306,Rokas Giedraitis,3,Cazoo Baskonia,2022,activo
+20211887,Arturs Kurucs,3,Cazoo Baskonia,2022,activo
+30001957,Markus Howard,3,Cazoo Baskonia,2022,activo
+30000111,Pavel Savkov,3,Cazoo Baskonia,2022,activo
+30002069,Ousmane Ndiaye,3,Cazoo Baskonia,2022,activo
+30001901,Daulton Hommes,3,Cazoo Baskonia,2022,baja
+30000034,Pierria Henry,3,Cazoo Baskonia,2022,baja
+30001889,Stefan Momirov,25,Río Breogán,2022,activo
+20210685,Sergi García,25,Río Breogán,2022,activo
+20212429,Marko Lukovic,25,Río Breogán,2022,activo
+30001956,Nemanja Nenadic,25,Río Breogán,2022,activo
+30001955,Justus Hollatz,25,Río Breogán,2022,activo
+30001954,Ethan Happ,25,Río Breogán,2022,activo
+30001182,Erik Quintela,25,Río Breogán,2022,activo
+30002606,Nikola Tanaskovic,25,Río Breogán,2022,activo
+30002006,Luka Brajkovic,25,Río Breogán,2022,activo
+30000013,Sergi Quintela,25,Río Breogán,2022,activo
+20200296,Víctor Arteaga,25,Río Breogán,2022,activo
+30001899,Toni Nakic,25,Río Breogán,2022,activo
+20210661,Scott Bamforth,25,Río Breogán,2022,baja
+20210571,Jonathan Kasibabu,25,Río Breogán,2022,baja
+20210224,Fabien Causeur,9,Real Madrid,2022,activo
+20212195,Anthony Randolph,9,Real Madrid,2022,activo
+20201540,Rudy Fernández,9,Real Madrid,2022,activo
+20209836,Adam Hanga,9,Real Madrid,2022,activo
+20210501,Mario Hezonja,9,Real Madrid,2022,activo
+20201730,Sergio Rodríguez,9,Real Madrid,2022,activo
+20212416,Vincent Poirier,9,Real Madrid,2022,activo
+20209407,Edy Tavares,9,Real Madrid,2022,activo
+20201774,Sergio Llull,9,Real Madrid,2022,activo
+30001112,Guerschon Yabusele,9,Real Madrid,2022,activo
+30001170,Dzanan Musa,9,Real Madrid,2022,activo
+30001113,Nigel Williams-Goss,9,Real Madrid,2022,activo
+20213252,Hugo González,9,Real Madrid,2022,activo
+30001229,Eli John Ndiaye,9,Real Madrid,2022,activo
+30002039,Ismaila Diagne,9,Real Madrid,2022,activo
+30002630,Egor Demin,9,Real Madrid,2022,activo
+20210088,Alberto Abalde,9,Real Madrid,2022,baja
+30001953,Petr Cornelie,9,Real Madrid,2022,baja
+20212952,Gabriel Deck,9,Real Madrid,2022,baja
+20201901,Víctor Claver,13,Valencia Basket,2022,activo
+20210392,Josep Puerto,13,Valencia Basket,2022,activo
+20211129,Jaime Pradilla,13,Valencia Basket,2022,activo
+30000954,James Webb III,13,Valencia Basket,2022,activo
+30002048,Chris Jones,13,Valencia Basket,2022,activo
+20212102,Guillem Ferrando,13,Valencia Basket,2022,activo
+30001917,Jonah Radebaugh,13,Valencia Basket,2022,activo
+30001134,Shannon Evans,13,Valencia Basket,2022,activo
+20210254,Bojan Dubljevic,13,Valencia Basket,2022,activo
+30000909,Kyle Alexander,13,Valencia Basket,2022,activo
+30000313,Martin Hermannsson,13,Valencia Basket,2022,activo
+30002061,Jared Harper,13,Valencia Basket,2022,activo
+20212139,Millán Jiménez,13,Valencia Basket,2022,activo
+20213202,Lucas Marí,13,Valencia Basket,2022,activo
+30001258,Gonzalo Bressan,13,Valencia Basket,2022,activo
+30001360,Sergio De Larrea,13,Valencia Basket,2022,activo
+20212954,Klemen Prepelic,13,Valencia Basket,2022,baja
+30000076,Jasiel Rivero,13,Valencia Basket,2022,baja
+20211660,Xabi López-Arostegui,13,Valencia Basket,2022,baja
+20212102,Guillem Ferrando,13,Valencia Basket,2022,baja
+20204111,Sam Van Rossom,13,Valencia Basket,2022,baja
+30001185,Jeff Withey,4,Surne Bilbao Basket,2022,activo
+30002057,Adam Smith,4,Surne Bilbao Basket,2022,activo
+20200250,Sergio Llorente,4,Surne Bilbao Basket,2022,activo
+30001914,Nikola Radicevic,4,Surne Bilbao Basket,2022,activo
+30001983,Denzel Andersson,4,Surne Bilbao Basket,2022,activo
+20211649,Tomeu Rigo,4,Surne Bilbao Basket,2022,activo
+20204133,Álex Reyes,4,Surne Bilbao Basket,2022,activo
+20210828,Emir Sulejmanovic,4,Surne Bilbao Basket,2022,activo
+20203590,Xavi Rabaseda,4,Surne Bilbao Basket,2022,activo
+30001913,Michale Kyser,4,Surne Bilbao Basket,2022,activo
+20210134,Ignacio Rosa,4,Surne Bilbao Basket,2022,activo
+30002108,Georgios Tsalmpouris,4,Surne Bilbao Basket,2022,activo
+20211996,Unai Barandalla,4,Surne Bilbao Basket,2022,activo
+30000658,Elvis Ude,4,Surne Bilbao Basket,2022,activo
+30000663,Iker Chacón,4,Surne Bilbao Basket,2022,activo
+30001332,Agustín Ubal,4,Surne Bilbao Basket,2022,activo
+20210585,Francis Alonso,4,Surne Bilbao Basket,2022,baja
+20210498,Ludde Hakanson,4,Surne Bilbao Basket,2022,baja
+20212243,Olek Balcerowski,5,Gran Canaria,2022,activo
+20212462,Jovan Kljajic,5,Gran Canaria,2022,activo
+30000031,AJ Slaughter,5,Gran Canaria,2022,activo
+20212190,Andrew Albicy,5,Gran Canaria,2022,activo
+20211641,Vitor Benite,5,Gran Canaria,2022,activo
+20212648,Nico Brussino,5,Gran Canaria,2022,activo
+20212441,Miquel Salvó,5,Gran Canaria,2022,activo
+20210670,John Shurna,5,Gran Canaria,2022,activo
+20212905,Khalifa Diop,5,Gran Canaria,2022,activo
+30001224,Aleksej Nikolic,5,Gran Canaria,2022,activo
+20209878,Oliver Stevic,5,Gran Canaria,2022,activo
+30001509,Damien Inglis,5,Gran Canaria,2022,activo
+30000094,Dan Duscak,5,Gran Canaria,2022,activo
+30001193,David Mutaf,5,Gran Canaria,2022,activo
+30002594,Michael Carrera,5,Gran Canaria,2022,baja
+20200243,Ferran Bassas,5,Gran Canaria,2022,baja
+30000132,Rubén López De La Torre,5,Gran Canaria,2022,baja
+30001166,Thomas Scrubb,57,Monbus Obradoiro,2022,activo
+30001167,Fernando Zurbriggen,57,Monbus Obradoiro,2022,activo
+30000915,Leo Westermann,57,Monbus Obradoiro,2022,activo
+30002575,Will Magnay,57,Monbus Obradoiro,2022,activo
+30000058,Phil Scrubb,57,Monbus Obradoiro,2022,activo
+20212227,David Walker,57,Monbus Obradoiro,2022,activo
+30000287,Kassius Robertson,57,Monbus Obradoiro,2022,activo
+20210707,Rubén Guerrero,57,Monbus Obradoiro,2022,activo
+20200282,Álvaro Muñoz,57,Monbus Obradoiro,2022,activo
+20204146,Álex Suárez,57,Monbus Obradoiro,2022,activo
+20209139,Edgar Vicedo,57,Monbus Obradoiro,2022,activo
+20212152,Santi Paz,57,Monbus Obradoiro,2022,activo
+30001998,Marek Blazevic,57,Monbus Obradoiro,2022,activo
+30002091,Fallou Niang,57,Monbus Obradoiro,2022,activo
+30002497,Juan Manuel Bocca,57,Monbus Obradoiro,2022,activo
+30002021,Dragan Bender,57,Monbus Obradoiro,2022,baja
+30001888,Marcus Paige,57,Monbus Obradoiro,2022,baja
+30001994,Thomas Bropleh,592,Coviran Granada,2022,activo
+20209240,Petit Niang,592,Coviran Granada,2022,activo
+20210271,Alex Renfroe,592,Coviran Granada,2022,activo
+20208873,Christian Díaz,592,Coviran Granada,2022,activo
+20209470,Lluís Costa,592,Coviran Granada,2022,activo
+20203675,Pere Tomàs,592,Coviran Granada,2022,activo
+20210716,David Iriarte,592,Coviran Granada,2022,activo
+30000925,Michael Caicedo,592,Coviran Granada,2022,activo
+30001127,Joe Thomasson,592,Coviran Granada,2022,activo
+30001213,Luke Maye,592,Coviran Granada,2022,activo
+30000278,Youssou Ndoye,592,Coviran Granada,2022,activo
+20210493,Jacobo Diaz,592,Coviran Granada,2022,activo
+30002030,Ángel Corpas,592,Coviran Granada,2022,activo
+30002031,Ricky Revelles,592,Coviran Granada,2022,activo
+30002032,Ricardo Martín,592,Coviran Granada,2022,activo
+30002454,Mike Moore,592,Coviran Granada,2022,baja
+20210853,Ramon Vilà,592,Coviran Granada,2022,baja
+20210404,Dejan Todorovic,592,Coviran Granada,2022,baja
+30002113,Prince Ali,592,Coviran Granada,2022,baja
+30002033,Cristiano Felicio,592,Coviran Granada,2022,baja
+20210497,Marc Garcia,17,Carplus Fuenlabrada,2022,activo
+20213018,Rodijs Macoha,17,Carplus Fuenlabrada,2022,activo
+20211841,Osas Ehigiator,17,Carplus Fuenlabrada,2022,activo
+30002524,Mehdy Ngouama,17,Carplus Fuenlabrada,2022,activo
+30001261,Malique Lewis,17,Carplus Fuenlabrada,2022,activo
+30000138,Juan Fernández,17,Carplus Fuenlabrada,2022,activo
+30002008,Lasan Kromah,17,Carplus Fuenlabrada,2022,activo
+30000924,Jovan Novak,17,Carplus Fuenlabrada,2022,activo
+20203835,Christian Eyenga,17,Carplus Fuenlabrada,2022,activo
+30000304,Ken Horton,17,Carplus Fuenlabrada,2022,activo
+30002113,Prince Ali,17,Carplus Fuenlabrada,2022,activo
+20210941,Viny Okouo,17,Carplus Fuenlabrada,2022,activo
+20213102,Bassala Bagayoko,17,Carplus Fuenlabrada,2022,activo
+20213126,Rodrigo Diaz,17,Carplus Fuenlabrada,2022,activo
+20213243,Kaya Mutambirwa,17,Carplus Fuenlabrada,2022,activo
+30001278,Matija Samar,17,Carplus Fuenlabrada,2022,activo
+30002452,Adama Traore,17,Carplus Fuenlabrada,2022,activo
+30002516,Juan Manuel Vaquero,17,Carplus Fuenlabrada,2022,activo
+30002579,Keanu Pinder,17,Carplus Fuenlabrada,2022,baja
+30002343,Jordan Caroline,17,Carplus Fuenlabrada,2022,baja
+20211327,Clevin Hannah,17,Carplus Fuenlabrada,2022,baja
+30000111,Pavel Savkov,17,Carplus Fuenlabrada,2022,baja
+30000054,Jeremy Senglin,17,Carplus Fuenlabrada,2022,baja
+30001145,Dusan Ristic,17,Carplus Fuenlabrada,2022,baja
+20201904,Javi Beirán,17,Carplus Fuenlabrada,2022,baja
+30001950,Oscar Da Silva,2,Barça,2022,activo
+20209098,Oriol Paulí,2,Barça,2022,activo
+30001120,Sertac Sanli,2,Barça,2022,activo
+30001949,Jan Vesely,2,Barça,2022,activo
+20210335,Sergi Martínez,2,Barça,2022,activo
+30000314,Nikola Kalinic,2,Barça,2022,activo
+20202163,Tomas Satoransky,2,Barça,2022,activo
+20211947,Nico Laprovittola,2,Barça,2022,activo
+20209223,Álex Abrines,2,Barça,2022,activo
+20210232,Kyle Kuric,2,Barça,2022,activo
+30001217,Rokas Jokubaitis,2,Barça,2022,activo
+20202101,Nikola Mirotic,2,Barça,2022,activo
+30001353,James Nnaji,2,Barça,2022,activo
+30002439,Dame Sarr,2,Barça,2022,activo
+30002618,Kasparas Jakucionis,2,Barça,2022,activo
+20212399,Mike Tobey,2,Barça,2022,baja
+30000020,Cory Higgins,2,Barça,2022,baja
+30000925,Michael Caicedo,2,Barça,2022,baja
+30001243,Rafael Villar,2,Barça,2022,baja
+20210918,Santi Yusta,16,Casademont Zaragoza,2022,activo
+20211609,Dino Radoncic,16,Casademont Zaragoza,2022,activo
+30001999,Justinian Jessup,16,Casademont Zaragoza,2022,activo
+30002004,Marcel Ponitka,16,Casademont Zaragoza,2022,activo
+20209229,Maodo Nguirane,16,Casademont Zaragoza,2022,activo
+30001853,Christian Mekowulu,16,Casademont Zaragoza,2022,activo
+20210197,Borisa Simanic,16,Casademont Zaragoza,2022,activo
+30002442,Stefan Jovic,16,Casademont Zaragoza,2022,activo
+20212461,Tryggvi Hlinason,16,Casademont Zaragoza,2022,activo
+20204153,Iván Cruz,16,Casademont Zaragoza,2022,activo
+30002036,Howard Sant-Roos,16,Casademont Zaragoza,2022,activo
+30002219,Chris Wright,16,Casademont Zaragoza,2022,activo
+20213218,Lucas Langarita,16,Casademont Zaragoza,2022,activo
+20213226,Aday Mara,16,Casademont Zaragoza,2022,activo
+30002412,Pablo Aso,16,Casademont Zaragoza,2022,activo
+30002590,Miguel Flores,16,Casademont Zaragoza,2022,activo
+20212482,Javi García,16,Casademont Zaragoza,2022,baja
+30000022,Frankie Ferrari,16,Casademont Zaragoza,2022,baja
+30002003,Rihards Lomazs,16,Casademont Zaragoza,2022,baja
+30000053,Tyson Pérez,15,Real Betis Baloncesto,2022,activo
+30001852,BJ Johnson,15,Real Betis Baloncesto,2022,activo
+20212204,Aleksandar Cvetkovic,15,Real Betis Baloncesto,2022,activo
+20204078,Pablo Almazán,15,Real Betis Baloncesto,2022,activo
+30002616,Jeremy Pargo,15,Real Betis Baloncesto,2022,activo
+20210643,Dairis Bertans,15,Real Betis Baloncesto,2022,activo
+20211607,Anzejs Pasecniks,15,Real Betis Baloncesto,2022,activo
+20202155,Eulis Báez,15,Real Betis Baloncesto,2022,activo
+20212411,Luke Fischer,15,Real Betis Baloncesto,2022,activo
+30002005,Amar Sylla,15,Real Betis Baloncesto,2022,activo
+20200279,Pepe Pozas,15,Real Betis Baloncesto,2022,activo
+20212773,Volodymyr Gerun,15,Real Betis Baloncesto,2022,activo
+30000153,Zsombor Maronka,15,Real Betis Baloncesto,2022,activo
+30000514,Jean Montero,15,Real Betis Baloncesto,2022,activo
+30002513,Josh Gray,15,Real Betis Baloncesto,2022,baja
+30001915,Jeremiah Hill,15,Real Betis Baloncesto,2022,baja
+30002108,Georgios Tsalmpouris,15,Real Betis Baloncesto,2022,baja
+20201850,Txemi Urtasun,15,Real Betis Baloncesto,2022,baja
+30000514,Jean Montero,15,Real Betis Baloncesto,2022,baja
+30000479,Yannick Nzosa,15,Real Betis Baloncesto,2022,baja
+30001134,Shannon Evans,15,Real Betis Baloncesto,2022,baja
+20211797,Rodions Kurucs,15,Real Betis Baloncesto,2022,baja
+20211754,Pep Busquets,8,Joventut Badalona,2022,activo
+20200836,Pau Ribas,8,Joventut Badalona,2022,activo
+30002027,Kyle Guy,8,Joventut Badalona,2022,activo
+20212971,Vladimir Brodziansky,8,Joventut Badalona,2022,activo
+30001117,Henry Ellenson,8,Joventut Badalona,2022,activo
+20200247,Albert Ventura,8,Joventut Badalona,2022,activo
+20204158,Guillem Vives,8,Joventut Badalona,2022,activo
+30001114,Andrés Feliz,8,Joventut Badalona,2022,activo
+20212423,Simon Birgander,8,Joventut Badalona,2022,activo
+20212265,Joel Parra,8,Joventut Badalona,2022,activo
+20202172,Ante Tomic,8,Joventut Badalona,2022,activo
+20212073,Miguel Allen,8,Joventut Badalona,2022,activo
+30000095,Yannick Kraag,8,Joventut Badalona,2022,activo
+30001247,Jordi Rodriguez,8,Joventut Badalona,2022,activo
+30002056,Leonardo Okeke,8,Joventut Badalona,2022,activo
+30000153,Zsombor Maronka,8,Joventut Badalona,2022,baja
+30002043,William Howard,8,Joventut Badalona,2022,baja
+30002148,Jarrod Jones,8,Joventut Badalona,2022,baja
+30001997,Maxi Fjellerup,591,Bàsquet Girona,2022,activo
+20211456,Eric Vila,591,Bàsquet Girona,2022,activo
+30001981,Kameron Taylor,591,Bàsquet Girona,2022,activo
+20210139,Pol Figueras,591,Bàsquet Girona,2022,activo
+20202077,Quino Colom,591,Bàsquet Girona,2022,activo
+30002022,Dusan Miletic,591,Bàsquet Girona,2022,activo
+30001915,Jeremiah Hill,591,Bàsquet Girona,2022,activo
+30000112,Ondrej Hanzlik,591,Bàsquet Girona,2022,activo
+20212455,Pato Garino,591,Bàsquet Girona,2022,activo
+20212495,John Jenkins,591,Bàsquet Girona,2022,activo
+20201682,Marc Gasol,591,Bàsquet Girona,2022,activo
+20210852,Jaume Sorolla,591,Bàsquet Girona,2022,activo
+30001980,Roko Prkacin,591,Bàsquet Girona,2022,activo
+20202164,Pierre Oriola,591,Bàsquet Girona,2022,baja
+20203795,Josep Franch,591,Bàsquet Girona,2022,baja
+30002112,Aleksandar Bursac,591,Bàsquet Girona,2022,baja
+30001979,Dylan Osetkowski,14,Unicaja,2022,activo
+30000049,Melvin Ejim,14,Unicaja,2022,activo
+30001169,Tyler Kalinoski,14,Unicaja,2022,activo
+20200191,Jonathan Barreiro,14,Unicaja,2022,activo
+20209919,Darío Brizuela,14,Unicaja,2022,activo
+20209226,Alberto Díaz,14,Unicaja,2022,activo
+30001978,Tyson Carter,14,Unicaja,2022,activo
+20202039,Nihad Djedovic,14,Unicaja,2022,activo
+20211316,Will Thomas,14,Unicaja,2022,activo
+30000023,David Kravish,14,Unicaja,2022,activo
+30001977,Kendrick Perry,14,Unicaja,2022,activo
+20213230,Yankuba Sima,14,Unicaja,2022,activo
+20213207,Ruben Vicente,14,Unicaja,2022,activo
+20213210,Mario Saint-Supery,14,Unicaja,2022,activo
+20200277,Augusto Lima,14,Unicaja,2022,baja
+30002612,Chris Chiozza,12,UCAM Murcia,2022,activo
+20204053,Tomás Bellas,12,UCAM Murcia,2022,activo
+20211263,Nemanja Radovic,12,UCAM Murcia,2022,activo
+20212959,Thad McFadden,12,UCAM Murcia,2022,activo
+20211643,Artem Pustovyi,12,UCAM Murcia,2022,activo
+20212244,Jordan Sakho,12,UCAM Murcia,2022,activo
+20209890,Ilimane Diop,12,UCAM Murcia,2022,activo
+30001896,James Anderson,12,UCAM Murcia,2022,activo
+20203834,David Jelínek,12,UCAM Murcia,2022,activo
+20211304,Sadiel Rojas,12,UCAM Murcia,2022,activo
+20212196,Danilo Nikolic,12,UCAM Murcia,2022,activo
+30002409,Rati Andronikashvili,12,UCAM Murcia,2022,activo
+30000611,Villiam García,12,UCAM Murcia,2022,activo
+30001089,Urban Klavzar,12,UCAM Murcia,2022,activo
+30001879,Travis Trice,12,UCAM Murcia,2022,baja
+30001898,Ryan Luther,12,UCAM Murcia,2022,baja
+30000021,Jordan Davis,12,UCAM Murcia,2022,baja
+30002158,Niels Giffey,12,UCAM Murcia,2022,baja
+20211297,Adam Waczynski,10,BAXI Manresa,2022,activo
+30002017,Jerrick Harding,10,BAXI Manresa,2022,activo
+20210815,Guillem Jou,10,BAXI Manresa,2022,activo
+30000015,Dani García,10,BAXI Manresa,2022,activo
+30000645,Musa Sagnia,10,BAXI Manresa,2022,activo
+30000022,Frankie Ferrari,10,BAXI Manresa,2022,activo
+30000213,Babatunde Olumuyiwa,10,BAXI Manresa,2022,activo
+30000025,Juampi Vaulet,10,BAXI Manresa,2022,activo
+30002443,Martinas Geben,10,BAXI Manresa,2022,activo
+20203826,Dani Pérez,10,BAXI Manresa,2022,activo
+30000107,Brancou Badio,10,BAXI Manresa,2022,activo
+30002444,Devin Robinson,10,BAXI Manresa,2022,activo
+30000133,Marcis Steinbergs,10,BAXI Manresa,2022,activo
+30002117,Ladji Coulibaly,10,BAXI Manresa,2022,activo
+30002262,Matthias Tass,10,BAXI Manresa,2022,baja
+30000053,Tyson Pérez,10,BAXI Manresa,2022,baja
+30000645,Musa Sagnia,10,BAXI Manresa,2022,baja
+30002343,Jordan Caroline,10,BAXI Manresa,2022,baja
+30001214,Elias Valtonen,10,BAXI Manresa,2022,baja
+30002025,Giordano Bortolani,10,BAXI Manresa,2022,baja
+30002112,Aleksandar Bursac,10,BAXI Manresa,2022,baja
+30002024,Marcus Lee,10,BAXI Manresa,2022,baja
+20211648,Justin Hamilton,10,BAXI Manresa,2022,baja
+20210224,Fabien Causeur,9,Real Madrid,2023,activo
+30002039,Ismaila Diagne,9,Real Madrid,2023,activo
+20201540,Rudy Fernández,9,Real Madrid,2023,activo
+20210088,Alberto Abalde,9,Real Madrid,2023,activo
+20211331,Facu Campazzo,9,Real Madrid,2023,activo
+20213252,Hugo González,9,Real Madrid,2023,activo
+20210501,Mario Hezonja,9,Real Madrid,2023,activo
+20210357,Carlos Alocén,9,Real Madrid,2023,activo
+20201730,Sergio Rodríguez,9,Real Madrid,2023,activo
+20212952,Gabriel Deck,9,Real Madrid,2023,activo
+20212416,Vincent Poirier,9,Real Madrid,2023,activo
+20209407,Edy Tavares,9,Real Madrid,2023,activo
+20201774,Sergio Llull,9,Real Madrid,2023,activo
+30001112,Guerschon Yabusele,9,Real Madrid,2023,activo
+30001229,Eli John Ndiaye,9,Real Madrid,2023,activo
+30001170,Dzanan Musa,9,Real Madrid,2023,activo
+30001979,Dylan Osetkowski,14,Unicaja,2023,activo
+30000049,Melvin Ejim,14,Unicaja,2023,activo
+30001169,Tyler Kalinoski,14,Unicaja,2023,activo
+30001981,Kameron Taylor,14,Unicaja,2023,activo
+20200191,Jonathan Barreiro,14,Unicaja,2023,activo
+20209226,Alberto Díaz,14,Unicaja,2023,activo
+30001978,Tyson Carter,14,Unicaja,2023,activo
+20202039,Nihad Djedovic,14,Unicaja,2023,activo
+20200277,Augusto Lima,14,Unicaja,2023,activo
+30002052,Baba Badji,14,Unicaja,2023,activo
+20211316,Will Thomas,14,Unicaja,2023,activo
+30000023,David Kravish,14,Unicaja,2023,activo
+30001977,Kendrick Perry,14,Unicaja,2023,activo
+20213230,Yankuba Sima,14,Unicaja,2023,activo
+20213210,Mario Saint-Supery,14,Unicaja,2023,baja
+20209890,Ilimane Diop,14,Unicaja,2023,baja
+30002057,Adam Smith,4,Surne Bilbao Basket,2023,activo
+30003244,Keith Hornsby,4,Surne Bilbao Basket,2023,activo
+20211996,Unai Barandalla,4,Surne Bilbao Basket,2023,activo
+30001983,Denzel Andersson,4,Surne Bilbao Basket,2023,activo
+30002688,Sacha Killeya-Jones,4,Surne Bilbao Basket,2023,activo
+20211649,Tomeu Rigo,4,Surne Bilbao Basket,2023,activo
+20204133,Álex Reyes,4,Surne Bilbao Basket,2023,activo
+30002687,Thijs De Ridder,4,Surne Bilbao Basket,2023,activo
+20210271,Alex Renfroe,4,Surne Bilbao Basket,2023,activo
+20212357,Melwin Pantzar,4,Surne Bilbao Basket,2023,activo
+20203590,Xavi Rabaseda,4,Surne Bilbao Basket,2023,activo
+20212461,Tryggvi Hlinason,4,Surne Bilbao Basket,2023,activo
+30002108,Georgios Tsalmpouris,4,Surne Bilbao Basket,2023,activo
+30001225,Kristian Kullamae,4,Surne Bilbao Basket,2023,activo
+30001166,Thomas Scrubb,57,Monbus Obradoiro,2023,activo
+30001167,Fernando Zurbriggen,57,Monbus Obradoiro,2023,activo
+20212413,Janis Timma,57,Monbus Obradoiro,2023,activo
+20210139,Pol Figueras,57,Monbus Obradoiro,2023,activo
+30003333,Janis Strelnieks,57,Monbus Obradoiro,2023,activo
+30002816,Pablo Harguindey,57,Monbus Obradoiro,2023,activo
+30003339,Devon Dotson,57,Monbus Obradoiro,2023,activo
+30001998,Marek Blazevic,57,Monbus Obradoiro,2023,activo
+20211643,Artem Pustovyi,57,Monbus Obradoiro,2023,activo
+30002818,Alonso Grela,57,Monbus Obradoiro,2023,activo
+30002655,Rigoberto Mendoza,57,Monbus Obradoiro,2023,activo
+30002497,Juan Manuel Bocca,57,Monbus Obradoiro,2023,activo
+20210707,Rubén Guerrero,57,Monbus Obradoiro,2023,activo
+20200282,Álvaro Muñoz,57,Monbus Obradoiro,2023,activo
+30002703,Tres Tinkle,57,Monbus Obradoiro,2023,activo
+30002872,Oleksandr Kovliar,57,Monbus Obradoiro,2023,activo
+20204146,Álex Suárez,57,Monbus Obradoiro,2023,activo
+30002711,Jordan Howard,57,Monbus Obradoiro,2023,activo
+30001270,Sergi Huguet,57,Monbus Obradoiro,2023,baja
+30002656,Eric Washington,57,Monbus Obradoiro,2023,baja
+30002852,Roko Badzim,57,Monbus Obradoiro,2023,baja
+30001950,Oscar Da Silva,2,Barça,2023,activo
+20209098,Oriol Paulí,2,Barça,2023,activo
+30001949,Jan Vesely,2,Barça,2023,activo
+20209919,Darío Brizuela,2,Barça,2023,activo
+20201871,Ricky Rubio,2,Barça,2023,activo
+30000314,Nikola Kalinic,2,Barça,2023,activo
+20202163,Tomas Satoransky,2,Barça,2023,activo
+20209187,Willy Hernangómez,2,Barça,2023,activo
+20211947,Nico Laprovittola,2,Barça,2023,activo
+20209223,Álex Abrines,2,Barça,2023,activo
+30002721,Jabari Parker,2,Barça,2023,activo
+30001353,James Nnaji,2,Barça,2023,activo
+30001217,Rokas Jokubaitis,2,Barça,2023,activo
+30002439,Dame Sarr,2,Barça,2023,activo
+30002618,Kasparas Jakucionis,2,Barça,2023,activo
+20212265,Joel Parra,2,Barça,2023,activo
+30000925,Michael Caicedo,2,Barça,2023,baja
+20212239,Sander Raieste,3,Baskonia,2023,activo
+30002612,Chris Chiozza,3,Baskonia,2023,activo
+20211976,Joseba Querejeta,3,Baskonia,2023,activo
+20210830,Tadas Sedekerskis,3,Baskonia,2023,activo
+30000045,Vanja Marinkovic,3,Baskonia,2023,activo
+30001133,Codi Miller-McIntyre,3,Baskonia,2023,activo
+20204156,Dani Díez,3,Baskonia,2023,activo
+30002650,Nikos Rogkavopoulos,3,Baskonia,2023,activo
+20212905,Khalifa Diop,3,Baskonia,2023,activo
+30001976,Maik Kotsar,3,Baskonia,2023,activo
+30000032,Matt Costello,3,Baskonia,2023,activo
+30003249,Jordan Theodore,3,Baskonia,2023,activo
+30002867,Vit Hrabar,3,Baskonia,2023,activo
+30001128,Chima Moneke,3,Baskonia,2023,activo
+30001957,Markus Howard,3,Baskonia,2023,activo
+30002653,Nico Mannion,3,Baskonia,2023,baja
+30002042,Dylan Bordón,5,Dreamland Gran Canaria,2023,activo
+30002776,Jakub Urbaniak,5,Dreamland Gran Canaria,2023,activo
+20212462,Jovan Kljajic,5,Dreamland Gran Canaria,2023,activo
+30000031,AJ Slaughter,5,Dreamland Gran Canaria,2023,activo
+20200243,Ferran Bassas,5,Dreamland Gran Canaria,2023,activo
+20212190,Andrew Albicy,5,Dreamland Gran Canaria,2023,activo
+30001980,Roko Prkacin,5,Dreamland Gran Canaria,2023,activo
+20212648,Nico Brussino,5,Dreamland Gran Canaria,2023,activo
+20212441,Miquel Salvó,5,Dreamland Gran Canaria,2023,activo
+30002718,Pierre Pelos,5,Dreamland Gran Canaria,2023,activo
+20210670,John Shurna,5,Dreamland Gran Canaria,2023,activo
+20212438,Sylven Landesberg,5,Dreamland Gran Canaria,2023,activo
+30000132,Rubén López De La Torre,5,Dreamland Gran Canaria,2023,activo
+30003238,Amar Gegic,5,Dreamland Gran Canaria,2023,activo
+30001954,Ethan Happ,5,Dreamland Gran Canaria,2023,activo
+30000062,Ben Lammers,5,Dreamland Gran Canaria,2023,activo
+30001997,Maxi Fjellerup,591,Bàsquet Girona,2023,activo
+20211456,Eric Vila,591,Bàsquet Girona,2023,activo
+30002671,Yves Pons,591,Bàsquet Girona,2023,activo
+30000108,Juani Marcos,591,Bàsquet Girona,2023,activo
+30002577,Pau Sala,591,Bàsquet Girona,2023,activo
+20202077,Quino Colom,591,Bàsquet Girona,2023,activo
+30002719,Gyorgy Goloman,591,Bàsquet Girona,2023,activo
+20210335,Sergi Martínez,591,Bàsquet Girona,2023,activo
+30003290,Khem Birch,591,Bàsquet Girona,2023,activo
+20212234,Kenny Chery,591,Bàsquet Girona,2023,activo
+30002674,Mindaugas Susinskas,591,Bàsquet Girona,2023,activo
+30003343,Gabe York,591,Bàsquet Girona,2023,activo
+20210852,Jaume Sorolla,591,Bàsquet Girona,2023,activo
+30000925,Michael Caicedo,591,Bàsquet Girona,2023,activo
+30002652,Stefan Djordjevic,591,Bàsquet Girona,2023,activo
+30002683,Ike Iroegbu,591,Bàsquet Girona,2023,activo
+30002863,Corey Davis,591,Bàsquet Girona,2023,baja
+30003236,Brae Ivey,591,Bàsquet Girona,2023,baja
+30002666,Markel Brown,591,Bàsquet Girona,2023,baja
+30002036,Howard Sant-Roos,12,UCAM Murcia,2023,activo
+30002651,Troy Caupain,12,UCAM Murcia,2023,activo
+20211263,Nemanja Radovic,12,UCAM Murcia,2023,activo
+30001917,Jonah Radebaugh,12,UCAM Murcia,2023,activo
+30000649,Wilhelm Falk,12,UCAM Murcia,2023,activo
+30002665,Dustin Sleva,12,UCAM Murcia,2023,activo
+20213171,Fabian Flores,12,UCAM Murcia,2023,activo
+20200294,Marko Todorovic,12,UCAM Murcia,2023,activo
+20210278,Moussa Diagne,12,UCAM Murcia,2023,activo
+20210498,Ludde Hakanson,12,UCAM Murcia,2023,activo
+30003347,Yannis Morin,12,UCAM Murcia,2023,activo
+20203834,David Jelínek,12,UCAM Murcia,2023,activo
+20212941,Dylan Ennis,12,UCAM Murcia,2023,activo
+20212423,Simon Birgander,12,UCAM Murcia,2023,activo
+20211887,Arturs Kurucs,12,UCAM Murcia,2023,activo
+20211797,Rodions Kurucs,12,UCAM Murcia,2023,activo
+20212244,Jordan Sakho,12,UCAM Murcia,2023,baja
+20212959,Thad McFadden,12,UCAM Murcia,2023,baja
+30002033,Cristiano Felicio,592,Coviran Granada,2023,activo
+30000063,Jonathan Rousselle,592,Coviran Granada,2023,activo
+30002746,Hugo Megias,592,Coviran Granada,2023,activo
+30000927,Kwan Cheatham,592,Coviran Granada,2023,activo
+20210661,Scott Bamforth,592,Coviran Granada,2023,activo
+30002727,Germán Martínez,592,Coviran Granada,2023,activo
+30001214,Elias Valtonen,592,Coviran Granada,2023,activo
+20208873,Christian Díaz,592,Coviran Granada,2023,activo
+20209470,Lluís Costa,592,Coviran Granada,2023,activo
+20203675,Pere Tomàs,592,Coviran Granada,2023,activo
+20210716,David Iriarte,592,Coviran Granada,2023,activo
+30000004,Jacob Wiley,592,Coviran Granada,2023,activo
+30002716,David Kramer,592,Coviran Granada,2023,activo
+30000296,Malik Dime,592,Coviran Granada,2023,activo
+30003338,Will Barton,592,Coviran Granada,2023,baja
+30001127,Joe Thomasson,592,Coviran Granada,2023,baja
+30002714,Artur Konontsuk,592,Coviran Granada,2023,baja
+30002715,Evaldas Kairys,592,Coviran Granada,2023,baja
+30002717,Yiftach Ziv,592,Coviran Granada,2023,baja
+30002750,Fallou Ndiaye,592,Coviran Granada,2023,baja
+20201901,Víctor Claver,13,Valencia Basket,2023,activo
+20210392,Josep Puerto,13,Valencia Basket,2023,activo
+30002724,Nate Reuvers,13,Valencia Basket,2023,activo
+20211129,Jaime Pradilla,13,Valencia Basket,2023,activo
+30002865,Justin Anderson,13,Valencia Basket,2023,activo
+20211660,Xabi López-Arostegui,13,Valencia Basket,2023,activo
+30002048,Chris Jones,13,Valencia Basket,2023,activo
+30001509,Damien Inglis,13,Valencia Basket,2023,activo
+30002442,Stefan Jovic,13,Valencia Basket,2023,activo
+30002729,Boubacar Touré,13,Valencia Basket,2023,activo
+30003341,Alpha Kaba,13,Valencia Basket,2023,activo
+30000287,Kassius Robertson,13,Valencia Basket,2023,activo
+30000019,Brandon Davies,13,Valencia Basket,2023,activo
+30002811,Semi Ojeleye,13,Valencia Basket,2023,activo
+20211617,Kevin Pangos,13,Valencia Basket,2023,activo
+20213202,Lucas Marí,13,Valencia Basket,2023,activo
+30001360,Sergio De Larrea,13,Valencia Basket,2023,activo
+30002061,Jared Harper,13,Valencia Basket,2023,activo
+30000313,Martin Hermannsson,13,Valencia Basket,2023,baja
+20212102,Guillem Ferrando,13,Valencia Basket,2023,baja
+30002739,Travante Williams,10,BAXI Manresa,2023,activo
+20210815,Guillem Jou,10,BAXI Manresa,2023,activo
+30000015,Dani García,10,BAXI Manresa,2023,activo
+20213406,Max Gaspà,10,BAXI Manresa,2023,activo
+30002740,Brandon Taylor,10,BAXI Manresa,2023,activo
+30000133,Marcis Steinbergs,10,BAXI Manresa,2023,activo
+30000645,Musa Sagnia,10,BAXI Manresa,2023,activo
+30002117,Ladji Coulibaly,10,BAXI Manresa,2023,activo
+30003270,Selom Mawugbe,10,BAXI Manresa,2023,activo
+30000025,Juampi Vaulet,10,BAXI Manresa,2023,activo
+30002443,Martinas Geben,10,BAXI Manresa,2023,activo
+20202164,Pierre Oriola,10,BAXI Manresa,2023,activo
+20203826,Dani Pérez,10,BAXI Manresa,2023,activo
+30000107,Brancou Badio,10,BAXI Manresa,2023,activo
+30002444,Devin Robinson,10,BAXI Manresa,2023,activo
+30001214,Elias Valtonen,10,BAXI Manresa,2023,baja
+30002814,Jonas Zohore,10,BAXI Manresa,2023,baja
+30002698,Anthony Polite,25,Río Breogán,2023,activo
+30003340,Justin Robinson,25,Río Breogán,2023,activo
+30002675,Matej Rudan,25,Río Breogán,2023,activo
+30003233,Ben McLemore,25,Río Breogán,2023,activo
+30002699,Matas Jogela,25,Río Breogán,2023,activo
+30001889,Stefan Momirov,25,Río Breogán,2023,activo
+20210685,Sergi García,25,Río Breogán,2023,activo
+20212244,Jordan Sakho,25,Río Breogán,2023,activo
+30000272,Martynas Sajus,25,Río Breogán,2023,activo
+30000138,Juan Fernández,25,Río Breogán,2023,activo
+30001182,Erik Quintela,25,Río Breogán,2023,activo
+30003328,Rob Gray,25,Río Breogán,2023,activo
+30002700,Mouhamet Diouf,25,Río Breogán,2023,activo
+30000013,Sergi Quintela,25,Río Breogán,2023,activo
+30001899,Toni Nakic,25,Río Breogán,2023,activo
+20200247,Albert Ventura,25,Río Breogán,2023,baja
+30000309,Conner Frankamp,25,Río Breogán,2023,baja
+30002865,Justin Anderson,25,Río Breogán,2023,baja
+30002759,Dimitrios Agravanis,25,Río Breogán,2023,baja
+30002701,Zan Sisko,25,Río Breogán,2023,baja
+30000095,Yannick Kraag,8,Joventut Badalona,2023,activo
+20213146,Pau Majoral,8,Joventut Badalona,2023,activo
+20211754,Pep Busquets,8,Joventut Badalona,2023,activo
+20200836,Pau Ribas,8,Joventut Badalona,2023,activo
+30001226,Ruben Prey,8,Joventut Badalona,2023,activo
+20212971,Vladimir Brodziansky,8,Joventut Badalona,2023,activo
+30001247,Jordi Rodriguez,8,Joventut Badalona,2023,activo
+30002731,Andrew Andrews,8,Joventut Badalona,2023,activo
+20213507,Iker Garmendia,8,Joventut Badalona,2023,activo
+20204158,Guillem Vives,8,Joventut Badalona,2023,activo
+20213414,Ian Platteeuw,8,Joventut Badalona,2023,activo
+20212073,Miguel Allen,8,Joventut Badalona,2023,activo
+30002869,Michael Ruzic,8,Joventut Badalona,2023,activo
+30001114,Andrés Feliz,8,Joventut Badalona,2023,activo
+30002912,Tyler Cook,8,Joventut Badalona,2023,activo
+30002755,Karim López,8,Joventut Badalona,2023,activo
+20202172,Ante Tomic,8,Joventut Badalona,2023,activo
+30001134,Shannon Evans,8,Joventut Badalona,2023,activo
+30002755,Karim López,8,Joventut Badalona,2023,baja
+20211332,Deshaun Thomas,8,Joventut Badalona,2023,baja
+20212234,Kenny Chery,8,Joventut Badalona,2023,baja
+30002730,Chinanu Onuaku,8,Joventut Badalona,2023,baja
+30003241,Isaiah Piñeiro,624,Zunder Palencia,2023,activo
+30002712,Matt Haarms,624,Zunder Palencia,2023,activo
+30003332,Jaylen Hands,624,Zunder Palencia,2023,activo
+20210959,Chumi Ortega,624,Zunder Palencia,2023,activo
+30002691,Keye Van der Vuurst,624,Zunder Palencia,2023,activo
+20211641,Vitor Benite,624,Zunder Palencia,2023,activo
+30002738,Mathieu Kamba,624,Zunder Palencia,2023,activo
+20204069,Manu Rodríguez,624,Zunder Palencia,2023,activo
+30001332,Agustín Ubal,624,Zunder Palencia,2023,activo
+20200293,Chema González,624,Zunder Palencia,2023,activo
+20211607,Anzejs Pasecniks,624,Zunder Palencia,2023,activo
+30000309,Conner Frankamp,624,Zunder Palencia,2023,activo
+30002069,Ousmane Ndiaye,624,Zunder Palencia,2023,activo
+30001847,Yannick Franke,624,Zunder Palencia,2023,baja
+30002862,Greg Whittington,624,Zunder Palencia,2023,baja
+30002690,Brandon Brown,624,Zunder Palencia,2023,baja
+30002676,Tanner Leissner,624,Zunder Palencia,2023,baja
+30000053,Tyson Pérez,22,MoraBanc Andorra,2023,activo
+30000514,Jean Montero,22,MoraBanc Andorra,2023,activo
+20200274,Rafa Luz,22,MoraBanc Andorra,2023,activo
+20210544,Juan Rubio,22,MoraBanc Andorra,2023,activo
+20211333,Tobias Borg,22,MoraBanc Andorra,2023,activo
+20203810,Nacho Llovet,22,MoraBanc Andorra,2023,activo
+30002017,Jerrick Harding,22,MoraBanc Andorra,2023,activo
+20212966,Stan Okoye,22,MoraBanc Andorra,2023,activo
+20210122,Felipe Dos Anjos,22,MoraBanc Andorra,2023,activo
+30003234,Alexander Madsen,22,MoraBanc Andorra,2023,activo
+30001091,Adam Somogyi,22,MoraBanc Andorra,2023,activo
+30002694,Marin Maric,22,MoraBanc Andorra,2023,activo
+30002695,Mihajlo Andric,22,MoraBanc Andorra,2023,activo
+30002677,Markel Starks,22,MoraBanc Andorra,2023,baja
+30001111,Andrew Goudelock,22,MoraBanc Andorra,2023,baja
+20204124,Jaime Fernández,28,Lenovo Tenerife,2023,activo
+20212972,Bruno Fitipaldo,28,Lenovo Tenerife,2023,activo
+20201760,Marcelinho Huertas,28,Lenovo Tenerife,2023,activo
+20211597,Sasu Salin,28,Lenovo Tenerife,2023,activo
+30002027,Kyle Guy,28,Lenovo Tenerife,2023,activo
+20209890,Ilimane Diop,28,Lenovo Tenerife,2023,activo
+20209878,Oliver Stevic,28,Lenovo Tenerife,2023,activo
+20203882,Joan Sastre,28,Lenovo Tenerife,2023,activo
+20210659,Giorgi Shermadini,28,Lenovo Tenerife,2023,activo
+20211625,Tim Abromaitis,28,Lenovo Tenerife,2023,activo
+30001916,Elgin Cook,28,Lenovo Tenerife,2023,activo
+30002830,Mohamed Sangare,28,Lenovo Tenerife,2023,activo
+20203945,Álex López,28,Lenovo Tenerife,2023,activo
+20209934,Fran Guerra,28,Lenovo Tenerife,2023,activo
+20212189,Aaron Doornekamp,28,Lenovo Tenerife,2023,activo
+30002477,Louis Riga,28,Lenovo Tenerife,2023,activo
+20209139,Edgar Vicedo,28,Lenovo Tenerife,2023,activo
+30001145,Dusan Ristic,28,Lenovo Tenerife,2023,baja
+30001171,Trae Bell-Haynes,16,Casademont Zaragoza,2023,activo
+30002409,Rati Andronikashvili,16,Casademont Zaragoza,2023,activo
+20210918,Santi Yusta,16,Casademont Zaragoza,2023,activo
+20213218,Lucas Langarita,16,Casademont Zaragoza,2023,activo
+20212476,Miguel González,16,Casademont Zaragoza,2023,activo
+30002829,Yoanki Mencía,16,Casademont Zaragoza,2023,activo
+30000039,Dejan Kravic,16,Casademont Zaragoza,2023,activo
+30002704,Mark Smith,16,Casademont Zaragoza,2023,activo
+20210828,Emir Sulejmanovic,16,Casademont Zaragoza,2023,activo
+20212959,Thad McFadden,16,Casademont Zaragoza,2023,activo
+30002812,Felipe Minzer,16,Casademont Zaragoza,2023,activo
+20212593,Álex Moreno,16,Casademont Zaragoza,2023,activo
+30002813,Youssouf Traoré,16,Casademont Zaragoza,2023,activo
+30003202,Daniel Muñoz,16,Casademont Zaragoza,2023,activo
+30002843,Mitchell Watt,16,Casademont Zaragoza,2023,activo
+30003336,Finn Delany,16,Casademont Zaragoza,2023,activo
+20212266,Dídac Cuevas,16,Casademont Zaragoza,2023,activo
+20212214,Tomasz Gielo,16,Casademont Zaragoza,2023,baja
+30002815,Andrea Cinciarini,16,Casademont Zaragoza,2023,baja
+30002706,Jahlil Okafor,16,Casademont Zaragoza,2023,baja
+30000293,Obi Emegano,16,Casademont Zaragoza,2023,baja
+20212482,Javi García,16,Casademont Zaragoza,2023,baja
+30002865,Justin Anderson,2,Barça,2024,activo
+30002439,Dame Sarr,2,Barça,2024,activo
+30001949,Jan Vesely,2,Barça,2024,activo
+20209919,Darío Brizuela,2,Barça,2024,activo
+30003392,Chimezie Metu,2,Barça,2024,activo
+20202163,Tomas Satoransky,2,Barça,2024,activo
+20209187,Willy Hernangómez,2,Barça,2024,activo
+30000093,Juan Núñez,2,Barça,2024,activo
+30000037,Youssoupha Fall,2,Barça,2024,activo
+20211947,Nico Laprovittola,2,Barça,2024,activo
+20209223,Álex Abrines,2,Barça,2024,activo
+30002721,Jabari Parker,2,Barça,2024,activo
+20209859,Raul Neto,2,Barça,2024,activo
+30003780,Arturas Butajevas,2,Barça,2024,activo
+20212265,Joel Parra,2,Barça,2024,activo
+30003788,Raúl Villar,2,Barça,2024,activo
+30003361,Kevin Punter,2,Barça,2024,activo
+30002776,Jakub Urbaniak,5,Dreamland Gran Canaria,2024,activo
+20212462,Jovan Kljajic,5,Dreamland Gran Canaria,2024,activo
+30003388,George Conditt IV,5,Dreamland Gran Canaria,2024,activo
+30003377,Caleb Homesley,5,Dreamland Gran Canaria,2024,activo
+20212190,Andrew Albicy,5,Dreamland Gran Canaria,2024,activo
+20212648,Nico Brussino,5,Dreamland Gran Canaria,2024,activo
+20212441,Miquel Salvó,5,Dreamland Gran Canaria,2024,activo
+20210357,Carlos Alocén,5,Dreamland Gran Canaria,2024,activo
+30002718,Pierre Pelos,5,Dreamland Gran Canaria,2024,activo
+20210670,John Shurna,5,Dreamland Gran Canaria,2024,activo
+20212399,Mike Tobey,5,Dreamland Gran Canaria,2024,activo
+30002524,Mehdy Ngouama,5,Dreamland Gran Canaria,2024,activo
+30001127,Joe Thomasson,5,Dreamland Gran Canaria,2024,activo
+30002773,Massamba Diop,5,Dreamland Gran Canaria,2024,activo
+30003398,Harald Frey,4,Surne Bilbao Basket,2024,activo
+30003400,Muhammad-Ali Abdur-Rahkman,4,Surne Bilbao Basket,2024,activo
+20212114,Rubén Domínguez,4,Surne Bilbao Basket,2024,activo
+30000663,Iker Chacón,4,Surne Bilbao Basket,2024,activo
+30002687,Thijs De Ridder,4,Surne Bilbao Basket,2024,activo
+20212214,Tomasz Gielo,4,Surne Bilbao Basket,2024,activo
+30003399,Marvin Jones,4,Surne Bilbao Basket,2024,activo
+20212357,Melwin Pantzar,4,Surne Bilbao Basket,2024,activo
+20203590,Xavi Rabaseda,4,Surne Bilbao Basket,2024,activo
+20210258,Zoran Dragic,4,Surne Bilbao Basket,2024,activo
+20212461,Tryggvi Hlinason,4,Surne Bilbao Basket,2024,activo
+30002005,Amar Sylla,4,Surne Bilbao Basket,2024,activo
+30001225,Kristian Kullamae,4,Surne Bilbao Basket,2024,activo
+30001979,Dylan Osetkowski,14,Unicaja,2024,activo
+20212243,Olek Balcerowski,14,Unicaja,2024,activo
+30000049,Melvin Ejim,14,Unicaja,2024,activo
+30001169,Tyler Kalinoski,14,Unicaja,2024,activo
+30001981,Kameron Taylor,14,Unicaja,2024,activo
+20200191,Jonathan Barreiro,14,Unicaja,2024,activo
+20209226,Alberto Díaz,14,Unicaja,2024,activo
+30001978,Tyson Carter,14,Unicaja,2024,activo
+20202039,Nihad Djedovic,14,Unicaja,2024,activo
+30003424,Killian Tillie,14,Unicaja,2024,activo
+30000023,David Kravish,14,Unicaja,2024,activo
+30001977,Kendrick Perry,14,Unicaja,2024,activo
+20213230,Yankuba Sima,14,Unicaja,2024,activo
+30000053,Tyson Pérez,14,Unicaja,2024,activo
+30000095,Yannick Kraag,8,Joventut Badalona,2024,activo
+30003339,Devon Dotson,8,Joventut Badalona,2024,activo
+20200836,Pau Ribas,8,Joventut Badalona,2024,activo
+30003422,Kaiser Gates,8,Joventut Badalona,2024,activo
+20211643,Artem Pustovyi,8,Joventut Badalona,2024,activo
+20204158,Guillem Vives,8,Joventut Badalona,2024,activo
+30003529,Sam Dekker,8,Joventut Badalona,2024,activo
+20213414,Ian Platteeuw,8,Joventut Badalona,2024,activo
+20213146,Pau Majoral,8,Joventut Badalona,2024,activo
+20212073,Miguel Allen,8,Joventut Badalona,2024,activo
+30002869,Michael Ruzic,8,Joventut Badalona,2024,activo
+30003813,Miye Oni,8,Joventut Badalona,2024,activo
+30000287,Kassius Robertson,8,Joventut Badalona,2024,activo
+20202172,Ante Tomic,8,Joventut Badalona,2024,activo
+20209836,Adam Hanga,8,Joventut Badalona,2024,activo
+20211754,Pep Busquets,8,Joventut Badalona,2024,baja
+30002691,Keye Van der Vuurst,8,Joventut Badalona,2024,baja
+30001171,Trae Bell-Haynes,16,Casademont Zaragoza,2024,activo
+30000031,AJ Slaughter,16,Casademont Zaragoza,2024,activo
+20210918,Santi Yusta,16,Casademont Zaragoza,2024,activo
+20212476,Miguel González,16,Casademont Zaragoza,2024,activo
+30002829,Yoanki Mencía,16,Casademont Zaragoza,2024,activo
+20212348,Jaime Fernández,16,Casademont Zaragoza,2024,activo
+20210254,Bojan Dubljevic,16,Casademont Zaragoza,2024,activo
+30003403,Joaquin Rodriguez,16,Casademont Zaragoza,2024,activo
+20210828,Emir Sulejmanovic,16,Casademont Zaragoza,2024,activo
+20212593,Álex Moreno,16,Casademont Zaragoza,2024,activo
+30003202,Daniel Muñoz,16,Casademont Zaragoza,2024,activo
+30003366,Jilson Bango,16,Casademont Zaragoza,2024,activo
+30001155,Marco Spissu,16,Casademont Zaragoza,2024,activo
+20213218,Lucas Langarita,16,Casademont Zaragoza,2024,baja
+20212593,Álex Moreno,16,Casademont Zaragoza,2024,baja
+30003531,Haydn Ling,16,Casademont Zaragoza,2024,baja
+30002716,David Kramer,28,La Laguna Tenerife,2024,activo
+30003367,Kostas Kostadinov,28,La Laguna Tenerife,2024,activo
+20212972,Bruno Fitipaldo,28,La Laguna Tenerife,2024,activo
+20201760,Marcelinho Huertas,28,La Laguna Tenerife,2024,activo
+30001166,Thomas Scrubb,28,La Laguna Tenerife,2024,activo
+20209890,Ilimane Diop,28,La Laguna Tenerife,2024,activo
+20209470,Lluís Costa,28,La Laguna Tenerife,2024,activo
+20203882,Joan Sastre,28,La Laguna Tenerife,2024,activo
+20210659,Giorgi Shermadini,28,La Laguna Tenerife,2024,activo
+20211625,Tim Abromaitis,28,La Laguna Tenerife,2024,activo
+20209934,Fran Guerra,28,La Laguna Tenerife,2024,activo
+20212189,Aaron Doornekamp,28,La Laguna Tenerife,2024,activo
+30003368,Payton Willis,28,La Laguna Tenerife,2024,baja
+30003418,Santiago Vescovi,10,BAXI Manresa,2024,activo
+20210815,Guillem Jou,10,BAXI Manresa,2024,activo
+20204133,Álex Reyes,10,BAXI Manresa,2024,activo
+30003419,Bodian Massa,10,BAXI Manresa,2024,activo
+30000133,Marcis Steinbergs,10,BAXI Manresa,2024,activo
+30000645,Musa Sagnia,10,BAXI Manresa,2024,activo
+30000109,Ondrej Hustak,10,BAXI Manresa,2024,activo
+20213210,Mario Saint-Supery,10,BAXI Manresa,2024,activo
+30003416,Derrick Alston Jr.,10,BAXI Manresa,2024,activo
+30003415,Cameron Hunt,10,BAXI Manresa,2024,activo
+20213406,Max Gaspà,10,BAXI Manresa,2024,activo
+30003414,Retin Obasohan,10,BAXI Manresa,2024,activo
+20203826,Dani Pérez,10,BAXI Manresa,2024,activo
+20210914,Emanuel Cate,10,BAXI Manresa,2024,activo
+30003417,Chuba Ohams,10,BAXI Manresa,2024,baja
+30003505,Amida Brimah,10,BAXI Manresa,2024,baja
+30000058,Phil Scrubb,657,Leyma Coruña,2024,activo
+30003423,Ingus Jakovics,657,Leyma Coruña,2024,activo
+20210647,Goran Huskic,657,Leyma Coruña,2024,activo
+30003449,Olle Lundqvist,657,Leyma Coruña,2024,activo
+30002740,Brandon Taylor,657,Leyma Coruña,2024,activo
+20211460,Atoumane Diagne,657,Leyma Coruña,2024,activo
+30003485,Santiago Martinez,657,Leyma Coruña,2024,activo
+20210147,Aleix Font,657,Leyma Coruña,2024,activo
+30003435,Yunio Barrueta,657,Leyma Coruña,2024,activo
+20203802,Alex Hernández,657,Leyma Coruña,2024,activo
+20200277,Augusto Lima,657,Leyma Coruña,2024,activo
+20211615,Trey Thompkins,657,Leyma Coruña,2024,activo
+20204145,Beqa Burjanadze,657,Leyma Coruña,2024,activo
+30003479,Omar Thiam,657,Leyma Coruña,2024,activo
+30003389,LJ Figueroa,657,Leyma Coruña,2024,baja
+30003478,Gildas Giménez,9,Real Madrid,2024,activo
+30003476,Declan Duru,9,Real Madrid,2024,activo
+20210088,Alberto Abalde,9,Real Madrid,2024,activo
+20211331,Facu Campazzo,9,Real Madrid,2024,activo
+30003363,Xavier Rathan-Mayes,9,Real Madrid,2024,activo
+20213252,Hugo González,9,Real Madrid,2024,activo
+20210501,Mario Hezonja,9,Real Madrid,2024,activo
+30001170,Dzanan Musa,9,Real Madrid,2024,activo
+20212952,Gabriel Deck,9,Real Madrid,2024,activo
+30003477,Sidi Gueye,9,Real Madrid,2024,activo
+20212174,Usman Garuba,9,Real Madrid,2024,activo
+20203832,Serge Ibaka,9,Real Madrid,2024,activo
+20209407,Edy Tavares,9,Real Madrid,2024,activo
+20201774,Sergio Llull,9,Real Madrid,2024,activo
+30001114,Andrés Feliz,9,Real Madrid,2024,activo
+30001229,Eli John Ndiaye,9,Real Madrid,2024,activo
+20210392,Josep Puerto,13,Valencia Basket,2024,activo
+30002724,Nate Reuvers,13,Valencia Basket,2024,activo
+20211129,Jaime Pradilla,13,Valencia Basket,2024,activo
+30001360,Sergio De Larrea,13,Valencia Basket,2024,activo
+20211660,Xabi López-Arostegui,13,Valencia Basket,2024,activo
+30002048,Chris Jones,13,Valencia Basket,2024,activo
+30000514,Jean Montero,13,Valencia Basket,2024,activo
+20213321,Jorge Carot,13,Valencia Basket,2024,activo
+30002442,Stefan Jovic,13,Valencia Basket,2024,activo
+30001954,Ethan Happ,13,Valencia Basket,2024,activo
+20213202,Lucas Marí,13,Valencia Basket,2024,activo
+30000032,Matt Costello,13,Valencia Basket,2024,activo
+30003505,Amida Brimah,13,Valencia Basket,2024,activo
+30002811,Semi Ojeleye,13,Valencia Basket,2024,activo
+30003405,Nate Sestina,13,Valencia Basket,2024,activo
+30000107,Brancou Badio,13,Valencia Basket,2024,activo
+30003507,Goran Filipovic,13,Valencia Basket,2024,baja
+20212239,Sander Raieste,3,Baskonia,2024,activo
+20211976,Joseba Querejeta,3,Baskonia,2024,activo
+30000111,Pavel Savkov,3,Baskonia,2024,activo
+20210830,Tadas Sedekerskis,3,Baskonia,2024,activo
+30003351,Timothé Luwawu-Cabarrot,3,Baskonia,2024,activo
+20212947,Ognjen Jaramaz,3,Baskonia,2024,activo
+30003408,Trent Forrest,3,Baskonia,2024,activo
+30002650,Nikos Rogkavopoulos,3,Baskonia,2024,activo
+20212905,Khalifa Diop,3,Baskonia,2024,activo
+30002867,Vit Hrabar,3,Baskonia,2024,activo
+30001252,Seydina Faye,3,Baskonia,2024,activo
+30003350,Kamar Baldwin,3,Baskonia,2024,activo
+30003387,Donta Hall,3,Baskonia,2024,activo
+30002069,Ousmane Ndiaye,3,Baskonia,2024,activo
+30001128,Chima Moneke,3,Baskonia,2024,activo
+20212330,Luka Samanic,3,Baskonia,2024,activo
+30001957,Markus Howard,3,Baskonia,2024,activo
+30003811,Chevez Goodwin,658,Hiopos Lleida,2024,activo
+30003406,Corey Walden,658,Hiopos Lleida,2024,activo
+30001994,Thomas Bropleh,658,Hiopos Lleida,2024,activo
+30001243,Rafael Villar,658,Hiopos Lleida,2024,activo
+20209098,Oriol Paulí,658,Hiopos Lleida,2024,activo
+30002691,Keye Van der Vuurst,658,Hiopos Lleida,2024,activo
+30003420,Luka Bozic,658,Hiopos Lleida,2024,activo
+30003503,Edo Muric,658,Hiopos Lleida,2024,activo
+30003234,Alexander Madsen,658,Hiopos Lleida,2024,activo
+30000925,Michael Caicedo,658,Hiopos Lleida,2024,activo
+20202164,Pierre Oriola,658,Hiopos Lleida,2024,activo
+20204140,Kenny Hasbrouck,658,Hiopos Lleida,2024,activo
+30003464,Ferran Mauri,658,Hiopos Lleida,2024,activo
+30003494,Derek Cooke,658,Hiopos Lleida,2024,baja
+30003483,Dee Bost,658,Hiopos Lleida,2024,baja
+20213168,José Tomás Martínez,12,UCAM Murcia,2024,activo
+30000015,Dani García,12,UCAM Murcia,2024,activo
+30002036,Howard Sant-Roos,12,UCAM Murcia,2024,activo
+30002651,Troy Caupain,12,UCAM Murcia,2024,activo
+20211263,Nemanja Radovic,12,UCAM Murcia,2024,activo
+30001917,Jonah Radebaugh,12,UCAM Murcia,2024,activo
+30003488,Joao Neves,12,UCAM Murcia,2024,activo
+20200294,Marko Todorovic,12,UCAM Murcia,2024,activo
+20212971,Vladimir Brodziansky,12,UCAM Murcia,2024,activo
+20210278,Moussa Diagne,12,UCAM Murcia,2024,activo
+20210498,Ludde Hakanson,12,UCAM Murcia,2024,activo
+20211887,Arturs Kurucs,12,UCAM Murcia,2024,activo
+30003817,DJ Stephens,12,UCAM Murcia,2024,activo
+20212941,Dylan Ennis,12,UCAM Murcia,2024,activo
+20212423,Simon Birgander,12,UCAM Murcia,2024,activo
+20211797,Rodions Kurucs,12,UCAM Murcia,2024,activo
+30003359,Nike Sibande,591,Bàsquet Girona,2024,activo
+30001997,Maxi Fjellerup,591,Bàsquet Girona,2024,activo
+20211754,Pep Busquets,591,Bàsquet Girona,2024,activo
+30002671,Yves Pons,591,Bàsquet Girona,2024,activo
+30000108,Juani Marcos,591,Bàsquet Girona,2024,activo
+30003426,Pol Campeny,591,Bàsquet Girona,2024,activo
+20212102,Guillem Ferrando,591,Bàsquet Girona,2024,activo
+30002443,Martinas Geben,591,Bàsquet Girona,2024,activo
+30000138,Juan Fernández,591,Bàsquet Girona,2024,activo
+30003407,Francisco Caffaro,591,Bàsquet Girona,2024,activo
+20210335,Sergi Martínez,591,Bàsquet Girona,2024,activo
+30002674,Mindaugas Susinskas,591,Bàsquet Girona,2024,activo
+20210852,Jaume Sorolla,591,Bàsquet Girona,2024,activo
+30003360,Aljami Durham,591,Bàsquet Girona,2024,activo
+30001353,James Nnaji,591,Bàsquet Girona,2024,activo
+30002683,Ike Iroegbu,591,Bàsquet Girona,2024,activo
+30002043,William Howard,591,Bàsquet Girona,2024,baja
+20200247,Albert Ventura,591,Bàsquet Girona,2024,baja
+30003393,Charlie Moore,25,Río Breogán,2024,activo
+30003818,Dae Dae Grant,25,Río Breogán,2024,activo
+20211456,Eric Vila,25,Río Breogán,2024,activo
+30003430,Edin Atic,25,Río Breogán,2024,activo
+30000194,Dragan Apic,25,Río Breogán,2024,activo
+20212984,Darrun Hilliard,25,Río Breogán,2024,activo
+30003815,John Egbunu,25,Río Breogán,2024,activo
+30003394,Aleksandar Aranitovic,25,Río Breogán,2024,activo
+20212244,Jordan Sakho,25,Río Breogán,2024,activo
+20212431,Dominik Mavra,25,Río Breogán,2024,activo
+30001182,Erik Quintela,25,Río Breogán,2024,activo
+30001091,Adam Somogyi,25,Río Breogán,2024,activo
+30001899,Toni Nakic,25,Río Breogán,2024,activo
+30003412,EJ Onu,25,Río Breogán,2024,baja
+30000021,Jordan Davis,25,Río Breogán,2024,baja
+20200274,Rafa Luz,22,MoraBanc Andorra,2024,activo
+30000213,Babatunde Olumuyiwa,22,MoraBanc Andorra,2024,activo
+30003442,Aaron Ganal,22,MoraBanc Andorra,2024,activo
+20203810,Nacho Llovet,22,MoraBanc Andorra,2024,activo
+30002017,Jerrick Harding,22,MoraBanc Andorra,2024,activo
+20212966,Stan Okoye,22,MoraBanc Andorra,2024,activo
+20210959,Chumi Ortega,22,MoraBanc Andorra,2024,activo
+20200243,Ferran Bassas,22,MoraBanc Andorra,2024,activo
+20210122,Felipe Dos Anjos,22,MoraBanc Andorra,2024,activo
+20210232,Kyle Kuric,22,MoraBanc Andorra,2024,activo
+30001914,Nikola Radicevic,22,MoraBanc Andorra,2024,activo
+30003410,Nikos Chougkaz,22,MoraBanc Andorra,2024,activo
+30000062,Ben Lammers,22,MoraBanc Andorra,2024,activo
+30003411,Sekou Doumbouya,22,MoraBanc Andorra,2024,activo
+30001134,Shannon Evans,22,MoraBanc Andorra,2024,activo
+30000063,Jonathan Rousselle,592,Coviran Granada,2024,activo
+20212977,Gian Clavell,592,Coviran Granada,2024,activo
+20210661,Scott Bamforth,592,Coviran Granada,2024,activo
+20210685,Sergi García,592,Coviran Granada,2024,activo
+30001214,Elias Valtonen,592,Coviran Granada,2024,activo
+30001332,Agustín Ubal,592,Coviran Granada,2024,activo
+20210887,Iván Aurrecoechea,592,Coviran Granada,2024,activo
+30001137,Amine Noua,592,Coviran Granada,2024,activo
+20203675,Pere Tomàs,592,Coviran Granada,2024,activo
+30000004,Jacob Wiley,592,Coviran Granada,2024,activo
+20210707,Rubén Guerrero,592,Coviran Granada,2024,activo
+30003444,Osi Cerdá,592,Coviran Granada,2024,activo
+20209139,Edgar Vicedo,592,Coviran Granada,2024,activo

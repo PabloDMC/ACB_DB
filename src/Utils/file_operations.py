@@ -68,3 +68,24 @@ def ultimo_archivo(directorio,nombre_archivo):
     archivos = glob.glob(os.path.join(directorio, f'{nombre_archivo}_*.csv'))
     archivos_ordenados = sorted(archivos, key=extraer_fecha, reverse=True)
     return archivos_ordenados[0] if archivos_ordenados else None
+
+def cargar_datos_carpeta(directorio):
+    """
+    Lee todos los archivos CSV en el directorio especificado y los carga en un diccionario.
+    Args:
+        directorio (str): Ruta a la carpeta que contiene los archivos CSV.
+    Returns:
+        dict: Un diccionario donde las claves son los nombres de los archivos (sin extensión) 
+              y los valores son DataFrames con los datos de esos archivos.
+    """
+    dataframes = {}
+    for archivo in os.listdir(directorio):
+        if archivo.endswith('.csv'):  # Solo procesar archivos CSV
+            nombre = os.path.splitext(archivo)[0]  # Nombre del archivo sin la extensión
+            ruta_completa = os.path.join(directorio, archivo)
+            try:
+                dataframes[nombre] = pd.read_csv(ruta_completa)
+                print(f"Archivo {archivo} cargado correctamente.")
+            except Exception as e:
+                print(f"Error al cargar {archivo}: {e}")
+    return dataframes

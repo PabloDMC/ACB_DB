@@ -6,8 +6,11 @@ def obtener_id_equipos(id_temporada):
     """
     Obtiene los IDs de los equipos que han jugado en Liga Endesa entre 2020 y 2024.
 
+    Args:
+        id_temporada (int): Año de inicio de la temporada.
+        
     Returns:
-        DataFrame: Un df de IDs y nombres de los equipos.
+        list: Una lista de ID, nombre y temporada de los equipos.
     """
     equipos = []
     id_regex = re.compile(r'/club/plantilla/id/(\d+)')
@@ -27,8 +30,11 @@ def obtener_id_jugadores(equipos):
     """
     Obtiene los IDs de los jugadores que han jugado en Liga Endesa entre 2020 y 2024.
 
+    Args:
+        equipos (list): lista de equipos 
+    
     Returns:
-        DataFrame: Un df de IDs, nombres y temporadas de los jugadores.
+        list: Una lista de ID, nombre, ID del equipo, nombre del equipo y temporada de los jugadores.
     """
     datos_jugadores = []
     for equipo in equipos:

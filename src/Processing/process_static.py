@@ -19,6 +19,7 @@ def main():
                             'nombre_equipo':['Lenovo Tenerife','Dreamland Gran Canaria','Coosur Real Betis'],
                             'id_temporada':[2020,2022,2022]})
                         ])
+    df_equipos.replace({'nombre_equipo':{'Valencia Basket Club':'Valencia Basket'}},inplace=True)
     equipos = df_equipos \
         .replace({'id_temporada':{2020:1,
                                 2021:2,

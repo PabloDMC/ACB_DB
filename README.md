@@ -3,23 +3,17 @@
 ![Python Version](https://img.shields.io/badge/python-3.10-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-`acb_db` is a Python package designed to scrape and manage data from the official ACB (Spanish Basketball League) website. It allows users to keep an up-to-date database of match statistics, player stats, and other relevant data related to the ACB league. The data is stored in a PostgreSQL database, which can be easily updated by running the provided scripts.
+`acb_db` is a Python package designed to scrape and manage data from the official ACB (Spanish Basketball League) website. It allows users to keep an up-to-date database of matches, players, shots and other relevant data related to the ACB league. The data is stored in a PostgreSQL database, which can be easily updated by running the provided scripts.
 
 ## Features
 
 The `acb_db` package offers the following key features:
 
-1. **Round Data Scraping**:  
-   Scrapes match data from the official ACB website, including match statistics, player performance, and more. This is executed per matchday, ensuring the database is always up-to-date.
-
-2. **Data Processing and Dynamic Tables**:  
-   Once match data is scraped, the package processes it and updates dynamic tables in the database, such as match statistics, player stats, etc.
-
-3. **Database Update**:  
-   Updates the database with new match data after each game. It allows users to integrate new match results into their existing database seamlessly.
-
-4. **Modular Workflow**:  
-   The workflow is modular, with distinct scripts for scraping data, processing it, and updating the database. This provides flexibility to run specific tasks as needed.
+- Scrapes data for Liga Endesa, Copa del Rey, and Supercopa.
+- Processes raw data into structured formats for database insertion.
+- Initializes the database and populates static and dynamic tables.
+- Updates the database with new matchday data seamlessly.
+- Modular and automated workflows for easy maintenance.
 
 ## Visual Representation
 
@@ -73,14 +67,61 @@ DB_PORT='your_database_port'
 ```
 
 #### Description of Variables:
-* DB_NAME: The name of the database to connect to.
-* DB_USER: The username with access privileges for the database.
-* DB_PASSWORD: The password associated with the database user.
-* DB_HOST: The host address of the database server (e.g., localhost or a remote IP).
-* DB_PORT: The port number where the database server is running (default for PostgreSQL is 5432).
+* ``DB_NAME``: The name of the database to connect to.
+* ``DB_USER``: The username with access privileges for the database.
+* ``DB_PASSWORD``: The password associated with the database user.
+* ``DB_HOST``: The host address of the database server (e.g., localhost or a remote IP).
+* ``DB_PORT``: The port number where the database server is running (default for PostgreSQL is 5432).
 
 After creating the `.env` file, the application will automatically load these variables during execution to configure the database connection.
 
+## Usage
+
+The `main.py` script serves as the primary entry point for managing the database. It orchestrates two main workflows:
+
+### 1. Initialization (`inicial`)
+
+This mode is used when setting up the database for the first time. It:
+
+1. Scrapes historical data for:
+   * Liga Endesa (2020-2021 to present).
+   * Copa del Rey (2020-2021 to present).
+   * Supercopa (2020-2021 to present).
+2. Processes the raw scraped data to prepare it for the database. This includes:
+   * Cleaning player and team names.
+   * Structuring data into well-defined tables.
+3. Creates the database schema as defined in `schema.sql`.
+4. Populates static tables like:
+`clubes`, `competiciones`, `temporadas`, `equipos`.
+5. Populates dynamic tables like:
+`jugadores`, `jugadores_equipos`, `jornadas`, `partidos`, `tiros`.
+
+```bash
+python main.py inicial
+```
+
+### 2. Update (actualizacion)
+
+This mode is used to update the database with new matchday data. It:
+
+1. Scrapes:
+   * Current player rosters in the league.
+   * Round data for:
+      * A specified round (`--jornada`).
+      * A specified competition (`--competicion`).
+      * A specified season (`--temporada`).
+2. Processes the raw data to:
+   * Clean and normalize team and player names.
+   * Prepare the data for database insertion.
+3. Updates the following dynamic tables in the database:
+`jugadores`, `jugadores_equipos`, `jornadas`, `partidos`, `tiros`.
+
+#### Example Command:
+To update the database with data from round 15 of Liga Endesa in the 2024-2025 season:
+
+```bash
+python main.py actualizacion -j 15 -c "liga_endesa" -t 2023
+```
 ## Using as a Package
 
 This project is configured as an installable package. You can install it locally by running the following command from the root of the project:
@@ -91,9 +132,12 @@ cd ACB_DB
 pip install .
 ```
 
-Once installed, you can import and use the modules in other Python projects. Below are a few examples of how to use the package:
+Once installed, you can import and use the modules in other Python projects. Below is an example of how to use the package:
 
 ### Example: Importing from the Scraping and Presentation modules:
+
+An example could be scraping the shots of a single player in a season to represent them in a shot chart. Below, the `ScraperACB` class from the `acb_db` package is imported to scrape the shots, and the `shot_chart` function is used to create the chart.
+
 ```python
 # Instanciar clase.
 from acb_db.Scraping.scraper import ScraperACB

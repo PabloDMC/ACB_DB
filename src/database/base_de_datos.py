@@ -1,4 +1,5 @@
 import os
+import argparse
 import psycopg2
 from psycopg2 import sql
 from psycopg2.extras import execute_values
@@ -139,38 +140,80 @@ class BaseDeDatos:
             self.connection.close()
             print("Conexión cerrada.")
 
+def main(etapa):
+    """
+    Ejecuta el flujo de trabajo según la etapa especificada.
+    Args:
+        etapa (str): 'inicial' para crear la base de datos desde cero o 'actualizacion' para actualizar tablas existentes.
+    """
+    acb_db = BaseDeDatos()  # Crear una instancia de la conexión a la base de datos
+
+    try:
+        if etapa == "inicial":
+            print("=== Etapa Inicial: Configurando base de datos desde cero ===")
+            
+            # Crear la base de datos y el esquema inicial
+            acb_db.create_database_if_not_exists("src/database/schema.sql")
+            
+            # Cargar y llenar tablas estáticaa
+            with open("data/processed/static_data.pkl", "rb") as f:
+                diccionario_static = pickle.load(f)
+            acb_db.update_table('clubes', diccionario_static['clubes'])
+            acb_db.update_table('competiciones', diccionario_static['competiciones'])
+            acb_db.update_table('temporadas', diccionario_static['temporadas'])
+            acb_db.update_table('equipos', diccionario_static['equipos'])
+
+            # Cargar y llenar tablas dinámicas
+            print("Procesando y rellenando tablas dinámicas...")
+            with open("data/processed/jugadores_equipos.pkl", "rb") as f:
+                diccionario_jugadores_equipos = pickle.load(f)
+            with open("data/processed/dynamic_data.pkl", "rb") as f:
+                diccionario_dynamic = pickle.load(f)
+            
+            acb_db.update_table('jugadores', diccionario_jugadores_equipos['jugadores'])
+            acb_db.update_table('jugadores_equipos', diccionario_jugadores_equipos['jugadores_equipos'])
+            acb_db.update_table('jornadas', diccionario_dynamic['jornadas'])
+            acb_db.update_table('partidos', diccionario_dynamic['partidos'])
+            acb_db.update_table('tiros', diccionario_dynamic['tiros'])
+            
+            # Ejecutar script SQL para el esquema presentation
+            acb_db.ejecutar_script_sql('src/Database/presentation.sql')
+            print("=== Inicialización completada ===")
+        
+        elif etapa == "actualizacion":
+            print("=== Etapa Actualización: Actualizando tablas dinámicas ===")
+            
+            # Cargar datos dinámicos
+            with open("data/processed/jugadores_equipos.pkl", "rb") as f:
+                diccionario_jugadores_equipos = pickle.load(f)
+            with open("data/processed/dynamic_data.pkl", "rb") as f:
+                diccionario_dynamic = pickle.load(f)
+            
+            # Actualizar tablas dinámicas
+            acb_db.update_table('jugadores', diccionario_jugadores_equipos['jugadores'])
+            acb_db.update_table('jugadores_equipos', diccionario_jugadores_equipos['jugadores_equipos'])
+            acb_db.update_table('jornadas', diccionario_dynamic['jornadas'])
+            acb_db.update_table('partidos', diccionario_dynamic['partidos'])
+            acb_db.update_table('tiros', diccionario_dynamic['tiros'])
+            
+            # Ejecutar script SQL para el esquema presentation
+            acb_db.ejecutar_script_sql('src/Database/presentation.sql')
+            print("=== Actualización completada ===")
+        
+        else:
+            print(f"Etapa '{etapa}' no reconocida. Usa 'inicial' o 'actualizacion'.")
+    
+    except Exception as e:
+        print(f"Se produjo un error: {e}")
+    finally:
+        acb_db.close_connection()
+
 if __name__ == "__main__":
-    acb_db = BaseDeDatos()
-    '''
-    acb_db.create_database_if_not_exists("src/database/schema.sql")
-    
-    with open("data/processed/static_data.pkl", "rb") as f:
-        diccionario_static = pickle.load(f)
-    equipos = diccionario_static['equipos']
-    clubes = diccionario_static['clubes']
-    competiciones = diccionario_static['competiciones']
-    temporadas = diccionario_static['temporadas']
-    
-    acb_db.update_table('clubes', clubes)
-    acb_db.update_table('competiciones', competiciones)
-    acb_db.update_table('temporadas', temporadas)
-    acb_db.update_table('equipos', equipos)
-    '''
-    with open("data/processed/jugadores_equipos.pkl", "rb") as f:
-        diccionario_jugadores_equipos = pickle.load(f)
-    with open("data/processed/dynamic_data.pkl", "rb") as f:
-        diccionario_dynamic = pickle.load(f)
-    jugadores = diccionario_jugadores_equipos['jugadores']
-    jugadores_equipos = diccionario_jugadores_equipos['jugadores_equipos']
-    jornadas = diccionario_dynamic['jornadas']
-    partidos = diccionario_dynamic['partidos']
-    tiros = diccionario_dynamic['tiros']
-    
-    acb_db.update_table('jugadores', jugadores)
-    acb_db.update_table('jornadas', jornadas)
-    acb_db.update_table('partidos', partidos)
-    acb_db.update_table('tiros', tiros)
-    acb_db.update_table('jugadores_equipos', jugadores_equipos)
-    
-    acb_db.ejecutar_script_sql('src/Database/presentation.sql')
-    acb_db.close_connection()
+    parser = argparse.ArgumentParser(description="Procesar base de datos de la ACB")
+    parser.add_argument(
+        "etapa",
+        choices=["inicial", "actualizacion"],
+        help="Etapa de operación: 'inicial' para configurar la base de datos o 'actualizacion' para actualizarla."
+    )
+    args = parser.parse_args()
+    main(args.etapa)
