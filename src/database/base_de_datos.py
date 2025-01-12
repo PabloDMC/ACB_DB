@@ -98,6 +98,7 @@ class BaseDeDatos:
     def update_table(self, table_name, new_data):
         """Actualiza la tabla de la base de datos con nuevas filas."""
         try:
+            self.connection = self._connect(self.dbname)
             if self.connection is None:
                 raise RuntimeError("No hay conexión activa a la base de datos.")
             

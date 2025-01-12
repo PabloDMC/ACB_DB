@@ -30,6 +30,8 @@ def flujo_inicial():
     jornadas.id_jornada += 1
     partidos = crear_tabla_partidos(df_raw,jornadas,equipos)
     tiros = crear_tabla_tiros(df_raw,jugadores,equipos,jugadores_equipos)
+    tiros = tiros.reset_index().rename({'index':'id_tiro'},axis=1)
+    tiros.id_tiro +=1
     
     # Se guardan las tablas en un diccionario de dataframes en un archivo pickle
     players_dfs = {"jugadores": jugadores,"jugadores_equipos": jugadores_equipos}
@@ -67,11 +69,11 @@ def flujo_actualizacion(jornada, competicion, temporada):
     jugadores_equipos = actualizar_dataframe(jugadores_equipos_antiguo,jugadores_equipos_nuevo,'id_jugador_equipo')
     jugadores = pd.concat([jugadores_antiguo,jugadores_nuevo],ignore_index=True).drop_duplicates()
     jornadas_nuevo = crear_tabla_jornadas(df_raw)
-    jornadas = actualizar_dataframe(jornadas_antiguo,jornadas_nuevo,'id_jugador_equipo')
+    jornadas = actualizar_dataframe(jornadas_antiguo,jornadas_nuevo,'id_jornada')
     partidos_nuevo = crear_tabla_partidos(df_raw,jornadas,equipos)
-    partidos = actualizar_dataframe(partidos_antiguo,partidos_nuevo,'id_jugador_equipo')
+    partidos = pd.concat([partidos_antiguo,partidos_nuevo],ignore_index=True).drop_duplicates()
     tiros_nuevo = crear_tabla_tiros(df_raw,jugadores,equipos,jugadores_equipos)
-    tiros = actualizar_dataframe(tiros_antiguo,tiros_nuevo,'id_jugador_equipo')
+    tiros = actualizar_dataframe(tiros_antiguo,tiros_nuevo,'id_tiro')
     
     # Se guardan las tablas en un diccionario de dataframes en un archivo pickle
     diccionario_df = {"jugadores": jugadores,"jugadores_equipos": jugadores_equipos}

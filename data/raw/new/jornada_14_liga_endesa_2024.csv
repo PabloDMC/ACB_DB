@@ -1,0 +1,1193 @@
+nombre,x,y,cuarto,tiempo,equipo_local,resultado_local,resultado_visitante,equipo_visitante,descripcion,anotado,id_partido,jornada,temporada,competicion,playoff
+C. Jones,128.22701,224.5,1C,09:46,Valencia Basket,3,0,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+C. Jones,154.957947,190.733333,1C,09:08,Valencia Basket,3,3,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+C. Jones,33.666556,152.666667,1C,06:21,Valencia Basket,11,12,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+C. Jones,35.427389,129.433333,2C,05:28,Valencia Basket,34,35,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+C. Jones,151.267692,107.2,3C,09:51,Valencia Basket,52,43,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+C. Jones,143.175355,226.483333,4C,02:27,Valencia Basket,100,82,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+C. Jones,124.068448,232.45,4C,02:20,Valencia Basket,103,82,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+C. Jones,49.551514,141.533333,4C,00:20,Valencia Basket,107,92,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,107.996168,238.616667,1C,08:31,Valencia Basket,3,8,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,132.291911,215.55,1C,08:27,Valencia Basket,6,8,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,28.515184,258.966667,1C,07:50,Valencia Basket,6,8,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,24.75,258.366667,1C,07:23,Valencia Basket,9,10,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,478.258042,128.15,2C,09:23,Valencia Basket,26,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,115.264286,49.55,2C,09:14,Valencia Basket,26,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,24.75,26.483333,2C,00:40,Valencia Basket,47,41,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,85.273936,152.166667,3C,06:51,Valencia Basket,61,54,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,117.624551,52.183333,3C,01:28,Valencia Basket,74,62,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,44.812252,156.8,3C,00:40,Valencia Basket,76,65,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,94.17176,241.85,4C,08:55,Valencia Basket,81,65,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. Ojeleye,108.164759,234.283333,4C,08:20,Valencia Basket,86,67,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+B. Badio,24.75,157.05,1C,07:47,Valencia Basket,6,8,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+B. Badio,115.676395,54.4,1C,06:55,Valencia Basket,9,10,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+B. Badio,82.894939,249.1,1C,01:21,Valencia Basket,23,24,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+B. Badio,108.370814,236.5,1C,00:59,Valencia Basket,23,24,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+B. Badio,116.444418,51.55,2C,09:30,Valencia Basket,26,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+B. Badio,61.427767,175.25,2C,09:01,Valencia Basket,26,29,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+B. Badio,27.971949,154.85,2C,00:04,Valencia Basket,49,43,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,112.885289,49.65,1C,05:49,Valencia Basket,14,12,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,117.324834,45.883333,1C,05:14,Valencia Basket,14,12,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,32.655014,130.966667,1C,04:23,Valencia Basket,14,14,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,26.623226,129.683333,1C,03:14,Valencia Basket,19,19,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,119.066935,52.266667,2C,06:26,Valencia Basket,34,31,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,37.956244,127.666667,2C,05:24,Valencia Basket,36,35,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,25.630416,149.033333,2C,04:12,Valencia Basket,40,36,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,113.016414,49.283333,3C,08:00,Valencia Basket,59,54,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,139.915941,58.683333,3C,06:58,Valencia Basket,59,54,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+López-Arostegui,26.286045,151.35,4C,08:52,Valencia Basket,83,65,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+S. Jovic,97.187654,124.366667,1C,04:25,Valencia Basket,14,14,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+S. Jovic,25.030984,152.083333,2C,02:32,Valencia Basket,45,39,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+S. Jovic,33.985005,135.966667,4C,06:48,Valencia Basket,90,72,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,145.404494,50.983333,1C,03:31,Valencia Basket,17,19,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,170.842904,160.383333,2C,08:15,Valencia Basket,32,29,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,146.041391,49.9,2C,05:13,Valencia Basket,36,35,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,28.983491,158.316667,3C,04:24,Valencia Basket,64,59,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,24.75,254.95,3C,02:34,Valencia Basket,67,59,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,95.50175,242.85,4C,04:56,Valencia Basket,107,92,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,154.639499,216.566667,4C,03:02,Valencia Basket,100,79,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+N. Sestina,156.362867,86.983333,4C,01:56,Valencia Basket,106,85,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,65.717455,28.516667,1C,00:48,Valencia Basket,23,24,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,27.597304,257.416667,2C,01:51,Valencia Basket,45,39,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,33.029659,124.133333,2C,01:19,Valencia Basket,45,41,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,31.193898,155.6,2C,01:14,Valencia Basket,47,41,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,28.796168,132.55,3C,08:55,Valencia Basket,56,48,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,24.75,141.25,4C,09:23,Valencia Basket,81,65,Hiopos Lleida,Mate,True,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,24.75,141.25,4C,06:31,Valencia Basket,92,72,Hiopos Lleida,Mate,True,104169,14,2024-2025,Liga Endesa,False
+J. Pradilla,122.626064,220.366667,4C,00:00,Valencia Basket,107,92,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+S. De Larrea,152.372895,94.683333,1C,00:20,Valencia Basket,26,26,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+S. De Larrea,154.114995,197.5,2C,08:50,Valencia Basket,29,29,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+S. De Larrea,28.103075,150.783333,3C,04:21,Valencia Basket,64,59,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+S. De Larrea,32.486424,132.116667,3C,04:03,Valencia Basket,64,59,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+S. De Larrea,156.756244,121.483333,3C,03:33,Valencia Basket,67,59,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+J. Puerto,100.990303,41.966667,2C,07:30,Valencia Basket,32,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+J. Puerto,44.587465,28.433333,2C,05:57,Valencia Basket,34,33,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+J. Puerto,31.62474,152.116667,2C,05:03,Valencia Basket,38,35,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+J. Puerto,103.912535,240.2,4C,05:53,Valencia Basket,92,74,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+J. Puerto,24.75,141.25,4C,04:41,Valencia Basket,94,77,Hiopos Lleida,Mate,True,104169,14,2024-2025,Liga Endesa,False
+M. Costello,61.109319,87.0,2C,04:30,Valencia Basket,38,35,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+M. Costello,161.570435,138.616667,2C,03:12,Valencia Basket,43,37,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+M. Costello,48.85842,148.483333,2C,01:33,Valencia Basket,45,41,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+M. Costello,24.75,257.833333,3C,07:16,Valencia Basket,59,54,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+M. Costello,24.75,131.4,3C,06:20,Valencia Basket,63,54,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+M. Costello,28.852365,125.8,3C,05:36,Valencia Basket,63,57,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+A. Brimah,28.852365,151.233333,3C,04:02,Valencia Basket,66,59,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+N. Reuvers,156.044418,140.85,3C,00:21,Valencia Basket,79,65,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+N. Reuvers,27.597304,148.733333,4C,07:48,Valencia Basket,88,70,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,480.15,154.416667,1C,09:32,Valencia Basket,3,0,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,459.862961,142.783333,1C,07:02,Valencia Basket,9,10,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,479.213387,153.266667,1C,04:45,Valencia Basket,14,14,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,476.796925,128.4,1C,01:08,Valencia Basket,23,24,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,345.408846,142.533333,2C,09:46,Valencia Basket,26,29,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,364.834201,212.85,4C,09:31,Valencia Basket,79,65,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+P. Oriola,459.488316,136.483333,4C,08:33,Valencia Basket,83,67,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,479.250851,159.966667,1C,09:29,Valencia Basket,3,2,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,450.028524,140.75,1C,06:40,Valencia Basket,9,12,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,476.703264,152.433333,2C,07:03,Valencia Basket,34,31,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,460.986897,161.416667,2C,06:38,Valencia Basket,34,31,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,480.15,131.75,2C,06:04,Valencia Basket,34,33,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,480.15,26.616667,2C,02:52,Valencia Basket,43,37,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,470.296831,197.85,2C,02:03,Valencia Basket,45,39,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,466.044607,125.483333,2C,00:47,Valencia Basket,47,41,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,477.864664,96.9,3C,00:00,Valencia Basket,79,65,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,399.713671,243.366667,4C,07:32,Valencia Basket,88,70,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+L. Bozic,476.141296,152.833333,4C,07:14,Valencia Basket,88,72,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,392.576679,48.016667,1C,08:55,Valencia Basket,3,6,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,341.868448,138.45,1C,08:07,Valencia Basket,6,8,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,480.15,154.666667,1C,07:38,Valencia Basket,6,10,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,480.15,27.566667,1C,05:32,Valencia Basket,14,12,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,445.888694,66.85,3C,09:34,Valencia Basket,52,45,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,350.054447,118.416667,3C,09:09,Valencia Basket,54,48,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,348.668259,60.45,3C,08:30,Valencia Basket,56,48,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,372.814144,222.2,3C,07:07,Valencia Basket,59,54,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+T. Bropleh,477.00298,131.7,4C,07:58,Valencia Basket,86,70,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+C. Walden,480.15,153.933333,1C,08:49,Valencia Basket,3,8,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+C. Walden,350.766272,165.933333,2C,07:50,Valencia Basket,32,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+C. Walden,459.319726,113.25,2C,04:43,Valencia Basket,38,35,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+C. Walden,472.263718,24.716667,3C,08:08,Valencia Basket,56,54,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+E. Muric,363.579139,81.433333,1C,04:18,Valencia Basket,14,17,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+E. Muric,377.647067,226.966667,1C,02:52,Valencia Basket,19,19,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+E. Muric,340.051419,148.25,3C,06:05,Valencia Basket,63,57,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+E. Muric,460.050284,140.733333,3C,05:09,Valencia Basket,64,57,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+E. Muric,375.024551,220.25,3C,03:37,Valencia Basket,67,59,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+E. Muric,468.891911,160.183333,4C,06:34,Valencia Basket,107,92,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+E. Muric,343.610549,110.866667,4C,05:39,Valencia Basket,92,74,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+E. Muric,378.939593,226.283333,4C,05:14,Valencia Basket,92,77,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+E. Muric,350.429092,229.183333,4C,02:43,Valencia Basket,100,82,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+E. Muric,346.045743,98.316667,4C,01:05,Valencia Basket,106,90,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,421.405629,78.4,1C,03:51,Valencia Basket,14,19,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,327.407143,142.066667,1C,02:19,Valencia Basket,21,22,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,417.134674,245.5,1C,01:39,Valencia Basket,23,22,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,291.459934,137.016667,2C,08:26,Valencia Basket,29,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,386.469962,52.783333,2C,05:21,Valencia Basket,36,35,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,390.722185,49.716667,3C,01:40,Valencia Basket,71,62,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,471.158515,23.716667,3C,01:11,Valencia Basket,74,62,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+Van der Vuurst,366.576301,218.183333,4C,02:07,Valencia Basket,103,85,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+A. Madsen,480.000142,152.6,1C,00:35,Valencia Basket,23,26,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+A. Madsen,478.969868,160.466667,2C,00:00,Valencia Basket,49,43,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+A. Madsen,474.380464,132.4,3C,01:10,Valencia Basket,74,62,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+O. Paulí,469.697398,135.716667,1C,00:04,Valencia Basket,26,26,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+O. Paulí,377.178761,246.016667,3C,02:56,Valencia Basket,67,59,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+K. Hasbrouck,383.060691,61.033333,2C,07:43,Valencia Basket,32,29,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+K. Hasbrouck,367.044607,216.95,3C,08:24,Valencia Basket,56,51,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+K. Hasbrouck,350.916131,101.283333,3C,00:46,Valencia Basket,76,65,Hiopos Lleida,Triple,True,104169,14,2024-2025,Liga Endesa,False
+K. Hasbrouck,381.56211,235.85,3C,00:34,Valencia Basket,76,65,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+K. Hasbrouck,370.622469,233.883333,3C,00:02,Valencia Basket,79,65,Hiopos Lleida,Triple,False,104169,14,2024-2025,Liga Endesa,False
+C. Goodwin,467.318401,152.85,2C,06:07,Valencia Basket,34,31,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+C. Goodwin,461.417739,139.0,2C,05:49,Valencia Basket,34,35,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+C. Goodwin,477.227767,153.016667,2C,03:34,Valencia Basket,40,36,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+C. Goodwin,479.232119,153.5,2C,02:46,Valencia Basket,43,39,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+C. Goodwin,475.560596,129.216667,3C,02:47,Valencia Basket,67,59,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+C. Goodwin,480.15,130.466667,4C,06:11,Valencia Basket,92,74,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+R. Villar,460.312535,139.866667,3C,04:47,Valencia Basket,64,59,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+R. Villar,455.517077,162.033333,3C,02:25,Valencia Basket,67,59,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+R. Villar,465.332781,129.116667,4C,00:55,Valencia Basket,107,92,Hiopos Lleida,Tiro de 2,True,104169,14,2024-2025,Liga Endesa,False
+M. Caicedo,477.2465,78.7,4C,06:14,Valencia Basket,92,72,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+M. Caicedo,435.267502,140.2,4C,03:52,Valencia Basket,96,77,Hiopos Lleida,Tiro de 2,False,104169,14,2024-2025,Liga Endesa,False
+M. Caicedo,480.15,141.25,4C,01:39,Valencia Basket,106,87,Hiopos Lleida,Mate,True,104169,14,2024-2025,Liga Endesa,False
+A. Tomic,58.524267,150.6,1C,09:45,Joventut Badalona,0,0,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,30.032498,152.466667,1C,06:50,Joventut Badalona,8,7,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,44.624929,133.166667,2C,09:10,Joventut Badalona,17,22,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,74.034579,169.7,2C,07:24,Joventut Badalona,19,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,32.486424,161.716667,2C,04:25,Joventut Badalona,26,29,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,30.950378,123.866667,2C,03:21,Joventut Badalona,28,35,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,36.214144,147.366667,2C,02:20,Joventut Badalona,33,37,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,37.937512,165.316667,4C,01:54,Joventut Badalona,82,74,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,26.866746,133.283333,4C,01:23,Joventut Badalona,82,74,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Tomic,49.982356,111.816667,4C,01:15,Joventut Badalona,82,74,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,24.75,257.833333,1C,09:16,Joventut Badalona,0,0,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,25.686613,131.866667,1C,07:36,Joventut Badalona,6,5,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,28.384059,136.566667,1C,04:08,Joventut Badalona,10,10,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,94.902318,245.6,2C,05:10,Joventut Badalona,26,27,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,41.81509,27.666667,3C,01:25,Joventut Badalona,64,58,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,147.015468,195.2,3C,00:06,Joventut Badalona,66,58,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,27.128997,133.983333,4C,07:10,Joventut Badalona,73,60,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,78.043283,254.533333,4C,06:24,Joventut Badalona,73,62,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,24.75,141.25,4C,05:18,Joventut Badalona,78,65,Dreamland GC,Mate,True,104170,14,2024-2025,Liga Endesa,False
+Y. Kraag,25.724078,131.583333,4C,02:32,Joventut Badalona,82,71,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,27.541107,132.266667,1C,08:41,Joventut Badalona,2,3,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,74.203169,174.1,1C,07:10,Joventut Badalona,6,7,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,121.558325,235.55,1C,06:23,Joventut Badalona,8,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,142.80071,206.15,1C,05:14,Joventut Badalona,8,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,26.098723,152.4,3C,08:55,Joventut Badalona,40,46,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,27.634768,130.8,4C,08:40,Joventut Badalona,69,58,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,107.490397,240.0,4C,07:28,Joventut Badalona,71,60,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+D. Dotson,137.705535,76.566667,4C,00:31,Joventut Badalona,85,76,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,146.28491,64.333333,1C,06:01,Joventut Badalona,8,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,40.147919,170.866667,2C,06:07,Joventut Badalona,23,25,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,36.083018,120.366667,2C,05:25,Joventut Badalona,23,27,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,49.570246,255.966667,2C,03:28,Joventut Badalona,26,35,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,24.75,141.25,2C,00:30,Joventut Badalona,38,42,Dreamland GC,Mate,True,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,149.169678,86.383333,4C,09:16,Joventut Badalona,67,58,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,33.460501,147.533333,4C,08:09,Joventut Badalona,71,58,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Hanga,94.846121,134.233333,4C,00:45,Joventut Badalona,82,76,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Pustovyi,31.250095,68.166667,1C,04:58,Joventut Badalona,8,10,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Pustovyi,26.960407,168.7,1C,04:11,Joventut Badalona,8,10,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Pustovyi,39.379896,132.466667,3C,08:18,Joventut Badalona,42,49,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+A. Pustovyi,31.006575,129.266667,3C,07:42,Joventut Badalona,42,49,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+A. Pustovyi,39.717077,128.3,3C,00:49,Joventut Badalona,66,58,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,26.791816,203.633333,1C,03:21,Joventut Badalona,12,10,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,91.361921,245.783333,1C,00:31,Joventut Badalona,12,17,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,106.834768,51.466667,2C,01:02,Joventut Badalona,36,40,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,104.212252,36.333333,2C,00:00,Joventut Badalona,38,45,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,148.476585,137.8,3C,07:05,Joventut Badalona,42,49,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,49.963623,256.866667,3C,06:34,Joventut Badalona,42,52,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,26.192384,258.433333,3C,05:44,Joventut Badalona,47,54,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,24.75,141.25,3C,03:54,Joventut Badalona,52,54,Dreamland GC,Mate,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,76.563434,234.883333,3C,03:05,Joventut Badalona,55,54,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,171.760785,122.133333,3C,02:32,Joventut Badalona,58,56,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,151.00544,222.733333,4C,05:53,Joventut Badalona,76,65,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+S. Dekker,112.192195,241.616667,4C,02:40,Joventut Badalona,80,71,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,183.880558,130.216667,1C,02:33,Joventut Badalona,12,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,124.012252,53.383333,1C,00:12,Joventut Badalona,15,18,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,25.630416,131.8,2C,08:43,Joventut Badalona,17,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,28.421523,134.266667,2C,07:53,Joventut Badalona,19,25,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,172.285289,131.366667,2C,02:38,Joventut Badalona,31,35,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,125.454636,228.35,2C,01:31,Joventut Badalona,33,40,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,108.726727,43.233333,3C,04:49,Joventut Badalona,50,54,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,66.410549,110.683333,3C,02:37,Joventut Badalona,55,56,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,167.48983,139.5,3C,02:01,Joventut Badalona,61,56,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,159.884532,153.383333,3C,00:24,Joventut Badalona,66,58,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,119.85369,234.5,4C,03:11,Joventut Badalona,80,69,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,70.98122,127.9,4C,01:49,Joventut Badalona,82,74,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+K. Robertson,80.928051,128.8,4C,00:05,Joventut Badalona,89,76,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+G. Vives,118.598628,226.833333,1C,01:12,Joventut Badalona,12,14,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+G. Vives,24.75,37.966667,2C,06:45,Joventut Badalona,21,25,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+G. Vives,131.074314,56.6,4C,00:00,Joventut Badalona,89,78,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+P. Ribas,110.169111,53.85,2C,05:19,Joventut Badalona,23,27,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,465.595033,72.166667,1C,09:25,Joventut Badalona,0,0,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,337.728619,189.566667,1C,07:44,Joventut Badalona,4,5,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,462.316887,171.75,2C,06:23,Joventut Badalona,21,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,480.15,133.733333,2C,05:49,Joventut Badalona,23,27,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,475.691722,163.166667,2C,04:40,Joventut Badalona,26,27,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,474.211873,152.433333,2C,04:38,Joventut Badalona,26,29,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,474.923699,152.216667,2C,02:33,Joventut Badalona,31,37,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,480.15,262.1,2C,01:51,Joventut Badalona,33,40,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,472.451041,25.9,3C,08:36,Joventut Badalona,40,49,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,338.758893,144.716667,3C,08:04,Joventut Badalona,42,49,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,345.221523,210.333333,4C,04:59,Joventut Badalona,78,65,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,387.818685,227.283333,4C,01:45,Joventut Badalona,82,74,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+N. Brussino,364.740539,79.733333,4C,00:17,Joventut Badalona,86,76,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+J. Kljajic,469.191627,262.016667,1C,09:05,Joventut Badalona,0,0,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+J. Kljajic,406.157569,177.683333,1C,07:25,Joventut Badalona,6,7,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+J. Kljajic,471.177247,257.55,1C,07:02,Joventut Badalona,6,7,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+J. Kljajic,454.655393,120.716667,2C,07:36,Joventut Badalona,19,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+J. Kljajic,425.920104,147.5,2C,07:02,Joventut Badalona,19,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+J. Kljajic,466.962488,151.166667,3C,05:53,Joventut Badalona,44,54,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+P. Pelos,417.996358,37.333333,1C,08:54,Joventut Badalona,0,3,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+P. Pelos,333.944702,157.916667,1C,06:10,Joventut Badalona,8,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+P. Pelos,340.931835,155.733333,3C,06:50,Joventut Badalona,42,52,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+P. Pelos,480.15,21.2,3C,04:01,Joventut Badalona,50,54,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+P. Pelos,465.669962,124.1,4C,03:32,Joventut Badalona,80,69,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+P. Pelos,473.593709,147.55,4C,01:08,Joventut Badalona,82,76,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,400.388032,135.7,1C,08:20,Joventut Badalona,2,5,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,369.348675,54.583333,1C,06:33,Joventut Badalona,8,10,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,370.397682,54.483333,1C,04:31,Joventut Badalona,8,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,475.298344,156.766667,2C,01:08,Joventut Badalona,33,40,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,442.966462,152.6,3C,01:48,Joventut Badalona,61,58,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,366.276585,82.133333,3C,00:34,Joventut Badalona,66,58,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,341.437606,180.183333,4C,07:18,Joventut Badalona,71,60,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+M. Tobey,480.15,141.25,4C,04:36,Joventut Badalona,78,67,Dreamland GC,Mate,True,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,343.029849,163.6,1C,03:51,Joventut Badalona,10,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,460.462394,139.166667,3C,06:17,Joventut Badalona,42,54,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,339.433254,153.383333,3C,05:27,Joventut Badalona,47,54,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,385.514617,235.066667,3C,05:11,Joventut Badalona,47,54,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,427.175166,49.016667,3C,04:27,Joventut Badalona,50,54,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,407.24404,161.933333,4C,08:28,Joventut Badalona,69,58,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,469.884721,148.766667,4C,07:49,Joventut Badalona,71,60,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,469.116698,120.616667,4C,06:45,Joventut Badalona,73,62,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+C. Alocén,362.567597,212.55,4C,02:25,Joventut Badalona,82,74,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+J. Thomasson,459.525781,25.816667,1C,02:54,Joventut Badalona,12,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+J. Thomasson,374.312725,53.183333,1C,02:06,Joventut Badalona,12,10,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+J. Thomasson,425.133349,252.666667,3C,01:06,Joventut Badalona,64,58,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+J. Thomasson,266.770814,99.683333,3C,00:00,Joventut Badalona,67,58,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+G. Conditt,480.15,141.25,1C,01:55,Joventut Badalona,12,12,Dreamland GC,Mate,True,104170,14,2024-2025,Liga Endesa,False
+G. Conditt,480.15,141.25,1C,00:00,Joventut Badalona,15,20,Dreamland GC,Mate,True,104170,14,2024-2025,Liga Endesa,False
+G. Conditt,474.024551,132.9,2C,08:12,Joventut Badalona,17,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+G. Conditt,436.447635,141.383333,4C,03:56,Joventut Badalona,80,67,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+M. Salvó,460.724645,116.183333,1C,00:44,Joventut Badalona,12,17,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,453.568921,177.033333,2C,09:36,Joventut Badalona,15,22,Dreamland GC,Tiro de 2,True,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,344.996736,168.283333,2C,08:55,Joventut Badalona,17,25,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,478.782545,167.2,2C,08:25,Joventut Badalona,17,25,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,395.23666,240.45,2C,08:17,Joventut Badalona,17,25,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,381.56211,49.766667,2C,00:07,Joventut Badalona,38,45,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,371.727673,220.733333,3C,03:30,Joventut Badalona,52,54,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,465.595033,137.05,3C,02:09,Joventut Badalona,58,56,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,436.110454,178.5,4C,09:41,Joventut Badalona,67,58,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,412.020766,168.35,4C,09:30,Joventut Badalona,67,58,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,398.458609,46.45,4C,06:17,Joventut Badalona,73,65,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,424.290397,181.483333,4C,05:27,Joventut Badalona,76,65,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,435.923132,139.766667,4C,05:23,Joventut Badalona,76,65,Dreamland GC,Tiro de 2,False,104170,14,2024-2025,Liga Endesa,False
+C. Homesley,321.431552,152.65,4C,00:28,Joventut Badalona,85,76,Dreamland GC,Triple,False,104170,14,2024-2025,Liga Endesa,False
+A. Albicy,337.747351,115.683333,2C,04:17,Joventut Badalona,26,32,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+A. Albicy,334.900047,131.483333,2C,03:41,Joventut Badalona,26,35,Dreamland GC,Triple,True,104170,14,2024-2025,Liga Endesa,False
+Z. Dragic,33.572895,129.933333,1C,09:47,Surne Bilbao Basket,0,0,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,25.724078,133.416667,1C,08:06,Surne Bilbao Basket,7,6,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,24.75,40.216667,1C,07:11,Surne Bilbao Basket,9,8,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,140.328051,66.35,2C,05:52,Surne Bilbao Basket,26,21,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,151.099101,85.95,2C,04:55,Surne Bilbao Basket,31,23,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,31.606008,152.15,2C,04:16,Surne Bilbao Basket,31,23,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,24.75,129.933333,2C,03:32,Surne Bilbao Basket,31,25,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,167.752081,189.6,2C,03:21,Surne Bilbao Basket,33,25,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,33.067124,151.7,3C,08:12,Surne Bilbao Basket,45,31,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,159.434957,140.8,3C,05:25,Surne Bilbao Basket,51,36,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,147.671097,59.366667,4C,09:40,Surne Bilbao Basket,62,52,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,53.635147,27.566667,4C,06:17,Surne Bilbao Basket,66,56,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,53.635147,111.183333,4C,06:12,Surne Bilbao Basket,66,56,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,96.738079,38.883333,4C,01:54,Surne Bilbao Basket,76,64,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+Z. Dragic,27.203926,26.7,4C,01:27,Surne Bilbao Basket,79,66,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+H. Frey,30.63193,142.566667,1C,09:16,Surne Bilbao Basket,2,2,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+H. Frey,134.446121,61.983333,1C,08:41,Surne Bilbao Basket,5,4,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+H. Frey,172.641202,201.366667,1C,03:37,Surne Bilbao Basket,12,13,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+H. Frey,149.637985,200.05,1C,03:10,Surne Bilbao Basket,12,13,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+H. Frey,25.237039,142.566667,1C,02:35,Surne Bilbao Basket,14,15,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+H. Frey,150.612062,186.116667,2C,06:32,Surne Bilbao Basket,23,21,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+H. Frey,142.781977,84.633333,2C,06:28,Surne Bilbao Basket,23,21,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+H. Frey,163.837039,200.483333,2C,00:05,Surne Bilbao Basket,40,31,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+H. Frey,120.247067,59.8,3C,07:15,Surne Bilbao Basket,48,31,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+Abdur-Rahkman,160.896074,155.2,1C,06:46,Surne Bilbao Basket,12,8,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+Abdur-Rahkman,128.077152,215.3,2C,07:13,Surne Bilbao Basket,23,19,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+Abdur-Rahkman,128.077152,232.266667,3C,08:23,Surne Bilbao Basket,45,31,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+M. Jones,48.258988,139.083333,1C,05:01,Surne Bilbao Basket,12,10,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+M. Jones,24.75,132.1,3C,01:29,Surne Bilbao Basket,58,45,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+M. Jones,107.996168,124.25,4C,08:32,Surne Bilbao Basket,62,56,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,146.209981,211.816667,1C,04:24,Surne Bilbao Basket,12,10,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,100.653122,174.8,1C,00:51,Surne Bilbao Basket,19,17,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,24.75,141.25,2C,09:16,Surne Bilbao Basket,23,17,MoraBanc Andorra,Mate,True,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,162.862961,153.883333,2C,07:38,Surne Bilbao Basket,23,19,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,163.837039,178.283333,2C,01:26,Surne Bilbao Basket,36,29,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,29.657852,131.666667,2C,00:36,Surne Bilbao Basket,40,29,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,48.258988,151.266667,3C,05:13,Surne Bilbao Basket,51,36,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,25.724078,132.533333,3C,04:34,Surne Bilbao Basket,53,38,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,27.203926,128.183333,3C,04:00,Surne Bilbao Basket,54,40,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,26.211116,134.266667,3C,00:40,Surne Bilbao Basket,60,49,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,31.118969,71.116667,4C,04:11,Surne Bilbao Basket,69,60,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+M. Pantzar,156.493992,132.966667,4C,02:26,Surne Bilbao Basket,73,62,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. De Ridder,93.310076,38.466667,1C,01:56,Surne Bilbao Basket,14,17,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. De Ridder,88.907994,245.35,1C,00:16,Surne Bilbao Basket,19,17,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. De Ridder,24.75,148.666667,2C,09:43,Surne Bilbao Basket,21,17,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+T. De Ridder,88.420956,248.816667,4C,09:05,Surne Bilbao Basket,62,54,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. De Ridder,40.428903,153.866667,4C,08:09,Surne Bilbao Basket,64,56,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+R. Domínguez,133.472044,62.416667,2C,08:32,Surne Bilbao Basket,23,17,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+R. Domínguez,127.103075,61.116667,2C,07:48,Surne Bilbao Basket,23,19,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+R. Domínguez,157.955109,85.5,2C,06:45,Surne Bilbao Basket,23,21,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+R. Domínguez,28.665043,25.833333,3C,01:08,Surne Bilbao Basket,58,47,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,96.738079,38.9,2C,03:51,Surne Bilbao Basket,31,25,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,45.318023,140.816667,2C,02:42,Surne Bilbao Basket,33,25,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,113.878098,42.383333,2C,00:54,Surne Bilbao Basket,36,29,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,25.237039,153.433333,3C,07:33,Surne Bilbao Basket,47,31,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,80.572138,250.566667,3C,07:05,Surne Bilbao Basket,51,31,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,86.941107,35.85,3C,05:57,Surne Bilbao Basket,51,36,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,132.985005,63.283333,4C,05:25,Surne Bilbao Basket,66,58,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,134.446121,206.566667,4C,04:54,Surne Bilbao Basket,69,60,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,34.059934,162.583333,4C,03:30,Surne Bilbao Basket,72,62,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+T. Gielo,143.756055,84.183333,4C,00:05,Surne Bilbao Basket,82,74,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+T. Hlinason,24.75,141.25,2C,03:28,Surne Bilbao Basket,33,25,MoraBanc Andorra,Mate,True,104171,14,2024-2025,Liga Endesa,False
+T. Hlinason,26.211116,135.6,2C,02:54,Surne Bilbao Basket,33,25,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+T. Hlinason,24.75,141.25,3C,09:40,Surne Bilbao Basket,42,31,MoraBanc Andorra,Mate,True,104171,14,2024-2025,Liga Endesa,False
+T. Hlinason,39.436093,134.266667,3C,09:09,Surne Bilbao Basket,44,31,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+T. Hlinason,24.75,141.25,4C,00:59,Surne Bilbao Basket,81,69,MoraBanc Andorra,Mate,True,104171,14,2024-2025,Liga Endesa,False
+X. Rabaseda,26.211116,122.95,3C,02:41,Surne Bilbao Basket,54,41,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+X. Rabaseda,232.397114,231.4,3C,00:00,Surne Bilbao Basket,62,52,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,371.427956,108.15,1C,09:34,Surne Bilbao Basket,0,2,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,450.759082,57.633333,1C,09:06,Surne Bilbao Basket,2,4,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,434.611873,59.816667,1C,07:26,Surne Bilbao Basket,9,8,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,450.272044,219.216667,1C,06:34,Surne Bilbao Basket,12,8,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,478.183113,129.066667,1C,04:45,Surne Bilbao Basket,12,10,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,464.471097,102.5,2C,06:13,Surne Bilbao Basket,23,21,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,398.364948,149.966667,2C,04:34,Surne Bilbao Basket,31,23,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,480.15,149.95,3C,06:51,Surne Bilbao Basket,51,33,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,391.50894,130.35,4C,08:52,Surne Bilbao Basket,62,56,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+B. Lammers,412.076963,200.916667,4C,07:45,Surne Bilbao Basket,64,56,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,456.153974,128.633333,1C,08:29,Surne Bilbao Basket,5,4,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,468.404872,141.25,1C,08:27,Surne Bilbao Basket,5,6,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,437.534106,26.716667,2C,05:14,Surne Bilbao Basket,28,23,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,478.183113,21.916667,2C,03:07,Surne Bilbao Basket,33,25,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,477.696074,184.816667,2C,02:15,Surne Bilbao Basket,34,27,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,427.250095,250.15,2C,01:19,Surne Bilbao Basket,36,29,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,468.891911,127.75,2C,00:28,Surne Bilbao Basket,40,31,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+F. Bassas,375.342999,69.816667,3C,07:58,Surne Bilbao Basket,45,31,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,356.741864,200.933333,1C,07:03,Surne Bilbao Basket,9,8,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,349.885856,195.266667,1C,04:00,Surne Bilbao Basket,12,13,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+J. Harding,398.851987,96.4,1C,03:26,Surne Bilbao Basket,12,13,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,450.272044,164.783333,1C,02:12,Surne Bilbao Basket,14,17,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+J. Harding,343.516887,159.116667,2C,07:29,Surne Bilbao Basket,23,19,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,477.696074,156.933333,2C,07:20,Surne Bilbao Basket,23,19,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,477.209035,143.866667,2C,07:07,Surne Bilbao Basket,23,21,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+J. Harding,477.696074,96.833333,2C,05:34,Surne Bilbao Basket,26,23,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+J. Harding,370.940918,66.35,2C,04:25,Surne Bilbao Basket,31,23,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,477.696074,144.3,2C,03:39,Surne Bilbao Basket,31,25,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,474.26807,131.666667,3C,09:51,Surne Bilbao Basket,40,31,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,470.840066,199.6,3C,09:03,Surne Bilbao Basket,44,31,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,473.781031,164.766667,3C,09:00,Surne Bilbao Basket,44,31,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,446.357001,133.4,3C,07:23,Surne Bilbao Basket,48,31,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,462.522942,47.166667,3C,06:22,Surne Bilbao Basket,51,36,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+J. Harding,480.15,180.45,4C,09:26,Surne Bilbao Basket,62,54,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+J. Harding,475.747919,24.083333,4C,07:25,Surne Bilbao Basket,64,56,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+J. Harding,355.262015,102.05,4C,00:51,Surne Bilbao Basket,82,72,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+S. Okoye,448.810927,133.85,1C,05:34,Surne Bilbao Basket,12,10,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+S. Okoye,417.958893,244.916667,1C,04:49,Surne Bilbao Basket,12,10,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Okoye,464.976868,149.966667,2C,07:25,Surne Bilbao Basket,23,19,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+S. Okoye,480.15,260.583333,3C,09:19,Surne Bilbao Basket,42,31,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Okoye,474.26807,133.4,4C,03:59,Surne Bilbao Basket,69,62,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+N. Chougkaz,348.406008,96.833333,1C,05:15,Surne Bilbao Basket,12,10,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+N. Chougkaz,480.15,154.316667,2C,04:09,Surne Bilbao Basket,31,25,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+N. Chougkaz,343.516887,146.05,2C,02:21,Surne Bilbao Basket,34,25,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,459.094939,134.283333,1C,02:52,Surne Bilbao Basket,12,15,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,463.49702,150.833333,1C,01:09,Surne Bilbao Basket,17,17,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,437.534106,26.266667,2C,08:51,Surne Bilbao Basket,23,17,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,477.696074,147.783333,2C,06:21,Surne Bilbao Basket,23,21,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,480.15,139.933333,3C,04:22,Surne Bilbao Basket,54,40,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,470.353027,142.116667,3C,01:54,Surne Bilbao Basket,56,45,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,459.581977,141.25,3C,01:17,Surne Bilbao Basket,58,47,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,364.08491,204.833333,3C,00:18,Surne Bilbao Basket,60,49,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Doumbouya,437.047067,255.35,4C,06:41,Surne Bilbao Basket,66,56,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+C. Ortega,430.19106,27.583333,1C,00:35,Surne Bilbao Basket,19,17,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Evans,344.003926,154.316667,2C,02:35,Surne Bilbao Basket,33,25,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Evans,480.15,161.283333,3C,05:42,Surne Bilbao Basket,51,36,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+S. Evans,363.129565,201.283333,3C,00:04,Surne Bilbao Basket,62,52,MoraBanc Andorra,Triple,True,104171,14,2024-2025,Liga Endesa,False
+S. Evans,480.15,153.433333,4C,03:12,Surne Bilbao Basket,72,62,MoraBanc Andorra,Tiro de 2,False,104171,14,2024-2025,Liga Endesa,False
+S. Evans,407.187843,244.9,4C,02:44,Surne Bilbao Basket,73,62,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+S. Evans,403.759839,149.95,4C,01:41,Surne Bilbao Basket,76,66,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+S. Evans,478.688884,150.383333,4C,00:25,Surne Bilbao Basket,82,74,MoraBanc Andorra,Tiro de 2,True,104171,14,2024-2025,Liga Endesa,False
+N. Radicevic,221.082829,217.916667,2C,00:00,Surne Bilbao Basket,40,31,MoraBanc Andorra,Triple,False,104171,14,2024-2025,Liga Endesa,False
+D. Hilliard II,82.539026,256.066667,1C,08:50,Río Breogán,0,5,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,141.302129,214.316667,1C,08:11,Río Breogán,0,5,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,90.462772,215.766667,2C,04:30,Río Breogán,24,36,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,108.501939,47.05,2C,03:17,Río Breogán,31,39,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,161.795222,151.2,2C,02:34,Río Breogán,31,40,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,24.75,258.016667,3C,06:45,Río Breogán,43,48,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,24.75,22.066667,3C,04:45,Río Breogán,43,54,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,24.75,23.766667,4C,07:28,Río Breogán,59,68,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,122.925781,48.283333,4C,01:03,Río Breogán,77,85,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Hilliard II,30.013765,136.4,4C,00:05,Río Breogán,79,85,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Grant,45.111968,121.333333,1C,07:40,Río Breogán,0,7,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Grant,24.75,238.1,1C,06:56,Río Breogán,2,10,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Grant,150.855582,179.35,1C,01:47,Río Breogán,11,18,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Grant,157.149622,114.783333,1C,00:15,Río Breogán,17,23,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Grant,47.28491,166.483333,2C,09:53,Río Breogán,17,23,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Grant,59.592006,114.3,2C,09:04,Río Breogán,17,26,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Grant,39.361164,109.2,2C,01:02,Río Breogán,31,42,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Grant,24.75,258.5,3C,07:33,Río Breogán,40,48,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Grant,36.026821,157.766667,3C,04:04,Río Breogán,44,54,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+E. Atic,124.630416,231.783333,1C,07:35,Río Breogán,0,7,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+E. Atic,128.451798,54.333333,2C,01:44,Río Breogán,31,42,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+E. Atic,31.100237,167.716667,3C,00:01,Río Breogán,52,64,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+E. Atic,27.541107,144.416667,4C,08:44,Río Breogán,57,67,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+E. Atic,54.047256,254.616667,4C,05:47,Río Breogán,64,70,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+T. Nakic,59.592006,148.516667,1C,05:25,Río Breogán,3,10,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+T. Nakic,147.240255,69.883333,3C,07:45,Río Breogán,40,48,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+T. Nakic,24.75,265.066667,4C,04:46,Río Breogán,67,75,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Apic,43.463529,144.15,1C,04:59,Río Breogán,3,12,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Apic,24.75,123.516667,1C,04:03,Río Breogán,5,14,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Apic,28.702507,156.05,1C,03:26,Río Breogán,7,14,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Apic,58.767786,164.3,1C,02:47,Río Breogán,8,16,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Apic,33.291911,138.583333,4C,08:48,Río Breogán,55,67,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Apic,27.822091,158.016667,4C,07:23,Río Breogán,59,68,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,24.881126,113.816667,1C,04:30,Río Breogán,3,12,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,51.125024,141.483333,1C,00:54,Río Breogán,14,21,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,166.703075,133.233333,2C,05:43,Río Breogán,22,36,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,39.904399,127.883333,2C,00:36,Río Breogán,33,42,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,24.75,257.766667,2C,00:04,Río Breogán,34,42,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,61.971003,103.883333,3C,03:34,Río Breogán,46,57,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,25.087181,149.516667,3C,03:02,Río Breogán,48,59,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Mavra,148.888694,212.633333,3C,01:09,Río Breogán,50,61,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+A. Aranitovic,152.223037,93.183333,1C,01:36,Río Breogán,14,18,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+A. Aranitovic,28.908562,254.866667,3C,03:07,Río Breogán,46,59,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+A. Aranitovic,77.556244,34.2,3C,01:47,Río Breogán,50,59,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+A. Aranitovic,177.305535,138.35,4C,09:31,Río Breogán,55,67,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+A. Aranitovic,131.392763,56.3,4C,08:54,Río Breogán,55,67,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+A. Somogyi,45.655203,173.766667,1C,00:26,Río Breogán,14,23,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+A. Somogyi,35.539782,160.183333,2C,09:32,Río Breogán,17,23,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+J. Sakho,35.258798,152.166667,2C,07:33,Río Breogán,19,28,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+J. Sakho,50.506859,122.083333,3C,09:01,Río Breogán,38,45,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+J. Sakho,28.365326,135.683333,3C,08:25,Río Breogán,40,45,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+J. Sakho,46.12351,132.516667,3C,07:07,Río Breogán,40,48,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+J. Sakho,54.047256,145.633333,4C,03:42,Río Breogán,69,77,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+E. Vila,24.75,255.816667,2C,06:41,Río Breogán,19,31,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+E. Vila,52.679801,25.466667,4C,05:14,Río Breogán,64,73,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,44.006764,162.85,2C,06:22,Río Breogán,19,33,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,34.453311,145.366667,2C,05:11,Río Breogán,24,36,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,43.201277,157.016667,2C,04:23,Río Breogán,26,36,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,24.75,141.25,2C,03:59,Río Breogán,28,36,BAXI Manresa,Mate,True,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,24.75,141.25,3C,02:24,Río Breogán,50,59,BAXI Manresa,Mate,True,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,33.291911,154.366667,4C,02:48,Río Breogán,72,80,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+J. Egbunu,76.732025,131.783333,4C,02:12,Río Breogán,74,80,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,356.835525,198.766667,1C,09:58,Río Breogán,0,3,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,461.5114,123.516667,1C,04:17,Río Breogán,3,14,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,334.150757,145.85,1C,02:44,Río Breogán,8,16,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,383.88491,235.433333,2C,08:21,Río Breogán,17,26,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,480.15,80.55,2C,01:22,Río Breogán,31,42,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,376.523132,226.933333,2C,00:29,Río Breogán,34,42,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,314.762867,230.083333,2C,00:00,Río Breogán,36,42,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Pérez,351.028524,141.016667,3C,03:54,Río Breogán,44,57,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+B. Massa,449.204305,137.116667,1C,09:24,Río Breogán,0,3,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+B. Massa,473.256528,146.583333,1C,09:20,Río Breogán,0,5,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+B. Massa,438.826632,145.616667,2C,07:51,Río Breogán,17,28,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+B. Massa,480.15,141.25,2C,03:45,Río Breogán,28,39,BAXI Manresa,Mate,True,104172,14,2024-2025,Liga Endesa,False
+B. Massa,431.914428,92.466667,3C,09:42,Río Breogán,36,42,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+B. Massa,457.61509,172.566667,4C,01:51,Río Breogán,74,82,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,480.15,141.25,1C,07:58,Río Breogán,0,7,BAXI Manresa,Mate,True,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,355.749054,200.95,1C,06:49,Río Breogán,2,10,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,477.902129,23.75,2C,09:25,Río Breogán,17,26,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,334.974976,152.4,2C,08:16,Río Breogán,17,26,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,480.15,141.25,2C,06:35,Río Breogán,19,33,BAXI Manresa,Mate,True,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,446.469395,220.133333,2C,00:52,Río Breogán,31,42,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,475.916509,143.683333,3C,08:02,Río Breogán,40,47,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,466.082072,132.033333,4C,08:29,Río Breogán,57,67,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,479.475639,137.366667,4C,06:48,Río Breogán,61,68,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,480.15,141.25,4C,06:04,Río Breogán,61,70,BAXI Manresa,Mate,True,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,480.15,22.8,4C,05:03,Río Breogán,64,73,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+D. Alston Jr.,453.512725,257.783333,4C,01:12,Río Breogán,74,85,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,379.801277,61.383333,1C,07:10,Río Breogán,0,10,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,480.15,125.466667,1C,03:07,Río Breogán,8,16,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,468.086424,159.983333,1C,02:44,Río Breogán,8,16,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,459.038742,121.333333,2C,05:27,Río Breogán,22,36,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,451.864286,143.683333,3C,00:14,Río Breogán,50,61,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,477.564948,143.933333,3C,00:11,Río Breogán,50,63,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,381.918023,56.3,4C,04:26,Río Breogán,67,75,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,477.283964,135.683333,4C,04:01,Río Breogán,67,77,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,473.462583,129.85,4C,02:28,Río Breogán,72,80,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,474.830038,134.216667,4C,00:44,Río Breogán,77,85,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+C. Hunt,366.332781,39.55,4C,00:00,Río Breogán,79,88,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,454.936377,161.883333,1C,06:05,Río Breogán,2,10,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,480.15,22.05,2C,09:40,Río Breogán,17,23,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,387.181788,53.366667,2C,08:05,Río Breogán,17,26,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,454.936377,24.233333,2C,07:17,Río Breogán,19,28,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,428.430227,33.95,2C,07:06,Río Breogán,19,31,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,440.999574,254.366667,2C,06:03,Río Breogán,19,36,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,478.932403,258.5,3C,05:43,Río Breogán,43,51,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,480.15,256.316667,4C,05:33,Río Breogán,64,73,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+M. Sagnia,474.830038,145.15,4C,04:59,Río Breogán,64,75,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+A. Reyes,374.050473,238.333333,1C,05:46,Río Breogán,3,10,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+A. Reyes,479.475639,260.683333,3C,05:14,Río Breogán,43,54,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+A. Reyes,374.537512,59.933333,4C,09:51,Río Breogán,52,67,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+M. Steinbergs,370.510076,225.966667,1C,04:44,Río Breogán,3,12,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+M. Steinbergs,480.15,23.5,1C,01:13,Río Breogán,14,21,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,394.000331,193.683333,1C,02:00,Río Breogán,11,18,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,412.582734,64.533333,2C,04:52,Río Breogán,24,36,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,469.978382,129.35,2C,02:26,Río Breogán,31,40,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,480.15,256.316667,3C,09:22,Río Breogán,36,45,BAXI Manresa,Triple,True,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,361.143945,90.283333,3C,06:27,Río Breogán,43,48,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,453.512725,259.0,3C,04:27,Río Breogán,43,54,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+R. Obasohan,445.588978,127.666667,4C,07:16,Río Breogán,59,68,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+S. Vescovi,345.090397,228.866667,1C,00:02,Río Breogán,17,23,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+S. Vescovi,399.470151,33.466667,2C,07:58,Río Breogán,17,26,BAXI Manresa,Triple,False,104172,14,2024-2025,Liga Endesa,False
+S. Vescovi,447.499669,117.95,4C,07:51,Río Breogán,59,68,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+E. Cate,471.814144,145.383333,3C,01:56,Río Breogán,50,59,BAXI Manresa,Tiro de 2,False,104172,14,2024-2025,Liga Endesa,False
+E. Cate,474.005818,156.55,3C,01:33,Río Breogán,50,61,BAXI Manresa,Tiro de 2,True,104172,14,2024-2025,Liga Endesa,False
+M. Todorovic,33.123321,143.7,1C,09:11,UCAM Murcia,2,2,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Todorovic,32.61755,128.816667,1C,06:48,UCAM Murcia,2,10,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+M. Todorovic,31.830795,141.5,1C,06:48,UCAM Murcia,2,10,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+M. Todorovic,30.313482,146.783333,3C,08:13,UCAM Murcia,36,51,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,91.361921,124.883333,1C,08:23,UCAM Murcia,2,4,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,161.420577,159.733333,1C,06:00,UCAM Murcia,5,10,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,174.589357,93.9,1C,04:22,UCAM Murcia,7,16,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,33.123321,142.266667,1C,03:23,UCAM Murcia,9,19,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,105.898155,62.933333,1C,02:06,UCAM Murcia,11,21,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,42.433254,143.3,2C,00:36,UCAM Murcia,32,47,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,138.698344,107.166667,3C,07:56,UCAM Murcia,36,51,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,89.975733,29.883333,3C,01:26,UCAM Murcia,55,64,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,169.700237,117.683333,4C,06:44,UCAM Murcia,66,77,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,52.042904,154.05,4C,06:07,UCAM Murcia,68,77,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Ennis,29.695317,144.65,4C,01:08,UCAM Murcia,74,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+J. Radebaugh,110.58122,187.55,1C,07:57,UCAM Murcia,2,6,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+J. Radebaugh,118.523699,230.35,3C,05:18,UCAM Murcia,40,62,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+J. Radebaugh,30.969111,136.683333,3C,03:46,UCAM Murcia,48,62,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+J. Radebaugh,143.999574,211.85,3C,02:08,UCAM Murcia,55,62,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+J. Radebaugh,142.538458,207.983333,3C,01:04,UCAM Murcia,55,64,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+J. Radebaugh,140.253122,203.933333,4C,03:07,UCAM Murcia,72,86,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,41.009603,159.716667,1C,07:23,UCAM Murcia,2,8,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,32.804872,153.45,1C,06:35,UCAM Murcia,2,10,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,40.110454,143.083333,1C,05:08,UCAM Murcia,7,13,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,27.6535,141.583333,3C,04:36,UCAM Murcia,43,62,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,166.946594,158.633333,3C,00:36,UCAM Murcia,55,66,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,30.46334,141.483333,4C,09:28,UCAM Murcia,57,69,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,33.235714,140.05,4C,08:37,UCAM Murcia,61,71,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,125.866746,220.7,4C,05:35,UCAM Murcia,68,77,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,50.956433,150.683333,4C,02:19,UCAM Murcia,72,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,26.023794,140.95,4C,01:42,UCAM Murcia,74,86,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+R. Kurucs,171.273746,143.5,4C,00:57,UCAM Murcia,77,86,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+V. Brodziansky,57.999763,78.983333,1C,06:53,UCAM Murcia,2,10,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+L. Hakanson,159.04158,104.55,1C,03:48,UCAM Murcia,7,16,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+L. Hakanson,35.802034,144.316667,1C,02:40,UCAM Murcia,11,21,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D.J. Stephens,29.152081,144.8,1C,01:49,UCAM Murcia,11,21,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D.J. Stephens,24.75,141.25,2C,08:25,UCAM Murcia,15,29,Unicaja,Mate,True,104173,14,2024-2025,Liga Endesa,False
+D.J. Stephens,24.75,141.25,4C,07:25,UCAM Murcia,63,75,Unicaja,Mate,True,104173,14,2024-2025,Liga Endesa,False
+D.J. Stephens,133.603169,220.733333,4C,05:09,UCAM Murcia,68,80,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,150.331079,190.733333,1C,01:10,UCAM Murcia,11,23,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,74.559082,93.066667,1C,00:05,UCAM Murcia,11,27,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,35.68964,138.466667,2C,06:30,UCAM Murcia,19,31,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,119.02947,234.533333,2C,03:38,UCAM Murcia,27,38,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,31.905724,258.533333,2C,01:09,UCAM Murcia,32,47,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,45.1307,144.233333,2C,00:03,UCAM Murcia,34,47,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Caupain,104.605629,43.466667,4C,06:16,UCAM Murcia,66,77,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,39.286235,148.683333,1C,00:02,UCAM Murcia,11,27,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,28.927294,139.3,2C,08:42,UCAM Murcia,13,29,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,54.440634,139.65,2C,07:32,UCAM Murcia,17,31,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,31.849527,143.7,2C,06:00,UCAM Murcia,21,34,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,24.75,143.916667,3C,02:47,UCAM Murcia,51,62,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,27.6535,141.566667,3C,01:08,UCAM Murcia,55,64,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,33.629092,144.066667,4C,04:28,UCAM Murcia,68,83,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+M. Diagné,30.294749,144.116667,4C,03:50,UCAM Murcia,72,83,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+H. Sant-Roos,37.562867,128.65,2C,07:01,UCAM Murcia,17,31,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+H. Sant-Roos,46.273368,254.816667,3C,08:46,UCAM Murcia,34,49,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+H. Sant-Roos,28.739972,143.783333,3C,05:49,UCAM Murcia,40,60,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+H. Sant-Roos,161.926348,177.416667,3C,04:04,UCAM Murcia,46,62,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+H. Sant-Roos,165.560407,113.516667,3C,02:13,UCAM Murcia,52,62,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+N. Radovic,56.257663,133.85,2C,04:54,UCAM Murcia,25,38,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+N. Radovic,52.923321,138.833333,2C,03:54,UCAM Murcia,27,38,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+N. Radovic,24.75,138.2,4C,08:58,UCAM Murcia,59,71,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+N. Radovic,148.663907,96.45,4C,07:59,UCAM Murcia,61,73,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+D. Kravish,443.359839,136.8,1C,09:43,UCAM Murcia,0,0,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Kravish,475.822848,144.8,1C,08:50,UCAM Murcia,2,4,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Kravish,379.126916,187.95,2C,04:04,UCAM Murcia,25,38,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Kravish,396.510454,163.6,3C,05:36,UCAM Murcia,40,62,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Kravish,475.167219,141.433333,4C,09:16,UCAM Murcia,57,71,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,474.474125,146.4,1C,09:32,UCAM Murcia,0,2,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,440.13789,156.6,1C,07:11,UCAM Murcia,2,10,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,359.589167,191.933333,1C,06:42,UCAM Murcia,2,10,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,464.995601,134.083333,3C,09:12,UCAM Murcia,34,49,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,469.997114,141.283333,3C,06:43,UCAM Murcia,36,57,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,420.993519,34.516667,3C,06:07,UCAM Murcia,38,60,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,348.068827,183.95,3C,04:15,UCAM Murcia,43,62,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,452.576112,135.133333,3C,03:08,UCAM Murcia,49,62,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+K. Taylor,371.034579,215.916667,4C,02:04,UCAM Murcia,72,86,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+K. Perry,423.953217,156.616667,1C,08:16,UCAM Murcia,2,6,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Perry,351.065989,94.366667,1C,04:51,UCAM Murcia,7,16,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+K. Perry,395.105535,116.616667,2C,04:33,UCAM Murcia,25,38,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+K. Perry,470.390492,156.65,2C,03:31,UCAM Murcia,27,40,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Perry,461.043094,133.733333,3C,08:38,UCAM Murcia,34,51,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Perry,359.064664,153.166667,3C,01:43,UCAM Murcia,55,64,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Perry,457.427767,197.8,4C,08:43,UCAM Murcia,59,71,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+K. Perry,479.850284,139.416667,4C,07:42,UCAM Murcia,61,75,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,475.523132,146.866667,1C,07:42,UCAM Murcia,2,8,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,390.403737,231.466667,1C,07:15,UCAM Murcia,2,8,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,396.772706,51.75,1C,05:30,UCAM Murcia,5,13,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,459.1886,27.066667,1C,03:40,UCAM Murcia,7,19,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,383.959839,227.983333,2C,02:49,UCAM Murcia,28,43,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,461.230416,143.2,2C,00:44,UCAM Murcia,32,47,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+K. Tillie,469.585005,139.95,4C,08:20,UCAM Murcia,61,73,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Kalinoski,361.556055,67.7,1C,06:14,UCAM Murcia,2,10,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Kalinoski,395.761164,245.4,1C,04:16,UCAM Murcia,7,16,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Kalinoski,419.0079,248.633333,3C,08:04,UCAM Murcia,36,51,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Kalinoski,397.241012,35.183333,3C,07:45,UCAM Murcia,36,51,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Kalinoski,465.857285,137.566667,3C,06:39,UCAM Murcia,36,57,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+J. Barreiro,468.367408,256.85,1C,05:41,UCAM Murcia,5,10,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+J. Barreiro,450.796547,257.633333,2C,06:49,UCAM Murcia,17,31,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,478.482829,148.733333,1C,03:04,UCAM Murcia,9,21,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Carter,476.141296,260.966667,1C,02:28,UCAM Murcia,11,21,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,474.979896,142.1,1C,01:39,UCAM Murcia,11,23,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Carter,480.15,141.25,1C,00:32,UCAM Murcia,11,27,Unicaja,Mate,True,104173,14,2024-2025,Liga Endesa,False
+T. Carter,464.414901,174.216667,2C,09:46,UCAM Murcia,11,27,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,346.326727,107.083333,2C,08:00,UCAM Murcia,15,29,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,470.353027,158.366667,2C,05:47,UCAM Murcia,21,34,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,355.711589,80.433333,3C,02:31,UCAM Murcia,51,62,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,475.541864,142.616667,3C,00:50,UCAM Murcia,55,66,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Carter,407.768543,79.733333,3C,00:24,UCAM Murcia,55,66,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,471.420766,137.583333,4C,09:46,UCAM Murcia,55,69,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,468.236282,142.6,4C,07:02,UCAM Murcia,63,77,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+T. Carter,339.096074,165.566667,4C,05:22,UCAM Murcia,68,80,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+T. Carter,341.362677,134.3,4C,04:05,UCAM Murcia,70,83,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,464.208846,127.583333,4C,02:47,UCAM Murcia,72,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,480.112535,25.133333,4C,02:30,UCAM Murcia,72,86,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,471.327105,138.0,4C,00:16,UCAM Murcia,77,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,459.263529,138.9,4C,00:13,UCAM Murcia,77,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+T. Carter,462.878855,144.55,4C,00:07,UCAM Murcia,77,88,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+A. Balcerowski,476.703264,135.883333,1C,01:58,UCAM Murcia,11,21,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+A. Balcerowski,471.739215,143.533333,2C,05:44,UCAM Murcia,21,36,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+A. Balcerowski,470.146973,132.066667,3C,09:25,UCAM Murcia,34,49,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+A. Balcerowski,394.674693,38.383333,3C,07:33,UCAM Murcia,36,56,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,480.15,141.25,1C,00:54,UCAM Murcia,11,25,Unicaja,Mate,True,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,475.298344,144.65,2C,09:04,UCAM Murcia,11,29,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,472.975544,192.966667,2C,07:08,UCAM Murcia,17,31,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,477.152838,145.4,2C,01:34,UCAM Murcia,32,47,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,368.936566,65.816667,3C,04:52,UCAM Murcia,40,62,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,462.991249,141.95,4C,06:23,UCAM Murcia,66,77,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,480.15,23.816667,4C,04:47,UCAM Murcia,68,83,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,471.214711,28.45,4C,03:24,UCAM Murcia,72,86,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+D. Osetkowski,459.862961,131.866667,4C,02:47,UCAM Murcia,72,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+A. Díaz,362.736187,211.616667,2C,06:22,UCAM Murcia,19,34,Unicaja,Triple,True,104173,14,2024-2025,Liga Endesa,False
+A. Díaz,346.645175,170.683333,3C,03:03,UCAM Murcia,49,62,Unicaja,Triple,False,104173,14,2024-2025,Liga Endesa,False
+M. Ejim,480.15,141.783333,2C,05:12,UCAM Murcia,23,38,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Ejim,464.471097,207.966667,2C,02:05,UCAM Murcia,30,45,Unicaja,Tiro de 2,True,104173,14,2024-2025,Liga Endesa,False
+M. Ejim,473.631173,139.2,4C,05:43,UCAM Murcia,68,77,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+M. Ejim,468.573463,137.733333,4C,02:41,UCAM Murcia,72,86,Unicaja,Tiro de 2,False,104173,14,2024-2025,Liga Endesa,False
+F. Guerra,32.03685,149.666667,1C,09:29,La Laguna Tenerife,2,0,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+F. Guerra,42.8079,137.516667,2C,02:45,La Laguna Tenerife,42,40,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+F. Guerra,34.734295,145.15,2C,01:22,La Laguna Tenerife,42,46,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+F. Guerra,25.855203,140.15,2C,01:22,La Laguna Tenerife,44,46,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+F. Guerra,59.348486,139.966667,4C,07:05,La Laguna Tenerife,81,77,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,39.042715,124.65,1C,08:03,La Laguna Tenerife,2,5,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,27.185194,131.8,1C,07:50,La Laguna Tenerife,4,5,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,25.855203,139.666667,1C,05:23,La Laguna Tenerife,14,10,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,32.842337,24.583333,1C,03:53,La Laguna Tenerife,17,12,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,155.070341,142.05,1C,03:17,La Laguna Tenerife,17,14,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,154.808089,113.466667,1C,03:13,La Laguna Tenerife,20,14,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+J. Sastre,41.57157,142.116667,3C,08:33,La Laguna Tenerife,49,54,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+A. Doornekamp,109.307427,46.516667,1C,07:14,La Laguna Tenerife,7,5,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+A. Doornekamp,93.965705,244.983333,1C,06:10,La Laguna Tenerife,12,7,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+A. Doornekamp,99.454257,244.566667,3C,09:22,La Laguna Tenerife,44,49,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+A. Doornekamp,76.582167,28.466667,4C,09:06,La Laguna Tenerife,74,75,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,31.493614,130.616667,1C,06:38,La Laguna Tenerife,9,7,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,128.433065,68.433333,1C,05:27,La Laguna Tenerife,12,10,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,53.316698,147.766667,2C,06:04,La Laguna Tenerife,33,36,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,26.117455,128.7,2C,03:49,La Laguna Tenerife,38,40,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,107.003359,37.283333,3C,08:56,La Laguna Tenerife,47,51,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,119.385383,232.416667,3C,07:55,La Laguna Tenerife,52,54,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,140.6465,209.066667,3C,07:10,La Laguna Tenerife,52,54,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,139.297777,72.55,3C,06:44,La Laguna Tenerife,55,56,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+D. Kramer,145.498155,211.683333,3C,06:07,La Laguna Tenerife,55,58,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,122.775922,65.1,1C,02:40,La Laguna Tenerife,20,17,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,138.379896,208.283333,1C,00:30,La Laguna Tenerife,25,25,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,328.456149,48.416667,1C,00:01,La Laguna Tenerife,25,27,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,35.10894,134.25,3C,00:37,La Laguna Tenerife,71,75,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,40.222848,150.216667,4C,06:40,La Laguna Tenerife,83,77,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,24.75,257.2,4C,04:24,La Laguna Tenerife,91,83,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+T. Scrubb,24.75,190.25,4C,01:07,La Laguna Tenerife,99,91,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+G. Shermadini,31.493614,130.383333,1C,01:53,La Laguna Tenerife,22,20,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+G. Shermadini,51.537133,149.983333,4C,03:51,La Laguna Tenerife,91,85,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+T. Abromaitis,51.42474,194.7,2C,09:38,La Laguna Tenerife,27,27,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+T. Abromaitis,113.353595,233.066667,2C,08:37,La Laguna Tenerife,33,29,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+T. Abromaitis,91.268259,34.833333,2C,06:47,La Laguna Tenerife,33,33,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,145.928997,82.716667,2C,09:04,La Laguna Tenerife,30,29,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,155.875828,214.95,2C,02:04,La Laguna Tenerife,42,43,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,33.123321,133.95,2C,00:39,La Laguna Tenerife,44,46,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,37.806386,159.983333,3C,01:52,La Laguna Tenerife,67,71,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,147.390114,206.683333,4C,09:51,La Laguna Tenerife,74,75,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,140.103264,68.016667,4C,08:31,La Laguna Tenerife,77,77,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+B. Fitipaldo,146.303642,209.066667,4C,07:58,La Laguna Tenerife,80,77,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+L. Costa,110.656149,50.8,2C,07:45,La Laguna Tenerife,33,31,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,163.687181,142.766667,2C,05:35,La Laguna Tenerife,33,38,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,109.850662,106.316667,2C,00:03,La Laguna Tenerife,44,46,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,74.95246,146.166667,3C,03:37,La Laguna Tenerife,63,63,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,110.225307,95.416667,3C,03:06,La Laguna Tenerife,65,65,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,165.953784,138.066667,4C,04:51,La Laguna Tenerife,88,81,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,33.760218,127.583333,4C,03:23,La Laguna Tenerife,91,87,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+M. Huertas,74.95246,202.866667,4C,02:52,La Laguna Tenerife,93,87,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,424.290397,131.333333,1C,09:51,La Laguna Tenerife,0,0,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,351.871476,197.8,2C,06:25,La Laguna Tenerife,33,36,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,381.487181,187.55,2C,05:16,La Laguna Tenerife,33,40,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,430.209792,28.633333,2C,04:40,La Laguna Tenerife,34,40,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,473.818496,177.783333,2C,03:04,La Laguna Tenerife,40,40,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,392.782734,186.133333,2C,00:12,La Laguna Tenerife,44,46,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,379.969868,220.5,4C,09:36,La Laguna Tenerife,74,75,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+AJ Slaughter,385.083775,229.316667,4C,09:23,La Laguna Tenerife,74,75,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+S. Yusta,379.051987,54.616667,1C,09:04,La Laguna Tenerife,2,3,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+S. Yusta,450.665421,167.066667,1C,08:23,La Laguna Tenerife,2,3,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+S. Yusta,391.977247,132.516667,1C,04:48,La Laguna Tenerife,14,10,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+S. Yusta,468.816982,147.833333,3C,06:26,La Laguna Tenerife,55,58,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+S. Yusta,480.15,257.433333,4C,07:21,La Laguna Tenerife,81,77,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+S. Yusta,477.977058,21.083333,4C,03:06,La Laguna Tenerife,91,87,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+J. Fernández,459.020009,133.95,1C,08:16,La Laguna Tenerife,2,5,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+J. Fernández,433.712725,32.216667,1C,05:47,La Laguna Tenerife,12,10,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+J. Fernández,480.15,141.25,1C,03:37,La Laguna Tenerife,17,14,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+J. Fernández,473.013009,139.433333,2C,03:09,La Laguna Tenerife,40,40,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+J. Fernández,470.70894,149.033333,3C,07:33,La Laguna Tenerife,52,54,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,347.282072,152.533333,1C,07:55,La Laguna Tenerife,2,5,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,461.436471,97.25,1C,06:59,La Laguna Tenerife,7,7,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,341.100426,134.9,1C,06:25,La Laguna Tenerife,9,7,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,473.125402,131.866667,3C,03:18,La Laguna Tenerife,63,63,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,430.584437,145.216667,3C,02:58,La Laguna Tenerife,65,67,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,471.776679,141.633333,4C,04:09,La Laguna Tenerife,91,85,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,475.822848,151.166667,4C,02:36,La Laguna Tenerife,93,87,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+T. Bell-Haynes,475.279612,153.083333,4C,00:30,La Laguna Tenerife,104,97,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,467.355866,129.666667,1C,04:11,La Laguna Tenerife,14,12,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,344.603359,166.583333,1C,02:16,La Laguna Tenerife,20,20,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,480.15,141.25,1C,01:12,La Laguna Tenerife,22,25,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,438.283396,149.916667,2C,03:33,La Laguna Tenerife,38,40,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,468.985572,142.766667,2C,03:06,La Laguna Tenerife,40,40,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,355.63666,194.95,2C,02:29,La Laguna Tenerife,42,43,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,363.972517,199.95,2C,01:46,La Laguna Tenerife,42,46,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,474.736377,144.983333,3C,02:17,La Laguna Tenerife,67,71,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,466.943756,153.8,4C,08:55,La Laguna Tenerife,74,77,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,357.097777,184.766667,4C,08:10,La Laguna Tenerife,77,77,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,480.15,264.583333,4C,06:20,La Laguna Tenerife,83,77,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,469.097966,118.05,4C,04:44,La Laguna Tenerife,88,83,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,475.279612,149.5,4C,03:40,La Laguna Tenerife,91,87,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,367.325591,216.933333,4C,02:11,La Laguna Tenerife,93,87,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,473.930889,140.933333,4C,01:27,La Laguna Tenerife,97,91,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+E. Sulejmanovic,472.86315,158.55,4C,00:56,La Laguna Tenerife,100,91,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,395.742431,233.066667,1C,03:01,La Laguna Tenerife,20,17,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,348.087559,162.533333,1C,01:35,La Laguna Tenerife,22,23,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,382.292668,107.75,1C,00:14,La Laguna Tenerife,25,25,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,478.932403,57.233333,2C,07:25,La Laguna Tenerife,33,33,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,382.667313,226.216667,3C,09:46,La Laguna Tenerife,44,49,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,480.15,72.55,3C,09:11,La Laguna Tenerife,44,51,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+M. Spissu,349.024172,153.316667,3C,08:44,La Laguna Tenerife,47,54,Casademont Zaragoza,Triple,True,104174,14,2024-2025,Liga Endesa,False
+J. Rodriguez,470.053311,135.85,1C,00:02,La Laguna Tenerife,25,27,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+J. Rodriguez,458.476774,151.1,2C,08:20,La Laguna Tenerife,33,31,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+M. González,442.329565,79.633333,2C,09:16,La Laguna Tenerife,27,29,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+M. González,480.15,24.583333,2C,06:40,La Laguna Tenerife,33,33,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+J. Bango,480.15,141.25,2C,05:59,La Laguna Tenerife,33,38,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,475.560596,142.6,3C,08:09,La Laguna Tenerife,49,54,Casademont Zaragoza,Tiro de 2,False,104174,14,2024-2025,Liga Endesa,False
+J. Bango,470.427956,158.083333,3C,07:02,La Laguna Tenerife,52,56,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,480.15,141.25,3C,05:27,La Laguna Tenerife,57,60,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,480.15,141.25,3C,03:12,La Laguna Tenerife,63,65,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,480.15,141.25,3C,02:49,La Laguna Tenerife,65,69,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,480.15,141.25,4C,05:12,La Laguna Tenerife,85,80,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,477.17157,172.383333,4C,00:42,La Laguna Tenerife,102,95,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+J. Bango,480.15,141.25,4C,00:30,La Laguna Tenerife,104,99,Casademont Zaragoza,Mate,True,104174,14,2024-2025,Liga Endesa,False
+Y. Mencía,459.675639,137.583333,3C,01:02,La Laguna Tenerife,69,75,Casademont Zaragoza,Tiro de 2,True,104174,14,2024-2025,Liga Endesa,False
+Y. Mencía,480.15,257.2,3C,00:20,La Laguna Tenerife,71,75,Casademont Zaragoza,Triple,False,104174,14,2024-2025,Liga Endesa,False
+I. Iroegbu,156.849905,194.816667,1C,09:18,Bàsquet Girona,3,0,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,81.789735,111.133333,1C,07:28,Bàsquet Girona,8,5,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,174.645553,137.733333,1C,07:00,Bàsquet Girona,8,7,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,137.874125,108.266667,2C,08:06,Bàsquet Girona,31,25,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,167.808278,91.9,2C,02:16,Bàsquet Girona,46,37,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,179.890587,140.466667,2C,01:37,Bàsquet Girona,47,40,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,24.75,258.95,2C,00:25,Bàsquet Girona,49,44,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,160.558893,156.35,3C,07:53,Bàsquet Girona,54,51,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,42.152271,158.683333,3C,06:03,Bàsquet Girona,56,53,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,53.035714,124.583333,3C,02:09,Bàsquet Girona,60,65,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,33.19825,135.716667,3C,01:52,Bàsquet Girona,62,65,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,53.035714,138.2,3C,00:47,Bàsquet Girona,62,68,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,113.878098,170.333333,4C,06:44,Bàsquet Girona,71,78,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,28.515184,127.583333,4C,06:16,Bàsquet Girona,73,78,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,28.590114,133.433333,4C,05:37,Bàsquet Girona,75,81,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,38.518212,148.05,4C,02:12,Bàsquet Girona,82,85,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,162.338458,137.05,4C,01:24,Bàsquet Girona,86,88,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+I. Iroegbu,61.521429,133.333333,4C,00:02,Bàsquet Girona,91,90,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,24.75,256.6,1C,08:31,Bàsquet Girona,6,0,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,24.75,258.166667,1C,07:52,Bàsquet Girona,6,3,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,45.898723,127.9,2C,07:11,Bàsquet Girona,33,25,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,36.307805,141.35,2C,05:52,Bàsquet Girona,35,28,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,145.011116,202.85,3C,09:39,Bàsquet Girona,51,44,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,41.196925,254.766667,3C,07:08,Bàsquet Girona,54,51,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+M. Susinskas,58.205818,121.933333,4C,01:06,Bàsquet Girona,87,88,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,24.75,26.283333,1C,06:29,Bàsquet Girona,11,7,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,139.709886,77.183333,1C,00:30,Bàsquet Girona,28,19,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,78.84877,153.083333,1C,00:01,Bàsquet Girona,28,20,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,42.002412,130.416667,3C,03:24,Bàsquet Girona,60,61,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,33.460501,121.95,3C,00:23,Bàsquet Girona,64,70,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,62.102129,257.3,3C,00:00,Bàsquet Girona,64,71,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Marcos,181.445364,190.4,4C,03:48,Bàsquet Girona,75,83,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+M. Fjellerup,38.911589,165.066667,1C,05:48,Bàsquet Girona,11,7,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+M. Fjellerup,143.100426,214.316667,1C,05:26,Bàsquet Girona,16,10,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+M. Fjellerup,162.7693,154.85,2C,09:16,Bàsquet Girona,31,23,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+M. Fjellerup,40.897209,156.733333,3C,03:41,Bàsquet Girona,58,61,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+M. Fjellerup,36.270341,152.55,4C,07:59,Bàsquet Girona,68,73,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,46.2921,124.166667,1C,05:31,Bàsquet Girona,13,10,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,153.627956,191.366667,2C,07:39,Bàsquet Girona,31,25,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,24.75,127.283333,2C,01:14,Bàsquet Girona,49,42,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,53.429092,156.8,2C,00:47,Bàsquet Girona,49,44,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,36.719915,155.15,3C,06:30,Bàsquet Girona,54,53,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,29.395601,141.083333,3C,06:26,Bàsquet Girona,56,53,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,155.613576,108.233333,4C,09:08,Bàsquet Girona,64,71,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Fernández,43.163813,153.133333,4C,00:37,Bàsquet Girona,89,88,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+A. Durham,42.264664,123.416667,1C,04:40,Bàsquet Girona,18,12,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+A. Durham,94.827389,80.716667,2C,04:41,Bàsquet Girona,37,30,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+A. Durham,44.119158,124.233333,2C,03:38,Bàsquet Girona,41,32,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+A. Durham,43.707048,114.95,2C,00:20,Bàsquet Girona,51,44,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+A. Durham,45.898723,126.0,3C,05:06,Bàsquet Girona,56,53,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+A. Durham,142.257474,211.916667,3C,04:46,Bàsquet Girona,56,55,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+A. Durham,36.401466,109.266667,3C,04:07,Bàsquet Girona,56,58,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+A. Durham,162.694371,155.25,3C,02:37,Bàsquet Girona,60,63,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+A. Durham,74.896263,257.25,4C,02:57,Bàsquet Girona,77,85,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+A. Durham,24.75,24.283333,4C,02:41,Bàsquet Girona,80,85,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+M. Geben,49.85123,135.583333,1C,03:28,Bàsquet Girona,20,12,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+M. Geben,24.75,141.25,2C,04:00,Bàsquet Girona,39,30,Barça,Mate,True,104175,14,2024-2025,Liga Endesa,False
+M. Geben,39.998061,123.05,2C,03:02,Bàsquet Girona,43,34,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+M. Geben,49.27053,120.166667,3C,05:39,Bàsquet Girona,56,53,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+M. Geben,159.285099,134.033333,4C,07:26,Bàsquet Girona,71,76,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+P. Busquets,124.368165,54.283333,1C,02:23,Bàsquet Girona,23,17,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+P. Busquets,163.031552,152.75,2C,02:30,Bàsquet Girona,43,37,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+P. Busquets,126.72843,233.05,3C,07:23,Bàsquet Girona,54,51,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+N. Sibande,131.78614,185.683333,1C,01:26,Bàsquet Girona,25,19,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+N. Sibande,36.907237,114.116667,3C,05:21,Bàsquet Girona,56,53,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,478.894939,122.966667,1C,09:27,Bàsquet Girona,0,0,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,480.15,141.25,1C,05:13,Bàsquet Girona,16,12,Barça,Mate,True,104175,14,2024-2025,Liga Endesa,False
+J. Parker,424.084342,28.6,1C,02:05,Bàsquet Girona,23,17,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,470.409224,154.533333,2C,06:06,Bàsquet Girona,33,28,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,447.743188,148.216667,2C,05:27,Bàsquet Girona,35,30,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Parker,345.633633,90.1,2C,00:01,Bàsquet Girona,51,44,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,452.744702,28.033333,3C,05:32,Bàsquet Girona,56,53,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,440.756055,132.966667,3C,04:33,Bàsquet Girona,56,57,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Parker,394.131457,154.05,4C,06:00,Bàsquet Girona,73,78,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,422.698155,29.766667,4C,04:43,Bàsquet Girona,75,81,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Parker,480.15,141.25,4C,04:34,Bàsquet Girona,75,83,Barça,Mate,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,480.15,22.7,1C,08:55,Bàsquet Girona,3,0,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,392.108373,246.283333,1C,08:06,Bàsquet Girona,6,3,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,383.753784,48.283333,1C,03:10,Bàsquet Girona,20,15,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,471.12105,120.55,2C,03:44,Bàsquet Girona,39,32,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,480.15,256.866667,2C,02:50,Bàsquet Girona,43,37,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,480.15,65.4,3C,09:20,Bàsquet Girona,51,46,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,480.15,27.5,3C,08:43,Bàsquet Girona,51,49,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,429.123321,137.75,3C,08:09,Bàsquet Girona,54,51,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Anderson,411.046689,36.766667,3C,01:39,Bàsquet Girona,62,68,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+K. Punter,459.731835,110.95,1C,08:13,Bàsquet Girona,6,0,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,332.127673,123.35,1C,06:07,Bàsquet Girona,11,7,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,461.848581,22.266667,1C,05:43,Bàsquet Girona,11,10,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+K. Punter,370.697398,211.55,2C,01:57,Bàsquet Girona,47,40,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+K. Punter,396.922564,93.1,3C,07:36,Bàsquet Girona,54,51,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,345.408846,193.85,3C,04:01,Bàsquet Girona,56,61,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+K. Punter,330.291911,194.516667,3C,01:07,Bàsquet Girona,62,68,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,331.059934,137.9,4C,07:43,Bàsquet Girona,68,76,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+K. Punter,459.319726,70.616667,4C,07:05,Bàsquet Girona,71,76,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,338.065799,150.7,4C,03:05,Bàsquet Girona,77,85,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,359.345648,229.0,4C,01:57,Bàsquet Girona,83,85,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+K. Punter,343.741675,114.533333,4C,01:46,Bàsquet Girona,83,88,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+W. Hernangómez,461.960974,134.3,1C,07:08,Bàsquet Girona,8,7,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+W. Hernangómez,459.113671,168.683333,1C,06:44,Bàsquet Girona,8,7,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+W. Hernangómez,471.683018,119.0,1C,04:19,Bàsquet Girona,18,12,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+W. Hernangómez,470.390492,129.566667,2C,03:16,Bàsquet Girona,41,34,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+W. Hernangómez,466.138269,150.25,2C,00:49,Bàsquet Girona,49,44,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+W. Hernangómez,455.273557,167.166667,2C,00:47,Bàsquet Girona,49,44,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Núñez,333.832308,89.3,1C,03:55,Bàsquet Girona,18,12,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Núñez,441.524078,159.966667,2C,08:54,Bàsquet Girona,31,23,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Núñez,461.811116,99.316667,4C,09:37,Bàsquet Girona,64,71,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,471.195979,156.433333,1C,02:44,Bàsquet Girona,20,17,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,461.34281,121.133333,1C,01:44,Bàsquet Girona,23,19,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,453.044418,153.383333,1C,01:09,Bàsquet Girona,25,19,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,473.987086,155.75,2C,08:50,Bàsquet Girona,31,23,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,452.744702,144.833333,2C,08:31,Bàsquet Girona,31,25,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,480.15,141.25,4C,08:28,Bàsquet Girona,64,73,Barça,Mate,True,104175,14,2024-2025,Liga Endesa,False
+Y. Fall,455.554541,147.0,4C,06:53,Bàsquet Girona,71,78,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+C. Metu,354.119347,71.0,1C,00:49,Bàsquet Girona,25,19,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+C. Metu,454.05596,135.483333,3C,05:06,Bàsquet Girona,56,55,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+C. Metu,447.274882,128.233333,3C,03:03,Bàsquet Girona,60,63,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+C. Metu,448.042904,156.8,4C,03:41,Bàsquet Girona,75,83,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+C. Metu,477.396358,141.216667,4C,03:40,Bàsquet Girona,75,85,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+C. Metu,466.64404,126.65,4C,02:18,Bàsquet Girona,80,85,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+D. Brizuela,383.116887,44.216667,2C,09:35,Bàsquet Girona,28,23,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+D. Brizuela,329.655014,143.216667,2C,07:51,Bàsquet Girona,31,25,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Parra,459.919158,131.483333,2C,07:03,Bàsquet Girona,33,27,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+J. Parra,343.685478,58.1,2C,05:04,Bàsquet Girona,35,30,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+J. Parra,446.956433,146.25,2C,04:11,Bàsquet Girona,37,30,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+J. Parra,473.556244,21.6,4C,06:25,Bàsquet Girona,71,78,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+T. Satoransky,392.070908,130.883333,2C,01:29,Bàsquet Girona,47,42,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+T. Satoransky,443.771949,142.716667,3C,06:54,Bàsquet Girona,54,53,Barça,Tiro de 2,True,104175,14,2024-2025,Liga Endesa,False
+T. Satoransky,411.96457,32.433333,4C,05:49,Bàsquet Girona,73,81,Barça,Triple,True,104175,14,2024-2025,Liga Endesa,False
+T. Satoransky,442.160974,146.283333,4C,00:45,Bàsquet Girona,87,88,Barça,Tiro de 2,False,104175,14,2024-2025,Liga Endesa,False
+A. Abrines,383.248013,230.766667,4C,08:40,Bàsquet Girona,64,71,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+A. Abrines,333.382734,139.333333,4C,08:11,Bàsquet Girona,66,73,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+A. Abrines,363.298155,65.816667,4C,05:15,Bàsquet Girona,75,81,Barça,Triple,False,104175,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,34.977815,116.966667,1C,09:12,Baskonia,0,2,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,24.75,217.816667,1C,08:37,Baskonia,4,4,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,36.382734,159.083333,1C,06:20,Baskonia,9,6,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,66.972517,160.6,1C,03:27,Baskonia,16,9,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,133.809224,64.983333,1C,01:08,Baskonia,22,12,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,183.7307,147.516667,2C,01:31,Baskonia,50,21,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,137.724267,56.4,2C,00:37,Baskonia,53,23,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,101.121429,167.816667,3C,07:38,Baskonia,60,29,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,197.105535,117.116667,3C,06:35,Baskonia,60,29,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,78.511589,255.116667,3C,02:12,Baskonia,72,40,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,40.016793,135.316667,3C,02:08,Baskonia,74,40,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,35.820766,66.966667,4C,06:23,Baskonia,86,54,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+Luwawu-Cabarrot,154.48964,78.633333,4C,03:10,Baskonia,101,56,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+D. Hall,24.75,141.25,1C,09:07,Baskonia,2,2,Leyma Coruña,Mate,True,104176,14,2024-2025,Liga Endesa,False
+D. Hall,40.766083,163.5,3C,09:25,Baskonia,55,26,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+D. Hall,42.414522,147.0,3C,09:21,Baskonia,55,26,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,24.75,141.25,1C,08:04,Baskonia,6,4,Leyma Coruña,Mate,True,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,24.75,243.75,1C,05:38,Baskonia,11,6,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,32.467692,120.6,1C,05:02,Baskonia,11,9,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,160.427767,211.066667,1C,04:53,Baskonia,14,9,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,30.294749,159.933333,1C,04:02,Baskonia,16,9,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,132.53543,59.333333,1C,02:31,Baskonia,16,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,102.676206,145.716667,1C,01:35,Baskonia,19,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,172.54754,140.0,3C,08:54,Baskonia,58,26,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+C. Moneke,179.160028,127.566667,3C,03:19,Baskonia,70,34,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,24.75,259.283333,1C,07:30,Baskonia,7,4,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,67.365894,115.883333,2C,05:16,Baskonia,35,14,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,167.302507,115.766667,2C,03:30,Baskonia,44,18,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,164.567597,114.183333,2C,02:47,Baskonia,47,18,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,40.597493,148.733333,2C,00:00,Baskonia,55,23,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,194.970057,174.366667,3C,06:51,Baskonia,60,29,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,100.503264,146.533333,4C,05:58,Baskonia,88,54,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,126.128997,126.233333,4C,04:55,Baskonia,93,56,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,35.427389,89.95,4C,04:15,Baskonia,95,56,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+K. Baldwin,110.24404,250.733333,4C,02:23,Baskonia,104,56,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+T. Forrest,86.379139,172.133333,1C,04:20,Baskonia,14,9,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Forrest,42.171003,116.95,2C,08:59,Baskonia,26,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Forrest,37.487938,156.133333,2C,07:53,Baskonia,32,12,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,73.734863,25.9,1C,02:17,Baskonia,19,12,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,166.103642,99.6,1C,00:26,Baskonia,22,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,96.157379,148.083333,2C,07:24,Baskonia,34,12,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,347.076017,141.75,2C,06:41,Baskonia,35,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,116.987654,51.933333,2C,06:21,Baskonia,35,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,44.175355,22.933333,2C,05:58,Baskonia,35,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,33.085856,259.233333,2C,04:08,Baskonia,41,16,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,92.841769,29.983333,3C,00:44,Baskonia,81,42,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,147.85842,64.016667,3C,00:09,Baskonia,81,42,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,68.901939,256.516667,4C,07:06,Baskonia,86,51,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+N.Rogkavopoulos,62.008467,258.133333,4C,05:35,Baskonia,91,56,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+K. Diop,29.957569,75.6,2C,09:45,Baskonia,24,12,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+K. Diop,24.75,141.25,2C,08:56,Baskonia,28,12,Leyma Coruña,Mate,True,104176,14,2024-2025,Liga Endesa,False
+K. Diop,40.147919,135.1,2C,01:10,Baskonia,52,21,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+K. Diop,102.320293,138.816667,3C,03:48,Baskonia,67,32,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+K. Diop,48.184059,179.55,4C,09:13,Baskonia,83,46,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+L. Samanic,34.715563,122.2,2C,05:53,Baskonia,35,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+L. Samanic,151.75473,79.883333,2C,05:12,Baskonia,38,14,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+L. Samanic,55.826821,164.833333,2C,04:31,Baskonia,38,16,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+L. Samanic,164.92351,128.216667,4C,08:21,Baskonia,83,46,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+L. Samanic,56.238931,135.833333,4C,03:32,Baskonia,97,56,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+L. Samanic,39.717077,154.733333,4C,01:48,Baskonia,106,59,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+S. Raieste,27.503642,258.25,3C,08:10,Baskonia,58,28,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+S. Raieste,126.297588,51.9,4C,00:52,Baskonia,108,61,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+O. Jaramaz,161.682829,96.666667,4C,06:39,Baskonia,86,54,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+P. Savkov,173.577815,77.633333,4C,01:53,Baskonia,104,59,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+P. Savkov,109.382356,40.766667,4C,00:36,Baskonia,111,61,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+P. Savkov,159.21017,81.966667,4C,00:10,Baskonia,114,63,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,397.80298,140.366667,1C,09:49,Baskonia,0,2,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,329.842337,144.933333,1C,01:29,Baskonia,19,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,364.740539,141.8,1C,00:02,Baskonia,22,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,392.726537,143.666667,2C,06:30,Baskonia,35,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,443.378571,166.883333,2C,05:24,Baskonia,35,14,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,339.695506,146.05,2C,04:24,Baskonia,38,16,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,392.801466,38.233333,2C,01:21,Baskonia,50,21,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,342.205629,136.933333,3C,09:51,Baskonia,55,26,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,402.223794,223.45,3C,09:15,Baskonia,55,26,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+B. Taylor,393.400899,128.783333,3C,05:49,Baskonia,62,31,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+O. Lundqvist,460.855771,159.083333,1C,09:18,Baskonia,0,2,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+O. Lundqvist,437.346783,163.85,1C,05:56,Baskonia,9,6,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+O. Lundqvist,312.833444,105.916667,3C,04:21,Baskonia,67,31,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+O. Lundqvist,466.044607,176.8,3C,01:28,Baskonia,76,40,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+O. Lundqvist,438.695506,119.416667,4C,07:50,Baskonia,83,46,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+O. Lundqvist,400.706481,29.3,4C,03:53,Baskonia,95,56,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,461.717455,118.15,1C,08:55,Baskonia,2,4,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,464.152649,116.016667,1C,08:19,Baskonia,4,4,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,406.888127,145.916667,1C,06:36,Baskonia,7,6,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,358.727483,71.583333,2C,00:21,Baskonia,53,23,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,447.986708,135.05,3C,08:28,Baskonia,58,28,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,451.358515,165.0,3C,07:19,Baskonia,60,29,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,448.735998,160.483333,3C,06:13,Baskonia,60,29,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,427.774598,100.966667,3C,04:57,Baskonia,65,31,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+G. Huskic,401.886613,134.9,4C,04:25,Baskonia,93,56,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,336.604683,110.3,1C,07:52,Baskonia,7,4,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,359.94508,230.733333,1C,05:18,Baskonia,11,9,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,383.248013,235.916667,1C,02:52,Baskonia,16,12,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,378.845932,143.283333,2C,09:33,Baskonia,24,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,351.459366,193.016667,3C,03:03,Baskonia,70,37,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,345.10913,85.266667,3C,02:34,Baskonia,72,40,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,428.767408,255.683333,4C,09:00,Baskonia,83,46,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,352.002602,202.7,4C,08:28,Baskonia,83,46,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,348.499669,206.35,4C,08:12,Baskonia,83,46,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,381.187465,36.7,4C,07:45,Baskonia,83,49,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,363.260691,53.266667,4C,06:58,Baskonia,86,54,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+Y. Barrueta,383.229281,244.016667,4C,06:06,Baskonia,86,54,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+B. Burjanadze,339.770435,91.683333,1C,07:08,Baskonia,7,4,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+B. Burjanadze,457.221712,158.066667,2C,04:45,Baskonia,38,16,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+B. Burjanadze,462.073368,159.933333,2C,03:46,Baskonia,41,16,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+B. Burjanadze,453.194276,153.583333,2C,03:10,Baskonia,44,18,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+B. Burjanadze,480.15,23.85,4C,00:00,Baskonia,114,66,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,414.605818,28.15,1C,04:12,Baskonia,14,9,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,329.093046,52.7,3C,01:49,Baskonia,74,40,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,443.640823,173.9,3C,01:06,Baskonia,78,42,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,442.629281,168.183333,3C,00:28,Baskonia,81,42,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,442.254636,184.766667,4C,09:34,Baskonia,81,46,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,407.937133,107.983333,4C,08:33,Baskonia,83,46,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,313.638931,145.983333,4C,02:42,Baskonia,101,56,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,365.920672,61.366667,4C,01:31,Baskonia,107,59,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+I. Jakovics,451.508373,166.383333,4C,00:43,Baskonia,108,61,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,367.700237,53.883333,1C,03:48,Baskonia,16,9,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,474.26807,63.55,1C,03:14,Baskonia,16,9,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,406.625875,30.75,1C,02:01,Baskonia,19,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,406.738269,144.55,1C,00:39,Baskonia,22,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,433.281883,124.15,2C,08:37,Baskonia,28,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,460.556055,160.916667,2C,07:06,Baskonia,35,12,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,331.434579,139.1,2C,06:10,Baskonia,35,12,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+T. Thompkins,420.600142,142.7,3C,04:03,Baskonia,67,32,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+A. Font,468.629659,160.8,2C,03:42,Baskonia,41,18,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+A. Font,463.90913,135.583333,4C,07:20,Baskonia,83,51,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+A. Font,454.524267,134.7,4C,05:28,Baskonia,91,56,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+A. Font,335.874125,176.7,4C,04:44,Baskonia,93,56,Leyma Coruña,Triple,False,104176,14,2024-2025,Liga Endesa,False
+A. Font,345.240255,90.233333,4C,02:10,Baskonia,104,59,Leyma Coruña,Triple,True,104176,14,2024-2025,Liga Endesa,False
+A. Diagne,451.171192,161.733333,3C,01:43,Baskonia,74,40,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+A. Diagne,465.351514,164.5,3C,01:24,Baskonia,76,40,Leyma Coruña,Tiro de 2,False,104176,14,2024-2025,Liga Endesa,False
+A. Diagne,385.214901,88.733333,3C,00:06,Baskonia,81,44,Leyma Coruña,Tiro de 2,True,104176,14,2024-2025,Liga Endesa,False
+A. Diagne,480.15,141.25,4C,01:04,Baskonia,108,61,Leyma Coruña,Mate,True,104176,14,2024-2025,Liga Endesa,False
+A. Noua,30.163623,77.05,1C,09:32,Coviran Granada,2,0,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Noua,41.908751,123.65,1C,05:31,Coviran Granada,13,5,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Noua,26.73562,137.4,1C,04:51,Coviran Granada,15,5,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Noua,24.75,261.05,1C,02:45,Coviran Granada,15,10,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+A. Noua,61.390303,262.833333,2C,01:33,Coviran Granada,45,34,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+A. Noua,38.387086,134.783333,3C,08:32,Coviran Granada,50,38,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Noua,69.351514,169.116667,3C,04:38,Coviran Granada,53,44,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Noua,37.057096,129.133333,3C,03:00,Coviran Granada,57,47,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Noua,71.486991,142.25,4C,06:53,Coviran Granada,68,64,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Noua,61.315374,135.75,4C,03:22,Coviran Granada,75,72,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Noua,72.929376,142.45,4C,03:15,Coviran Granada,75,72,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+G. Clavell,29.957569,132.0,1C,08:50,Coviran Granada,4,0,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+G. Clavell,170.412062,142.483333,1C,06:45,Coviran Granada,9,2,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+G. Clavell,29.545459,131.366667,2C,03:50,Coviran Granada,42,30,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+G. Clavell,150.83685,82.15,2C,03:15,Coviran Granada,42,30,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+G. Clavell,162.638174,77.866667,3C,06:40,Coviran Granada,53,40,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,146.809413,61.833333,1C,08:12,Coviran Granada,7,0,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,161.064664,185.066667,2C,06:05,Coviran Granada,36,26,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,148.233065,56.3,2C,05:38,Coviran Granada,36,26,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,39.136377,134.583333,2C,04:39,Coviran Granada,38,26,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,133.959082,57.716667,2C,03:20,Coviran Granada,42,30,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,166.927862,112.566667,2C,00:28,Coviran Granada,48,36,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,168.632498,91.183333,3C,09:06,Coviran Granada,48,38,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,96.775544,34.25,3C,03:17,Coviran Granada,55,46,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+J. Rousselle,153.74035,211.25,4C,02:27,Coviran Granada,75,77,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,77.500047,132.616667,1C,06:16,Coviran Granada,11,2,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,38.874125,137.833333,1C,03:42,Coviran Granada,15,8,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,37.356812,133.666667,1C,02:41,Coviran Granada,17,10,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,50.825307,145.266667,3C,07:23,Coviran Granada,52,38,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,114.683586,39.05,3C,05:53,Coviran Granada,53,40,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,153.834011,220.85,4C,08:25,Coviran Granada,64,59,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,39.66088,127.683333,4C,07:18,Coviran Granada,68,62,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+E. Valtonen,30.332214,127.366667,4C,00:11,Coviran Granada,79,83,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,170.561921,131.6,1C,01:45,Coviran Granada,20,12,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,89.713482,142.333333,1C,00:02,Coviran Granada,25,18,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,68.208846,138.133333,3C,03:59,Coviran Granada,53,44,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,147.127862,234.583333,3C,00:57,Coviran Granada,61,54,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,24.75,23.833333,3C,00:16,Coviran Granada,64,56,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,42.114806,67.5,4C,07:47,Coviran Granada,66,62,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+S. Bamforth,170.63685,86.083333,4C,04:47,Coviran Granada,73,68,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+S. García,56.332592,125.95,1C,00:59,Coviran Granada,20,14,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. García,159.191438,185.883333,2C,07:40,Coviran Granada,33,21,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+S. García,92.710643,178.266667,2C,06:29,Coviran Granada,33,23,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. García,158.835525,219.283333,4C,09:16,Coviran Granada,64,57,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Vicedo,134.802034,229.55,1C,00:31,Coviran Granada,23,17,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+E. Vicedo,31.456149,157.666667,2C,08:08,Coviran Granada,31,21,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+E. Vicedo,37.487938,258.416667,2C,07:13,Coviran Granada,33,21,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Vicedo,37.712725,153.366667,4C,08:59,Coviran Granada,64,57,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Ubal,30.894182,202.233333,2C,09:37,Coviran Granada,25,18,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Ubal,24.75,141.25,2C,09:09,Coviran Granada,29,18,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+A. Ubal,38.49948,142.75,2C,08:25,Coviran Granada,31,21,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Ubal,74.746405,154.183333,3C,01:40,Coviran Granada,58,52,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Ubal,147.652365,76.75,4C,09:41,Coviran Granada,64,56,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+I. Aurrecoechea,31.755866,140.15,2C,09:33,Coviran Granada,27,18,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+J. Wiley,24.75,141.25,2C,04:06,Coviran Granada,40,28,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+J. Wiley,24.75,141.25,3C,03:46,Coviran Granada,55,44,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+J. Wiley,24.75,141.25,3C,01:29,Coviran Granada,60,52,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+J. Wiley,123.450284,123.316667,4C,06:09,Coviran Granada,68,66,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+J. Wiley,34.790492,132.4,4C,05:28,Coviran Granada,70,66,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+J. Wiley,24.75,141.25,4C,01:06,Coviran Granada,79,82,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+D. Musa,470.877531,263.05,1C,09:12,Coviran Granada,2,0,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,469.285289,183.966667,1C,08:59,Coviran Granada,2,0,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,480.15,23.183333,1C,07:30,Coviran Granada,9,2,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,476.291154,67.416667,1C,05:54,Coviran Granada,11,2,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,344.28491,49.083333,1C,04:37,Coviran Granada,15,8,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+D. Musa,346.008278,68.666667,2C,05:05,Coviran Granada,36,26,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,480.15,260.316667,2C,04:55,Coviran Granada,36,26,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,480.15,141.25,2C,00:03,Coviran Granada,48,38,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+D. Musa,386.582356,241.1,3C,05:04,Coviran Granada,53,42,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+D. Musa,322.536755,136.033333,3C,04:17,Coviran Granada,53,44,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Ndiaye,477.639877,25.783333,1C,08:32,Coviran Granada,4,0,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Ndiaye,467.131079,26.35,1C,06:33,Coviran Granada,9,2,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+E. Ndiaye,472.11386,151.65,3C,04:59,Coviran Granada,53,44,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+E. Ndiaye,480.15,124.066667,3C,03:54,Coviran Granada,53,44,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+E. Ndiaye,480.15,141.25,3C,00:38,Coviran Granada,61,56,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+E. Ndiaye,467.543188,79.65,4C,05:08,Coviran Granada,70,68,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,418.76438,142.55,1C,08:19,Coviran Granada,4,0,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,458.907616,152.066667,2C,03:29,Coviran Granada,42,30,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,402.298723,125.0,2C,01:18,Coviran Granada,45,34,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,480.15,141.25,2C,00:48,Coviran Granada,45,36,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,421.3307,138.666667,3C,08:12,Coviran Granada,50,38,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,480.15,141.25,4C,03:38,Coviran Granada,75,72,Real Madrid,Mate,True,104177,14,2024-2025,Liga Endesa,False
+W. Tavares,469.266556,150.433333,4C,00:17,Coviran Granada,79,83,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,406.888127,157.983333,1C,07:54,Coviran Granada,7,2,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,476.909319,156.166667,1C,03:03,Coviran Granada,15,10,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,475.523132,148.2,2C,00:54,Coviran Granada,45,34,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,363.279423,59.216667,3C,09:21,Coviran Granada,48,38,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,478.239309,122.85,4C,06:30,Coviran Granada,68,66,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,324.578571,190.416667,4C,05:48,Coviran Granada,68,66,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,329.505156,134.45,4C,03:10,Coviran Granada,75,75,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+F. Campazzo,465.033065,139.85,4C,02:48,Coviran Granada,75,77,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+X. Rathan-Mayes,338.009603,119.666667,1C,07:04,Coviran Granada,9,2,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,466.98122,144.9,1C,05:46,Coviran Granada,11,4,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,315.45596,141.75,1C,05:09,Coviran Granada,13,5,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,441.54281,134.7,2C,09:18,Coviran Granada,27,18,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,480.15,61.683333,2C,05:12,Coviran Granada,36,26,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,466.681504,130.9,2C,04:23,Coviran Granada,38,28,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,473.781031,140.816667,2C,02:26,Coviran Granada,42,34,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,480.15,143.033333,2C,00:50,Coviran Granada,45,34,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,467.618117,145.333333,3C,03:26,Coviran Granada,55,46,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,444.820956,119.4,3C,02:39,Coviran Granada,57,47,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,441.842526,108.25,3C,02:05,Coviran Granada,58,52,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,468.835714,129.5,3C,01:13,Coviran Granada,61,54,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,480.15,132.966667,4C,08:41,Coviran Granada,64,57,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,475.879044,205.883333,4C,07:27,Coviran Granada,66,62,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,372.345837,53.066667,4C,06:39,Coviran Granada,68,64,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,440.587465,154.566667,4C,04:23,Coviran Granada,73,70,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,474.904967,123.8,4C,02:10,Coviran Granada,75,77,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+M. Hezonja,467.561921,146.866667,4C,01:21,Coviran Granada,77,81,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+S. Llull,356.554541,62.1,1C,03:34,Coviran Granada,15,8,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+S. Llull,346.326727,69.833333,1C,00:53,Coviran Granada,20,17,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+S. Llull,472.11386,162.866667,2C,07:52,Coviran Granada,31,21,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+U. Garuba,470.184437,150.916667,1C,02:04,Coviran Granada,17,12,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+U. Garuba,476.103832,161.3,1C,01:35,Coviran Granada,20,14,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+U. Garuba,474.305535,44.2,3C,08:44,Coviran Granada,48,38,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Feliz,343.835336,62.733333,2C,09:49,Coviran Granada,25,18,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+A. Feliz,431.052744,151.0,2C,06:46,Coviran Granada,33,23,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Feliz,467.524456,156.3,2C,06:23,Coviran Granada,33,25,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+A. Feliz,352.096263,71.416667,2C,05:49,Coviran Granada,36,26,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+A. Feliz,445.02701,122.85,3C,05:36,Coviran Granada,53,40,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Abalde,475.354541,27.483333,2C,08:48,Coviran Granada,29,21,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+A. Abalde,371.484153,48.6,2C,02:39,Coviran Granada,42,32,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+A. Abalde,473.500047,20.633333,2C,01:45,Coviran Granada,42,34,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+A. Abalde,440.737323,122.983333,3C,06:23,Coviran Granada,53,40,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+A. Abalde,461.34281,260.75,4C,00:22,Coviran Granada,79,83,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+S. Ibaka,410.39106,176.983333,3C,07:40,Coviran Granada,52,38,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. Ibaka,452.332592,139.433333,3C,07:05,Coviran Granada,53,40,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+S. Ibaka,451.302318,152.816667,3C,06:10,Coviran Granada,53,40,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. Ibaka,471.102318,144.516667,3C,05:32,Coviran Granada,53,42,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+S. Ibaka,436.503832,208.533333,3C,04:22,Coviran Granada,53,44,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
+S. Ibaka,338.477909,171.75,4C,08:02,Coviran Granada,64,62,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+H. González,361.76211,219.183333,3C,02:36,Coviran Granada,57,50,Real Madrid,Triple,True,104177,14,2024-2025,Liga Endesa,False
+H. González,380.40071,248.766667,3C,00:00,Coviran Granada,64,56,Real Madrid,Triple,False,104177,14,2024-2025,Liga Endesa,False
+H. González,467.22474,129.05,4C,08:40,Coviran Granada,64,59,Real Madrid,Tiro de 2,True,104177,14,2024-2025,Liga Endesa,False
+H. González,462.316887,143.9,4C,08:25,Coviran Granada,64,59,Real Madrid,Tiro de 2,False,104177,14,2024-2025,Liga Endesa,False
